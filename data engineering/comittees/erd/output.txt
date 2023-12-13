@@ -1,0 +1,153 @@
+digraph G {
+        graph [
+            nodesep=0.5;
+            rankdir="LR";
+            cencentrate=true;
+            splines="spline";
+            fontname="Helvetica";
+            pad="0.2,0.2",
+            label="",
+
+        ];
+
+        node [shape=plain, fontname="Helvetica"];
+        edge [
+            dir=both,
+            fontsize=12,
+            arrowsize=0.9,
+            penwidth=1.0,
+            labelangle=32,
+            labeldistance=1.8,
+            fontname="Helvetica"
+        ];
+
+	 Transactions [ label=<
+        <table border="0" cellborder="1" cellspacing="0">
+        <tr><td bgcolor="pink"><b>Transactions</b></td></tr>
+        
+		<tr><td port="display_name" align="left" cellpadding="5">display_name <font color="grey60">object</font></td></tr>
+		<tr><td port="string_name" align="left" cellpadding="5">string_name <font color="grey60">object</font></td></tr>
+		<tr><td port="combined_transaction_date" align="left" cellpadding="5">combined_transaction_date <font color="grey60">object</font></td></tr>
+		<tr><td port="disclosure_date" align="left" cellpadding="5">disclosure_date <font color="grey60">object</font></td></tr>
+		<tr><td port="ticker" align="left" cellpadding="5">ticker <font color="grey60">object</font></td></tr>
+		<tr><td port="asset_description" align="left" cellpadding="5">asset_description <font color="grey60">object</font></td></tr>
+		<tr><td port="type" align="left" cellpadding="5">type <font color="grey60">object</font></td></tr>
+		<tr><td port="amount" align="left" cellpadding="5">amount <font color="grey60">object</font></td></tr>
+		<tr><td port="industry" align="left" cellpadding="5">industry <font color="grey60">object</font></td></tr>
+		<tr><td port="sector" align="left" cellpadding="5">sector <font color="grey60">object</font></td></tr>
+		<tr><td port="state" align="left" cellpadding="5">state <font color="grey60">object</font></td></tr>
+		<tr><td port="ptr_link" align="left" cellpadding="5">ptr_link <font color="grey60">object</font></td></tr>
+		<tr><td port="amount_formatted" align="left" cellpadding="5">amount_formatted <font color="grey60">float64</font></td></tr>
+		<tr><td port="id" align="left" cellpadding="5">id <font color="grey60">object</font></td></tr>
+		<tr><td port="uuid" align="left" cellpadding="5">uuid <font color="grey60">object</font></td></tr>
+		<tr><td port="congress" align="left" cellpadding="5">congress <font color="grey60">int64</font></td></tr>
+		</table>>];
+
+	 Committees [ label=<
+        <table border="0" cellborder="1" cellspacing="0">
+        <tr><td bgcolor="lightblue"><b>Committees</b></td></tr>
+        
+		<tr><td port="member_id" align="left" cellpadding="5">member_id <font color="grey60">object</font></td></tr>
+		<tr><td port="member_name" align="left" cellpadding="5">member_name <font color="grey60">object</font></td></tr>
+		<tr><td port="member_begin_date" align="left" cellpadding="5">member_begin_date <font color="grey60">object</font></td></tr>
+		<tr><td port="congress" align="left" cellpadding="5">congress <font color="grey60">int64</font></td></tr>
+		<tr><td port="chamber" align="left" cellpadding="5">chamber <font color="grey60">object</font></td></tr>
+		<tr><td port="committee_id" align="left" cellpadding="5">committee_id <font color="grey60">object</font></td></tr>
+		</table>>];
+
+	 Subcommittees [ label=<
+        <table border="0" cellborder="1" cellspacing="0">
+        <tr><td bgcolor="lightblue"><b>Subcommittees</b></td></tr>
+        
+		<tr><td port="member_id" align="left" cellpadding="5">member_id <font color="grey60">object</font></td></tr>
+		<tr><td port="member_name" align="left" cellpadding="5">member_name <font color="grey60">object</font></td></tr>
+		<tr><td port="member_begin_date" align="left" cellpadding="5">member_begin_date <font color="grey60">object</font></td></tr>
+		<tr><td port="congress" align="left" cellpadding="5">congress <font color="grey60">int64</font></td></tr>
+		<tr><td port="chamber" align="left" cellpadding="5">chamber <font color="grey60">object</font></td></tr>
+		<tr><td port="committee_id" align="left" cellpadding="5">committee_id <font color="grey60">object</font></td></tr>
+		<tr><td port="subcommittee_id" align="left" cellpadding="5">subcommittee_id <font color="grey60">object</font></td></tr>
+		</table>>];
+
+	 Bills [ label=<
+        <table border="0" cellborder="1" cellspacing="0">
+        <tr><td bgcolor="lightblue"><b>Bills</b></td></tr>
+        
+		<tr><td port="bill_congress" align="left" cellpadding="5">bill_congress <font color="grey60">int64</font></td></tr>
+		<tr><td port="bill_id" align="left" cellpadding="5">bill_id <font color="grey60">object</font></td></tr>
+		<tr><td port="bill_title" align="left" cellpadding="5">bill_title <font color="grey60">object</font></td></tr>
+		<tr><td port="bill_intro_date" align="left" cellpadding="5">bill_intro_date <font color="grey60">object</font></td></tr>
+		<tr><td port="member_id" align="left" cellpadding="5">member_id <font color="grey60">object</font></td></tr>
+		<tr><td port="bill_summary" align="left" cellpadding="5">bill_summary <font color="grey60">object</font></td></tr>
+		<tr><td port="bill_url" align="left" cellpadding="5">bill_url <font color="grey60">object</font></td></tr>
+		<tr><td port="bill_slug" align="left" cellpadding="5">bill_slug <font color="grey60">object</font></td></tr>
+		</table>>];
+
+	 Hearings [ label=<
+        <table border="0" cellborder="1" cellspacing="0">
+        <tr><td bgcolor="gold"><b>Hearings</b></td></tr>
+        
+		<tr><td port="hearing_congress" align="left" cellpadding="5">hearing_congress <font color="grey60">int64</font></td></tr>
+		<tr><td port="hearing_chamber" align="left" cellpadding="5">hearing_chamber <font color="grey60">object</font></td></tr>
+		<tr><td port="hearing_committee_id" align="left" cellpadding="5">hearing_committee_id <font color="grey60">object</font></td></tr>
+		<tr><td port="hearing_date" align="left" cellpadding="5">hearing_date <font color="grey60">object</font></td></tr>
+		<tr><td port="hearing_description" align="left" cellpadding="5">hearing_description <font color="grey60">object</font></td></tr>
+		</table>>];
+
+	 Travel [ label=<
+        <table border="0" cellborder="1" cellspacing="0">
+        <tr><td bgcolor="lightblue"><b>Travel</b></td></tr>
+        
+		<tr><td port="member_id" align="left" cellpadding="5">member_id <font color="grey60">object</font></td></tr>
+		<tr><td port="congress" align="left" cellpadding="5">congress <font color="grey60">int64</font></td></tr>
+		<tr><td port="departure_date" align="left" cellpadding="5">departure_date <font color="grey60">object</font></td></tr>
+		<tr><td port="destination" align="left" cellpadding="5">destination <font color="grey60">object</font></td></tr>
+		<tr><td port="sponsor" align="left" cellpadding="5">sponsor <font color="grey60">object</font></td></tr>
+		<tr><td port="document_id" align="left" cellpadding="5">document_id <font color="grey60">int64</font></td></tr>
+		<tr><td port="document_url" align="left" cellpadding="5">document_url <font color="grey60">object</font></td></tr>
+		</table>>];
+
+	 RelatedBills [ label=<
+        <table border="0" cellborder="1" cellspacing="0">
+        <tr><td bgcolor="lightblue"><b>RelatedBills</b></td></tr>
+        
+		<tr><td port="related_bill_id" align="left" cellpadding="5">related_bill_id <font color="grey60">object</font></td></tr>
+		<tr><td port="related_bill_title" align="left" cellpadding="5">related_bill_title <font color="grey60">object</font></td></tr>
+		<tr><td port="related_bill_introduction_date" align="left" cellpadding="5">related_bill_introduction_date <font color="grey60">object</font></td></tr>
+		<tr><td port="bill_slug" align="left" cellpadding="5">bill_slug <font color="grey60">object</font></td></tr>
+		<tr><td port="bill_congress" align="left" cellpadding="5">bill_congress <font color="grey60">int64</font></td></tr>
+		<tr><td port="member_id" align="left" cellpadding="5">member_id <font color="grey60">object</font></td></tr>
+		</table>>];
+
+	 Statements [ label=<
+        <table border="0" cellborder="1" cellspacing="0">
+        <tr><td bgcolor="lightblue"><b>Statements</b></td></tr>
+        
+		<tr><td port="url" align="left" cellpadding="5">url <font color="grey60">object</font></td></tr>
+		<tr><td port="date" align="left" cellpadding="5">date <font color="grey60">object</font></td></tr>
+		<tr><td port="title" align="left" cellpadding="5">title <font color="grey60">object</font></td></tr>
+		<tr><td port="type" align="left" cellpadding="5">type <font color="grey60">object</font></td></tr>
+		<tr><td port="member_id" align="left" cellpadding="5">member_id <font color="grey60">object</font></td></tr>
+		<tr><td port="congress" align="left" cellpadding="5">congress <font color="grey60">int64</font></td></tr>
+		</table>>];
+
+	 Transactions:id->Committees:member_id [ 
+                        arrowhead=noneotee, arrowtail=noneotee];
+
+	 Transactions:id->Subcommittees:member_id [ 
+                        arrowhead=noneotee, arrowtail=noneotee];
+
+	 Transactions:id->Bills:member_id [ 
+                        arrowhead=noneotee, arrowtail=noneotee];
+
+	 Transactions:id->Travel:member_id [ 
+                        arrowhead=noneotee, arrowtail=noneotee];
+
+	 Committees:committee_id->Hearings:hearing_committee_id [ 
+                        arrowhead=noneotee, arrowtail=noneotee];
+
+	 Transactions:id->RelatedBills:member_id [ 
+                        arrowhead=noneotee, arrowtail=noneotee];
+
+	 Transactions:id->Statements:member_id [ 
+                        arrowhead=noneotee, arrowtail=noneotee];
+	}

@@ -1,0 +1,199 @@
+Committee,Comittee_code,Subcommittee,Subcommittee_code
+House Committee on Agriculture,HSAG,Forestry,HSAG15
+House Committee on Agriculture,HSAG,"Commodity Markets, Digital Assets, and Rural Development",HSAG22
+House Committee on Agriculture,HSAG,"General Farm Commodities, Risk Management, and Credit",HSAG16
+House Committee on Agriculture,HSAG,"Livestock, Dairy, and Poultry",HSAG29
+House Committee on Agriculture,HSAG,"Conservation, Research, and Biotechnology",HSAG14
+House Committee on Agriculture,HSAG,"Nutrition, Foreign Agriculture, and Horticulture",HSAG03
+House Committee on Appropriations,HSAP,"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",HSAP01
+House Committee on Appropriations,HSAP,"Commerce, Justice, Science, and Related Agencies",HSAP19
+House Committee on Appropriations,HSAP,Defense,HSAP02
+House Committee on Appropriations,HSAP,"Energy and Water Development, and Related Agencies",HSAP10
+House Committee on Appropriations,HSAP,Financial Services and General Government,HSAP23
+House Committee on Appropriations,HSAP,Homeland Security,HSAP15
+House Committee on Appropriations,HSAP,"Interior, Environment, and Related Agencies",HSAP06
+House Committee on Appropriations,HSAP,"Labor, Health and Human Services, Education, and Related Agencies",HSAP07
+House Committee on Appropriations,HSAP,Legislative Branch,HSAP24
+House Committee on Appropriations,HSAP,"Military Construction, Veterans Affairs, and Related Agencies",HSAP18
+House Committee on Appropriations,HSAP,"State, Foreign Operations, and Related Programs",HSAP04
+House Committee on Appropriations,HSAP,"Transportation, Housing and Urban Development, and Related Agencies",HSAP20
+House Committee on Armed Services,HSAS,Tactical Air and Land Forces,HSAS25
+House Committee on Armed Services,HSAS,Military Personnel,HSAS02
+House Committee on Armed Services,HSAS,Readiness,HSAS03
+House Committee on Armed Services,HSAS,Seapower and Projection Forces,HSAS28
+House Committee on Armed Services,HSAS,Strategic Forces,HSAS29
+House Committee on Armed Services,HSAS,Intelligence and Special Operations,HSAS26
+House Committee on Armed Services,HSAS,"Cyber, Information Technologies, and Innovation",HSAS35
+House Committee on Financial Services,HSBA,Capital Markets,HSBA16
+House Committee on Financial Services,HSBA,Housing and Insurance,HSBA04
+House Committee on Financial Services,HSBA,Oversight and Investigations,HSBA09
+House Committee on Financial Services,HSBA,"National Security, Illicit Finance, and International Financial Institutions",HSBA01
+House Committee on Financial Services,HSBA,Financial Institutions and Monetary Policy,HSBA20
+House Committee on Financial Services,HSBA,"Digital Assets, Financial Technology and Inclusion",HSBA21
+House Committee on Financial Services,HSBA,"National Security, Illicit Finance, and International Financial Institutions",HSBA10
+House Committee on the Budget,HSBU,,
+House Committee on Education and the Workforce,HSED,"Early Childhood, Elementary, and Secondary Education",HSED14
+House Committee on Education and the Workforce,HSED,"Health, Employment, Labor, and Pensions",HSED02
+House Committee on Education and the Workforce,HSED,Higher Education and Workforce Development,HSED13
+House Committee on Education and the Workforce,HSED,Workforce Protections,HSED10
+House Committee on Foreign Affairs,HSFA,Africa,HSFA16
+House Committee on Foreign Affairs,HSFA,Indo-Pacific,HSFA05
+House Committee on Foreign Affairs,HSFA,Europe,HSFA14
+House Committee on Foreign Affairs,HSFA,"Middle East, North Africa, and Central Asia",HSFA13
+House Committee on Foreign Affairs,HSFA,Western Hemisphere,HSFA07
+House Committee on Foreign Affairs,HSFA,Oversight and Accountability,HSFA17
+House Committee on Foreign Affairs,HSFA,"Global Health, Global Human Rights, and International Organizations",HSFA06
+House Committee on Oversight and Accountability,HSGO,Government Operations and the Federal Workforce,HSGO24
+House Committee on Oversight and Accountability,HSGO,"National Security, the Border, and Foreign Affairs",HSGO06
+House Committee on Oversight and Accountability,HSGO,Health Care and Financial Services,HSGO27
+House Committee on Oversight and Accountability,HSGO,"Economic Growth, Energy Policy, and Regulatory Affairs",HSGO05
+House Committee on Oversight and Accountability,HSGO,"Cybersecurity, Information Technology, and Government Innovation",HSGO12
+House Committee on House Administration,HSHA,Elections,HSHA08
+House Committee on House Administration,HSHA,Oversight,HSHA06
+House Committee on House Administration,HSHA,Modernization,HSHA27
+House Committee on Homeland Security,HSHM,Border Security and Enforcement,HSHM11
+House Committee on Homeland Security,HSHM,Emergency Management and Technology,HSHM12
+House Committee on Homeland Security,HSHM,Cybersecurity and Infrastructure Protection,HSHM08
+House Committee on Homeland Security,HSHM,"Counterterrorism, Law Enforcement, and Intelligence",HSHM05
+House Committee on Homeland Security,HSHM,"Oversight, Investigations, and Accountability",HSHM09
+House Committee on Homeland Security,HSHM,Transportation and Maritime Security,HSHM07
+House Committee on Energy and Commerce,HSIF,"Innovation, Data, and Commerce",HSIF17
+House Committee on Energy and Commerce,HSIF,Communications and Technology,HSIF16
+House Committee on Energy and Commerce,HSIF,"Energy, Climate, and Grid Security",HSIF03
+House Committee on Energy and Commerce,HSIF,Health,HSIF14
+House Committee on Energy and Commerce,HSIF,Oversight and Investigations,HSIF02
+House Committee on Energy and Commerce,HSIF,"Environment, Manufacturing, and Critical Materials",HSIF18
+House Committee on Natural Resources,HSII,Energy and Mineral Resources,HSII06
+House Committee on Natural Resources,HSII,Federal Lands,HSII10
+House Committee on Natural Resources,HSII,"Water, Wildlife and Fisheries",HSII13
+House Committee on Natural Resources,HSII,Indian and Insular Affairs,HSII24
+House Committee on Natural Resources,HSII,Oversight and Investigations,HSII15
+House Permanent Select Committee on Intelligence,HLIG,Oversight and Investigations,HLIG09
+House Permanent Select Committee on Intelligence,HLIG,Central Intelligence Agency,HLIG01
+House Permanent Select Committee on Intelligence,HLIG,National Security Agency and Cyber,HLIG02
+House Permanent Select Committee on Intelligence,HLIG,Defense Intelligence and Overhead Architecture,HLIG04
+House Permanent Select Committee on Intelligence,HLIG,National Intelligence Enterprise,HLIG06
+House Committee on the Judiciary,HSJU,The Constitution and Limited Government,HSJU10
+House Committee on the Judiciary,HSJU,"Courts, Intellectual Property, and the Internet",HSJU03
+House Committee on the Judiciary,HSJU,Crime and Federal Government Surveillance,HSJU08
+House Committee on the Judiciary,HSJU,"Immigration Integrity, Security, and Enforcement",HSJU01
+House Committee on the Judiciary,HSJU,"The Administrative State, Regulatory Reform, and Antitrust",HSJU05
+House Committee on the Judiciary,HSJU,Responsiveness and Accountability to Oversight,HSJU13
+House Committee on Transportation and Infrastructure,HSPW,Aviation,HSPW05
+House Committee on Transportation and Infrastructure,HSPW,Coast Guard and Maritime Transportation,HSPW07
+House Committee on Transportation and Infrastructure,HSPW,"Economic Development, Public Buildings, and Emergency Management",HSPW13
+House Committee on Transportation and Infrastructure,HSPW,Highways and Transit,HSPW12
+House Committee on Transportation and Infrastructure,HSPW,"Railroads, Pipelines, and Hazardous Materials",HSPW14
+House Committee on Transportation and Infrastructure,HSPW,Water Resources and Environment,HSPW02
+House Committee on Rules,HSRU,Legislative and Budget Process,HSRU02
+House Committee on Rules,HSRU,Rules and Organization of the House,HSRU04
+House Committee on Small Business,HSSM,Contracting and Infrastructure,HSSM23
+House Committee on Small Business,HSSM,"Oversight, Investigations, and Regulations",HSSM24
+House Committee on Small Business,HSSM,"Economic Growth, Tax, and Capital Access",HSSM27
+House Committee on Small Business,HSSM,"Rural Development, Energy, and Supply Chains",HSSM21
+House Committee on Small Business,HSSM,"Innovation, Entrepreneurship, and Workforce Development",HSSM22
+House Committee on Ethics,HSSO,,
+"House Committee on Science, Space, and Technology",HSSY,Energy,HSSY20
+"House Committee on Science, Space, and Technology",HSSY,Investigations and Oversight,HSSY21
+"House Committee on Science, Space, and Technology",HSSY,Space and Aeronautics,HSSY16
+"House Committee on Science, Space, and Technology",HSSY,Environment,HSSY18
+"House Committee on Science, Space, and Technology",HSSY,Research and Technology,HSSY15
+House Committee on Veterans' Affairs,HSVR,Disability Assistance and Memorial Affairs,HSVR09
+House Committee on Veterans' Affairs,HSVR,Economic Opportunity,HSVR10
+House Committee on Veterans' Affairs,HSVR,Health,HSVR03
+House Committee on Veterans' Affairs,HSVR,Oversight and Investigations,HSVR08
+House Committee on Veterans' Affairs,HSVR,Technology Modernization,HSVR11
+House Committee on Ways and Means,HSWM,Health,HSWM02
+House Committee on Ways and Means,HSWM,Work and Welfare,HSWM03
+House Committee on Ways and Means,HSWM,Oversight,HSWM06
+House Committee on Ways and Means,HSWM,Tax,HSWM05
+House Committee on Ways and Means,HSWM,Social Security,HSWM01
+House Committee on Ways and Means,HSWM,Trade,HSWM04
+Commission on Security and Cooperation in Europe,JCSE,,
+Joint Economic Committee,JSEC,,
+Joint Committee on the Library,JSLC,,
+Joint Committee on Printing,JSPR,,
+Joint Committee on Taxation,JSTX,,
+United States Senate Caucus on International Narcotics Control,SCNC,,
+Senate Select Committee on Ethics,SLET,,
+Senate Committee on Indian Affairs,SLIA,,
+Senate Select Committee on Intelligence,SLIN,,
+Senate Special Committee on Aging,SPAG,,
+"Senate Committee on Agriculture, Nutrition, and Forestry",SSAF,"Commodities, Risk Management, and Trade",SSAF13
+"Senate Committee on Agriculture, Nutrition, and Forestry",SSAF,"Conservation, Climate, Forestry, and Natural Resources",SSAF14
+"Senate Committee on Agriculture, Nutrition, and Forestry",SSAF,Rural Development and Energy,SSAF15
+"Senate Committee on Agriculture, Nutrition, and Forestry",SSAF,"Food and Nutrition, Specialty Crops, Organics, and Research",SSAF16
+"Senate Committee on Agriculture, Nutrition, and Forestry",SSAF,"Livestock, Dairy, Poultry, Local Food Systems, and Food Safety and Security",SSAF17
+Senate Committee on Appropriations,SSAP,"Commerce, Justice, Science, and Related Agencies",SSAP16
+Senate Committee on Appropriations,SSAP,Energy and Water Development,SSAP22
+Senate Committee on Appropriations,SSAP,Financial Services and General Government,SSAP23
+Senate Committee on Appropriations,SSAP,Homeland Security,SSAP14
+Senate Committee on Appropriations,SSAP,"Interior, Environment, and Related Agencies",SSAP17
+Senate Committee on Appropriations,SSAP,"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18
+Senate Committee on Appropriations,SSAP,"Military Construction, Veterans Affairs, and Related Agencies",SSAP19
+Senate Committee on Appropriations,SSAP,"State, Foreign Operations, and Related Programs",SSAP20
+Senate Committee on Appropriations,SSAP,"Transportation, Housing and Urban Development, and Related Agencies",SSAP24
+Senate Committee on Appropriations,SSAP,"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01
+Senate Committee on Appropriations,SSAP,Defense,SSAP02
+Senate Committee on Appropriations,SSAP,Legislative Branch,SSAP08
+Senate Committee on Armed Services,SSAS,Airland,SSAS14
+Senate Committee on Armed Services,SSAS,Emerging Threats and Capabilities,SSAS20
+Senate Committee on Armed Services,SSAS,Personnel,SSAS17
+Senate Committee on Armed Services,SSAS,Readiness and Management Support,SSAS15
+Senate Committee on Armed Services,SSAS,Seapower,SSAS13
+Senate Committee on Armed Services,SSAS,Strategic Forces,SSAS16
+Senate Committee on Armed Services,SSAS,Cybersecurity,SSAS21
+"Senate Committee on Banking, Housing, and Urban Affairs",SSBK,Economic Policy,SSBK12
+"Senate Committee on Banking, Housing, and Urban Affairs",SSBK,National Security and International Trade and Finance,SSBK05
+"Senate Committee on Banking, Housing, and Urban Affairs",SSBK,"Securities, Insurance, and Investment",SSBK04
+"Senate Committee on Banking, Housing, and Urban Affairs",SSBK,"Housing, Transportation, and Community Development",SSBK09
+"Senate Committee on Banking, Housing, and Urban Affairs",SSBK,Financial Institutions and Consumer Protection,SSBK08
+Senate Committee on the Budget,SSBU,,
+"Senate Committee on Commerce, Science, and Transportation",SSCM,"Aviation Safety, Operations, and Innovation",SSCM33
+"Senate Committee on Commerce, Science, and Transportation",SSCM,"Communications, Media, and Broadband",SSCM34
+"Senate Committee on Commerce, Science, and Transportation",SSCM,"Consumer Protection, Product Safety, and Data Security",SSCM35
+"Senate Committee on Commerce, Science, and Transportation",SSCM,"Oceans, Fisheries, Climate Change, and Manufacturing",SSCM36
+"Senate Committee on Commerce, Science, and Transportation",SSCM,Space and Science,SSCM37
+"Senate Committee on Commerce, Science, and Transportation",SSCM,"Surface Transportation, Maritime, Freight, and Ports",SSCM38
+"Senate Committee on Commerce, Science, and Transportation",SSCM,"Tourism, Trade, and Export Promotion",SSCM39
+Senate Committee on Energy and Natural Resources,SSEG,Water and Power,SSEG07
+Senate Committee on Energy and Natural Resources,SSEG,National Parks,SSEG04
+Senate Committee on Energy and Natural Resources,SSEG,Energy,SSEG01
+Senate Committee on Energy and Natural Resources,SSEG,"Public Lands, Forests, and Mining",SSEG03
+Senate Committee on Environment and Public Works,SSEV,"Clean Air, Climate, and Nuclear Safety",SSEV10
+Senate Committee on Environment and Public Works,SSEV,"Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight",SSEV09
+Senate Committee on Environment and Public Works,SSEV,Transportation and Infrastructure,SSEV08
+Senate Committee on Environment and Public Works,SSEV,"Fisheries, Water, and Wildlife",SSEV15
+Senate Committee on Finance,SSFI,"Energy, Natural Resources, and Infrastructure",SSFI12
+Senate Committee on Finance,SSFI,Health Care,SSFI10
+Senate Committee on Finance,SSFI,"International Trade, Customs, and Global Competitiveness",SSFI13
+Senate Committee on Finance,SSFI,Fiscal Responsibility and Economic Growth,SSFI14
+Senate Committee on Finance,SSFI,Taxation and IRS Oversight,SSFI11
+Senate Committee on Finance,SSFI,"Social Security, Pensions, and Family Policy",SSFI02
+Senate Committee on Foreign Relations,SSFR,Europe and Regional Security Cooperation,SSFR01
+Senate Committee on Foreign Relations,SSFR,Africa and Global Health Policy,SSFR09
+Senate Committee on Foreign Relations,SSFR,"East Asia, the Pacific, and International Cybersecurity Policy",SSFR02
+Senate Committee on Foreign Relations,SSFR,"Near East, South Asia, Central Asia, and Counterterrorism",SSFR07
+Senate Committee on Foreign Relations,SSFR,"Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues",SSFR06
+Senate Committee on Foreign Relations,SSFR,"Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy",SSFR15
+Senate Committee on Foreign Relations,SSFR,"State Department and USAID Management, International Operations, and Bilateral International Development",SSFR14
+Senate Committee on Homeland Security and Governmental Affairs,SSGA,Permanent Subcommittee on Investigations,SSGA01
+Senate Committee on Homeland Security and Governmental Affairs,SSGA,Emerging Threats and Spending Oversight,SSGA20
+Senate Committee on Homeland Security and Governmental Affairs,SSGA,Government Operations and Border Management,SSGA22
+"Senate Committee on Health, Education, Labor, and Pensions",SSHR,Employment and Workplace Safety,SSHR11
+"Senate Committee on Health, Education, Labor, and Pensions",SSHR,Primary Health and Retirement Security,SSHR12
+"Senate Committee on Health, Education, Labor, and Pensions",SSHR,Children and Families,SSHR09
+Senate Committee on the Judiciary,SSJU,the Constitution,SSJU21
+Senate Committee on the Judiciary,SSJU,Criminal Justice and Counterterrorism,SSJU22
+Senate Committee on the Judiciary,SSJU,"Competition Policy, Antitrust, and Consumer Rights",SSJU01
+Senate Committee on the Judiciary,SSJU,"Immigration, Citizenship, and Border Safety",SSJU04
+Senate Committee on the Judiciary,SSJU,"Federal Courts, Oversight, Agency Action, and Federal Rights",SSJU25
+Senate Committee on the Judiciary,SSJU,Intellectual Property,SSJU26
+Senate Committee on the Judiciary,SSJU,Human Rights and the Law,SSJU27
+Senate Committee on the Judiciary,SSJU,"Privacy, Technology, and the Law",SSJU28
+Senate Committee on Rules and Administration,SSRA,,
+Senate Committee on Small Business and Entrepreneurship,SSSB,,
+Senate Committee on Veterans' Affairs,SSVA,,
+House Select Subcommittee on the Coronavirus Pandemic,HSVC,,
+House Select Subcommittee on the Weaponization of the Federal Government,HSFD,,
+House Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party,HSZS,,

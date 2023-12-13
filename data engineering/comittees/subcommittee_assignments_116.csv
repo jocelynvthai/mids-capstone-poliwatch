@@ -1,0 +1,2270 @@
+name,code,begin_date,end_date,parent_committee_id,member_id
+"Communications, Technology, Innovation, and the Internet",SSCM26,2019-01-24,2021-01-03,SSCM,B001230
+"Manufacturing, Trade, and Consumer Protection",SSCM29,2019-01-24,2021-01-03,SSCM,B001230
+"Science, Oceans, Fisheries, and Weather",SSCM30,2019-01-24,2021-01-03,SSCM,B001230
+Transportation and Safety,SSCM32,2019-01-24,2021-01-03,SSCM,B001230
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2021-01-03,SSAP,B001230
+Defense,SSAP02,,2021-01-03,SSAP,B001230
+Homeland Security,SSAP14,,2021-01-03,SSAP,B001230
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2021-01-03,SSAP,B001230
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2021-01-03,SSAP,B001230
+Employment and Workplace Safety,SSHR11,,2021-01-03,SSHR,B001230
+Primary Health and Retirement Security,SSHR12,,2021-01-03,SSHR,B001230
+"Public Lands, Forests, and Mining",SSEG03,2019-02-05,2021-01-03,SSEG,B001261
+National Parks,SSEG04,2019-02-05,2021-01-03,SSEG,B001261
+Water and Power,SSEG07,2019-02-05,2021-01-03,SSEG,B001261
+Europe and Regional Security Cooperation,SSFR01,,2021-01-03,SSFR,B001261
+"Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues",SSFR06,,2021-01-03,SSFR,B001261
+Transportation and Infrastructure,SSEV08,,2021-01-03,SSEV,B001261
+"Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy",SSFR15,,2021-01-03,SSFR,B001261
+"Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight",SSEV09,,2021-01-03,SSEV,B001261
+"Clean Air, Climate, and Nuclear Safety",SSEV10,,2021-01-03,SSEV,B001261
+"Fisheries, Water, and Wildlife",SSEV15,,2021-01-03,SSEV,B001261
+Taxation and IRS Oversight,SSFI11,2019-01-31,2021-01-03,SSFI,B001267
+"Energy, Natural Resources, and Infrastructure",SSFI12,2019-01-31,2021-01-03,SSFI,B001267
+"Social Security, Pensions, and Family Policy",SSFI02,2019-01-31,2021-01-03,SSFI,B001267
+"Commodities, Risk Management, and Trade",SSAF13,,2021-01-03,SSAF,B001267
+"Conservation, Climate, Forestry, and Natural Resources",SSAF14,,2021-01-03,SSAF,B001267
+Rural Development and Energy,SSAF15,,2021-01-03,SSAF,B001267
+"Communications, Technology, Innovation, and the Internet",SSCM26,2019-01-24,2021-01-03,SSCM,B001243
+Aviation and Space,SSCM28,2019-01-24,2021-01-03,SSCM,B001243
+"Manufacturing, Trade, and Consumer Protection",SSCM29,2019-01-24,2021-01-03,SSCM,B001243
+Security,SSCM31,,2021-01-03,SSCM,B001243
+Intellectual Property,SSJU26,,2021-01-03,SSJU,B001243
+Emerging Threats and Capabilities,SSAS20,,2021-01-03,SSAS,B001243
+"Competition Policy, Antitrust, and Consumer Rights",SSJU01,,2021-01-03,SSJU,B001243
+Cybersecurity,SSAS21,,2021-01-03,SSAS,B001243
+the Constitution,SSJU21,,2021-01-03,SSJU,B001243
+Readiness and Management Support,SSAS15,,2021-01-03,SSAS,B001243
+"Communications, Technology, Innovation, and the Internet",SSCM26,2019-01-24,2021-01-03,SSCM,B001277
+"Manufacturing, Trade, and Consumer Protection",SSCM29,2019-01-24,2021-01-03,SSCM,B001277
+"Science, Oceans, Fisheries, and Weather",SSCM30,2019-01-24,2021-01-03,SSCM,B001277
+Transportation and Safety,SSCM32,2019-01-24,2021-01-03,SSCM,B001277
+Security,SSCM31,,2021-01-03,SSCM,B001277
+Intellectual Property,SSJU26,,2021-01-03,SSJU,B001277
+"Competition Policy, Antitrust, and Consumer Rights",SSJU01,,2021-01-03,SSJU,B001277
+Cybersecurity,SSAS21,,2021-01-03,SSAS,B001277
+"Immigration, Citizenship, and Border Safety",SSJU04,,2021-01-03,SSJU,B001277
+"Federal Courts, Oversight, Agency Action, and Federal Rights",SSJU25,,2021-01-03,SSJU,B001277
+Seapower,SSAS13,,2021-01-03,SSAS,B001277
+Airland,SSAS14,,2021-01-03,SSAS,B001277
+Aviation and Space,SSCM28,2019-01-24,2021-01-03,SSCM,B000575
+Transportation and Safety,SSCM32,2019-01-24,2021-01-03,SSCM,B000575
+"Communications, Technology, Innovation, and the Internet",SSCM26,2019-01-24,2021-01-03,SSCM,B000575
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2021-01-03,SSAP,B000575
+Defense,SSAP02,,2021-01-03,SSAP,B000575
+"Interior, Environment, and Related Agencies",SSAP17,,2021-01-03,SSAP,B000575
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2021-01-03,SSAP,B000575
+"State, Foreign Operations, and Related Programs",SSAP20,,2021-01-03,SSAP,B000575
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2021-01-03,SSAP,B000575
+Security,SSCM31,,2021-01-03,SSCM,B000575
+"Competition Policy, Antitrust, and Consumer Rights",SSJU01,,2021-01-03,SSJU,B001288
+"Immigration, Citizenship, and Border Safety",SSJU04,,2021-01-03,SSJU,B001288
+Criminal Justice and Counterterrorism,SSJU22,,2021-01-03,SSJU,B001288
+Africa and Global Health Policy,SSFR09,,2021-01-03,SSFR,B001288
+"State Department and USAID Management, International Operations, and Bilateral International Development",SSFR14,,2021-01-03,SSFR,B001288
+Transportation and Infrastructure,SSEV08,,2021-01-03,SSEV,B001288
+"Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy",SSFR15,,2021-01-03,SSFR,B001288
+"Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight",SSEV09,,2021-01-03,SSEV,B001288
+"Clean Air, Climate, and Nuclear Safety",SSEV10,,2021-01-03,SSEV,B001288
+Defense,SSAP02,,2021-01-03,SSAP,B001236
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2021-01-03,SSAP,B001236
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2021-01-03,SSAP,B001236
+"State, Foreign Operations, and Related Programs",SSAP20,,2021-01-03,SSAP,B001236
+Transportation and Infrastructure,SSEV08,,2021-01-03,SSEV,B001236
+"Clean Air, Climate, and Nuclear Safety",SSEV10,,2021-01-03,SSEV,B001236
+Financial Services and General Government,SSAP23,,2021-01-03,SSAP,B001236
+"Commodities, Risk Management, and Trade",SSAF13,,2021-01-03,SSAF,B001236
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2021-01-03,SSAP,B001236
+"Conservation, Climate, Forestry, and Natural Resources",SSAF14,,2021-01-03,SSAF,B001236
+"Fisheries, Water, and Wildlife",SSEV15,,2021-01-03,SSEV,B001236
+"Food and Nutrition, Specialty Crops, Organics, and Research",SSAF16,,2021-01-03,SSAF,B001236
+"Clean Air, Climate, and Nuclear Safety",SSEV10,2019-01-28,2021-01-03,SSEV,B001310
+Transportation and Infrastructure,SSEV08,,2021-01-03,SSEV,B001310
+"Fisheries, Water, and Wildlife",SSEV15,,2021-01-03,SSEV,B001310
+"Conservation, Climate, Forestry, and Natural Resources",SSAF14,,2021-01-03,SSAF,B001310
+Rural Development and Energy,SSAF15,,2021-01-03,SSAF,B001310
+"Livestock, Dairy, Poultry, Local Food Systems, and Food Safety and Security",SSAF17,,2021-01-03,SSAF,B001310
+Employment and Workplace Safety,SSHR11,,2021-01-03,SSHR,B001310
+Primary Health and Retirement Security,SSHR12,,2021-01-03,SSHR,B001310
+"International Trade, Customs, and Global Competitiveness",SSFI13,2019-01-31,2021-01-03,SSFI,B000944
+"Social Security, Pensions, and Family Policy",SSFI02,2019-01-31,2021-01-03,SSFI,B000944
+Health Care,SSFI10,2019-01-31,2021-01-03,SSFI,B000944
+"Securities, Insurance, and Investment",SSBK04,2019-01-18,2021-01-03,SSBK,B000944
+National Security and International Trade and Finance,SSBK05,2019-01-18,2021-01-03,SSBK,B000944
+Financial Institutions and Consumer Protection,SSBK08,2019-01-18,2021-01-03,SSBK,B000944
+"Housing, Transportation, and Community Development",SSBK09,2019-01-18,2021-01-03,SSBK,B000944
+Economic Policy,SSBK12,2019-01-18,2021-01-03,SSBK,B000944
+"Commodities, Risk Management, and Trade",SSAF13,,2021-01-03,SSAF,B000944
+Rural Development and Energy,SSAF15,,2021-01-03,SSAF,B000944
+"Food and Nutrition, Specialty Crops, Organics, and Research",SSAF16,,2021-01-03,SSAF,B000944
+"Energy, Natural Resources, and Infrastructure",SSFI12,2019-01-31,2021-01-03,SSFI,B001135
+Health Care,SSFI10,2019-01-31,2021-01-03,SSFI,B001135
+Taxation and IRS Oversight,SSFI11,2019-01-31,2021-01-03,SSFI,B001135
+Children and Families,SSHR09,,2021-01-03,SSHR,B001135
+Employment and Workplace Safety,SSHR11,,2021-01-03,SSHR,B001135
+Primary Health and Retirement Security,SSHR12,,2021-01-03,SSHR,B001135
+Energy,SSEG01,2019-02-05,2021-01-03,SSEG,C000127
+"Public Lands, Forests, and Mining",SSEG03,2019-02-05,2021-01-03,SSEG,C000127
+Water and Power,SSEG07,2019-02-05,2021-01-03,SSEG,C000127
+"Energy, Natural Resources, and Infrastructure",SSFI12,2019-01-31,2021-01-03,SSFI,C000127
+"International Trade, Customs, and Global Competitiveness",SSFI13,2019-01-31,2021-01-03,SSFI,C000127
+Health Care,SSFI10,2019-01-31,2021-01-03,SSFI,C000127
+Security,SSCM31,,2021-01-03,SSCM,C000127
+"Communications, Technology, Innovation, and the Internet",SSCM26,,2021-01-03,SSCM,C000127
+Aviation and Space,SSCM28,,2021-01-03,SSCM,C000127
+"Manufacturing, Trade, and Consumer Protection",SSCM29,,2021-01-03,SSCM,C000127
+"Science, Oceans, Fisheries, and Weather",SSCM30,,2021-01-03,SSCM,C000127
+Transportation and Safety,SSCM32,,2021-01-03,SSCM,C000127
+Transportation and Infrastructure,SSEV08,2019-01-28,2021-01-03,SSEV,C001047
+"Communications, Technology, Innovation, and the Internet",SSCM26,2019-01-24,2021-01-03,SSCM,C001047
+Aviation and Space,SSCM28,2019-01-24,2021-01-03,SSCM,C001047
+"Manufacturing, Trade, and Consumer Protection",SSCM29,2019-01-24,2021-01-03,SSCM,C001047
+Transportation and Safety,SSCM32,2019-01-24,2021-01-03,SSCM,C001047
+Homeland Security,SSAP14,,2021-01-03,SSAP,C001047
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2021-01-03,SSAP,C001047
+"Interior, Environment, and Related Agencies",SSAP17,,2021-01-03,SSAP,C001047
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2021-01-03,SSAP,C001047
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2021-01-03,SSAP,C001047
+"Clean Air, Climate, and Nuclear Safety",SSEV10,,2021-01-03,SSEV,C001047
+"Fisheries, Water, and Wildlife",SSEV15,,2021-01-03,SSEV,C001047
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2021-01-03,SSAP,C001047
+Taxation and IRS Oversight,SSFI11,2019-01-31,2021-01-03,SSFI,C000141
+"International Trade, Customs, and Global Competitiveness",SSFI13,2019-01-31,2021-01-03,SSFI,C000141
+Health Care,SSFI10,2019-01-31,2021-01-03,SSFI,C000141
+Europe and Regional Security Cooperation,SSFR01,,2021-01-03,SSFR,C000141
+"Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues",SSFR06,,2021-01-03,SSFR,C000141
+"Near East, South Asia, Central Asia, and Counterterrorism",SSFR07,,2021-01-03,SSFR,C000141
+Transportation and Infrastructure,SSEV08,,2021-01-03,SSEV,C000141
+"Clean Air, Climate, and Nuclear Safety",SSEV10,,2021-01-03,SSEV,C000141
+"Fisheries, Water, and Wildlife",SSEV15,,2021-01-03,SSEV,C000141
+Taxation and IRS Oversight,SSFI11,2019-01-31,2021-01-03,SSFI,C000174
+"Energy, Natural Resources, and Infrastructure",SSFI12,2019-01-31,2021-01-03,SSFI,C000174
+Permanent Subcommittee on Investigations,SSGA01,2019-01-31,2021-01-03,SSGA,C000174
+Regulatory Affairs and Federal Management,SSGA19,2019-01-31,2021-01-03,SSGA,C000174
+Health Care,SSFI10,2019-01-31,2021-01-03,SSFI,C000174
+Transportation and Infrastructure,SSEV08,,2021-01-03,SSEV,C000174
+"Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight",SSEV09,,2021-01-03,SSEV,C000174
+"Clean Air, Climate, and Nuclear Safety",SSEV10,,2021-01-03,SSEV,C000174
+"Fisheries, Water, and Wildlife",SSEV15,,2021-01-03,SSEV,C000174
+"International Trade, Customs, and Global Competitiveness",SSFI13,2019-01-31,2021-01-03,SSFI,C001070
+"Social Security, Pensions, and Family Policy",SSFI02,2019-01-31,2021-01-03,SSFI,C001070
+Health Care,SSFI10,2019-01-31,2021-01-03,SSFI,C001070
+"Conservation, Climate, Forestry, and Natural Resources",SSAF14,,2021-01-03,SSAF,C001070
+"Food and Nutrition, Specialty Crops, Organics, and Research",SSAF16,,2021-01-03,SSAF,C001070
+Children and Families,SSHR09,,2021-01-03,SSHR,C001070
+"Livestock, Dairy, Poultry, Local Food Systems, and Food Safety and Security",SSAF17,,2021-01-03,SSAF,C001070
+Employment and Workplace Safety,SSHR11,,2021-01-03,SSHR,C001070
+Energy,SSEG01,2019-02-05,2021-01-03,SSEG,C001075
+"Public Lands, Forests, and Mining",SSEG03,2019-02-05,2021-01-03,SSEG,C001075
+Water and Power,SSEG07,2019-02-05,2021-01-03,SSEG,C001075
+"International Trade, Customs, and Global Competitiveness",SSFI13,2019-01-31,2021-01-03,SSFI,C001075
+Fiscal Responsibility and Economic Growth,SSFI14,2019-01-31,2021-01-03,SSFI,C001075
+"Social Security, Pensions, and Family Policy",SSFI02,2019-01-31,2021-01-03,SSFI,C001075
+Health Care,SSFI10,2019-01-31,2021-01-03,SSFI,C001075
+Children and Families,SSHR09,,2021-01-03,SSHR,C001075
+Employment and Workplace Safety,SSHR11,,2021-01-03,SSHR,C001075
+Primary Health and Retirement Security,SSHR12,,2021-01-03,SSHR,C001075
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2021-01-03,SSAP,C001035
+Defense,SSAP02,,2021-01-03,SSAP,C001035
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2021-01-03,SSAP,C001035
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2021-01-03,SSAP,C001035
+Energy and Water Development,SSAP22,,2021-01-03,SSAP,C001035
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2021-01-03,SSAP,C001035
+Primary Health and Retirement Security,SSHR12,,2021-01-03,SSHR,C001035
+Intellectual Property,SSJU26,,2021-01-03,SSJU,C001088
+"Immigration, Citizenship, and Border Safety",SSJU04,,2021-01-03,SSJU,C001088
+the Constitution,SSJU21,,2021-01-03,SSJU,C001088
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2021-01-03,SSAP,C001088
+Criminal Justice and Counterterrorism,SSJU22,,2021-01-03,SSJU,C001088
+Europe and Regional Security Cooperation,SSFR01,,2021-01-03,SSFR,C001088
+"East Asia, the Pacific, and International Cybersecurity Policy",SSFR02,,2021-01-03,SSFR,C001088
+Africa and Global Health Policy,SSFR09,,2021-01-03,SSFR,C001088
+"State, Foreign Operations, and Related Programs",SSAP20,,2021-01-03,SSAP,C001088
+Energy and Water Development,SSAP22,,2021-01-03,SSAP,C001088
+Financial Services and General Government,SSAP23,,2021-01-03,SSAP,C001088
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2021-01-03,SSAP,C001088
+"Energy, Natural Resources, and Infrastructure",SSFI12,2019-01-31,2021-01-03,SSFI,C001056
+"International Trade, Customs, and Global Competitiveness",SSFI13,2019-01-31,2021-01-03,SSFI,C001056
+Taxation and IRS Oversight,SSFI11,2019-01-31,2021-01-03,SSFI,C001056
+Intellectual Property,SSJU26,,2021-01-03,SSJU,C001056
+"Immigration, Citizenship, and Border Safety",SSJU04,,2021-01-03,SSJU,C001056
+the Constitution,SSJU21,,2021-01-03,SSJU,C001056
+Criminal Justice and Counterterrorism,SSJU22,,2021-01-03,SSJU,C001056
+Energy,SSEG01,2019-02-05,2021-01-03,SSEG,C001113
+"Public Lands, Forests, and Mining",SSEG03,2019-02-05,2021-01-03,SSEG,C001113
+Water and Power,SSEG07,2019-02-05,2021-01-03,SSEG,C001113
+"International Trade, Customs, and Global Competitiveness",SSFI13,2019-01-31,2021-01-03,SSFI,C001113
+"Social Security, Pensions, and Family Policy",SSFI02,2019-01-31,2021-01-03,SSFI,C001113
+Health Care,SSFI10,2019-01-31,2021-01-03,SSFI,C001113
+Financial Institutions and Consumer Protection,SSBK08,2019-01-18,2021-01-03,SSBK,C001113
+"Housing, Transportation, and Community Development",SSBK09,2019-01-18,2021-01-03,SSBK,C001113
+Economic Policy,SSBK12,2019-01-18,2021-01-03,SSBK,C001113
+"Securities, Insurance, and Investment",SSBK04,2019-01-18,2021-01-03,SSBK,C001095
+"Housing, Transportation, and Community Development",SSBK09,2019-01-18,2021-01-03,SSBK,C001095
+Economic Policy,SSBK12,2019-01-18,2021-01-03,SSBK,C001095
+Strategic Forces,SSAS16,,2021-01-03,SSAS,C001095
+Seapower,SSAS13,,2021-01-03,SSAS,C001095
+Airland,SSAS14,,2021-01-03,SSAS,C001095
+"Fisheries, Water, and Wildlife",SSEV15,2019-01-28,2021-01-03,SSEV,C001096
+Financial Institutions and Consumer Protection,SSBK08,2019-01-18,2021-01-03,SSBK,C001096
+"Housing, Transportation, and Community Development",SSBK09,2019-01-18,2021-01-03,SSBK,C001096
+Economic Policy,SSBK12,2019-01-18,2021-01-03,SSBK,C001096
+Strategic Forces,SSAS16,,2021-01-03,SSAS,C001096
+Emerging Threats and Capabilities,SSAS20,,2021-01-03,SSAS,C001096
+Transportation and Infrastructure,SSEV08,,2021-01-03,SSEV,C001096
+"Clean Air, Climate, and Nuclear Safety",SSEV10,,2021-01-03,SSEV,C001096
+Airland,SSAS14,,2021-01-03,SSAS,C001096
+"Energy, Natural Resources, and Infrastructure",SSFI12,2019-01-31,2021-01-03,SSFI,C000880
+"International Trade, Customs, and Global Competitiveness",SSFI13,2019-01-31,2021-01-03,SSFI,C000880
+Taxation and IRS Oversight,SSFI11,2019-01-31,2021-01-03,SSFI,C000880
+"Securities, Insurance, and Investment",SSBK04,2019-01-18,2021-01-03,SSBK,C000880
+National Security and International Trade and Finance,SSBK05,2019-01-18,2021-01-03,SSBK,C000880
+Financial Institutions and Consumer Protection,SSBK08,2019-01-18,2021-01-03,SSBK,C000880
+"Housing, Transportation, and Community Development",SSBK09,2019-01-18,2021-01-03,SSBK,C000880
+Economic Policy,SSBK12,2019-01-18,2021-01-03,SSBK,C000880
+Intellectual Property,SSJU26,,2021-01-03,SSJU,C000880
+"Competition Policy, Antitrust, and Consumer Rights",SSJU01,,2021-01-03,SSJU,C000880
+the Constitution,SSJU21,,2021-01-03,SSJU,C000880
+"Federal Courts, Oversight, Agency Action, and Federal Rights",SSJU25,,2021-01-03,SSJU,C000880
+Aviation and Space,SSCM28,2019-01-24,2021-01-03,SSCM,C001098
+"Science, Oceans, Fisheries, and Weather",SSCM30,2019-01-24,2021-01-03,SSCM,C001098
+"Communications, Technology, Innovation, and the Internet",SSCM26,2019-01-24,2021-01-03,SSCM,C001098
+"Immigration, Citizenship, and Border Safety",SSJU04,,2021-01-03,SSJU,C001098
+the Constitution,SSJU21,,2021-01-03,SSJU,C001098
+Criminal Justice and Counterterrorism,SSJU22,,2021-01-03,SSJU,C001098
+"Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues",SSFR06,,2021-01-03,SSFR,C001098
+"Near East, South Asia, Central Asia, and Counterterrorism",SSFR07,,2021-01-03,SSFR,C001098
+Africa and Global Health Policy,SSFR09,,2021-01-03,SSFR,C001098
+Security,SSCM31,,2021-01-03,SSCM,C001098
+Energy,SSEG01,2019-02-05,2021-01-03,SSEG,D000618
+"Public Lands, Forests, and Mining",SSEG03,2019-02-05,2021-01-03,SSEG,D000618
+National Parks,SSEG04,2019-02-05,2021-01-03,SSEG,D000618
+"Energy, Natural Resources, and Infrastructure",SSFI12,2019-01-31,2021-01-03,SSFI,D000618
+"International Trade, Customs, and Global Competitiveness",SSFI13,2019-01-31,2021-01-03,SSFI,D000618
+Health Care,SSFI10,2019-01-31,2021-01-03,SSFI,D000618
+"Interior, Environment, and Related Agencies",SSAP17,,2021-01-03,SSAP,D000618
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2021-01-03,SSAP,D000618
+"State, Foreign Operations, and Related Programs",SSAP20,,2021-01-03,SSAP,D000618
+Financial Services and General Government,SSAP23,,2021-01-03,SSAP,D000618
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2021-01-03,SSAP,D000618
+"Communications, Technology, Innovation, and the Internet",SSCM26,2019-01-24,2021-01-03,SSCM,D000622
+Aviation and Space,SSCM28,2019-01-24,2021-01-03,SSCM,D000622
+Transportation and Safety,SSCM32,2019-01-24,2021-01-03,SSCM,D000622
+Security,SSCM31,,2021-01-03,SSCM,D000622
+Personnel,SSAS17,,2021-01-03,SSAS,D000622
+"Clean Air, Climate, and Nuclear Safety",SSEV10,,2021-01-03,SSEV,D000622
+"Fisheries, Water, and Wildlife",SSEV15,,2021-01-03,SSEV,D000622
+Airland,SSAS14,,2021-01-03,SSAS,D000622
+Readiness and Management Support,SSAS15,,2021-01-03,SSAS,D000622
+Defense,SSAP02,,2021-01-03,SSAP,D000563
+Intellectual Property,SSJU26,,2021-01-03,SSJU,D000563
+"Immigration, Citizenship, and Border Safety",SSJU04,,2021-01-03,SSJU,D000563
+the Constitution,SSJU21,,2021-01-03,SSJU,D000563
+Criminal Justice and Counterterrorism,SSJU22,,2021-01-03,SSJU,D000563
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2021-01-03,SSAP,D000563
+"State, Foreign Operations, and Related Programs",SSAP20,,2021-01-03,SSAP,D000563
+Energy and Water Development,SSAP22,,2021-01-03,SSAP,D000563
+Financial Services and General Government,SSAP23,,2021-01-03,SSAP,D000563
+"Commodities, Risk Management, and Trade",SSAF13,,2021-01-03,SSAF,D000563
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2021-01-03,SSAP,D000563
+"Conservation, Climate, Forestry, and Natural Resources",SSAF14,,2021-01-03,SSAF,D000563
+Rural Development and Energy,SSAF15,,2021-01-03,SSAF,D000563
+Emerging Threats and Capabilities,SSAS20,,2021-01-03,SSAS,E000295
+"Immigration, Citizenship, and Border Safety",SSJU04,,2021-01-03,SSJU,E000295
+Criminal Justice and Counterterrorism,SSJU22,,2021-01-03,SSJU,E000295
+"Federal Courts, Oversight, Agency Action, and Federal Rights",SSJU25,,2021-01-03,SSJU,E000295
+"Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight",SSEV09,,2021-01-03,SSEV,E000295
+"Clean Air, Climate, and Nuclear Safety",SSEV10,,2021-01-03,SSEV,E000295
+Rural Development and Energy,SSAF15,,2021-01-03,SSAF,E000295
+"Food and Nutrition, Specialty Crops, Organics, and Research",SSAF16,,2021-01-03,SSAF,E000295
+"Livestock, Dairy, Poultry, Local Food Systems, and Food Safety and Security",SSAF17,,2021-01-03,SSAF,E000295
+Seapower,SSAS13,,2021-01-03,SSAS,E000295
+Readiness and Management Support,SSAS15,,2021-01-03,SSAS,E000295
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2021-01-03,SSAP,F000062
+Defense,SSAP02,,2021-01-03,SSAP,F000062
+"Immigration, Citizenship, and Border Safety",SSJU04,,2021-01-03,SSJU,F000062
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2021-01-03,SSAP,F000062
+Criminal Justice and Counterterrorism,SSJU22,,2021-01-03,SSJU,F000062
+"Interior, Environment, and Related Agencies",SSAP17,,2021-01-03,SSAP,F000062
+Energy and Water Development,SSAP22,,2021-01-03,SSAP,F000062
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2021-01-03,SSAP,F000062
+"Manufacturing, Trade, and Consumer Protection",SSCM29,2019-01-24,2021-01-03,SSCM,F000463
+Transportation and Safety,SSCM32,2019-01-24,2021-01-03,SSCM,F000463
+"Communications, Technology, Innovation, and the Internet",SSCM26,2019-01-24,2021-01-03,SSCM,F000463
+Emerging Threats and Capabilities,SSAS20,,2021-01-03,SSAS,F000463
+Rural Development and Energy,SSAF15,,2021-01-03,SSAF,F000463
+"Food and Nutrition, Specialty Crops, Organics, and Research",SSAF16,,2021-01-03,SSAF,F000463
+"Livestock, Dairy, Poultry, Local Food Systems, and Food Safety and Security",SSAF17,,2021-01-03,SSAF,F000463
+Readiness and Management Support,SSAS15,,2021-01-03,SSAS,F000463
+Strategic Forces,SSAS16,,2021-01-03,SSAS,F000463
+Security,SSCM31,,2021-01-03,SSCM,F000463
+Personnel,SSAS17,,2021-01-03,SSAS,G000555
+Cybersecurity,SSAS21,,2021-01-03,SSAS,G000555
+Transportation and Infrastructure,SSEV08,,2021-01-03,SSEV,G000555
+"Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight",SSEV09,,2021-01-03,SSEV,G000555
+"Clean Air, Climate, and Nuclear Safety",SSEV10,,2021-01-03,SSEV,G000555
+"Commodities, Risk Management, and Trade",SSAF13,,2021-01-03,SSAF,G000555
+"Food and Nutrition, Specialty Crops, Organics, and Research",SSAF16,,2021-01-03,SSAF,G000555
+"Livestock, Dairy, Poultry, Local Food Systems, and Food Safety and Security",SSAF17,,2021-01-03,SSAF,G000555
+Intellectual Property,SSJU26,,2021-01-03,SSJU,G000359
+Defense,SSAP02,,2021-01-03,SSAP,G000359
+"Immigration, Citizenship, and Border Safety",SSJU04,,2021-01-03,SSJU,G000359
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2021-01-03,SSAP,G000359
+Criminal Justice and Counterterrorism,SSJU22,,2021-01-03,SSJU,G000359
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2021-01-03,SSAP,G000359
+"Near East, South Asia, Central Asia, and Counterterrorism",SSFR07,,2021-01-03,SSFR,G000359
+Africa and Global Health Policy,SSFR09,,2021-01-03,SSFR,G000359
+"State, Foreign Operations, and Related Programs",SSAP20,,2021-01-03,SSAP,G000359
+"Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy",SSFR15,,2021-01-03,SSFR,G000359
+Energy and Water Development,SSAP22,,2021-01-03,SSAP,G000359
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2021-01-03,SSAP,G000359
+"Energy, Natural Resources, and Infrastructure",SSFI12,2019-01-31,2021-01-03,SSFI,G000386
+"Social Security, Pensions, and Family Policy",SSFI02,2019-01-31,2021-01-03,SSFI,G000386
+Health Care,SSFI10,2019-01-31,2021-01-03,SSFI,G000386
+Intellectual Property,SSJU26,,2021-01-03,SSJU,G000386
+"Competition Policy, Antitrust, and Consumer Rights",SSJU01,,2021-01-03,SSJU,G000386
+"International Trade, Customs, and Global Competitiveness",SSFI13,,2021-01-03,SSFI,G000386
+"Immigration, Citizenship, and Border Safety",SSJU04,,2021-01-03,SSJU,G000386
+"Federal Courts, Oversight, Agency Action, and Federal Rights",SSJU25,,2021-01-03,SSJU,G000386
+"Commodities, Risk Management, and Trade",SSAF13,,2021-01-03,SSAF,G000386
+"Conservation, Climate, Forestry, and Natural Resources",SSAF14,,2021-01-03,SSAF,G000386
+"Livestock, Dairy, Poultry, Local Food Systems, and Food Safety and Security",SSAF17,,2021-01-03,SSAF,G000386
+Permanent Subcommittee on Investigations,SSGA01,2019-01-31,2021-01-03,SSGA,H001075
+Federal Spending Oversight and Emergency Management,SSGA18,2019-01-31,2021-01-03,SSGA,H001075
+Intellectual Property,SSJU26,,2021-01-03,SSJU,H001075
+the Constitution,SSJU21,,2021-01-03,SSJU,H001075
+"Energy, Natural Resources, and Infrastructure",SSFI12,2019-01-31,2021-01-03,SSFI,H001076
+Fiscal Responsibility and Economic Growth,SSFI14,2019-01-31,2021-01-03,SSFI,H001076
+Permanent Subcommittee on Investigations,SSGA01,2019-01-31,2021-01-03,SSGA,H001076
+Federal Spending Oversight and Emergency Management,SSGA18,2019-01-31,2021-01-03,SSGA,H001076
+Health Care,SSFI10,2019-01-31,2021-01-03,SSFI,H001076
+Children and Families,SSHR09,,2021-01-03,SSHR,H001076
+Primary Health and Retirement Security,SSHR12,,2021-01-03,SSHR,H001076
+Permanent Subcommittee on Investigations,SSGA01,2019-01-31,2021-01-03,SSGA,H001089
+Federal Spending Oversight and Emergency Management,SSGA18,2019-01-31,2021-01-03,SSGA,H001089
+Strategic Forces,SSAS16,,2021-01-03,SSAS,H001089
+Emerging Threats and Capabilities,SSAS20,,2021-01-03,SSAS,H001089
+"Competition Policy, Antitrust, and Consumer Rights",SSJU01,,2021-01-03,SSJU,H001089
+"Immigration, Citizenship, and Border Safety",SSJU04,,2021-01-03,SSJU,H001089
+Criminal Justice and Counterterrorism,SSJU22,,2021-01-03,SSJU,H001089
+Seapower,SSAS13,,2021-01-03,SSAS,H001089
+Energy,SSEG01,2019-02-05,2021-01-03,SSEG,H001046
+"Public Lands, Forests, and Mining",SSEG03,2019-02-05,2021-01-03,SSEG,H001046
+National Parks,SSEG04,2019-02-05,2021-01-03,SSEG,H001046
+Strategic Forces,SSAS16,,2021-01-03,SSAS,H001046
+Emerging Threats and Capabilities,SSAS20,,2021-01-03,SSAS,H001046
+Cybersecurity,SSAS21,,2021-01-03,SSAS,H001046
+Energy,SSEG01,2019-02-05,2021-01-03,SSEG,H001042
+"Public Lands, Forests, and Mining",SSEG03,2019-02-05,2021-01-03,SSEG,H001042
+National Parks,SSEG04,2019-02-05,2021-01-03,SSEG,H001042
+Intellectual Property,SSJU26,,2021-01-03,SSJU,H001042
+Emerging Threats and Capabilities,SSAS20,,2021-01-03,SSAS,H001042
+"Immigration, Citizenship, and Border Safety",SSJU04,,2021-01-03,SSJU,H001042
+the Constitution,SSJU21,,2021-01-03,SSJU,H001042
+"Federal Courts, Oversight, Agency Action, and Federal Rights",SSJU25,,2021-01-03,SSJU,H001042
+Seapower,SSAS13,,2021-01-03,SSAS,H001042
+Readiness and Management Support,SSAS15,,2021-01-03,SSAS,H001042
+Energy,SSEG01,2019-02-05,2021-01-03,SSEG,H001061
+"Public Lands, Forests, and Mining",SSEG03,2019-02-05,2021-01-03,SSEG,H001061
+National Parks,SSEG04,2019-02-05,2021-01-03,SSEG,H001061
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2021-01-03,SSAP,H001061
+Defense,SSAP02,,2021-01-03,SSAP,H001061
+Homeland Security,SSAP14,,2021-01-03,SSAP,H001061
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2021-01-03,SSAP,H001061
+Energy and Water Development,SSAP22,,2021-01-03,SSAP,H001061
+"Commodities, Risk Management, and Trade",SSAF13,,2021-01-03,SSAF,H001061
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2021-01-03,SSAP,H001061
+Rural Development and Energy,SSAF15,,2021-01-03,SSAF,H001061
+"Food and Nutrition, Specialty Crops, Organics, and Research",SSAF16,,2021-01-03,SSAF,H001061
+Energy,SSEG01,2019-02-05,2021-01-03,SSEG,H001079
+"Public Lands, Forests, and Mining",SSEG03,2019-02-05,2021-01-03,SSEG,H001079
+National Parks,SSEG04,2019-02-05,2021-01-03,SSEG,H001079
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2021-01-03,SSAP,H001079
+Legislative Branch,SSAP08,,2021-01-03,SSAP,H001079
+Homeland Security,SSAP14,,2021-01-03,SSAP,H001079
+"Interior, Environment, and Related Agencies",SSAP17,,2021-01-03,SSAP,H001079
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2021-01-03,SSAP,H001079
+Energy and Water Development,SSAP22,,2021-01-03,SSAP,H001079
+"Commodities, Risk Management, and Trade",SSAF13,,2021-01-03,SSAF,H001079
+"Conservation, Climate, Forestry, and Natural Resources",SSAF14,,2021-01-03,SSAF,H001079
+"Livestock, Dairy, Poultry, Local Food Systems, and Food Safety and Security",SSAF17,,2021-01-03,SSAF,H001079
+Strategic Forces,SSAS16,,2021-01-03,SSAS,I000024
+Personnel,SSAS17,,2021-01-03,SSAS,I000024
+Emerging Threats and Capabilities,SSAS20,,2021-01-03,SSAS,I000024
+Cybersecurity,SSAS21,,2021-01-03,SSAS,I000024
+Transportation and Infrastructure,SSEV08,,2021-01-03,SSEV,I000024
+"Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight",SSEV09,,2021-01-03,SSEV,I000024
+"Clean Air, Climate, and Nuclear Safety",SSEV10,,2021-01-03,SSEV,I000024
+Seapower,SSAS13,,2021-01-03,SSAS,I000024
+Airland,SSAS14,,2021-01-03,SSAS,I000024
+Readiness and Management Support,SSAS15,,2021-01-03,SSAS,I000024
+Permanent Subcommittee on Investigations,SSGA01,2019-01-31,2021-01-03,SSGA,J000293
+Federal Spending Oversight and Emergency Management,SSGA18,2019-01-31,2021-01-03,SSGA,J000293
+Regulatory Affairs and Federal Management,SSGA19,2019-01-31,2021-01-03,SSGA,J000293
+"Communications, Technology, Innovation, and the Internet",SSCM26,2019-01-24,2021-01-03,SSCM,J000293
+"Manufacturing, Trade, and Consumer Protection",SSCM29,2019-01-24,2021-01-03,SSCM,J000293
+"Science, Oceans, Fisheries, and Weather",SSCM30,2019-01-24,2021-01-03,SSCM,J000293
+Security,SSCM31,,2021-01-03,SSCM,J000293
+Europe and Regional Security Cooperation,SSFR01,,2021-01-03,SSFR,J000293
+"East Asia, the Pacific, and International Cybersecurity Policy",SSFR02,,2021-01-03,SSFR,J000293
+Africa and Global Health Policy,SSFR09,,2021-01-03,SSFR,J000293
+"Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues",SSFR06,,2021-01-03,SSFR,K000384
+"Near East, South Asia, Central Asia, and Counterterrorism",SSFR07,,2021-01-03,SSFR,K000384
+Africa and Global Health Policy,SSFR09,,2021-01-03,SSFR,K000384
+Children and Families,SSHR09,,2021-01-03,SSHR,K000384
+Seapower,SSAS13,,2021-01-03,SSAS,K000384
+Readiness and Management Support,SSAS15,,2021-01-03,SSAS,K000384
+Primary Health and Retirement Security,SSHR12,,2021-01-03,SSHR,K000384
+"Securities, Insurance, and Investment",SSBK04,2019-01-18,2021-01-03,SSBK,K000393
+Financial Institutions and Consumer Protection,SSBK08,2019-01-18,2021-01-03,SSBK,K000393
+Economic Policy,SSBK12,2019-01-18,2021-01-03,SSBK,K000393
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2021-01-03,SSAP,K000393
+"Immigration, Citizenship, and Border Safety",SSJU04,,2021-01-03,SSJU,K000393
+Homeland Security,SSAP14,,2021-01-03,SSAP,K000393
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2021-01-03,SSAP,K000393
+Criminal Justice and Counterterrorism,SSJU22,,2021-01-03,SSJU,K000393
+"Federal Courts, Oversight, Agency Action, and Federal Rights",SSJU25,,2021-01-03,SSJU,K000393
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2021-01-03,SSAP,K000393
+Energy and Water Development,SSAP22,,2021-01-03,SSAP,K000393
+Financial Services and General Government,SSAP23,,2021-01-03,SSAP,K000393
+Energy,SSEG01,2019-02-05,2021-01-03,SSEG,K000383
+"Public Lands, Forests, and Mining",SSEG03,2019-02-05,2021-01-03,SSEG,K000383
+National Parks,SSEG04,2019-02-05,2021-01-03,SSEG,K000383
+Strategic Forces,SSAS16,,2021-01-03,SSAS,K000383
+Seapower,SSAS13,,2021-01-03,SSAS,K000383
+Airland,SSAS14,,2021-01-03,SSAS,K000383
+"Communications, Technology, Innovation, and the Internet",SSCM26,2019-01-24,2021-01-03,SSCM,K000367
+Aviation and Space,SSCM28,2019-01-24,2021-01-03,SSCM,K000367
+"Manufacturing, Trade, and Consumer Protection",SSCM29,2019-01-24,2021-01-03,SSCM,K000367
+Transportation and Safety,SSCM32,2019-01-24,2021-01-03,SSCM,K000367
+Security,SSCM31,,2021-01-03,SSCM,K000367
+"Competition Policy, Antitrust, and Consumer Rights",SSJU01,,2021-01-03,SSJU,K000367
+"Immigration, Citizenship, and Border Safety",SSJU04,,2021-01-03,SSJU,K000367
+Criminal Justice and Counterterrorism,SSJU22,,2021-01-03,SSJU,K000367
+"Federal Courts, Oversight, Agency Action, and Federal Rights",SSJU25,,2021-01-03,SSJU,K000367
+"Conservation, Climate, Forestry, and Natural Resources",SSAF14,,2021-01-03,SSAF,K000367
+Rural Development and Energy,SSAF15,,2021-01-03,SSAF,K000367
+"Food and Nutrition, Specialty Crops, Organics, and Research",SSAF16,,2021-01-03,SSAF,K000367
+"Livestock, Dairy, Poultry, Local Food Systems, and Food Safety and Security",SSAF17,,2021-01-03,SSAF,K000367
+Fiscal Responsibility and Economic Growth,SSFI14,2019-01-31,2021-01-03,SSFI,L000575
+Permanent Subcommittee on Investigations,SSGA01,2019-01-31,2021-01-03,SSGA,L000575
+Regulatory Affairs and Federal Management,SSGA19,2019-01-31,2021-01-03,SSGA,L000575
+"Social Security, Pensions, and Family Policy",SSFI02,2019-01-31,2021-01-03,SSFI,L000575
+Health Care,SSFI10,2019-01-31,2021-01-03,SSFI,L000575
+Legislative Branch,SSAP08,,2021-01-03,SSAP,L000575
+Homeland Security,SSAP14,,2021-01-03,SSAP,L000575
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2021-01-03,SSAP,L000575
+"State, Foreign Operations, and Related Programs",SSAP20,,2021-01-03,SSAP,L000575
+Financial Services and General Government,SSAP23,,2021-01-03,SSAP,L000575
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2021-01-03,SSAP,L000174
+Intellectual Property,SSJU26,,2021-01-03,SSJU,L000174
+Defense,SSAP02,,2021-01-03,SSAP,L000174
+"Competition Policy, Antitrust, and Consumer Rights",SSJU01,,2021-01-03,SSJU,L000174
+Legislative Branch,SSAP08,,2021-01-03,SSAP,L000174
+"Immigration, Citizenship, and Border Safety",SSJU04,,2021-01-03,SSJU,L000174
+Homeland Security,SSAP14,,2021-01-03,SSAP,L000174
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2021-01-03,SSAP,L000174
+"Interior, Environment, and Related Agencies",SSAP17,,2021-01-03,SSAP,L000174
+"Federal Courts, Oversight, Agency Action, and Federal Rights",SSJU25,,2021-01-03,SSJU,L000174
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2021-01-03,SSAP,L000174
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2021-01-03,SSAP,L000174
+"State, Foreign Operations, and Related Programs",SSAP20,,2021-01-03,SSAP,L000174
+Energy and Water Development,SSAP22,,2021-01-03,SSAP,L000174
+Financial Services and General Government,SSAP23,,2021-01-03,SSAP,L000174
+"Conservation, Climate, Forestry, and Natural Resources",SSAF14,,2021-01-03,SSAF,L000174
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2021-01-03,SSAP,L000174
+"Food and Nutrition, Specialty Crops, Organics, and Research",SSAF16,,2021-01-03,SSAF,L000174
+"Livestock, Dairy, Poultry, Local Food Systems, and Food Safety and Security",SSAF17,,2021-01-03,SSAF,L000174
+Energy,SSEG01,2019-02-05,2021-01-03,SSEG,L000577
+"Public Lands, Forests, and Mining",SSEG03,2019-02-05,2021-01-03,SSEG,L000577
+National Parks,SSEG04,2019-02-05,2021-01-03,SSEG,L000577
+"Communications, Technology, Innovation, and the Internet",SSCM26,2019-01-24,2021-01-03,SSCM,L000577
+Aviation and Space,SSCM28,2019-01-24,2021-01-03,SSCM,L000577
+"Manufacturing, Trade, and Consumer Protection",SSCM29,2019-01-24,2021-01-03,SSCM,L000577
+Security,SSCM31,,2021-01-03,SSCM,L000577
+Intellectual Property,SSJU26,,2021-01-03,SSJU,L000577
+"Competition Policy, Antitrust, and Consumer Rights",SSJU01,,2021-01-03,SSJU,L000577
+"Immigration, Citizenship, and Border Safety",SSJU04,,2021-01-03,SSJU,L000577
+the Constitution,SSJU21,,2021-01-03,SSJU,L000577
+Health,HSIF14,2019-01-15,2021-01-03,HSIF,L000570
+Communications and Technology,HSIF16,2019-01-15,2021-01-03,HSIF,L000570
+"Innovation, Data, and Commerce",HSIF17,2019-01-15,2021-01-03,HSIF,L000570
+Energy,SSEG01,2019-02-05,2021-01-03,SSEG,M001183
+"Public Lands, Forests, and Mining",SSEG03,2019-02-05,2021-01-03,SSEG,M001183
+National Parks,SSEG04,2019-02-05,2021-01-03,SSEG,M001183
+Water and Power,SSEG07,2019-02-05,2021-01-03,SSEG,M001183
+Strategic Forces,SSAS16,,2021-01-03,SSAS,M001183
+Cybersecurity,SSAS21,,2021-01-03,SSAS,M001183
+Homeland Security,SSAP14,,2021-01-03,SSAP,M001183
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2021-01-03,SSAP,M001183
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2021-01-03,SSAP,M001183
+Financial Services and General Government,SSAP23,,2021-01-03,SSAP,M001183
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2021-01-03,SSAP,M001183
+"Communications, Technology, Innovation, and the Internet",SSCM26,2019-01-24,2021-01-03,SSCM,M000133
+"Manufacturing, Trade, and Consumer Protection",SSCM29,2019-01-24,2021-01-03,SSCM,M000133
+Transportation and Safety,SSCM32,2019-01-24,2021-01-03,SSCM,M000133
+Security,SSCM31,,2021-01-03,SSCM,M000133
+"East Asia, the Pacific, and International Cybersecurity Policy",SSFR02,,2021-01-03,SSFR,M000133
+"State Department and USAID Management, International Operations, and Bilateral International Development",SSFR14,,2021-01-03,SSFR,M000133
+Transportation and Infrastructure,SSEV08,,2021-01-03,SSEV,M000133
+"Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy",SSFR15,,2021-01-03,SSFR,M000133
+"Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight",SSEV09,,2021-01-03,SSEV,M000133
+"Clean Air, Climate, and Nuclear Safety",SSEV10,,2021-01-03,SSEV,M000133
+"Commodity Markets, Digital Assets, and Rural Development",HSAG22,2019-02-06,2021-01-03,HSAG,M001198
+"Livestock, Dairy, and Poultry",HSAG29,2019-02-06,2021-01-03,HSAG,M001198
+Research and Technology,HSSY15,,2021-01-03,HSSY,M001198
+Environment,HSSY18,,2021-01-03,HSSY,M001198
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2021-01-03,SSAP,M000355
+Defense,SSAP02,,2021-01-03,SSAP,M000355
+"Interior, Environment, and Related Agencies",SSAP17,,2021-01-03,SSAP,M000355
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2021-01-03,SSAP,M000355
+"State, Foreign Operations, and Related Programs",SSAP20,,2021-01-03,SSAP,M000355
+Energy and Water Development,SSAP22,,2021-01-03,SSAP,M000355
+"Commodities, Risk Management, and Trade",SSAF13,,2021-01-03,SSAF,M000355
+Rural Development and Energy,SSAF15,,2021-01-03,SSAF,M000355
+"Food and Nutrition, Specialty Crops, Organics, and Research",SSAF16,,2021-01-03,SSAF,M000355
+Taxation and IRS Oversight,SSFI11,2019-01-31,2021-01-03,SSFI,M000639
+"International Trade, Customs, and Global Competitiveness",SSFI13,2019-01-31,2021-01-03,SSFI,M000639
+Health Care,SSFI10,2019-01-31,2021-01-03,SSFI,M000639
+"Securities, Insurance, and Investment",SSBK04,2019-01-18,2021-01-03,SSBK,M000639
+"Housing, Transportation, and Community Development",SSBK09,2019-01-18,2021-01-03,SSBK,M000639
+Economic Policy,SSBK12,2019-01-18,2021-01-03,SSBK,M000639
+Europe and Regional Security Cooperation,SSFR01,,2021-01-03,SSFR,M000639
+"East Asia, the Pacific, and International Cybersecurity Policy",SSFR02,,2021-01-03,SSFR,M000639
+"Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues",SSFR06,,2021-01-03,SSFR,M000639
+"Near East, South Asia, Central Asia, and Counterterrorism",SSFR07,,2021-01-03,SSFR,M000639
+Africa and Global Health Policy,SSFR09,,2021-01-03,SSFR,M000639
+"State Department and USAID Management, International Operations, and Bilateral International Development",SSFR14,,2021-01-03,SSFR,M000639
+"Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy",SSFR15,,2021-01-03,SSFR,M000639
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2021-01-03,SSAP,M001176
+"Interior, Environment, and Related Agencies",SSAP17,,2021-01-03,SSAP,M001176
+"East Asia, the Pacific, and International Cybersecurity Policy",SSFR02,,2021-01-03,SSFR,M001176
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2021-01-03,SSAP,M001176
+"State Department and USAID Management, International Operations, and Bilateral International Development",SSFR14,,2021-01-03,SSFR,M001176
+"State, Foreign Operations, and Related Programs",SSAP20,,2021-01-03,SSAP,M001176
+Transportation and Infrastructure,SSEV08,,2021-01-03,SSEV,M001176
+"Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy",SSFR15,,2021-01-03,SSFR,M001176
+Energy and Water Development,SSAP22,,2021-01-03,SSAP,M001176
+"Clean Air, Climate, and Nuclear Safety",SSEV10,,2021-01-03,SSEV,M001176
+"Fisheries, Water, and Wildlife",SSEV15,,2021-01-03,SSEV,M001176
+Aviation and Space,SSCM28,2019-01-24,2021-01-03,SSCM,M000934
+"Manufacturing, Trade, and Consumer Protection",SSCM29,2019-01-24,2021-01-03,SSCM,M000934
+Transportation and Safety,SSCM32,2019-01-24,2021-01-03,SSCM,M000934
+"Communications, Technology, Innovation, and the Internet",SSCM26,2019-01-24,2021-01-03,SSCM,M000934
+National Security and International Trade and Finance,SSBK05,2019-01-18,2021-01-03,SSBK,M000934
+Financial Institutions and Consumer Protection,SSBK08,2019-01-18,2021-01-03,SSBK,M000934
+"Housing, Transportation, and Community Development",SSBK09,2019-01-18,2021-01-03,SSBK,M000934
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2021-01-03,SSAP,M000934
+Defense,SSAP02,,2021-01-03,SSAP,M000934
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2021-01-03,SSAP,M000934
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2021-01-03,SSAP,M000934
+"State, Foreign Operations, and Related Programs",SSAP20,,2021-01-03,SSAP,M000934
+Financial Services and General Government,SSAP23,,2021-01-03,SSAP,M000934
+Energy,SSEG01,2019-02-05,2021-01-03,SSEG,M001153
+"Public Lands, Forests, and Mining",SSEG03,2019-02-05,2021-01-03,SSEG,M001153
+National Parks,SSEG04,2019-02-05,2021-01-03,SSEG,M001153
+Water and Power,SSEG07,2019-02-05,2021-01-03,SSEG,M001153
+Defense,SSAP02,,2021-01-03,SSAP,M001153
+Homeland Security,SSAP14,,2021-01-03,SSAP,M001153
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2021-01-03,SSAP,M001153
+"Interior, Environment, and Related Agencies",SSAP17,,2021-01-03,SSAP,M001153
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2021-01-03,SSAP,M001153
+Energy and Water Development,SSAP22,,2021-01-03,SSAP,M001153
+Children and Families,SSHR09,,2021-01-03,SSHR,M001153
+Primary Health and Retirement Security,SSHR12,,2021-01-03,SSHR,M001153
+Legislative Branch,SSAP08,,2021-01-03,SSAP,M001169
+Europe and Regional Security Cooperation,SSFR01,,2021-01-03,SSFR,M001169
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2021-01-03,SSAP,M001169
+"Near East, South Asia, Central Asia, and Counterterrorism",SSFR07,,2021-01-03,SSFR,M001169
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2021-01-03,SSAP,M001169
+Africa and Global Health Policy,SSFR09,,2021-01-03,SSFR,M001169
+"State, Foreign Operations, and Related Programs",SSAP20,,2021-01-03,SSAP,M001169
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2021-01-03,SSAP,M001169
+Children and Families,SSHR09,,2021-01-03,SSHR,M001169
+Primary Health and Retirement Security,SSHR12,,2021-01-03,SSHR,M001169
+Primary Health and Retirement Security,SSHR12,,2021-01-03,SSHR,M001111
+Defense,SSAP02,,2021-01-03,SSAP,M001111
+Homeland Security,SSAP14,,2021-01-03,SSAP,M001111
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2021-01-03,SSAP,M001111
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2021-01-03,SSAP,M001111
+Energy and Water Development,SSAP22,,2021-01-03,SSAP,M001111
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2021-01-03,SSAP,M001111
+Children and Families,SSHR09,,2021-01-03,SSHR,M001111
+Employment and Workplace Safety,SSHR11,,2021-01-03,SSHR,M001111
+Permanent Subcommittee on Investigations,SSGA01,2019-01-31,2021-01-03,SSGA,P000603
+Federal Spending Oversight and Emergency Management,SSGA18,2019-01-31,2021-01-03,SSGA,P000603
+Europe and Regional Security Cooperation,SSFR01,,2021-01-03,SSFR,P000603
+"Near East, South Asia, Central Asia, and Counterterrorism",SSFR07,,2021-01-03,SSFR,P000603
+"State Department and USAID Management, International Operations, and Bilateral International Development",SSFR14,,2021-01-03,SSFR,P000603
+"Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy",SSFR15,,2021-01-03,SSFR,P000603
+Children and Families,SSHR09,,2021-01-03,SSHR,P000603
+Employment and Workplace Safety,SSHR11,,2021-01-03,SSHR,P000603
+"Communications, Technology, Innovation, and the Internet",SSCM26,2019-01-24,2021-01-03,SSCM,P000595
+Aviation and Space,SSCM28,2019-01-24,2021-01-03,SSCM,P000595
+"Science, Oceans, Fisheries, and Weather",SSCM30,2019-01-24,2021-01-03,SSCM,P000595
+Transportation and Safety,SSCM32,2019-01-24,2021-01-03,SSCM,P000595
+Emerging Threats and Capabilities,SSAS20,,2021-01-03,SSAS,P000595
+Airland,SSAS14,,2021-01-03,SSAS,P000595
+"International Trade, Customs, and Global Competitiveness",SSFI13,2019-01-31,2021-01-03,SSFI,P000449
+Permanent Subcommittee on Investigations,SSGA01,2019-01-31,2021-01-03,SSGA,P000449
+Regulatory Affairs and Federal Management,SSGA19,2019-01-31,2021-01-03,SSGA,P000449
+"Social Security, Pensions, and Family Policy",SSFI02,2019-01-31,2021-01-03,SSFI,P000449
+Taxation and IRS Oversight,SSFI11,2019-01-31,2021-01-03,SSFI,P000449
+Europe and Regional Security Cooperation,SSFR01,,2021-01-03,SSFR,P000449
+"Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues",SSFR06,,2021-01-03,SSFR,P000449
+Africa and Global Health Policy,SSFR09,,2021-01-03,SSFR,P000449
+"State Department and USAID Management, International Operations, and Bilateral International Development",SSFR14,,2021-01-03,SSFR,P000449
+"Securities, Insurance, and Investment",SSBK04,2019-01-18,2021-01-03,SSBK,R000122
+Financial Institutions and Consumer Protection,SSBK08,2019-01-18,2021-01-03,SSBK,R000122
+"Housing, Transportation, and Community Development",SSBK09,2019-01-18,2021-01-03,SSBK,R000122
+Strategic Forces,SSAS16,,2021-01-03,SSAS,R000122
+Personnel,SSAS17,,2021-01-03,SSAS,R000122
+Defense,SSAP02,,2021-01-03,SSAP,R000122
+Emerging Threats and Capabilities,SSAS20,,2021-01-03,SSAS,R000122
+Cybersecurity,SSAS21,,2021-01-03,SSAS,R000122
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2021-01-03,SSAP,R000122
+"Interior, Environment, and Related Agencies",SSAP17,,2021-01-03,SSAP,R000122
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2021-01-03,SSAP,R000122
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2021-01-03,SSAP,R000122
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2021-01-03,SSAP,R000122
+Seapower,SSAS13,,2021-01-03,SSAS,R000122
+Airland,SSAS14,,2021-01-03,SSAS,R000122
+Readiness and Management Support,SSAS15,,2021-01-03,SSAS,R000122
+Energy,SSEG01,2019-02-05,2021-01-03,SSEG,R000584
+"Public Lands, Forests, and Mining",SSEG03,2019-02-05,2021-01-03,SSEG,R000584
+Water and Power,SSEG07,2019-02-05,2021-01-03,SSEG,R000584
+Europe and Regional Security Cooperation,SSFR01,,2021-01-03,SSFR,R000584
+"East Asia, the Pacific, and International Cybersecurity Policy",SSFR02,,2021-01-03,SSFR,R000584
+"Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues",SSFR06,,2021-01-03,SSFR,R000584
+"Near East, South Asia, Central Asia, and Counterterrorism",SSFR07,,2021-01-03,SSFR,R000584
+Africa and Global Health Policy,SSFR09,,2021-01-03,SSFR,R000584
+"State Department and USAID Management, International Operations, and Bilateral International Development",SSFR14,,2021-01-03,SSFR,R000584
+"Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy",SSFR15,,2021-01-03,SSFR,R000584
+Permanent Subcommittee on Investigations,SSGA01,2019-01-31,2021-01-03,SSGA,R000615
+Regulatory Affairs and Federal Management,SSGA19,2019-01-31,2021-01-03,SSGA,R000615
+Europe and Regional Security Cooperation,SSFR01,,2021-01-03,SSFR,R000615
+"Near East, South Asia, Central Asia, and Counterterrorism",SSFR07,,2021-01-03,SSFR,R000615
+"Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy",SSFR15,,2021-01-03,SSFR,R000615
+Children and Families,SSHR09,,2021-01-03,SSHR,R000615
+Employment and Workplace Safety,SSHR11,,2021-01-03,SSHR,R000615
+Primary Health and Retirement Security,SSHR12,,2021-01-03,SSHR,R000615
+Permanent Subcommittee on Investigations,SSGA01,2019-01-31,2021-01-03,SSGA,R000608
+Regulatory Affairs and Federal Management,SSGA19,2019-01-31,2021-01-03,SSGA,R000608
+"Communications, Technology, Innovation, and the Internet",SSCM26,2019-01-24,2021-01-03,SSCM,R000608
+Aviation and Space,SSCM28,2019-01-24,2021-01-03,SSCM,R000608
+"Manufacturing, Trade, and Consumer Protection",SSCM29,2019-01-24,2021-01-03,SSCM,R000608
+Primary Health and Retirement Security,SSHR12,,2021-01-03,SSHR,R000608
+Security,SSCM31,,2021-01-03,SSCM,R000608
+Employment and Workplace Safety,SSHR11,,2021-01-03,SSHR,R000608
+"Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight",SSEV09,2019-01-28,2021-01-03,SSEV,R000605
+"Securities, Insurance, and Investment",SSBK04,2019-01-18,2021-01-03,SSBK,R000605
+Financial Institutions and Consumer Protection,SSBK08,2019-01-18,2021-01-03,SSBK,R000605
+"Housing, Transportation, and Community Development",SSBK09,2019-01-18,2021-01-03,SSBK,R000605
+Strategic Forces,SSAS16,,2021-01-03,SSAS,R000605
+Personnel,SSAS17,,2021-01-03,SSAS,R000605
+Cybersecurity,SSAS21,,2021-01-03,SSAS,R000605
+Transportation and Infrastructure,SSEV08,,2021-01-03,SSEV,R000605
+"Clean Air, Climate, and Nuclear Safety",SSEV10,,2021-01-03,SSEV,R000605
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2021-01-03,SSAP,R000595
+"Interior, Environment, and Related Agencies",SSAP17,,2021-01-03,SSAP,R000595
+"East Asia, the Pacific, and International Cybersecurity Policy",SSFR02,,2021-01-03,SSFR,R000595
+"Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues",SSFR06,,2021-01-03,SSFR,R000595
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2021-01-03,SSAP,R000595
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2021-01-03,SSAP,R000595
+"State Department and USAID Management, International Operations, and Bilateral International Development",SSFR14,,2021-01-03,SSFR,R000595
+"State, Foreign Operations, and Related Programs",SSAP20,,2021-01-03,SSAP,R000595
+Energy,SSEG01,2019-02-05,2021-01-03,SSEG,S000033
+National Parks,SSEG04,2019-02-05,2021-01-03,SSEG,S000033
+Water and Power,SSEG07,2019-02-05,2021-01-03,SSEG,S000033
+Transportation and Infrastructure,SSEV08,,2021-01-03,SSEV,S000033
+"Clean Air, Climate, and Nuclear Safety",SSEV10,,2021-01-03,SSEV,S000033
+"Fisheries, Water, and Wildlife",SSEV15,,2021-01-03,SSEV,S000033
+Children and Families,SSHR09,,2021-01-03,SSHR,S000033
+Primary Health and Retirement Security,SSHR12,,2021-01-03,SSHR,S000033
+National Security and International Trade and Finance,SSBK05,2019-01-18,2021-01-03,SSBK,S001197
+Financial Institutions and Consumer Protection,SSBK08,2019-01-18,2021-01-03,SSBK,S001197
+Economic Policy,SSBK12,2019-01-18,2021-01-03,SSBK,S001197
+Intellectual Property,SSJU26,,2021-01-03,SSJU,S001197
+the Constitution,SSJU21,,2021-01-03,SSJU,S001197
+"Federal Courts, Oversight, Agency Action, and Federal Rights",SSJU25,,2021-01-03,SSJU,S001197
+"Communications, Technology, Innovation, and the Internet",SSCM26,2019-01-24,2021-01-03,SSCM,S001194
+Aviation and Space,SSCM28,2019-01-24,2021-01-03,SSCM,S001194
+"Manufacturing, Trade, and Consumer Protection",SSCM29,2019-01-24,2021-01-03,SSCM,S001194
+"Science, Oceans, Fisheries, and Weather",SSCM30,2019-01-24,2021-01-03,SSCM,S001194
+National Security and International Trade and Finance,SSBK05,2019-01-18,2021-01-03,SSBK,S001194
+Financial Institutions and Consumer Protection,SSBK08,2019-01-18,2021-01-03,SSBK,S001194
+Security,SSCM31,,2021-01-03,SSCM,S001194
+Defense,SSAP02,,2021-01-03,SSAP,S001194
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2021-01-03,SSAP,S001194
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2021-01-03,SSAP,S001194
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2021-01-03,SSAP,S001194
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2021-01-03,SSAP,S001194
+"Energy, Natural Resources, and Infrastructure",SSFI12,2019-01-31,2021-01-03,SSFI,S001184
+"International Trade, Customs, and Global Competitiveness",SSFI13,2019-01-31,2021-01-03,SSFI,S001184
+Fiscal Responsibility and Economic Growth,SSFI14,2019-01-31,2021-01-03,SSFI,S001184
+Health Care,SSFI10,2019-01-31,2021-01-03,SSFI,S001184
+"Securities, Insurance, and Investment",SSBK04,2019-01-18,2021-01-03,SSBK,S001184
+National Security and International Trade and Finance,SSBK05,2019-01-18,2021-01-03,SSBK,S001184
+Financial Institutions and Consumer Protection,SSBK08,2019-01-18,2021-01-03,SSBK,S001184
+Children and Families,SSHR09,,2021-01-03,SSHR,S001184
+Employment and Workplace Safety,SSHR11,,2021-01-03,SSHR,S001184
+Primary Health and Retirement Security,SSHR12,,2021-01-03,SSHR,S001184
+Federal Spending Oversight and Emergency Management,SSGA18,2019-01-31,2021-01-03,SSGA,S001217
+Regulatory Affairs and Federal Management,SSGA19,2019-01-31,2021-01-03,SSGA,S001217
+"Communications, Technology, Innovation, and the Internet",SSCM26,2019-01-24,2021-01-03,SSCM,S001217
+"Science, Oceans, Fisheries, and Weather",SSCM30,2019-01-24,2021-01-03,SSCM,S001217
+Transportation and Safety,SSCM32,2019-01-24,2021-01-03,SSCM,S001217
+Security,SSCM31,,2021-01-03,SSCM,S001217
+Personnel,SSAS17,,2021-01-03,SSAS,S001217
+Cybersecurity,SSAS21,,2021-01-03,SSAS,S001217
+Airland,SSAS14,,2021-01-03,SSAS,S001217
+Emerging Threats and Capabilities,SSAS20,,2021-01-03,SSAS,S001181
+Homeland Security,SSAP14,,2021-01-03,SSAP,S001181
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2021-01-03,SSAP,S001181
+Europe and Regional Security Cooperation,SSFR01,,2021-01-03,SSFR,S001181
+"Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues",SSFR06,,2021-01-03,SSFR,S001181
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2021-01-03,SSAP,S001181
+"Near East, South Asia, Central Asia, and Counterterrorism",SSFR07,,2021-01-03,SSFR,S001181
+"State, Foreign Operations, and Related Programs",SSAP20,,2021-01-03,SSAP,S001181
+Energy and Water Development,SSAP22,,2021-01-03,SSAP,S001181
+Seapower,SSAS13,,2021-01-03,SSAS,S001181
+Readiness and Management Support,SSAS15,,2021-01-03,SSAS,S001181
+"Securities, Insurance, and Investment",SSBK04,2019-01-18,2021-01-03,SSBK,S000320
+Financial Institutions and Consumer Protection,SSBK08,2019-01-18,2021-01-03,SSBK,S000320
+"Housing, Transportation, and Community Development",SSBK09,2019-01-18,2021-01-03,SSBK,S000320
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2021-01-03,SSAP,S000320
+Defense,SSAP02,,2021-01-03,SSAP,S000320
+Legislative Branch,SSAP08,,2021-01-03,SSAP,S000320
+Homeland Security,SSAP14,,2021-01-03,SSAP,S000320
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2021-01-03,SSAP,S000320
+"Interior, Environment, and Related Agencies",SSAP17,,2021-01-03,SSAP,S000320
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2021-01-03,SSAP,S000320
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2021-01-03,SSAP,S000320
+"State, Foreign Operations, and Related Programs",SSAP20,,2021-01-03,SSAP,S000320
+Transportation and Infrastructure,SSEV08,,2021-01-03,SSEV,S000320
+Energy and Water Development,SSAP22,,2021-01-03,SSAP,S000320
+"Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight",SSEV09,,2021-01-03,SSEV,S000320
+Financial Services and General Government,SSAP23,,2021-01-03,SSAP,S000320
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2021-01-03,SSAP,S000320
+"Fisheries, Water, and Wildlife",SSEV15,,2021-01-03,SSEV,S000320
+Federal Spending Oversight and Emergency Management,SSGA18,2019-01-31,2021-01-03,SSGA,S001191
+Regulatory Affairs and Federal Management,SSGA19,2019-01-31,2021-01-03,SSGA,S001191
+"Communications, Technology, Innovation, and the Internet",SSCM26,2019-01-24,2021-01-03,SSCM,S001191
+Aviation and Space,SSCM28,2019-01-24,2021-01-03,SSCM,S001191
+"Manufacturing, Trade, and Consumer Protection",SSCM29,2019-01-24,2021-01-03,SSCM,S001191
+Transportation and Safety,SSCM32,2019-01-24,2021-01-03,SSCM,S001191
+"Securities, Insurance, and Investment",SSBK04,2019-01-18,2021-01-03,SSBK,S001191
+National Security and International Trade and Finance,SSBK05,2019-01-18,2021-01-03,SSBK,S001191
+Economic Policy,SSBK12,2019-01-18,2021-01-03,SSBK,S001191
+Security,SSCM31,,2021-01-03,SSCM,S001191
+"Securities, Insurance, and Investment",SSBK04,2019-01-18,2021-01-03,SSBK,S001203
+"Housing, Transportation, and Community Development",SSBK09,2019-01-18,2021-01-03,SSBK,S001203
+Economic Policy,SSBK12,2019-01-18,2021-01-03,SSBK,S001203
+"Commodities, Risk Management, and Trade",SSAF13,,2021-01-03,SSAF,S001203
+Rural Development and Energy,SSAF15,,2021-01-03,SSAF,S001203
+Children and Families,SSHR09,,2021-01-03,SSHR,S001203
+"Livestock, Dairy, Poultry, Local Food Systems, and Food Safety and Security",SSAF17,,2021-01-03,SSAF,S001203
+Employment and Workplace Safety,SSHR11,,2021-01-03,SSHR,S001203
+Energy,SSEG01,2019-02-05,2021-01-03,SSEG,S000770
+"Public Lands, Forests, and Mining",SSEG03,2019-02-05,2021-01-03,SSEG,S000770
+National Parks,SSEG04,2019-02-05,2021-01-03,SSEG,S000770
+"International Trade, Customs, and Global Competitiveness",SSFI13,2019-01-31,2021-01-03,SSFI,S000770
+Health Care,SSFI10,2019-01-31,2021-01-03,SSFI,S000770
+"Commodities, Risk Management, and Trade",SSAF13,,2021-01-03,SSAF,S000770
+"Conservation, Climate, Forestry, and Natural Resources",SSAF14,,2021-01-03,SSAF,S000770
+Rural Development and Energy,SSAF15,,2021-01-03,SSAF,S000770
+"Food and Nutrition, Specialty Crops, Organics, and Research",SSAF16,,2021-01-03,SSAF,S000770
+"Livestock, Dairy, Poultry, Local Food Systems, and Food Safety and Security",SSAF17,,2021-01-03,SSAF,S000770
+"Manufacturing, Trade, and Consumer Protection",SSCM29,2019-01-24,2021-01-03,SSCM,S001198
+"Science, Oceans, Fisheries, and Weather",SSCM30,2019-01-24,2021-01-03,SSCM,S001198
+"Communications, Technology, Innovation, and the Internet",SSCM26,2019-01-24,2021-01-03,SSCM,S001198
+Strategic Forces,SSAS16,,2021-01-03,SSAS,S001198
+Transportation and Infrastructure,SSEV08,,2021-01-03,SSEV,S001198
+"Clean Air, Climate, and Nuclear Safety",SSEV10,,2021-01-03,SSEV,S001198
+"Fisheries, Water, and Wildlife",SSEV15,,2021-01-03,SSEV,S001198
+Airland,SSAS14,,2021-01-03,SSAS,S001198
+Readiness and Management Support,SSAS15,,2021-01-03,SSAS,S001198
+Security,SSCM31,,2021-01-03,SSCM,S001198
+"Communications, Technology, Innovation, and the Internet",SSCM26,2019-01-24,2021-01-03,SSCM,T000464
+Aviation and Space,SSCM28,2019-01-24,2021-01-03,SSCM,T000464
+"Securities, Insurance, and Investment",SSBK04,2019-01-18,2021-01-03,SSBK,T000464
+Financial Institutions and Consumer Protection,SSBK08,2019-01-18,2021-01-03,SSBK,T000464
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2021-01-03,SSAP,T000464
+Defense,SSAP02,,2021-01-03,SSAP,T000464
+Homeland Security,SSAP14,,2021-01-03,SSAP,T000464
+"Interior, Environment, and Related Agencies",SSAP17,,2021-01-03,SSAP,T000464
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2021-01-03,SSAP,T000464
+Energy and Water Development,SSAP22,,2021-01-03,SSAP,T000464
+"International Trade, Customs, and Global Competitiveness",SSFI13,2019-01-31,2021-01-03,SSFI,T000250
+Health Care,SSFI10,2019-01-31,2021-01-03,SSFI,T000250
+Taxation and IRS Oversight,SSFI11,2019-01-31,2021-01-03,SSFI,T000250
+Aviation and Space,SSCM28,2019-01-24,2021-01-03,SSCM,T000250
+"Manufacturing, Trade, and Consumer Protection",SSCM29,2019-01-24,2021-01-03,SSCM,T000250
+Transportation and Safety,SSCM32,2019-01-24,2021-01-03,SSCM,T000250
+"Communications, Technology, Innovation, and the Internet",SSCM26,2019-01-24,2021-01-03,SSCM,T000250
+"Conservation, Climate, Forestry, and Natural Resources",SSAF14,,2021-01-03,SSAF,T000250
+Rural Development and Energy,SSAF15,,2021-01-03,SSAF,T000250
+"Food and Nutrition, Specialty Crops, Organics, and Research",SSAF16,,2021-01-03,SSAF,T000250
+"Securities, Insurance, and Investment",SSBK04,2019-01-18,2021-01-03,SSBK,T000476
+Financial Institutions and Consumer Protection,SSBK08,2019-01-18,2021-01-03,SSBK,T000476
+Economic Policy,SSBK12,2019-01-18,2021-01-03,SSBK,T000476
+Personnel,SSAS17,,2021-01-03,SSAS,T000476
+Intellectual Property,SSJU26,,2021-01-03,SSJU,T000476
+"Immigration, Citizenship, and Border Safety",SSJU04,,2021-01-03,SSJU,T000476
+Criminal Justice and Counterterrorism,SSJU22,,2021-01-03,SSJU,T000476
+"Federal Courts, Oversight, Agency Action, and Federal Rights",SSJU25,,2021-01-03,SSJU,T000476
+Seapower,SSAS13,,2021-01-03,SSAS,T000476
+Airland,SSAS14,,2021-01-03,SSAS,T000476
+"International Trade, Customs, and Global Competitiveness",SSFI13,2019-01-31,2021-01-03,SSFI,T000461
+Health Care,SSFI10,2019-01-31,2021-01-03,SSFI,T000461
+Taxation and IRS Oversight,SSFI11,2019-01-31,2021-01-03,SSFI,T000461
+"Securities, Insurance, and Investment",SSBK04,2019-01-18,2021-01-03,SSBK,T000461
+National Security and International Trade and Finance,SSBK05,2019-01-18,2021-01-03,SSBK,T000461
+Financial Institutions and Consumer Protection,SSBK08,2019-01-18,2021-01-03,SSBK,T000461
+"Securities, Insurance, and Investment",SSBK04,2019-01-18,2021-01-03,SSBK,V000128
+National Security and International Trade and Finance,SSBK05,2019-01-18,2021-01-03,SSBK,V000128
+Financial Institutions and Consumer Protection,SSBK08,2019-01-18,2021-01-03,SSBK,V000128
+Legislative Branch,SSAP08,,2021-01-03,SSAP,V000128
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2021-01-03,SSAP,V000128
+"Interior, Environment, and Related Agencies",SSAP17,,2021-01-03,SSAP,V000128
+"State, Foreign Operations, and Related Programs",SSAP20,,2021-01-03,SSAP,V000128
+Transportation and Infrastructure,SSEV08,,2021-01-03,SSEV,V000128
+Financial Services and General Government,SSAP23,,2021-01-03,SSAP,V000128
+"Fisheries, Water, and Wildlife",SSEV15,,2021-01-03,SSEV,V000128
+Taxation and IRS Oversight,SSFI11,2019-01-31,2021-01-03,SSFI,W000805
+"International Trade, Customs, and Global Competitiveness",SSFI13,2019-01-31,2021-01-03,SSFI,W000805
+Health Care,SSFI10,2019-01-31,2021-01-03,SSFI,W000805
+"Securities, Insurance, and Investment",SSBK04,2019-01-18,2021-01-03,SSBK,W000805
+National Security and International Trade and Finance,SSBK05,2019-01-18,2021-01-03,SSBK,W000805
+Financial Institutions and Consumer Protection,SSBK08,2019-01-18,2021-01-03,SSBK,W000805
+"Securities, Insurance, and Investment",SSBK04,2019-01-18,2021-01-03,SSBK,W000817
+Financial Institutions and Consumer Protection,SSBK08,2019-01-18,2021-01-03,SSBK,W000817
+"Housing, Transportation, and Community Development",SSBK09,2019-01-18,2021-01-03,SSBK,W000817
+Strategic Forces,SSAS16,,2021-01-03,SSAS,W000817
+Personnel,SSAS17,,2021-01-03,SSAS,W000817
+Employment and Workplace Safety,SSHR11,,2021-01-03,SSHR,W000817
+Airland,SSAS14,,2021-01-03,SSAS,W000817
+Primary Health and Retirement Security,SSHR12,,2021-01-03,SSHR,W000817
+Taxation and IRS Oversight,SSFI11,2019-01-31,2021-01-03,SSFI,W000802
+"Energy, Natural Resources, and Infrastructure",SSFI12,2019-01-31,2021-01-03,SSFI,W000802
+Health Care,SSFI10,2019-01-31,2021-01-03,SSFI,W000802
+Intellectual Property,SSJU26,,2021-01-03,SSJU,W000802
+the Constitution,SSJU21,,2021-01-03,SSJU,W000802
+Criminal Justice and Counterterrorism,SSJU22,,2021-01-03,SSJU,W000802
+"Federal Courts, Oversight, Agency Action, and Federal Rights",SSJU25,,2021-01-03,SSJU,W000802
+Transportation and Infrastructure,SSEV08,,2021-01-03,SSEV,W000802
+"Clean Air, Climate, and Nuclear Safety",SSEV10,,2021-01-03,SSEV,W000802
+"Fisheries, Water, and Wildlife",SSEV15,,2021-01-03,SSEV,W000802
+Security,SSCM31,,2021-01-03,SSCM,W000437
+"Communications, Technology, Innovation, and the Internet",SSCM26,,2021-01-03,SSCM,W000437
+Cybersecurity,SSAS21,,2021-01-03,SSAS,W000437
+Aviation and Space,SSCM28,,2021-01-03,SSCM,W000437
+"Manufacturing, Trade, and Consumer Protection",SSCM29,,2021-01-03,SSCM,W000437
+"Science, Oceans, Fisheries, and Weather",SSCM30,,2021-01-03,SSCM,W000437
+Transportation and Safety,SSCM32,,2021-01-03,SSCM,W000437
+Transportation and Infrastructure,SSEV08,,2021-01-03,SSEV,W000437
+"Clean Air, Climate, and Nuclear Safety",SSEV10,,2021-01-03,SSEV,W000437
+"Fisheries, Water, and Wildlife",SSEV15,,2021-01-03,SSEV,W000437
+Seapower,SSAS13,,2021-01-03,SSAS,W000437
+Airland,SSAS14,,2021-01-03,SSAS,W000437
+Energy,SSEG01,2019-02-05,2021-01-03,SSEG,W000779
+"Public Lands, Forests, and Mining",SSEG03,2019-02-05,2021-01-03,SSEG,W000779
+Water and Power,SSEG07,2019-02-05,2021-01-03,SSEG,W000779
+Taxation and IRS Oversight,SSFI11,2019-01-31,2021-01-03,SSFI,W000779
+"Energy, Natural Resources, and Infrastructure",SSFI12,2019-01-31,2021-01-03,SSFI,W000779
+"International Trade, Customs, and Global Competitiveness",SSFI13,2019-01-31,2021-01-03,SSFI,W000779
+Fiscal Responsibility and Economic Growth,SSFI14,2019-01-31,2021-01-03,SSFI,W000779
+"Social Security, Pensions, and Family Policy",SSFI02,2019-01-31,2021-01-03,SSFI,W000779
+Health Care,SSFI10,,2021-01-03,SSFI,W000779
+"International Trade, Customs, and Global Competitiveness",SSFI13,2019-01-31,2021-01-03,SSFI,Y000064
+"Social Security, Pensions, and Family Policy",SSFI02,2019-01-31,2021-01-03,SSFI,Y000064
+Health Care,SSFI10,2019-01-31,2021-01-03,SSFI,Y000064
+"Communications, Technology, Innovation, and the Internet",SSCM26,2019-01-24,2021-01-03,SSCM,Y000064
+"Manufacturing, Trade, and Consumer Protection",SSCM29,2019-01-24,2021-01-03,SSCM,Y000064
+Transportation and Safety,SSCM32,2019-01-24,2021-01-03,SSCM,Y000064
+Security,SSCM31,,2021-01-03,SSCM,Y000064
+"East Asia, the Pacific, and International Cybersecurity Policy",SSFR02,,2021-01-03,SSFR,Y000064
+"State Department and USAID Management, International Operations, and Bilateral International Development",SSFR14,,2021-01-03,SSFR,Y000064
+"Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy",SSFR15,,2021-01-03,SSFR,Y000064
+"Nutrition, Foreign Agriculture, and Horticulture",HSAG03,2019-02-06,2021-01-03,HSAG,A000370
+Workforce Protections,HSED10,2019-01-29,2021-01-03,HSED,A000370
+Higher Education and Workforce Development,HSED13,2019-01-29,2021-01-03,HSED,A000370
+Diversity and Inclusion,HSBA13,,2021-01-03,HSBA,A000370
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",HSAP01,2019-01-29,2021-01-03,HSAP,A000055
+Defense,HSAP02,2019-01-29,2021-01-03,HSAP,A000055
+"Commerce, Justice, Science, and Related Agencies",HSAP19,2019-01-29,2021-01-03,HSAP,A000055
+Elections,HSHA01,2019-02-07,2021-01-03,HSHA,A000371
+Defense,HSAP02,,2021-01-03,HSAP,A000371
+Homeland Security,HSAP15,,2021-01-03,HSAP,A000371
+"Transportation, Housing and Urban Development, and Related Agencies",HSAP20,,2021-01-03,HSAP,A000371
+Elections,HSHA08,,2021-01-03,HSHA,A000371
+Forestry,HSAG15,2019-02-06,2021-01-03,HSAG,A000372
+"General Farm Commodities, Risk Management, and Credit",HSAG16,2019-02-06,2021-01-03,HSAG,A000372
+"Health, Employment, Labor, and Pensions",HSED02,2019-01-29,2021-01-03,HSED,A000372
+"Early Childhood, Elementary, and Secondary Education",HSED14,2019-01-29,2021-01-03,HSED,A000372
+Disability Assistance and Memorial Affairs,HSVR09,2019-01-31,2021-01-03,HSVR,A000376
+"Middle East, North Africa, and Central Asia",HSFA13,2019-01-29,2021-01-03,HSFA,A000376
+Aviation,HSPW05,,2021-01-03,HSPW,A000376
+Highways and Transit,HSPW12,,2021-01-03,HSPW,A000376
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,A000376
+"Interior, Environment, and Related Agencies",HSAP06,2019-01-29,2021-01-03,HSAP,A000369
+Financial Services and General Government,HSAP23,2019-01-29,2021-01-03,HSAP,A000369
+Environment,HSGO28,2019-01-29,2021-01-03,HSGO,A000377
+"Immigration Integrity, Security, and Enforcement",HSJU01,2019-01-28,2021-01-03,HSJU,A000377
+"The Administrative State, Regulatory Reform, and Antitrust",HSJU05,2019-01-28,2021-01-03,HSJU,A000377
+The Constitution and Limited Government,HSJU10,2019-01-28,2021-01-03,HSJU,A000377
+Tax,HSWM05,2019-01-16,2021-01-03,HSWM,A000375
+Social Security,HSWM01,2019-01-16,2021-01-03,HSWM,A000375
+Forestry,HSAG15,2019-02-06,2021-01-03,HSAG,A000378
+"Commodity Markets, Digital Assets, and Rural Development",HSAG22,2019-02-06,2021-01-03,HSAG,A000378
+Housing and Insurance,HSBA04,,2021-01-03,HSBA,A000378
+Capital Markets,HSBA16,,2021-01-03,HSBA,A000378
+Water Resources and Environment,HSPW02,,2021-01-03,HSPW,B001291
+Space and Aeronautics,HSSY16,,2021-01-03,HSSY,B001291
+Environment,HSSY18,,2021-01-03,HSSY,B001291
+Highways and Transit,HSPW12,,2021-01-03,HSPW,B001291
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,B001291
+"Nutrition, Foreign Agriculture, and Horticulture",HSAG03,2019-02-06,2021-01-03,HSAG,B001298
+"Livestock, Dairy, and Poultry",HSAG29,2019-02-06,2021-01-03,HSAG,B001298
+Tactical Air and Land Forces,HSAS25,,2021-01-03,HSAS,B001298
+Intelligence and Special Operations,HSAS26,,2021-01-03,HSAS,B001298
+"Conservation, Research, and Biotechnology",HSAG14,2019-02-06,2021-01-03,HSAG,B001307
+"Commodity Markets, Digital Assets, and Rural Development",HSAG22,2019-02-06,2021-01-03,HSAG,B001307
+Research and Technology,HSSY15,,2021-01-03,HSSY,B001307
+Environment,HSSY18,,2021-01-03,HSSY,B001307
+Research and Technology,HSSY15,,2021-01-03,HSSY,B001306
+Aviation,HSPW05,,2021-01-03,HSPW,B001306
+"Innovation, Entrepreneurship, and Workforce Development",HSSM26,,2021-01-03,HSSM,B001306
+Highways and Transit,HSPW12,,2021-01-03,HSPW,B001306
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,B001306
+Contracting and Infrastructure,HSSM23,,2021-01-03,HSSM,B001306
+Technology Modernization,HSVR11,2019-01-30,2021-01-03,HSVR,B001299
+"Health, Employment, Labor, and Pensions",HSED02,2019-01-29,2021-01-03,HSED,B001299
+Higher Education and Workforce Development,HSED13,2019-01-29,2021-01-03,HSED,B001299
+Tactical Air and Land Forces,HSAS25,,2021-01-03,HSAS,B001299
+Intelligence and Special Operations,HSAS26,,2021-01-03,HSAS,B001299
+Economic Opportunity,HSVR10,,2021-01-03,HSVR,B001299
+Oversight and Investigations,HSBA09,2019-01-24,2021-01-03,HSBA,B001282
+Health,HSVR03,,2021-01-03,HSVR,B001282
+Economic Opportunity,HSVR10,,2021-01-03,HSVR,B001282
+Consumer Protection and Financial Institutions,HSBA15,,2021-01-03,HSBA,B001282
+"Energy, Climate, and Grid Security",HSIF03,2019-01-15,2021-01-03,HSIF,B001300
+Health,HSIF14,2019-01-15,2021-01-03,HSIF,B001300
+"Environment, Manufacturing, and Critical Materials",HSIF18,2019-01-15,2021-01-03,HSIF,B001300
+Transportation and Maritime Security,HSHM07,,2021-01-03,HSHM,B001300
+"Oversight, Investigations, and Accountability",HSHM09,,2021-01-03,HSHM,B001300
+Africa,HSFA16,2019-01-29,2021-01-03,HSFA,B001270
+"Courts, Intellectual Property, and the Internet",HSJU03,2019-01-28,2021-01-03,HSJU,B001270
+Crime and Federal Government Surveillance,HSJU08,2019-01-28,2021-01-03,HSJU,B001270
+Housing and Insurance,HSBA04,,2021-01-03,HSBA,B001281
+Oversight and Investigations,HSBA09,,2021-01-03,HSBA,B001281
+Diversity and Inclusion,HSBA13,,2021-01-03,HSBA,B001281
+Space and Aeronautics,HSSY16,2019-01-30,2021-01-03,HSSY,B001287
+Oversight and Accountability,HSFA17,2019-01-29,2021-01-03,HSFA,B001287
+Indo-Pacific,HSFA05,2019-01-29,2021-01-03,HSFA,B001287
+Oversight and Investigations,HSVR08,2019-01-30,2021-01-03,HSVR,B001301
+Readiness,HSAS03,,2021-01-03,HSAS,B001301
+Seapower and Projection Forces,HSAS28,,2021-01-03,HSAS,B001301
+Economic Opportunity,HSVR10,,2021-01-03,HSVR,B001301
+Military Personnel,HSAS02,,2021-01-03,HSAS,B001301
+Space and Aeronautics,HSSY16,2019-01-30,2021-01-03,HSSY,B001292
+Environment,HSSY18,2019-01-30,2021-01-03,HSSY,B001292
+Investigations and Oversight,HSSY21,2019-01-30,2021-01-03,HSSY,B001292
+Trade,HSWM04,2019-01-16,2021-01-03,HSWM,B001292
+Tax,HSWM05,2019-01-16,2021-01-03,HSWM,B001292
+"Immigration Integrity, Security, and Enforcement",HSJU01,2019-01-28,2021-01-03,HSJU,B001302
+"Courts, Intellectual Property, and the Internet",HSJU03,2019-01-28,2021-01-03,HSJU,B001302
+Energy,HSSY20,,2021-01-03,HSSY,B001302
+Investigations and Oversight,HSSY21,,2021-01-03,HSSY,B001302
+Economic Opportunity,HSVR10,2019-01-30,2021-01-03,HSVR,B001257
+Health,HSIF14,2019-01-18,2021-01-03,HSIF,B001257
+Communications and Technology,HSIF16,2019-01-18,2021-01-03,HSIF,B001257
+Disability Assistance and Memorial Affairs,HSVR09,,2021-01-03,HSVR,B001257
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",HSAP01,,2021-01-03,HSAP,B000490
+"Military Construction, Veterans Affairs, and Related Agencies",HSAP18,,2021-01-03,HSAP,B000490
+Financial Services and General Government,HSAP23,,2021-01-03,HSAP,B000490
+Trade,HSWM04,2019-01-16,2021-01-03,HSWM,B000574
+Health,HSWM02,2019-01-16,2021-01-03,HSWM,B000574
+"Energy, Climate, and Grid Security",HSIF03,2019-01-15,2021-01-03,HSIF,B001303
+Health,HSIF14,2019-01-15,2021-01-03,HSIF,B001303
+"Innovation, Data, and Commerce",HSIF17,2019-01-15,2021-01-03,HSIF,B001303
+"Environment, Manufacturing, and Critical Materials",HSIF18,2019-01-15,2021-01-03,HSIF,B001303
+Environment,HSSY18,2019-01-30,2021-01-03,HSSY,B001278
+Investigations and Oversight,HSSY21,2019-01-30,2021-01-03,HSSY,B001278
+Higher Education and Workforce Development,HSED13,2019-01-29,2021-01-03,HSED,B001278
+Civil Rights and Human Services,HSED07,,2021-01-03,HSED,B001278
+"Conservation, Research, and Biotechnology",HSAG14,2019-02-06,2021-01-03,HSAG,B001295
+"Commodity Markets, Digital Assets, and Rural Development",HSAG22,2019-02-06,2021-01-03,HSAG,B001295
+Disability Assistance and Memorial Affairs,HSVR09,2019-01-30,2021-01-03,HSVR,B001295
+Water Resources and Environment,HSPW02,,2021-01-03,HSPW,B001295
+Highways and Transit,HSPW12,,2021-01-03,HSPW,B001295
+Oversight and Investigations,HSVR08,,2021-01-03,HSVR,B001295
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,B001295
+Tax,HSWM05,2019-01-16,2021-01-03,HSWM,B001296
+Oversight,HSWM06,2019-01-16,2021-01-03,HSWM,B001296
+Social Security,HSWM01,2019-01-16,2021-01-03,HSWM,B001296
+Readiness,HSAS03,,2021-01-03,HSAS,B001274
+Space and Aeronautics,HSSY16,,2021-01-03,HSSY,B001274
+Strategic Forces,HSAS29,,2021-01-03,HSAS,B001274
+"Water, Wildlife and Fisheries",HSII13,2019-01-30,2021-01-03,HSII,B001304
+Energy and Mineral Resources,HSII06,2019-01-30,2021-01-03,HSII,B001304
+Tactical Air and Land Forces,HSAS25,2019-01-23,2021-01-03,HSAS,B001304
+Intelligence and Special Operations,HSAS26,2019-01-23,2021-01-03,HSAS,B001304
+Aviation,HSPW05,,2021-01-03,HSPW,B001304
+Coast Guard and Maritime Transportation,HSPW07,,2021-01-03,HSPW,B001304
+Highways and Transit,HSPW12,,2021-01-03,HSPW,B001304
+"Economic Development, Public Buildings, and Emergency Management",HSPW13,,2021-01-03,HSPW,B001304
+Health,HSVR03,2019-01-31,2021-01-03,HSVR,B001285
+Technology Modernization,HSVR11,2019-01-31,2021-01-03,HSVR,B001285
+Aviation,HSPW05,,2021-01-03,HSPW,B001285
+Highways and Transit,HSPW12,,2021-01-03,HSPW,B001285
+Trade,HSWM04,2019-01-16,2021-01-03,HSWM,B001260
+Health,HSWM02,2019-01-16,2021-01-03,HSWM,B001260
+Oversight and Accountability,HSFA17,2019-01-29,2021-01-03,HSFA,B001297
+Western Hemisphere,HSFA07,2019-01-29,2021-01-03,HSFA,B001297
+"Immigration Integrity, Security, and Enforcement",HSJU01,2019-01-28,2021-01-03,HSJU,B001297
+"The Administrative State, Regulatory Reform, and Antitrust",HSJU05,2019-01-28,2021-01-03,HSJU,B001297
+"Energy, Climate, and Grid Security",HSIF03,2019-01-18,2021-01-03,HSIF,B001275
+Health,HSIF14,2019-01-18,2021-01-03,HSIF,B001275
+"Innovation, Data, and Commerce",HSIF17,2019-01-18,2021-01-03,HSIF,B001275
+Diversity and Inclusion,HSBA13,,2021-01-03,HSBA,B001305
+Consumer Protection and Financial Institutions,HSBA15,,2021-01-03,HSBA,B001305
+Africa,HSFA16,2019-01-29,2021-01-03,HSFA,B001309
+Europe,HSFA14,2019-01-29,2021-01-03,HSFA,B001309
+"Innovation, Entrepreneurship, and Workforce Development",HSSM26,,2021-01-03,HSSM,B001309
+"Oversight, Investigations, and Regulations",HSSM24,,2021-01-03,HSSM,B001309
+Oversight and Investigations,HSIF02,2019-01-18,2021-01-03,HSIF,B001248
+Health,HSIF14,2019-01-18,2021-01-03,HSIF,B001248
+"Innovation, Data, and Commerce",HSIF17,2019-01-18,2021-01-03,HSIF,B001248
+"Livestock, Dairy, and Poultry",HSAG29,2019-02-06,2021-01-03,HSAG,B001286
+Defense,HSAP02,,2021-01-03,HSAP,B001286
+"Labor, Health and Human Services, Education, and Related Agencies",HSAP07,,2021-01-03,HSAP,B001286
+"Military Construction, Veterans Affairs, and Related Agencies",HSAP18,,2021-01-03,HSAP,B001286
+Elections,HSHA01,2019-02-07,2021-01-03,HSHA,B001251
+"Energy, Climate, and Grid Security",HSIF03,2019-01-15,2021-01-03,HSIF,B001251
+Health,HSIF14,2019-01-15,2021-01-03,HSIF,B001251
+Communications and Technology,HSIF16,2019-01-15,2021-01-03,HSIF,B001251
+Elections,HSHA08,,2021-01-03,HSHA,B001251
+Defense,HSAP02,2019-01-29,2021-01-03,HSAP,C000059
+"Energy and Water Development, and Related Agencies",HSAP10,2019-01-29,2021-01-03,HSAP,C000059
+"Conservation, Research, and Biotechnology",HSAG14,2019-02-06,2021-01-03,HSAG,C001112
+"Livestock, Dairy, and Poultry",HSAG29,2019-02-06,2021-01-03,HSAG,C001112
+Tactical Air and Land Forces,HSAS25,2019-01-23,2021-01-03,HSAS,C001112
+Strategic Forces,HSAS29,2019-01-23,2021-01-03,HSAS,C001112
+Aviation,HSPW05,,2021-01-03,HSPW,C001112
+Highways and Transit,HSPW12,,2021-01-03,HSPW,C001112
+"General Farm Commodities, Risk Management, and Credit",HSAG16,,2021-01-03,HSAG,C001112
+Water Resources and Environment,HSPW02,,2021-01-03,HSPW,C001112
+Health,HSIF14,2019-01-15,2021-01-03,HSIF,C001097
+Communications and Technology,HSIF16,2019-01-15,2021-01-03,HSIF,C001097
+"Innovation, Data, and Commerce",HSIF17,2019-01-15,2021-01-03,HSIF,C001097
+Aviation,HSPW05,,2021-01-03,HSPW,C001072
+"Counterterrorism, Counterintelligence, and Counterproliferation",HSIG05,,2021-01-03,HSIG,C001072
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,C001072
+Strategic Technologies and Advanced Research,HSIG10,,2021-01-03,HSIG,C001072
+Health,HSIF14,2019-01-18,2021-01-03,HSIF,C001103
+"Innovation, Data, and Commerce",HSIF17,2019-01-18,2021-01-03,HSIF,C001103
+"Environment, Manufacturing, and Critical Materials",HSIF18,2019-01-18,2021-01-03,HSIF,C001103
+Defense,HSAP02,2019-01-29,2021-01-03,HSAP,C001051
+"Military Construction, Veterans Affairs, and Related Agencies",HSAP18,2019-01-29,2021-01-03,HSAP,C001051
+Indian and Insular Affairs,HSII24,,2021-01-03,HSII,C001090
+"Military Construction, Veterans Affairs, and Related Agencies",HSAP18,,2021-01-03,HSAP,C001090
+"Commerce, Justice, Science, and Related Agencies",HSAP19,,2021-01-03,HSAP,C001090
+Financial Services and General Government,HSAP23,,2021-01-03,HSAP,C001090
+Energy and Mineral Resources,HSII06,,2021-01-03,HSII,C001090
+"Water, Wildlife and Fisheries",HSII13,2019-01-30,2021-01-03,HSII,C001055
+Indian and Insular Affairs,HSII24,2019-01-30,2021-01-03,HSII,C001055
+Federal Lands,HSII10,2019-01-30,2021-01-03,HSII,C001055
+"Military Construction, Veterans Affairs, and Related Agencies",HSAP18,,2021-01-03,HSAP,C001055
+"Commerce, Justice, Science, and Related Agencies",HSAP19,,2021-01-03,HSAP,C001055
+Legislative Branch,HSAP24,,2021-01-03,HSAP,C001055
+Environment,HSSY18,2019-01-30,2021-01-03,HSSY,C001117
+Energy,HSSY20,2019-01-30,2021-01-03,HSSY,C001117
+Oversight and Investigations,HSBA09,,2021-01-03,HSBA,C001117
+Capital Markets,HSBA16,,2021-01-03,HSBA,C001117
+Oversight and Investigations,HSIF02,2019-01-15,2021-01-03,HSIF,C001066
+Health,HSIF14,2019-01-15,2021-01-03,HSIF,C001066
+"Innovation, Data, and Commerce",HSIF17,2019-01-15,2021-01-03,HSIF,C001066
+Higher Education and Workforce Development,HSED13,2019-01-29,2021-01-03,HSED,C001091
+Western Hemisphere,HSFA07,2019-01-29,2021-01-03,HSFA,C001091
+"Counterterrorism, Counterintelligence, and Counterproliferation",HSIG05,,2021-01-03,HSIG,C001091
+Intelligence Modernization and Readiness,HSIG08,,2021-01-03,HSIG,C001091
+Europe,HSFA14,,2021-01-03,HSFA,C001091
+"Middle East, North Africa, and Central Asia",HSFA13,2019-01-29,2021-01-03,HSFA,C000266
+"Courts, Intellectual Property, and the Internet",HSJU03,2019-01-28,2021-01-03,HSJU,C000266
+Crime and Federal Government Surveillance,HSJU08,2019-01-28,2021-01-03,HSJU,C000266
+Energy and Mineral Resources,HSII06,2019-01-30,2021-01-03,HSII,C001109
+Strategic Forces,HSAS29,,2021-01-03,HSAS,C001109
+Military Personnel,HSAS02,,2021-01-03,HSAS,C001109
+"Oversight, Investigations, and Regulations",HSSM24,2019-01-29,2021-01-03,HSSM,C001080
+Oversight,HSWM06,2019-01-16,2021-01-03,HSWM,C001080
+Health,HSWM02,2019-01-16,2021-01-03,HSWM,C001080
+Work and Welfare,HSWM03,2019-01-16,2021-01-03,HSWM,C001080
+Contracting and Infrastructure,HSSM23,,2021-01-03,HSSM,C001080
+Oversight and Accountability,HSFA17,2019-01-29,2021-01-03,HSFA,C001084
+"Middle East, North Africa, and Central Asia",HSFA13,2019-01-29,2021-01-03,HSFA,C001084
+Europe,HSFA14,2019-01-29,2021-01-03,HSFA,C001084
+"The Administrative State, Regulatory Reform, and Antitrust",HSJU05,2019-01-28,2021-01-03,HSJU,C001084
+Crime and Federal Government Surveillance,HSJU08,2019-01-28,2021-01-03,HSJU,C001084
+"Labor, Health and Human Services, Education, and Related Agencies",HSAP07,,2021-01-03,HSAP,C001101
+"Transportation, Housing and Urban Development, and Related Agencies",HSAP20,,2021-01-03,HSAP,C001101
+Legislative Branch,HSAP24,,2021-01-03,HSAP,C001101
+Oversight and Investigations,HSIF02,2019-01-15,2021-01-03,HSIF,C001067
+Communications and Technology,HSIF16,2019-01-15,2021-01-03,HSIF,C001067
+"Environment, Manufacturing, and Critical Materials",HSIF18,2019-01-15,2021-01-03,HSIF,C001067
+Border Security and Enforcement,HSHM11,,2021-01-03,HSHM,C001067
+Emergency Management and Technology,HSHM12,,2021-01-03,HSHM,C001067
+Financial Institutions and Monetary Policy,HSBA20,2019-01-24,2021-01-03,HSBA,C001061
+"National Security, Illicit Finance, and International Financial Institutions",HSBA01,,2021-01-03,HSBA,C001061
+Housing and Insurance,HSBA04,,2021-01-03,HSBA,C001061
+Transportation and Maritime Security,HSHM07,,2021-01-03,HSHM,C001061
+Workforce Protections,HSED10,2019-01-29,2021-01-03,HSED,C001118
+Higher Education and Workforce Development,HSED13,2019-01-29,2021-01-03,HSED,C001118
+"Courts, Intellectual Property, and the Internet",HSJU03,2019-01-28,2021-01-03,HSJU,C001118
+Crime and Federal Government Surveillance,HSJU08,2019-01-28,2021-01-03,HSJU,C001118
+The Constitution and Limited Government,HSJU10,2019-01-28,2021-01-03,HSJU,C001118
+"National Security, the Border, and Foreign Affairs",HSGO06,2019-01-29,2021-01-03,HSGO,C001115
+Energy,HSSY20,,2021-01-03,HSSY,C001115
+Civil Rights and Civil Liberties,HSGO02,,2021-01-03,HSGO,C001115
+"Economic Growth, Energy Policy, and Regulatory Affairs",HSGO05,,2021-01-03,HSGO,C001115
+Research and Technology,HSSY15,2019-01-30,2021-01-03,HSSY,C001068
+Investigations and Oversight,HSSY21,2019-01-30,2021-01-03,HSSY,C001068
+"Courts, Intellectual Property, and the Internet",HSJU03,2019-01-28,2021-01-03,HSJU,C001068
+Crime and Federal Government Surveillance,HSJU08,2019-01-28,2021-01-03,HSJU,C001068
+The Constitution and Limited Government,HSJU10,2019-01-28,2021-01-03,HSJU,C001068
+Aviation,HSPW05,,2021-01-03,HSPW,C001068
+Highways and Transit,HSPW12,,2021-01-03,HSPW,C001068
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,C001068
+Defense,HSAP02,2019-01-29,2021-01-03,HSAP,C001053
+"Labor, Health and Human Services, Education, and Related Agencies",HSAP07,2019-01-29,2021-01-03,HSAP,C001053
+"Conservation, Research, and Biotechnology",HSAG14,2019-02-06,2021-01-03,HSAG,C001108
+"Livestock, Dairy, and Poultry",HSAG29,2019-02-06,2021-01-03,HSAG,C001108
+Government Operations and the Federal Workforce,HSGO24,2019-01-29,2021-01-03,HSGO,C001108
+Environment,HSGO28,2019-01-29,2021-01-03,HSGO,C001108
+Higher Education and Workforce Development,HSED13,2019-01-29,2021-01-03,HSED,C001108
+Civil Rights and Human Services,HSED07,,2021-01-03,HSED,C001108
+"Economic Growth, Energy Policy, and Regulatory Affairs",HSGO05,,2021-01-03,HSGO,C001108
+Indo-Pacific,HSFA05,2019-01-29,2021-01-03,HSFA,C001078
+"Middle East, North Africa, and Central Asia",HSFA13,2019-01-29,2021-01-03,HSFA,C001078
+Government Operations and the Federal Workforce,HSGO24,2019-01-24,2021-01-03,HSGO,C001078
+"Economic Growth, Energy Policy, and Regulatory Affairs",HSGO05,,2021-01-03,HSGO,C001078
+"National Security, the Border, and Foreign Affairs",HSGO06,2019-01-29,2021-01-03,HSGO,C000754
+Intelligence and Special Operations,HSAS26,2019-01-23,2021-01-03,HSAS,C000754
+Seapower and Projection Forces,HSAS28,2019-01-23,2021-01-03,HSAS,C000754
+Strategic Forces,HSAS29,2019-01-23,2021-01-03,HSAS,C000754
+Transportation and Maritime Security,HSHM07,2019-01-29,2021-01-03,HSHM,C001110
+"Immigration Integrity, Security, and Enforcement",HSJU01,2019-01-28,2021-01-03,HSJU,C001110
+"Courts, Intellectual Property, and the Internet",HSJU03,2019-01-28,2021-01-03,HSJU,C001110
+Border Security and Enforcement,HSHM11,,2021-01-03,HSHM,C001110
+"Water, Wildlife and Fisheries",HSII13,2019-01-30,2021-01-03,HSII,C001059
+Europe,HSFA14,2019-01-29,2021-01-03,HSFA,C001059
+"Livestock, Dairy, and Poultry",HSAG29,2019-01-24,2021-01-03,HSAG,C001059
+"Health, Employment, Labor, and Pensions",HSED02,2019-01-29,2021-01-03,HSED,C001069
+Higher Education and Workforce Development,HSED13,2019-01-29,2021-01-03,HSED,C001069
+Tactical Air and Land Forces,HSAS25,2019-01-23,2021-01-03,HSAS,C001069
+Seapower and Projection Forces,HSAS28,2019-01-23,2021-01-03,HSAS,C001069
+"General Farm Commodities, Risk Management, and Credit",HSAG16,2019-02-06,2021-01-03,HSAG,C001119
+"Commodity Markets, Digital Assets, and Rural Development",HSAG22,2019-02-06,2021-01-03,HSAG,C001119
+"Livestock, Dairy, and Poultry",HSAG29,2019-02-06,2021-01-03,HSAG,C001119
+Aviation,HSPW05,,2021-01-03,HSPW,C001119
+Highways and Transit,HSPW12,,2021-01-03,HSPW,C001119
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,C001119
+Water Resources and Environment,HSPW02,,2021-01-03,HSPW,C001119
+"General Farm Commodities, Risk Management, and Credit",HSAG16,2019-02-06,2021-01-03,HSAG,C001087
+"Commodity Markets, Digital Assets, and Rural Development",HSAG22,2019-02-06,2021-01-03,HSAG,C001087
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,2019-01-17,2021-01-03,HSPW,C001087
+"Counterterrorism, Counterintelligence, and Counterproliferation",HSIG05,,2021-01-03,HSIG,C001087
+Highways and Transit,HSPW12,,2021-01-03,HSPW,C001087
+"Oversight, Investigations, and Accountability",HSHM09,,2021-01-03,HSHM,C001120
+Emergency Management and Technology,HSHM12,,2021-01-03,HSHM,C001120
+Space and Aeronautics,HSSY16,2019-01-30,2021-01-03,HSSY,C001111
+Environment,HSSY18,2019-01-30,2021-01-03,HSSY,C001111
+Defense,HSAP02,,2021-01-03,HSAP,C001111
+"Commerce, Justice, Science, and Related Agencies",HSAP19,,2021-01-03,HSAP,C001111
+Financial Services and General Government,HSAP23,,2021-01-03,HSAP,C001111
+Intelligence and Special Operations,HSAS26,2019-01-23,2021-01-03,HSAS,C001121
+Readiness,HSAS03,2019-01-23,2021-01-03,HSAS,C001121
+"Innovation, Entrepreneurship, and Workforce Development",HSSM26,,2021-01-03,HSSM,C001121
+"Underserved, Agricultural, and Rural Business Development",HSSM25,,2021-01-03,HSSM,C001121
+"Economic Growth, Tax, and Capital Access",HSSM27,,2021-01-03,HSSM,C001121
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",HSAP01,,2021-01-03,HSAP,C001063
+Defense,HSAP02,,2021-01-03,HSAP,C001063
+Homeland Security,HSAP15,,2021-01-03,HSAP,C001063
+Indian and Insular Affairs,HSII24,2019-01-30,2021-01-03,HSII,C001114
+Federal Lands,HSII10,2019-01-30,2021-01-03,HSII,C001114
+Indo-Pacific,HSFA05,2019-01-29,2021-01-03,HSFA,C001114
+Western Hemisphere,HSFA07,2019-01-29,2021-01-03,HSFA,C001114
+Aviation,HSPW05,,2021-01-03,HSPW,D000629
+"Innovation, Entrepreneurship, and Workforce Development",HSSM26,,2021-01-03,HSSM,D000629
+Highways and Transit,HSPW12,,2021-01-03,HSPW,D000629
+"Economic Development, Public Buildings, and Emergency Management",HSPW13,,2021-01-03,HSPW,D000629
+"Economic Growth, Tax, and Capital Access",HSSM27,,2021-01-03,HSSM,D000629
+Oversight and Investigations,HSBA09,,2021-01-03,HSBA,D000626
+Capital Markets,HSBA16,,2021-01-03,HSBA,D000626
+Elections,HSHA01,2019-02-07,2021-01-03,HSHA,D000619
+"Nutrition, Foreign Agriculture, and Horticulture",HSAG03,2019-02-06,2021-01-03,HSAG,D000619
+"Conservation, Research, and Biotechnology",HSAG14,2019-02-06,2021-01-03,HSAG,D000619
+Highways and Transit,HSPW12,2019-01-17,2021-01-03,HSPW,D000619
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,D000619
+Elections,HSHA08,,2021-01-03,HSHA,D000619
+Trade,HSWM04,2019-01-16,2021-01-03,HSWM,D000096
+Work and Welfare,HSWM03,2019-01-16,2021-01-03,HSWM,D000096
+Crime and Federal Government Surveillance,HSJU08,2019-01-28,2021-01-03,HSJU,D000631
+The Constitution and Limited Government,HSJU10,2019-01-28,2021-01-03,HSJU,D000631
+Oversight and Investigations,HSBA09,,2021-01-03,HSBA,D000631
+Diversity and Inclusion,HSBA13,,2021-01-03,HSBA,D000631
+Water Resources and Environment,HSPW02,,2021-01-03,HSPW,D000191
+Aviation,HSPW05,,2021-01-03,HSPW,D000191
+Coast Guard and Maritime Transportation,HSPW07,,2021-01-03,HSPW,D000191
+Highways and Transit,HSPW12,,2021-01-03,HSPW,D000191
+"Economic Development, Public Buildings, and Emergency Management",HSPW13,,2021-01-03,HSPW,D000191
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,D000191
+Energy and Mineral Resources,HSII06,2019-01-30,2021-01-03,HSII,D000197
+Federal Lands,HSII10,2019-01-30,2021-01-03,HSII,D000197
+Oversight and Investigations,HSIF02,2019-01-15,2021-01-03,HSIF,D000197
+Communications and Technology,HSIF16,2019-01-15,2021-01-03,HSIF,D000197
+"Environment, Manufacturing, and Critical Materials",HSIF18,2019-01-15,2021-01-03,HSIF,D000197
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",HSAP01,,2021-01-03,HSAP,D000216
+"Labor, Health and Human Services, Education, and Related Agencies",HSAP07,,2021-01-03,HSAP,D000216
+Trade,HSWM04,2019-01-16,2021-01-03,HSWM,D000617
+Tax,HSWM05,2019-01-16,2021-01-03,HSWM,D000617
+Oversight,HSWM06,2019-01-16,2021-01-03,HSWM,D000617
+"Conservation, Research, and Biotechnology",HSAG14,2019-02-06,2021-01-03,HSAG,D000630
+"Commodity Markets, Digital Assets, and Rural Development",HSAG22,2019-02-06,2021-01-03,HSAG,D000630
+Highways and Transit,HSPW12,,2021-01-03,HSPW,D000630
+"Economic Growth, Tax, and Capital Access",HSSM27,,2021-01-03,HSSM,D000630
+Water Resources and Environment,HSPW02,,2021-01-03,HSPW,D000630
+"The Administrative State, Regulatory Reform, and Antitrust",HSJU05,2019-01-28,2021-01-03,HSJU,D000627
+Crime and Federal Government Surveillance,HSJU08,2019-01-28,2021-01-03,HSJU,D000627
+Intelligence Modernization and Readiness,HSIG08,,2021-01-03,HSIG,D000627
+Transportation and Maritime Security,HSHM07,,2021-01-03,HSHM,D000627
+National Intelligence Enterprise,HSIG06,,2021-01-03,HSIG,D000627
+"National Security, the Border, and Foreign Affairs",HSGO06,2019-01-29,2021-01-03,HSGO,D000623
+Workforce Protections,HSED10,2019-01-29,2021-01-03,HSED,D000623
+"Early Childhood, Elementary, and Secondary Education",HSED14,2019-01-29,2021-01-03,HSED,D000623
+Highways and Transit,HSPW12,,2021-01-03,HSPW,D000623
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,D000623
+"Economic Growth, Energy Policy, and Regulatory Affairs",HSGO05,,2021-01-03,HSGO,D000623
+"Nutrition, Foreign Agriculture, and Horticulture",HSAG03,2019-02-06,2021-01-03,HSAG,D000616
+"Livestock, Dairy, and Poultry",HSAG29,2019-02-06,2021-01-03,HSAG,D000616
+Intelligence and Special Operations,HSAS26,,2021-01-03,HSAS,D000616
+Strategic Forces,HSAS29,,2021-01-03,HSAS,D000616
+"Middle East, North Africa, and Central Asia",HSFA13,2019-01-29,2021-01-03,HSFA,D000610
+Europe,HSFA14,2019-01-29,2021-01-03,HSFA,D000610
+"Courts, Intellectual Property, and the Internet",HSJU03,2019-01-28,2021-01-03,HSJU,D000610
+Crime and Federal Government Surveillance,HSJU08,2019-01-28,2021-01-03,HSJU,D000610
+Defense,HSAP02,2019-01-29,2021-01-03,HSAP,D000600
+"Transportation, Housing and Urban Development, and Related Agencies",HSAP20,2019-01-29,2021-01-03,HSAP,D000600
+Oversight and Investigations,HSII15,2019-01-30,2021-01-03,HSII,D000624
+Federal Lands,HSII10,2019-01-30,2021-01-03,HSII,D000624
+Health,HSIF14,2019-01-15,2021-01-03,HSIF,D000624
+Communications and Technology,HSIF16,2019-01-15,2021-01-03,HSIF,D000624
+"Innovation, Data, and Commerce",HSIF17,2019-01-15,2021-01-03,HSIF,D000624
+"Environment, Manufacturing, and Critical Materials",HSIF18,2019-01-15,2021-01-03,HSIF,D000624
+Tax,HSWM05,2019-01-16,2021-01-03,HSWM,D000399
+Health,HSWM02,2019-01-16,2021-01-03,HSWM,D000399
+"Energy, Climate, and Grid Security",HSIF03,2019-01-15,2021-01-03,HSIF,D000482
+Communications and Technology,HSIF16,2019-01-15,2021-01-03,HSIF,D000482
+Oversight and Investigations,HSIF02,2019-01-18,2021-01-03,HSIF,D000615
+"Energy, Climate, and Grid Security",HSIF03,2019-01-18,2021-01-03,HSIF,D000615
+"Environment, Manufacturing, and Critical Materials",HSIF18,2019-01-18,2021-01-03,HSIF,D000615
+"Conservation, Research, and Biotechnology",HSAG14,2019-02-06,2021-01-03,HSAG,D000628
+"Commodity Markets, Digital Assets, and Rural Development",HSAG22,2019-02-06,2021-01-03,HSAG,D000628
+Health,HSVR03,2019-01-30,2021-01-03,HSVR,D000628
+Research and Technology,HSSY15,,2021-01-03,HSSY,D000628
+Energy,HSSY20,,2021-01-03,HSSY,D000628
+"National Security, Illicit Finance, and International Financial Institutions",HSBA01,,2021-01-03,HSBA,E000294
+Capital Markets,HSBA16,,2021-01-03,HSBA,E000294
+"Immigration Integrity, Security, and Enforcement",HSJU01,2019-01-28,2021-01-03,HSJU,E000299
+The Constitution and Limited Government,HSJU10,2019-01-28,2021-01-03,HSJU,E000299
+Military Personnel,HSAS02,2019-01-23,2021-01-03,HSAS,E000299
+Readiness,HSAS03,2019-01-23,2021-01-03,HSAS,E000299
+Health,HSIF14,2019-01-15,2021-01-03,HSIF,E000215
+Communications and Technology,HSIF16,2019-01-15,2021-01-03,HSIF,E000215
+Oversight and Accountability,HSFA17,2019-01-29,2021-01-03,HSFA,E000297
+Western Hemisphere,HSFA07,2019-01-29,2021-01-03,HSFA,E000297
+Highways and Transit,HSPW12,,2021-01-03,HSPW,E000297
+"Economic Growth, Tax, and Capital Access",HSSM27,,2021-01-03,HSSM,E000297
+Water Resources and Environment,HSPW02,,2021-01-03,HSPW,E000297
+Social Security,HSWM01,2019-01-16,2021-01-03,HSWM,E000298
+Work and Welfare,HSWM03,2019-01-16,2021-01-03,HSWM,E000298
+Health,HSWM02,2019-01-16,2021-01-03,HSWM,E000296
+Work and Welfare,HSWM03,2019-01-16,2021-01-03,HSWM,E000296
+"Oversight, Investigations, and Regulations",HSSM24,,2021-01-03,HSSM,E000296
+Tax,HSWM05,2019-01-16,2021-01-03,HSWM,F000465
+Social Security,HSWM01,2019-01-16,2021-01-03,HSWM,F000465
+"Middle East, North Africa, and Central Asia",HSFA13,2019-01-29,2021-01-03,HSFA,F000466
+Europe,HSFA14,2019-01-29,2021-01-03,HSFA,F000466
+Aviation,HSPW05,,2021-01-03,HSPW,F000466
+Highways and Transit,HSPW12,,2021-01-03,HSPW,F000466
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,F000466
+"Energy and Water Development, and Related Agencies",HSAP10,2019-01-29,2021-01-03,HSAP,F000459
+Homeland Security,HSAP15,2019-01-29,2021-01-03,HSAP,F000459
+Environment,HSSY18,2019-01-30,2021-01-03,HSSY,F000468
+Energy,HSSY20,2019-01-30,2021-01-03,HSSY,F000468
+"Economic Development, Public Buildings, and Emergency Management",HSPW13,,2021-01-03,HSPW,F000468
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,F000468
+Water Resources and Environment,HSPW02,,2021-01-03,HSPW,F000468
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",HSAP01,2019-01-29,2021-01-03,HSAP,F000449
+"State, Foreign Operations, and Related Programs",HSAP04,2019-01-29,2021-01-03,HSAP,F000449
+Research and Technology,HSSY15,2019-01-30,2021-01-03,HSSY,F000454
+Energy,HSSY20,2019-01-30,2021-01-03,HSSY,F000454
+Consumer Protection and Financial Institutions,HSBA15,,2021-01-03,HSBA,F000454
+Capital Markets,HSBA16,,2021-01-03,HSBA,F000454
+"National Security, the Border, and Foreign Affairs",HSGO06,2019-01-29,2021-01-03,HSGO,F000450
+"State, Foreign Operations, and Related Programs",HSAP04,,2021-01-03,HSAP,F000462
+"Labor, Health and Human Services, Education, and Related Agencies",HSAP07,,2021-01-03,HSAP,F000462
+"Energy and Water Development, and Related Agencies",HSAP10,,2021-01-03,HSAP,F000462
+Elections,HSHA01,2019-02-07,2021-01-03,HSHA,F000455
+Forestry,HSAG15,2019-02-06,2021-01-03,HSAG,F000455
+"Health, Employment, Labor, and Pensions",HSED02,2019-01-29,2021-01-03,HSED,F000455
+"Nutrition, Foreign Agriculture, and Horticulture",HSAG03,2019-01-24,2021-01-03,HSAG,F000455
+Civil Rights and Human Services,HSED07,,2021-01-03,HSED,F000455
+Elections,HSHA08,,2021-01-03,HSHA,F000455
+"Water, Wildlife and Fisheries",HSII13,2019-01-30,2021-01-03,HSII,F000469
+Federal Lands,HSII10,2019-01-30,2021-01-03,HSII,F000469
+"Health, Employment, Labor, and Pensions",HSED02,2019-01-29,2021-01-03,HSED,F000469
+Higher Education and Workforce Development,HSED13,2019-01-29,2021-01-03,HSED,F000469
+"Courts, Intellectual Property, and the Internet",HSJU03,2019-01-28,2021-01-03,HSJU,G000578
+"The Administrative State, Regulatory Reform, and Antitrust",HSJU05,2019-01-28,2021-01-03,HSJU,G000578
+Tactical Air and Land Forces,HSAS25,,2021-01-03,HSAS,G000578
+Military Personnel,HSAS02,,2021-01-03,HSAS,G000578
+Intelligence and Special Operations,HSAS26,,2021-01-03,HSAS,G000579
+Aviation,HSPW05,,2021-01-03,HSPW,G000579
+Seapower and Projection Forces,HSAS28,,2021-01-03,HSAS,G000579
+Coast Guard and Maritime Transportation,HSPW07,,2021-01-03,HSPW,G000579
+Highways and Transit,HSPW12,,2021-01-03,HSPW,G000579
+Federal Lands,HSII10,2019-01-30,2021-01-03,HSII,G000574
+Indian and Insular Affairs,HSII24,2019-01-29,2021-01-03,HSII,G000574
+Tactical Air and Land Forces,HSAS25,2019-01-23,2021-01-03,HSAS,G000574
+Military Personnel,HSAS02,2019-01-23,2021-01-03,HSAS,G000574
+Strategic Forces,HSAS29,2019-01-23,2021-01-03,HSAS,G000559
+Readiness,HSAS03,2019-01-23,2021-01-03,HSAS,G000559
+Coast Guard and Maritime Transportation,HSPW07,,2021-01-03,HSPW,G000559
+Highways and Transit,HSPW12,,2021-01-03,HSPW,G000559
+"Economic Development, Public Buildings, and Emergency Management",HSPW13,,2021-01-03,HSPW,G000559
+Water Resources and Environment,HSPW02,,2021-01-03,HSPW,G000559
+Aviation,HSPW05,,2021-01-03,HSPW,G000586
+"National Security, Illicit Finance, and International Financial Institutions",HSBA01,,2021-01-03,HSBA,G000586
+Highways and Transit,HSPW12,,2021-01-03,HSPW,G000586
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,G000586
+"Immigration Integrity, Security, and Enforcement",HSJU01,2019-01-28,2021-01-03,HSJU,G000587
+The Constitution and Limited Government,HSJU10,2019-01-28,2021-01-03,HSJU,G000587
+Oversight and Investigations,HSBA09,,2021-01-03,HSBA,G000587
+Diversity and Inclusion,HSBA13,,2021-01-03,HSBA,G000587
+Environment,HSGO28,2019-01-29,2021-01-03,HSGO,G000563
+Coast Guard and Maritime Transportation,HSPW07,2019-01-17,2021-01-03,HSPW,G000563
+Highways and Transit,HSPW12,,2021-01-03,HSPW,G000563
+Oversight and Investigations,HSII15,2019-01-30,2021-01-03,HSII,G000552
+Federal Lands,HSII10,2019-01-30,2021-01-03,HSII,G000552
+Crime and Federal Government Surveillance,HSJU08,2019-01-28,2021-01-03,HSJU,G000552
+The Constitution and Limited Government,HSJU10,2019-01-28,2021-01-03,HSJU,G000552
+Contracting and Infrastructure,HSSM23,2019-01-29,2021-01-03,HSSM,G000592
+Tactical Air and Land Forces,HSAS25,2019-01-23,2021-01-03,HSAS,G000592
+Seapower and Projection Forces,HSAS28,2019-01-23,2021-01-03,HSAS,G000592
+"Underserved, Agricultural, and Rural Business Development",HSSM25,,2021-01-03,HSSM,G000592
+Environment,HSGO28,2019-01-29,2021-01-03,HSGO,G000585
+Work and Welfare,HSWM03,2019-01-16,2021-01-03,HSWM,G000585
+Health,HSWM02,2019-01-16,2021-01-03,HSWM,G000585
+Civil Rights and Civil Liberties,HSGO02,,2021-01-03,HSGO,G000585
+Research and Technology,HSSY15,,2021-01-03,HSSY,G000588
+"National Security, Illicit Finance, and International Financial Institutions",HSBA01,,2021-01-03,HSBA,G000588
+Environment,HSSY18,,2021-01-03,HSSY,G000588
+Housing and Insurance,HSBA04,,2021-01-03,HSBA,G000588
+Diversity and Inclusion,HSBA13,,2021-01-03,HSBA,G000588
+Western Hemisphere,HSFA07,2019-01-29,2021-01-03,HSFA,G000581
+Europe,HSFA14,2019-01-29,2021-01-03,HSFA,G000581
+Housing and Insurance,HSBA04,,2021-01-03,HSBA,G000581
+Diversity and Inclusion,HSBA13,,2021-01-03,HSBA,G000581
+Capital Markets,HSBA16,,2021-01-03,HSBA,G000581
+"Water, Wildlife and Fisheries",HSII13,2019-01-30,2021-01-03,HSII,G000582
+Oversight and Investigations,HSII15,2019-01-30,2021-01-03,HSII,G000582
+Water Resources and Environment,HSPW02,,2021-01-03,HSPW,G000582
+"Economic Development, Public Buildings, and Emergency Management",HSPW13,,2021-01-03,HSPW,G000582
+Housing and Insurance,HSBA04,,2021-01-03,HSBA,G000589
+Diversity and Inclusion,HSBA13,,2021-01-03,HSBA,G000589
+Oversight and Investigations,HSII15,2019-01-30,2021-01-03,HSII,G000565
+Energy and Mineral Resources,HSII06,2019-01-30,2021-01-03,HSII,G000565
+"National Security, the Border, and Foreign Affairs",HSGO06,2019-01-29,2021-01-03,HSGO,G000565
+Environment,HSGO28,2019-01-29,2021-01-03,HSGO,G000565
+"National Security, Illicit Finance, and International Financial Institutions",HSBA01,,2021-01-03,HSBA,G000583
+Diversity and Inclusion,HSBA13,,2021-01-03,HSBA,G000583
+Capital Markets,HSBA16,,2021-01-03,HSBA,G000583
+"Water, Wildlife and Fisheries",HSII13,2019-01-30,2021-01-03,HSII,G000577
+Energy and Mineral Resources,HSII06,2019-01-30,2021-01-03,HSII,G000577
+Aviation,HSPW05,2019-01-17,2021-01-03,HSPW,G000577
+Water Resources and Environment,HSPW02,,2021-01-03,HSPW,G000577
+Water Resources and Environment,HSPW02,,2021-01-03,HSPW,G000546
+Intelligence and Special Operations,HSAS26,,2021-01-03,HSAS,G000546
+Aviation,HSPW05,,2021-01-03,HSPW,G000546
+Coast Guard and Maritime Transportation,HSPW07,,2021-01-03,HSPW,G000546
+Highways and Transit,HSPW12,,2021-01-03,HSPW,G000546
+"Economic Development, Public Buildings, and Emergency Management",HSPW13,,2021-01-03,HSPW,G000546
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,G000546
+"National Security, the Border, and Foreign Affairs",HSGO06,2019-01-29,2021-01-03,HSGO,G000590
+"Counterterrorism, Law Enforcement, and Intelligence",HSHM05,,2021-01-03,HSHM,G000590
+Transportation and Maritime Security,HSHM07,,2021-01-03,HSHM,G000590
+Oversight and Investigations,HSBA09,2019-01-24,2021-01-03,HSBA,G000553
+Housing and Insurance,HSBA04,,2021-01-03,HSBA,G000553
+Diversity and Inclusion,HSBA13,,2021-01-03,HSBA,G000553
+Border Security and Enforcement,HSHM11,,2021-01-03,HSHM,G000553
+Emergency Management and Technology,HSHM12,,2021-01-03,HSHM,G000553
+Oversight and Investigations,HSIF02,2019-01-18,2021-01-03,HSIF,G000568
+"Energy, Climate, and Grid Security",HSIF03,2019-01-18,2021-01-03,HSIF,G000568
+Health,HSIF14,2019-01-18,2021-01-03,HSIF,G000568
+Federal Lands,HSII10,2019-01-30,2021-01-03,HSII,G000551
+"Water, Wildlife and Fisheries",HSII13,2019-01-30,2021-01-03,HSII,G000551
+Oversight and Investigations,HSII15,2019-01-30,2021-01-03,HSII,G000551
+Indian and Insular Affairs,HSII24,2019-01-30,2021-01-03,HSII,G000551
+Energy and Mineral Resources,HSII06,2019-01-30,2021-01-03,HSII,G000551
+Higher Education and Workforce Development,HSED13,2019-01-29,2021-01-03,HSED,G000551
+Civil Rights and Human Services,HSED07,,2021-01-03,HSED,G000551
+Government Operations and the Federal Workforce,HSGO24,2019-01-29,2021-01-03,HSGO,G000576
+Higher Education and Workforce Development,HSED13,2019-01-29,2021-01-03,HSED,G000576
+"Early Childhood, Elementary, and Secondary Education",HSED14,2019-01-29,2021-01-03,HSED,G000576
+"Economic Growth, Energy Policy, and Regulatory Affairs",HSGO05,,2021-01-03,HSGO,G000576
+Western Hemisphere,HSFA07,2019-01-29,2021-01-03,HSFA,G000591
+Europe,HSFA14,2019-01-29,2021-01-03,HSFA,G000591
+Border Security and Enforcement,HSHM11,,2021-01-03,HSHM,G000591
+Emergency Management and Technology,HSHM12,,2021-01-03,HSHM,G000591
+Higher Education and Workforce Development,HSED13,2019-01-29,2021-01-03,HSED,G000558
+Oversight and Investigations,HSIF02,2019-01-18,2021-01-03,HSIF,G000558
+Health,HSIF14,2019-01-18,2021-01-03,HSIF,G000558
+"Innovation, Data, and Commerce",HSIF17,2019-01-18,2021-01-03,HSIF,G000558
+Indian and Insular Affairs,HSII24,2019-01-30,2021-01-03,HSII,H001080
+Federal Lands,HSII10,2019-01-29,2021-01-03,HSII,H001080
+Military Personnel,HSAS02,2019-01-23,2021-01-03,HSAS,H001080
+Readiness,HSAS03,2019-01-23,2021-01-03,HSAS,H001080
+"Nutrition, Foreign Agriculture, and Horticulture",HSAG03,2019-02-06,2021-01-03,HSAG,H001088
+"Livestock, Dairy, and Poultry",HSAG29,2019-02-06,2021-01-03,HSAG,H001088
+Contracting and Infrastructure,HSSM23,,2021-01-03,HSSM,H001088
+"Underserved, Agricultural, and Rural Business Development",HSSM25,,2021-01-03,HSSM,H001088
+"Conservation, Research, and Biotechnology",HSAG14,2019-02-06,2021-01-03,HSAG,H001090
+"Livestock, Dairy, and Poultry",HSAG29,2019-02-06,2021-01-03,HSAG,H001090
+"Health, Employment, Labor, and Pensions",HSED02,2019-01-29,2021-01-03,HSED,H001090
+Higher Education and Workforce Development,HSED13,2019-01-29,2021-01-03,HSED,H001090
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",HSAP01,2019-01-29,2021-01-03,HSAP,H001052
+"Labor, Health and Human Services, Education, and Related Agencies",HSAP07,2019-01-29,2021-01-03,HSAP,H001052
+"Conservation, Research, and Biotechnology",HSAG14,2019-02-06,2021-01-03,HSAG,H001053
+"Livestock, Dairy, and Poultry",HSAG29,2019-02-06,2021-01-03,HSAG,H001053
+Tactical Air and Land Forces,HSAS25,2019-01-23,2021-01-03,HSAS,H001053
+Seapower and Projection Forces,HSAS28,,2021-01-03,HSAS,H001053
+"Nutrition, Foreign Agriculture, and Horticulture",HSAG03,2019-02-06,2021-01-03,HSAG,H001081
+"Livestock, Dairy, and Poultry",HSAG29,2019-02-06,2021-01-03,HSAG,H001081
+"Early Childhood, Elementary, and Secondary Education",HSED14,2019-01-29,2021-01-03,HSED,H001081
+Civil Rights and Human Services,HSED07,,2021-01-03,HSED,H001081
+"Economic Growth, Tax, and Capital Access",HSSM27,2019-02-04,2021-01-03,HSSM,H001082
+Indian and Insular Affairs,HSII24,2019-01-30,2021-01-03,HSII,H001082
+Energy and Mineral Resources,HSII06,2019-01-30,2021-01-03,HSII,H001082
+"Innovation, Entrepreneurship, and Workforce Development",HSSM26,,2021-01-03,HSSM,H001082
+"Labor, Health and Human Services, Education, and Related Agencies",HSAP07,2019-01-29,2021-01-03,HSAP,H001056
+Legislative Branch,HSAP24,2019-01-29,2021-01-03,HSAP,H001056
+"Water, Wildlife and Fisheries",HSII13,2019-01-30,2021-01-03,HSII,H001071
+Federal Lands,HSII10,2019-01-30,2021-01-03,HSII,H001071
+"National Security, the Border, and Foreign Affairs",HSGO06,2019-01-29,2021-01-03,HSGO,H001071
+Government Operations and the Federal Workforce,HSGO24,2019-01-29,2021-01-03,HSGO,H001071
+Civil Rights and Civil Liberties,HSGO02,,2021-01-03,HSGO,H001071
+Trade,HSWM04,2019-01-16,2021-01-03,HSWM,H001038
+Social Security,HSWM01,2019-01-16,2021-01-03,HSWM,H001038
+Health,HSWM02,2019-01-16,2021-01-03,HSWM,H001038
+Environment,HSGO28,2019-01-29,2021-01-03,HSGO,H001077
+"Oversight, Investigations, and Accountability",HSHM09,,2021-01-03,HSHM,H001077
+Border Security and Enforcement,HSHM11,,2021-01-03,HSHM,H001077
+"National Security, Illicit Finance, and International Financial Institutions",HSBA01,,2021-01-03,HSBA,H001072
+Capital Markets,HSBA16,,2021-01-03,HSBA,H001072
+"National Security, Illicit Finance, and International Financial Institutions",HSBA01,,2021-01-03,HSBA,H001047
+Capital Markets,HSBA16,,2021-01-03,HSBA,H001047
+National Intelligence Enterprise,HSIG06,,2021-01-03,HSIG,H001047
+Strategic Technologies and Advanced Research,HSIG10,,2021-01-03,HSIG,H001047
+Diversity and Inclusion,HSBA13,,2021-01-03,HSBA,H001074
+Capital Markets,HSBA16,,2021-01-03,HSBA,H001074
+Federal Lands,HSII10,2019-01-30,2021-01-03,HSII,H001066
+Health,HSWM02,2019-01-16,2021-01-03,HSWM,H001066
+Africa,HSFA16,2019-01-29,2021-01-03,HSFA,H001085
+Indo-Pacific,HSFA05,2019-01-29,2021-01-03,HSFA,H001085
+Intelligence and Special Operations,HSAS26,2019-01-23,2021-01-03,HSAS,H001085
+Readiness,HSAS03,2019-01-23,2021-01-03,HSAS,H001085
+"Innovation, Entrepreneurship, and Workforce Development",HSSM26,,2021-01-03,HSSM,H001085
+"Energy, Climate, and Grid Security",HSIF03,2019-01-18,2021-01-03,HSIF,H001067
+Health,HSIF14,2019-01-18,2021-01-03,HSIF,H001067
+"Innovation, Data, and Commerce",HSIF17,2019-01-18,2021-01-03,HSIF,H001067
+Energy and Mineral Resources,HSII06,2019-01-30,2021-01-03,HSII,H001068
+Federal Lands,HSII10,2019-01-30,2021-01-03,HSII,H001068
+"Water, Wildlife and Fisheries",HSII13,2019-01-29,2021-01-03,HSII,H001068
+Highways and Transit,HSPW12,,2021-01-03,HSPW,H001068
+Water Resources and Environment,HSPW02,,2021-01-03,HSPW,H001068
+Capital Markets,HSBA16,2019-01-24,2021-01-03,HSBA,H001058
+Housing and Insurance,HSBA04,,2021-01-03,HSBA,H001058
+"Immigration Integrity, Security, and Enforcement",HSJU01,2019-01-28,2021-01-03,HSJU,J000032
+Crime and Federal Government Surveillance,HSJU08,2019-01-28,2021-01-03,HSJU,J000032
+The Constitution and Limited Government,HSJU10,2019-01-28,2021-01-03,HSJU,J000032
+"Counterterrorism, Law Enforcement, and Intelligence",HSHM05,,2021-01-03,HSHM,J000032
+Cybersecurity and Infrastructure Protection,HSHM08,,2021-01-03,HSHM,J000032
+Workforce Protections,HSED10,2019-01-29,2021-01-03,HSED,J000298
+Higher Education and Workforce Development,HSED13,2019-01-29,2021-01-03,HSED,J000298
+"Immigration Integrity, Security, and Enforcement",HSJU01,2019-01-28,2021-01-03,HSJU,J000298
+"The Administrative State, Regulatory Reform, and Antitrust",HSJU05,2019-01-28,2021-01-03,HSJU,J000298
+"Courts, Intellectual Property, and the Internet",HSJU03,2019-01-28,2021-01-03,HSJU,J000294
+Crime and Federal Government Surveillance,HSJU08,2019-01-28,2021-01-03,HSJU,J000294
+"Courts, Intellectual Property, and the Internet",HSJU03,2019-01-28,2021-01-03,HSJU,J000288
+"The Administrative State, Regulatory Reform, and Antitrust",HSJU05,2019-01-28,2021-01-03,HSJU,J000288
+Aviation,HSPW05,,2021-01-03,HSPW,J000288
+Highways and Transit,HSPW12,,2021-01-03,HSPW,J000288
+"Economic Development, Public Buildings, and Emergency Management",HSPW13,,2021-01-03,HSPW,J000288
+Aviation,HSPW05,,2021-01-03,HSPW,J000126
+Research and Technology,HSSY15,,2021-01-03,HSSY,J000126
+Space and Aeronautics,HSSY16,,2021-01-03,HSSY,J000126
+Environment,HSSY18,,2021-01-03,HSSY,J000126
+Highways and Transit,HSPW12,,2021-01-03,HSPW,J000126
+Energy,HSSY20,,2021-01-03,HSSY,J000126
+Investigations and Oversight,HSSY21,,2021-01-03,HSSY,J000126
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,J000126
+Water Resources and Environment,HSPW02,,2021-01-03,HSPW,J000126
+"Water, Wildlife and Fisheries",HSII13,2019-01-30,2021-01-03,HSII,J000299
+Oversight and Investigations,HSII15,2019-01-30,2021-01-03,HSII,J000299
+"Courts, Intellectual Property, and the Internet",HSJU03,2019-01-28,2021-01-03,HSJU,J000299
+The Constitution and Limited Government,HSJU10,2019-01-28,2021-01-03,HSJU,J000299
+"Energy, Climate, and Grid Security",HSIF03,2019-01-18,2021-01-03,HSIF,J000292
+Communications and Technology,HSIF16,2019-01-18,2021-01-03,HSIF,J000292
+"Environment, Manufacturing, and Critical Materials",HSIF18,2019-01-18,2021-01-03,HSIF,J000292
+"Nutrition, Foreign Agriculture, and Horticulture",HSAG03,2019-02-06,2021-01-03,HSAG,J000301
+"Commodity Markets, Digital Assets, and Rural Development",HSAG22,2019-02-06,2021-01-03,HSAG,J000301
+"Health, Employment, Labor, and Pensions",HSED02,2019-01-29,2021-01-03,HSED,J000301
+Civil Rights and Human Services,HSED07,,2021-01-03,HSED,J000301
+"Courts, Intellectual Property, and the Internet",HSJU03,2019-01-28,2021-01-03,HSJU,J000289
+The Constitution and Limited Government,HSJU10,2019-01-28,2021-01-03,HSJU,J000289
+"Underserved, Agricultural, and Rural Business Development",HSSM25,2019-02-04,2021-01-03,HSSM,J000302
+"Innovation, Entrepreneurship, and Workforce Development",HSSM26,,2021-01-03,HSSM,J000302
+Border Security and Enforcement,HSHM11,,2021-01-03,HSHM,J000302
+Emergency Management and Technology,HSHM12,,2021-01-03,HSHM,J000302
+"Interior, Environment, and Related Agencies",HSAP06,2019-01-29,2021-01-03,HSAP,J000295
+Financial Services and General Government,HSAP23,2019-01-29,2021-01-03,HSAP,J000295
+Defense,HSAP02,,2021-01-03,HSAP,K000009
+"Energy and Water Development, and Related Agencies",HSAP10,,2021-01-03,HSAP,K000009
+"Commerce, Justice, Science, and Related Agencies",HSAP19,,2021-01-03,HSAP,K000009
+Aviation,HSPW05,,2021-01-03,HSPW,K000386
+Highways and Transit,HSPW12,,2021-01-03,HSPW,K000386
+Transportation and Maritime Security,HSHM07,,2021-01-03,HSHM,K000386
+Cybersecurity and Infrastructure Protection,HSHM08,,2021-01-03,HSHM,K000386
+"Middle East, North Africa, and Central Asia",HSFA13,2019-01-29,2021-01-03,HSFA,K000375
+Europe,HSFA14,2019-01-29,2021-01-03,HSFA,K000375
+Intelligence and Special Operations,HSAS26,2019-01-23,2021-01-03,HSAS,K000375
+Strategic Forces,HSAS29,2019-01-23,2021-01-03,HSAS,K000375
+Oversight,HSWM06,2019-01-16,2021-01-03,HSWM,K000376
+Health,HSWM02,2019-01-16,2021-01-03,HSWM,K000376
+"National Security, the Border, and Foreign Affairs",HSGO06,2019-01-29,2021-01-03,HSGO,K000385
+"Energy, Climate, and Grid Security",HSIF03,2019-01-15,2021-01-03,HSIF,K000385
+Health,HSIF14,2019-01-15,2021-01-03,HSIF,K000385
+"Innovation, Data, and Commerce",HSIF17,2019-01-15,2021-01-03,HSIF,K000385
+Civil Rights and Civil Liberties,HSGO02,,2021-01-03,HSGO,K000385
+Forestry,HSAG15,2019-02-06,2021-01-03,HSAG,K000388
+"Livestock, Dairy, and Poultry",HSAG29,2019-02-06,2021-01-03,HSAG,K000388
+Military Personnel,HSAS02,2019-01-23,2021-01-03,HSAS,K000388
+Seapower and Projection Forces,HSAS28,,2021-01-03,HSAS,K000388
+"Oversight, Investigations, and Regulations",HSSM24,,2021-01-03,HSSM,K000388
+"Underserved, Agricultural, and Rural Business Development",HSSM25,,2021-01-03,HSSM,K000388
+Government Operations and the Federal Workforce,HSGO24,2019-01-29,2021-01-03,HSGO,K000389
+Intelligence and Special Operations,HSAS26,2019-01-23,2021-01-03,HSAS,K000389
+Strategic Forces,HSAS29,2019-01-23,2021-01-03,HSAS,K000389
+"Economic Growth, Energy Policy, and Regulatory Affairs",HSGO05,,2021-01-03,HSGO,K000389
+Trade,HSWM04,2019-01-16,2021-01-03,HSWM,K000380
+Social Security,HSWM01,2019-01-16,2021-01-03,HSWM,K000380
+Defense,HSAP02,,2021-01-03,HSAP,K000381
+"Interior, Environment, and Related Agencies",HSAP06,,2021-01-03,HSAP,K000381
+"Energy and Water Development, and Related Agencies",HSAP10,,2021-01-03,HSAP,K000381
+"Economic Growth, Tax, and Capital Access",HSSM27,2019-01-29,2021-01-03,HSSM,K000394
+Intelligence and Special Operations,HSAS26,2019-01-23,2021-01-03,HSAS,K000394
+Readiness,HSAS03,2019-01-23,2021-01-03,HSAS,K000394
+"Innovation, Entrepreneurship, and Workforce Development",HSSM26,,2021-01-03,HSSM,K000394
+Trade,HSWM04,2019-01-16,2021-01-03,HSWM,K000188
+Health,HSWM02,2019-01-16,2021-01-03,HSWM,K000188
+"Middle East, North Africa, and Central Asia",HSFA13,2019-01-29,2021-01-03,HSFA,K000378
+Europe,HSFA14,2019-01-29,2021-01-03,HSFA,K000378
+"Energy, Climate, and Grid Security",HSIF03,2019-01-18,2021-01-03,HSIF,K000378
+Communications and Technology,HSIF16,2019-01-18,2021-01-03,HSIF,K000378
+"Commodity Markets, Digital Assets, and Rural Development",HSAG22,2019-02-06,2021-01-03,HSAG,K000368
+Defense,HSAP02,,2021-01-03,HSAP,K000368
+"Energy and Water Development, and Related Agencies",HSAP10,,2021-01-03,HSAP,K000368
+Financial Services and General Government,HSAP23,,2021-01-03,HSAP,K000368
+Environment,HSGO28,2019-01-29,2021-01-03,HSGO,K000391
+Intelligence Modernization and Readiness,HSIG08,,2021-01-03,HSIG,K000391
+"Economic Growth, Energy Policy, and Regulatory Affairs",HSGO05,,2021-01-03,HSGO,K000391
+Strategic Technologies and Advanced Research,HSIG10,,2021-01-03,HSIG,K000391
+Oversight and Investigations,HSIF02,2019-01-15,2021-01-03,HSIF,K000382
+"Energy, Climate, and Grid Security",HSIF03,2019-01-15,2021-01-03,HSIF,K000382
+Health,HSIF14,2019-01-15,2021-01-03,HSIF,K000382
+Housing and Insurance,HSBA04,,2021-01-03,HSBA,K000392
+Diversity and Inclusion,HSBA13,,2021-01-03,HSBA,K000392
+Consumer Protection and Financial Institutions,HSBA15,,2021-01-03,HSBA,K000392
+Tax,HSWM05,2019-01-16,2021-01-03,HSWM,L000585
+Oversight,HSWM06,2019-01-16,2021-01-03,HSWM,L000585
+"Conservation, Research, and Biotechnology",HSAG14,2019-02-06,2021-01-03,HSAG,L000578
+Forestry,HSAG15,2019-02-06,2021-01-03,HSAG,L000578
+Water Resources and Environment,HSPW02,,2021-01-03,HSPW,L000578
+Highways and Transit,HSPW12,,2021-01-03,HSPW,L000578
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,L000578
+Health,HSVR03,2019-01-31,2021-01-03,HSVR,L000588
+Technology Modernization,HSVR11,2019-01-31,2021-01-03,HSVR,L000588
+Environment,HSSY18,2019-01-30,2021-01-03,HSSY,L000588
+Energy,HSSY20,2019-01-30,2021-01-03,HSSY,L000588
+"Water, Wildlife and Fisheries",HSII13,2019-01-30,2021-01-03,HSII,L000564
+Energy and Mineral Resources,HSII06,2019-01-30,2021-01-03,HSII,L000564
+Readiness,HSAS03,2019-01-23,2021-01-03,HSAS,L000564
+Tactical Air and Land Forces,HSAS25,,2021-01-03,HSAS,L000564
+Tactical Air and Land Forces,HSAS25,2019-01-23,2021-01-03,HSAS,L000559
+Intelligence and Special Operations,HSAS26,2019-01-23,2021-01-03,HSAS,L000559
+Seapower and Projection Forces,HSAS28,,2021-01-03,HSAS,L000559
+"Counterterrorism, Law Enforcement, and Intelligence",HSHM05,,2021-01-03,HSHM,L000559
+Cybersecurity and Infrastructure Protection,HSHM08,,2021-01-03,HSHM,L000559
+Aviation,HSPW05,2019-01-24,2021-01-03,HSPW,L000560
+Intelligence and Special Operations,HSAS26,2019-01-23,2021-01-03,HSAS,L000560
+Strategic Forces,HSAS29,2019-01-23,2021-01-03,HSAS,L000560
+Coast Guard and Maritime Transportation,HSPW07,,2021-01-03,HSPW,L000560
+Tax,HSWM05,2019-01-16,2021-01-03,HSWM,L000557
+Social Security,HSWM01,2019-01-16,2021-01-03,HSWM,L000557
+"Energy, Climate, and Grid Security",HSIF03,2019-01-18,2021-01-03,HSIF,L000566
+Communications and Technology,HSIF16,2019-01-18,2021-01-03,HSIF,L000566
+"Innovation, Data, and Commerce",HSIF17,2019-01-18,2021-01-03,HSIF,L000566
+"National Security, the Border, and Foreign Affairs",HSGO06,2019-01-29,2021-01-03,HSGO,L000581
+Government Operations and the Federal Workforce,HSGO24,2019-01-29,2021-01-03,HSGO,L000581
+"Interior, Environment, and Related Agencies",HSAP06,,2021-01-03,HSAP,L000581
+"Commerce, Justice, Science, and Related Agencies",HSAP19,,2021-01-03,HSAP,L000581
+"Transportation, Housing and Urban Development, and Related Agencies",HSAP20,,2021-01-03,HSAP,L000581
+"Nutrition, Foreign Agriculture, and Horticulture",HSAG03,2019-02-06,2021-01-03,HSAG,L000586
+"Conservation, Research, and Biotechnology",HSAG14,2019-02-06,2021-01-03,HSAG,L000586
+"General Farm Commodities, Risk Management, and Credit",HSAG16,2019-02-06,2021-01-03,HSAG,L000586
+Housing and Insurance,HSBA04,,2021-01-03,HSBA,L000586
+Diversity and Inclusion,HSBA13,,2021-01-03,HSBA,L000586
+Consumer Protection and Financial Institutions,HSBA15,,2021-01-03,HSBA,L000586
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",HSAP01,,2021-01-03,HSAP,L000551
+"State, Foreign Operations, and Related Programs",HSAP04,,2021-01-03,HSAP,L000551
+"Labor, Health and Human Services, Education, and Related Agencies",HSAP07,,2021-01-03,HSAP,L000551
+Economic Opportunity,HSVR10,2019-01-31,2021-01-03,HSVR,L000590
+Technology Modernization,HSVR11,2019-01-31,2021-01-03,HSVR,L000590
+Higher Education and Workforce Development,HSED13,2019-01-29,2021-01-03,HSED,L000590
+Civil Rights and Human Services,HSED07,,2021-01-03,HSED,L000590
+"Immigration Integrity, Security, and Enforcement",HSJU01,2019-01-28,2021-01-03,HSJU,L000589
+Crime and Federal Government Surveillance,HSJU08,2019-01-28,2021-01-03,HSJU,L000589
+Transportation and Maritime Security,HSHM07,,2021-01-03,HSHM,L000589
+Border Security and Enforcement,HSHM11,,2021-01-03,HSHM,L000589
+Health,HSVR03,2019-01-31,2021-01-03,HSVR,L000593
+Economic Opportunity,HSVR10,2019-01-31,2021-01-03,HSVR,L000593
+"Water, Wildlife and Fisheries",HSII13,2019-01-30,2021-01-03,HSII,L000593
+Energy and Mineral Resources,HSII06,2019-01-30,2021-01-03,HSII,L000593
+"Health, Employment, Labor, and Pensions",HSED02,2019-01-29,2021-01-03,HSED,L000592
+Higher Education and Workforce Development,HSED13,2019-01-29,2021-01-03,HSED,L000592
+Indo-Pacific,HSFA05,2019-01-29,2021-01-03,HSFA,L000592
+Western Hemisphere,HSFA07,2019-01-29,2021-01-03,HSFA,L000592
+Oversight and Accountability,HSFA17,2019-01-29,2021-01-03,HSFA,L000582
+"Middle East, North Africa, and Central Asia",HSFA13,2019-01-29,2021-01-03,HSFA,L000582
+"Courts, Intellectual Property, and the Internet",HSJU03,2019-01-28,2021-01-03,HSJU,L000582
+Crime and Federal Government Surveillance,HSJU08,2019-01-28,2021-01-03,HSJU,L000582
+Space and Aeronautics,HSSY16,2019-01-30,2021-01-03,HSSY,L000397
+"Immigration Integrity, Security, and Enforcement",HSJU01,2019-01-28,2021-01-03,HSJU,L000397
+"Courts, Intellectual Property, and the Internet",HSJU03,2019-01-28,2021-01-03,HSJU,L000397
+Health,HSIF14,2019-01-18,2021-01-03,HSIF,L000576
+Communications and Technology,HSIF16,2019-01-18,2021-01-03,HSIF,L000576
+"Environment, Manufacturing, and Critical Materials",HSIF18,2019-01-18,2021-01-03,HSIF,L000576
+Oversight and Investigations,HSBA09,,2021-01-03,HSBA,L000583
+Consumer Protection and Financial Institutions,HSBA15,,2021-01-03,HSBA,L000583
+"Water, Wildlife and Fisheries",HSII13,2019-01-30,2021-01-03,HSII,L000579
+Federal Lands,HSII10,2019-01-30,2021-01-03,HSII,L000579
+Energy and Mineral Resources,HSII06,2019-01-29,2021-01-03,HSII,L000579
+Coast Guard and Maritime Transportation,HSPW07,,2021-01-03,HSPW,L000579
+Highways and Transit,HSPW12,,2021-01-03,HSPW,L000579
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,L000579
+Water Resources and Environment,HSPW02,,2021-01-03,HSPW,L000579
+Research and Technology,HSSY15,,2021-01-03,HSSY,L000491
+"National Security, Illicit Finance, and International Financial Institutions",HSBA01,,2021-01-03,HSBA,L000491
+Space and Aeronautics,HSSY16,,2021-01-03,HSSY,L000491
+Environment,HSSY18,,2021-01-03,HSSY,L000491
+Energy,HSSY20,,2021-01-03,HSSY,L000491
+Investigations and Oversight,HSSY21,,2021-01-03,HSSY,L000491
+Diversity and Inclusion,HSBA13,,2021-01-03,HSBA,L000491
+Consumer Protection and Financial Institutions,HSBA15,,2021-01-03,HSBA,L000491
+Consumer Protection and Financial Institutions,HSBA15,2019-01-24,2021-01-03,HSBA,L000569
+Housing and Insurance,HSBA04,,2021-01-03,HSBA,L000569
+Disability Assistance and Memorial Affairs,HSVR09,2019-01-31,2021-01-03,HSVR,L000591
+Economic Opportunity,HSVR10,2019-01-31,2021-01-03,HSVR,L000591
+Seapower and Projection Forces,HSAS28,2019-01-23,2021-01-03,HSAS,L000591
+Military Personnel,HSAS02,2019-01-23,2021-01-03,HSAS,L000591
+Government Operations and the Federal Workforce,HSGO24,2019-01-29,2021-01-03,HSGO,L000562
+"National Security, the Border, and Foreign Affairs",HSGO06,2019-01-24,2021-01-03,HSGO,L000562
+Water Resources and Environment,HSPW02,,2021-01-03,HSPW,L000562
+Aviation,HSPW05,,2021-01-03,HSPW,L000562
+"National Security, Illicit Finance, and International Financial Institutions",HSBA01,,2021-01-03,HSBA,L000562
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,L000562
+Oversight and Investigations,HSBA09,,2021-01-03,HSBA,L000562
+Oversight and Accountability,HSFA17,2019-01-29,2021-01-03,HSFA,M001203
+"Middle East, North Africa, and Central Asia",HSFA13,2019-01-29,2021-01-03,HSFA,M001203
+Water Resources and Environment,HSPW02,,2021-01-03,HSPW,M001203
+Highways and Transit,HSPW12,,2021-01-03,HSPW,M001203
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,M001203
+"Conservation, Research, and Biotechnology",HSAG14,2019-02-06,2021-01-03,HSAG,M001185
+"Commodity Markets, Digital Assets, and Rural Development",HSAG22,2019-02-06,2021-01-03,HSAG,M001185
+Coast Guard and Maritime Transportation,HSPW07,2019-01-24,2021-01-03,HSPW,M001185
+Aviation,HSPW05,,2021-01-03,HSPW,M001185
+"Counterterrorism, Counterintelligence, and Counterproliferation",HSIG05,,2021-01-03,HSIG,M001185
+Highways and Transit,HSPW12,,2021-01-03,HSPW,M001185
+National Intelligence Enterprise,HSIG06,,2021-01-03,HSIG,M001185
+Capital Markets,HSBA16,2019-01-24,2021-01-03,HSBA,M000087
+Housing and Insurance,HSBA04,,2021-01-03,HSBA,M000087
+Civil Rights and Civil Liberties,HSGO02,,2021-01-03,HSGO,M000087
+Government Operations and the Federal Workforce,HSGO24,2019-01-29,2021-01-03,HSGO,M001184
+Water Resources and Environment,HSPW02,,2021-01-03,HSPW,M001184
+Aviation,HSPW05,,2021-01-03,HSPW,M001184
+Highways and Transit,HSPW12,,2021-01-03,HSPW,M001184
+Civil Rights and Civil Liberties,HSGO02,,2021-01-03,HSGO,M001184
+Indo-Pacific,HSFA05,2019-01-29,2021-01-03,HSFA,M001199
+"Middle East, North Africa, and Central Asia",HSFA13,2019-01-29,2021-01-03,HSFA,M001199
+Water Resources and Environment,HSPW02,,2021-01-03,HSPW,M001199
+Aviation,HSPW05,,2021-01-03,HSPW,M001199
+Coast Guard and Maritime Transportation,HSPW07,,2021-01-03,HSPW,M001199
+Health,HSIF14,2019-01-15,2021-01-03,HSIF,M001163
+Communications and Technology,HSIF16,2019-01-15,2021-01-03,HSIF,M001163
+"Innovation, Data, and Commerce",HSIF17,2019-01-15,2021-01-03,HSIF,M001163
+"Environment, Manufacturing, and Critical Materials",HSIF18,2019-01-15,2021-01-03,HSIF,M001163
+"Health, Employment, Labor, and Pensions",HSED02,2019-01-29,2021-01-03,HSED,M001208
+Workforce Protections,HSED10,2019-01-29,2021-01-03,HSED,M001208
+"The Administrative State, Regulatory Reform, and Antitrust",HSJU05,2019-01-28,2021-01-03,HSJU,M001208
+Crime and Federal Government Surveillance,HSJU08,2019-01-28,2021-01-03,HSJU,M001208
+"Water, Wildlife and Fisheries",HSII13,2019-01-30,2021-01-03,HSII,M001177
+Federal Lands,HSII10,2019-01-30,2021-01-03,HSII,M001177
+"Immigration Integrity, Security, and Enforcement",HSJU01,2019-01-28,2021-01-03,HSJU,M001177
+Crime and Federal Government Surveillance,HSJU08,2019-01-28,2021-01-03,HSJU,M001177
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",HSAP01,,2021-01-03,HSAP,M001143
+Defense,HSAP02,,2021-01-03,HSAP,M001143
+"Interior, Environment, and Related Agencies",HSAP06,,2021-01-03,HSAP,M001143
+Oversight and Investigations,HSII15,2019-01-30,2021-01-03,HSII,M001200
+Energy and Mineral Resources,HSII06,2019-01-30,2021-01-03,HSII,M001200
+"Energy, Climate, and Grid Security",HSIF03,2019-01-15,2021-01-03,HSIF,M001200
+Communications and Technology,HSIF16,2019-01-15,2021-01-03,HSIF,M001200
+"Environment, Manufacturing, and Critical Materials",HSIF18,2019-01-15,2021-01-03,HSIF,M001200
+"Nutrition, Foreign Agriculture, and Horticulture",HSAG03,2019-02-06,2021-01-03,HSAG,M000312
+Oversight and Investigations,HSIF02,2019-01-18,2021-01-03,HSIF,M001180
+"Energy, Climate, and Grid Security",HSIF03,2019-01-18,2021-01-03,HSIF,M001180
+"Environment, Manufacturing, and Critical Materials",HSIF18,2019-01-18,2021-01-03,HSIF,M001180
+"Energy, Climate, and Grid Security",HSIF03,2019-01-18,2021-01-03,HSIF,M001159
+"Innovation, Data, and Commerce",HSIF17,2019-01-18,2021-01-03,HSIF,M001159
+"Environment, Manufacturing, and Critical Materials",HSIF18,2019-01-18,2021-01-03,HSIF,M001159
+Energy,HSSY20,2019-01-30,2021-01-03,HSSY,M001166
+"Energy, Climate, and Grid Security",HSIF03,2019-01-15,2021-01-03,HSIF,M001166
+Communications and Technology,HSIF16,2019-01-15,2021-01-03,HSIF,M001166
+"Innovation, Data, and Commerce",HSIF17,2019-01-15,2021-01-03,HSIF,M001166
+"Environment, Manufacturing, and Critical Materials",HSIF18,2019-01-15,2021-01-03,HSIF,M001166
+Western Hemisphere,HSFA07,2019-01-29,2021-01-03,HSFA,M001137
+Europe,HSFA14,2019-01-29,2021-01-03,HSFA,M001137
+Consumer Protection and Financial Institutions,HSBA15,2019-01-24,2021-01-03,HSBA,M001137
+Capital Markets,HSBA16,,2021-01-03,HSBA,M001137
+"State, Foreign Operations, and Related Programs",HSAP04,,2021-01-03,HSAP,M001188
+Homeland Security,HSAP15,,2021-01-03,HSAP,M001188
+"Commerce, Justice, Science, and Related Agencies",HSAP19,,2021-01-03,HSAP,M001188
+"Health, Employment, Labor, and Pensions",HSED02,2019-01-29,2021-01-03,HSED,M001204
+Higher Education and Workforce Development,HSED13,2019-01-29,2021-01-03,HSED,M001204
+Health,HSVR03,,2021-01-03,HSVR,M001204
+Economic Opportunity,HSVR10,,2021-01-03,HSVR,M001204
+Coast Guard and Maritime Transportation,HSPW07,,2021-01-03,HSPW,M001205
+Highways and Transit,HSPW12,,2021-01-03,HSPW,M001205
+"Economic Development, Public Buildings, and Emergency Management",HSPW13,,2021-01-03,HSPW,M001205
+Civil Rights and Civil Liberties,HSGO02,,2021-01-03,HSGO,M001205
+"Economic Growth, Energy Policy, and Regulatory Affairs",HSGO05,,2021-01-03,HSGO,M001205
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",HSAP01,2019-01-29,2021-01-03,HSAP,M001194
+"Labor, Health and Human Services, Education, and Related Agencies",HSAP07,2019-01-29,2021-01-03,HSAP,M001194
+Diversity and Inclusion,HSBA13,,2021-01-03,HSBA,M001195
+Capital Markets,HSBA16,,2021-01-03,HSBA,M001195
+Tax,HSWM05,2019-01-16,2021-01-03,HSWM,M001160
+Oversight,HSWM06,2019-01-16,2021-01-03,HSWM,M001160
+Work and Welfare,HSWM03,2019-01-16,2021-01-03,HSWM,M001160
+"Health, Employment, Labor, and Pensions",HSED02,2019-01-29,2021-01-03,HSED,M001206
+"Early Childhood, Elementary, and Secondary Education",HSED14,2019-01-29,2021-01-03,HSED,M001206
+Seapower and Projection Forces,HSAS28,2019-01-23,2021-01-03,HSAS,M001196
+Strategic Forces,HSAS29,2019-01-23,2021-01-03,HSAS,M001196
+Oversight and Investigations,HSIF02,2019-01-18,2021-01-03,HSIF,M001190
+Health,HSIF14,2019-01-18,2021-01-03,HSIF,M001190
+"Environment, Manufacturing, and Critical Materials",HSIF18,2019-01-18,2021-01-03,HSIF,M001190
+Work and Welfare,HSWM03,2019-01-16,2021-01-03,HSWM,M001202
+Trade,HSWM04,2019-01-16,2021-01-03,HSWM,M001202
+"Water, Wildlife and Fisheries",HSII13,2019-01-30,2021-01-03,HSII,N000179
+Water Resources and Environment,HSPW02,2019-01-24,2021-01-03,HSPW,N000179
+Aviation,HSPW05,,2021-01-03,HSPW,N000179
+Highways and Transit,HSPW12,,2021-01-03,HSPW,N000179
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,N000179
+"Water, Wildlife and Fisheries",HSII13,2019-01-30,2021-01-03,HSII,N000191
+Federal Lands,HSII10,2019-01-30,2021-01-03,HSII,N000191
+"Immigration Integrity, Security, and Enforcement",HSJU01,2019-01-28,2021-01-03,HSJU,N000191
+"The Administrative State, Regulatory Reform, and Antitrust",HSJU05,2019-01-28,2021-01-03,HSJU,N000191
+"Energy and Water Development, and Related Agencies",HSAP10,2019-01-29,2021-01-03,HSAP,N000189
+Homeland Security,HSAP15,2019-01-29,2021-01-03,HSAP,N000189
+Legislative Branch,HSAP24,2019-01-29,2021-01-03,HSAP,N000189
+"Health, Employment, Labor, and Pensions",HSED02,2019-01-29,2021-01-03,HSED,N000188
+Higher Education and Workforce Development,HSED13,2019-01-29,2021-01-03,HSED,N000188
+Tactical Air and Land Forces,HSAS25,2019-01-23,2021-01-03,HSAS,N000188
+Seapower and Projection Forces,HSAS28,2019-01-23,2021-01-03,HSAS,N000188
+Government Operations and the Federal Workforce,HSGO24,2019-01-29,2021-01-03,HSGO,N000190
+Energy,HSSY20,,2021-01-03,HSSY,N000190
+Investigations and Oversight,HSSY21,,2021-01-03,HSSY,N000190
+Government Operations and the Federal Workforce,HSGO24,2019-01-29,2021-01-03,HSGO,N000147
+Highways and Transit,HSPW12,2019-01-24,2021-01-03,HSPW,N000147
+Aviation,HSPW05,,2021-01-03,HSPW,N000147
+"Economic Development, Public Buildings, and Emergency Management",HSPW13,,2021-01-03,HSPW,N000147
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,N000147
+Civil Rights and Civil Liberties,HSGO02,,2021-01-03,HSGO,N000147
+Trade,HSWM04,2019-01-16,2021-01-03,HSWM,N000181
+Health,HSWM02,2019-01-16,2021-01-03,HSWM,N000181
+Forestry,HSAG15,2019-02-06,2021-01-03,HSAG,O000171
+"Energy, Climate, and Grid Security",HSIF03,2019-01-15,2021-01-03,HSIF,O000171
+Communications and Technology,HSIF16,2019-01-15,2021-01-03,HSIF,O000171
+"Innovation, Data, and Commerce",HSIF17,2019-01-15,2021-01-03,HSIF,O000171
+Environment,HSGO28,2019-01-29,2021-01-03,HSGO,O000172
+Consumer Protection and Financial Institutions,HSBA15,,2021-01-03,HSBA,O000172
+Civil Rights and Civil Liberties,HSGO02,,2021-01-03,HSGO,O000172
+Capital Markets,HSBA16,,2021-01-03,HSBA,O000172
+Africa,HSFA16,2019-01-29,2021-01-03,HSFA,O000173
+Oversight and Accountability,HSFA17,2019-01-29,2021-01-03,HSFA,O000173
+Workforce Protections,HSED10,2019-01-29,2021-01-03,HSED,O000173
+Higher Education and Workforce Development,HSED13,2019-01-29,2021-01-03,HSED,O000173
+Homeland Security,HSAP15,2019-01-29,2021-01-03,HSAP,P000601
+"Commerce, Justice, Science, and Related Agencies",HSAP19,2019-01-29,2021-01-03,HSAP,P000601
+Oversight and Investigations,HSIF02,2019-01-15,2021-01-03,HSIF,P000034
+"Energy, Climate, and Grid Security",HSIF03,2019-01-15,2021-01-03,HSIF,P000034
+Health,HSIF14,2019-01-15,2021-01-03,HSIF,P000034
+Communications and Technology,HSIF16,2019-01-15,2021-01-03,HSIF,P000034
+"Innovation, Data, and Commerce",HSIF17,2019-01-15,2021-01-03,HSIF,P000034
+"Environment, Manufacturing, and Critical Materials",HSIF18,2019-01-15,2021-01-03,HSIF,P000034
+Water Resources and Environment,HSPW02,,2021-01-03,HSPW,P000609
+Highways and Transit,HSPW12,,2021-01-03,HSPW,P000609
+"Economic Development, Public Buildings, and Emergency Management",HSPW13,,2021-01-03,HSPW,P000609
+"Nutrition, Foreign Agriculture, and Horticulture",HSAG03,2019-02-06,2021-01-03,HSAG,P000613
+"Conservation, Research, and Biotechnology",HSAG14,2019-02-06,2021-01-03,HSAG,P000613
+Trade,HSWM04,2019-01-16,2021-01-03,HSWM,P000613
+"Livestock, Dairy, and Poultry",HSAG29,,2021-01-03,HSAG,P000613
+Oversight and Investigations,HSVR08,2019-01-31,2021-01-03,HSVR,P000614
+Economic Opportunity,HSVR10,2019-01-31,2021-01-03,HSVR,P000614
+Coast Guard and Maritime Transportation,HSPW07,,2021-01-03,HSPW,P000614
+Highways and Transit,HSPW12,,2021-01-03,HSPW,P000614
+Water Resources and Environment,HSPW02,,2021-01-03,HSPW,P000614
+Trade,HSWM04,2019-01-16,2021-01-03,HSWM,P000096
+Social Security,HSWM01,2019-01-16,2021-01-03,HSWM,P000096
+Emergency Management and Technology,HSHM12,2019-01-29,2021-01-03,HSHM,P000604
+Aviation,HSPW05,,2021-01-03,HSPW,P000604
+Highways and Transit,HSPW12,,2021-01-03,HSPW,P000604
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,P000604
+Border Security and Enforcement,HSHM11,,2021-01-03,HSHM,P000604
+Europe,HSFA14,2019-01-29,2021-01-03,HSFA,P000615
+Highways and Transit,HSPW12,,2021-01-03,HSPW,P000615
+"Economic Development, Public Buildings, and Emergency Management",HSPW13,,2021-01-03,HSPW,P000615
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,P000615
+Space and Aeronautics,HSSY16,2019-01-30,2021-01-03,HSSY,P000593
+"National Security, Illicit Finance, and International Financial Institutions",HSBA01,,2021-01-03,HSBA,P000593
+Oversight and Investigations,HSBA09,,2021-01-03,HSBA,P000593
+Oversight and Accountability,HSFA17,2019-01-29,2021-01-03,HSFA,P000605
+Indo-Pacific,HSFA05,2019-01-29,2021-01-03,HSFA,P000605
+Aviation,HSPW05,,2021-01-03,HSPW,P000605
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,P000605
+Oversight and Investigations,HSIF02,2019-01-15,2021-01-03,HSIF,P000608
+"Energy, Climate, and Grid Security",HSIF03,2019-01-15,2021-01-03,HSIF,P000608
+"Environment, Manufacturing, and Critical Materials",HSIF18,2019-01-15,2021-01-03,HSIF,P000608
+Africa,HSFA16,2019-01-29,2021-01-03,HSFA,P000616
+Western Hemisphere,HSFA07,2019-01-29,2021-01-03,HSFA,P000616
+Oversight and Investigations,HSBA09,,2021-01-03,HSBA,P000616
+Diversity and Inclusion,HSBA13,,2021-01-03,HSBA,P000616
+"Conservation, Research, and Biotechnology",HSAG14,2019-02-06,2021-01-03,HSAG,P000597
+Forestry,HSAG15,2019-02-06,2021-01-03,HSAG,P000597
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",HSAP01,,2021-01-03,HSAP,P000597
+"Interior, Environment, and Related Agencies",HSAP06,,2021-01-03,HSAP,P000597
+"Military Construction, Veterans Affairs, and Related Agencies",HSAP18,,2021-01-03,HSAP,P000597
+"Commodity Markets, Digital Assets, and Rural Development",HSAG22,2019-02-06,2021-01-03,HSAG,P000610
+"Livestock, Dairy, and Poultry",HSAG29,2019-02-06,2021-01-03,HSAG,P000610
+"National Security, the Border, and Foreign Affairs",HSGO06,2019-01-29,2021-01-03,HSGO,P000610
+Government Operations and the Federal Workforce,HSGO24,2019-01-29,2021-01-03,HSGO,P000610
+"Conservation, Research, and Biotechnology",HSAG14,2019-01-24,2021-01-03,HSAG,P000610
+Aviation,HSPW05,,2021-01-03,HSPW,P000610
+Coast Guard and Maritime Transportation,HSPW07,,2021-01-03,HSPW,P000610
+Highways and Transit,HSPW12,,2021-01-03,HSPW,P000610
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",HSAP01,,2021-01-03,HSAP,P000607
+"Labor, Health and Human Services, Education, and Related Agencies",HSAP07,,2021-01-03,HSAP,P000607
+"Energy and Water Development, and Related Agencies",HSAP10,,2021-01-03,HSAP,P000607
+Consumer Protection and Financial Institutions,HSBA15,,2021-01-03,HSBA,P000618
+Capital Markets,HSBA16,,2021-01-03,HSBA,P000618
+Space and Aeronautics,HSSY16,,2021-01-03,HSSY,P000599
+Oversight and Investigations,HSBA09,,2021-01-03,HSBA,P000599
+Consumer Protection and Financial Institutions,HSBA15,,2021-01-03,HSBA,P000599
+Diversity and Inclusion,HSBA13,,2021-01-03,HSBA,P000617
+Consumer Protection and Financial Institutions,HSBA15,,2021-01-03,HSBA,P000617
+Civil Rights and Civil Liberties,HSGO02,,2021-01-03,HSGO,P000617
+"Economic Growth, Energy Policy, and Regulatory Affairs",HSGO05,,2021-01-03,HSGO,P000617
+"State, Foreign Operations, and Related Programs",HSAP04,,2021-01-03,HSAP,P000523
+Homeland Security,HSAP15,,2021-01-03,HSAP,P000523
+"Transportation, Housing and Urban Development, and Related Agencies",HSAP20,,2021-01-03,HSAP,P000523
+"Counterterrorism, Counterintelligence, and Counterproliferation",HSIG05,,2021-01-03,HSIG,Q000023
+"Interior, Environment, and Related Agencies",HSAP06,,2021-01-03,HSAP,Q000023
+"Transportation, Housing and Urban Development, and Related Agencies",HSAP20,,2021-01-03,HSAP,Q000023
+Financial Services and General Government,HSAP23,,2021-01-03,HSAP,Q000023
+Strategic Technologies and Advanced Research,HSIG10,,2021-01-03,HSIG,Q000023
+"Water, Wildlife and Fisheries",HSII13,2019-01-30,2021-01-03,HSII,R000600
+Indian and Insular Affairs,HSII24,2019-01-30,2021-01-03,HSII,R000600
+Health,HSVR03,,2021-01-03,HSVR,R000600
+Oversight and Investigations,HSVR08,,2021-01-03,HSVR,R000600
+"Underserved, Agricultural, and Rural Business Development",HSSM25,,2021-01-03,HSSM,R000600
+"Economic Growth, Tax, and Capital Access",HSSM27,,2021-01-03,HSSM,R000600
+Government Operations and the Federal Workforce,HSGO24,2019-01-29,2021-01-03,HSGO,R000606
+"The Administrative State, Regulatory Reform, and Antitrust",HSJU05,2019-01-28,2021-01-03,HSJU,R000606
+The Constitution and Limited Government,HSJU10,2019-01-28,2021-01-03,HSJU,R000606
+Civil Rights and Civil Liberties,HSGO02,,2021-01-03,HSGO,R000606
+Social Security,HSWM01,2019-01-16,2021-01-03,HSWM,R000585
+Health,HSWM02,2019-01-16,2021-01-03,HSWM,R000585
+Work and Welfare,HSWM03,,2021-01-03,HSWM,R000585
+Oversight and Accountability,HSFA17,2019-01-29,2021-01-03,HSFA,R000610
+"Middle East, North Africa, and Central Asia",HSFA13,2019-01-29,2021-01-03,HSFA,R000610
+"Courts, Intellectual Property, and the Internet",HSJU03,2019-01-28,2021-01-03,HSJU,R000610
+Crime and Federal Government Surveillance,HSJU08,2019-01-28,2021-01-03,HSJU,R000610
+The Constitution and Limited Government,HSJU10,2019-01-28,2021-01-03,HSJU,R000610
+Oversight and Investigations,HSVR08,2019-01-31,2021-01-03,HSVR,R000602
+Economic Opportunity,HSVR10,2019-01-31,2021-01-03,HSVR,R000602
+Border Security and Enforcement,HSHM11,2019-01-29,2021-01-03,HSHM,R000602
+Cybersecurity and Infrastructure Protection,HSHM08,,2021-01-03,HSHM,R000602
+Trade,HSWM04,2019-01-16,2021-01-03,HSWM,R000597
+Tax,HSWM05,2019-01-16,2021-01-03,HSWM,R000597
+Cybersecurity and Infrastructure Protection,HSHM08,2019-01-29,2021-01-03,HSHM,R000588
+"Courts, Intellectual Property, and the Internet",HSJU03,2019-01-28,2021-01-03,HSJU,R000588
+Crime and Federal Government Surveillance,HSJU08,2019-01-28,2021-01-03,HSJU,R000588
+Emergency Management and Technology,HSHM12,,2021-01-03,HSHM,R000588
+Readiness,HSAS03,,2021-01-03,HSAS,R000575
+Strategic Forces,HSAS29,,2021-01-03,HSAS,R000575
+"Counterterrorism, Law Enforcement, and Intelligence",HSHM05,,2021-01-03,HSHM,R000575
+Transportation and Maritime Security,HSHM07,,2021-01-03,HSHM,R000575
+Cybersecurity and Infrastructure Protection,HSHM08,,2021-01-03,HSHM,R000575
+"Oversight, Investigations, and Accountability",HSHM09,,2021-01-03,HSHM,R000575
+Border Security and Enforcement,HSHM11,,2021-01-03,HSHM,R000575
+Emergency Management and Technology,HSHM12,,2021-01-03,HSHM,R000575
+Defense,HSAP02,2019-01-29,2021-01-03,HSAP,R000395
+"State, Foreign Operations, and Related Programs",HSAP04,2019-01-29,2021-01-03,HSAP,R000395
+"National Security, Illicit Finance, and International Financial Institutions",HSBA01,,2021-01-03,HSBA,R000612
+Housing and Insurance,HSBA04,,2021-01-03,HSBA,R000612
+Oversight and Investigations,HSBA09,,2021-01-03,HSBA,R000612
+"Commodity Markets, Digital Assets, and Rural Development",HSAG22,2019-02-06,2021-01-03,HSAG,R000603
+"Livestock, Dairy, and Poultry",HSAG29,2019-02-06,2021-01-03,HSAG,R000603
+Water Resources and Environment,HSPW02,,2021-01-03,HSPW,R000603
+Aviation,HSPW05,,2021-01-03,HSPW,R000603
+Highways and Transit,HSPW12,,2021-01-03,HSPW,R000603
+Oversight and Investigations,HSVR08,,2021-01-03,HSVR,R000614
+Technology Modernization,HSVR11,,2021-01-03,HSVR,R000614
+Civil Rights and Civil Liberties,HSGO02,,2021-01-03,HSGO,R000614
+"Economic Growth, Energy Policy, and Regulatory Affairs",HSGO05,,2021-01-03,HSGO,R000614
+"Labor, Health and Human Services, Education, and Related Agencies",HSAP07,,2021-01-03,HSAP,R000486
+Homeland Security,HSAP15,,2021-01-03,HSAP,R000486
+Oversight and Investigations,HSIF02,2019-01-15,2021-01-03,HSIF,R000599
+Health,HSIF14,2019-01-15,2021-01-03,HSIF,R000599
+"Environment, Manufacturing, and Critical Materials",HSIF18,2019-01-15,2021-01-03,HSIF,R000599
+Defense,HSAP02,,2021-01-03,HSAP,R000576
+Homeland Security,HSAP15,,2021-01-03,HSAP,R000576
+Legislative Branch,HSAP24,,2021-01-03,HSAP,R000576
+"Energy, Climate, and Grid Security",HSIF03,2019-01-15,2021-01-03,HSIF,R000515
+Health,HSIF14,2019-01-15,2021-01-03,HSIF,R000515
+"Innovation, Data, and Commerce",HSIF17,2019-01-15,2021-01-03,HSIF,R000515
+Homeland Security,HSAP15,2019-01-29,2021-01-03,HSAP,R000609
+"Military Construction, Veterans Affairs, and Related Agencies",HSAP18,2019-01-29,2021-01-03,HSAP,R000609
+"Transportation, Housing and Urban Development, and Related Agencies",HSAP20,2019-01-29,2021-01-03,HSAP,R000609
+Defense,HSAP02,,2021-01-03,HSAP,R000577
+"Military Construction, Veterans Affairs, and Related Agencies",HSAP18,,2021-01-03,HSAP,R000577
+Legislative Branch,HSAP24,,2021-01-03,HSAP,R000577
+Disability Assistance and Memorial Affairs,HSVR09,2019-01-31,2021-01-03,HSVR,S001177
+"Water, Wildlife and Fisheries",HSII13,2019-01-30,2021-01-03,HSII,S001177
+Higher Education and Workforce Development,HSED13,2019-01-29,2021-01-03,HSED,S001177
+"Early Childhood, Elementary, and Secondary Education",HSED14,2019-01-29,2021-01-03,HSED,S001177
+Oversight and Investigations,HSII15,2019-01-30,2021-01-03,HSII,S001204
+"National Security, Illicit Finance, and International Financial Institutions",HSBA01,,2021-01-03,HSBA,S001204
+Indian and Insular Affairs,HSII24,,2021-01-03,HSII,S001204
+Capital Markets,HSBA16,,2021-01-03,HSBA,S001204
+Tax,HSWM05,2019-01-16,2021-01-03,HSWM,S001156
+Oversight,HSWM06,2019-01-16,2021-01-03,HSWM,S001156
+Social Security,HSWM01,2019-01-16,2021-01-03,HSWM,S001156
+Government Operations and the Federal Workforce,HSGO24,2019-01-29,2021-01-03,HSGO,S001168
+Oversight and Investigations,HSIF02,2019-01-15,2021-01-03,HSIF,S001168
+"Energy, Climate, and Grid Security",HSIF03,2019-01-15,2021-01-03,HSIF,S001168
+Health,HSIF14,2019-01-15,2021-01-03,HSIF,S001168
+Communications and Technology,HSIF16,2019-01-18,2021-01-03,HSIF,S001176
+"Immigration Integrity, Security, and Enforcement",HSJU01,2019-01-28,2021-01-03,HSJU,S001205
+"The Administrative State, Regulatory Reform, and Antitrust",HSJU05,2019-01-28,2021-01-03,HSJU,S001205
+The Constitution and Limited Government,HSJU10,2019-01-28,2021-01-03,HSJU,S001205
+Oversight and Investigations,HSIF02,2019-01-15,2021-01-03,HSIF,S001145
+"Innovation, Data, and Commerce",HSIF17,2019-01-15,2021-01-03,HSIF,S001145
+"Environment, Manufacturing, and Critical Materials",HSIF18,2019-01-15,2021-01-03,HSIF,S001145
+Social Security,HSWM01,2019-01-16,2021-01-03,HSWM,S001190
+Health,HSWM02,2019-01-16,2021-01-03,HSWM,S001190
+"Economic Growth, Tax, and Capital Access",HSSM27,,2021-01-03,HSSM,S001190
+"Energy, Climate, and Grid Security",HSIF03,2019-01-15,2021-01-03,HSIF,S001180
+Health,HSIF14,2019-01-15,2021-01-03,HSIF,S001180
+Communications and Technology,HSIF16,2019-01-15,2021-01-03,HSIF,S001180
+"Nutrition, Foreign Agriculture, and Horticulture",HSAG03,2019-02-06,2021-01-03,HSAG,S001216
+"Conservation, Research, and Biotechnology",HSAG14,2019-02-06,2021-01-03,HSAG,S001216
+"Early Childhood, Elementary, and Secondary Education",HSED14,2019-01-29,2021-01-03,HSED,S001216
+Civil Rights and Human Services,HSED07,,2021-01-03,HSED,S001216
+Trade,HSWM04,2019-01-16,2021-01-03,HSWM,S001183
+Tax,HSWM05,2019-01-16,2021-01-03,HSWM,S001183
+"General Farm Commodities, Risk Management, and Credit",HSAG16,2019-02-06,2021-01-03,HSAG,S001157
+"Commodity Markets, Digital Assets, and Rural Development",HSAG22,2019-01-24,2021-01-03,HSAG,S001157
+Consumer Protection and Financial Institutions,HSBA15,,2021-01-03,HSBA,S001157
+Capital Markets,HSBA16,,2021-01-03,HSBA,S001157
+"Health, Employment, Labor, and Pensions",HSED02,,2021-01-03,HSED,S000185
+"General Farm Commodities, Risk Management, and Credit",HSAG16,2019-02-06,2021-01-03,HSAG,S001189
+"Commodity Markets, Digital Assets, and Rural Development",HSAG22,2019-02-06,2021-01-03,HSAG,S001189
+Intelligence and Special Operations,HSAS26,,2021-01-03,HSAS,S001189
+Readiness,HSAS03,,2021-01-03,HSAS,S001189
+Trade,HSWM04,2019-01-16,2021-01-03,HSWM,S001185
+Health,HSWM02,2019-01-16,2021-01-03,HSWM,S001185
+Work and Welfare,HSWM03,2019-01-16,2021-01-03,HSWM,S001185
+Intelligence Modernization and Readiness,HSIG08,,2021-01-03,HSIG,S001185
+National Intelligence Enterprise,HSIG06,,2021-01-03,HSIG,S001185
+Research and Technology,HSSY15,2019-01-30,2021-01-03,HSSY,S000344
+Indo-Pacific,HSFA05,2019-01-29,2021-01-03,HSFA,S000344
+"Middle East, North Africa, and Central Asia",HSFA13,2019-01-29,2021-01-03,HSFA,S000344
+"National Security, Illicit Finance, and International Financial Institutions",HSBA01,,2021-01-03,HSBA,S000344
+Housing and Insurance,HSBA04,,2021-01-03,HSBA,S000344
+Capital Markets,HSBA16,,2021-01-03,HSBA,S000344
+Research and Technology,HSSY15,2019-01-30,2021-01-03,HSSY,S001207
+Investigations and Oversight,HSSY21,2019-01-30,2021-01-03,HSSY,S001207
+Tactical Air and Land Forces,HSAS25,2019-01-23,2021-01-03,HSAS,S001207
+Seapower and Projection Forces,HSAS28,2019-01-23,2021-01-03,HSAS,S001207
+"Interior, Environment, and Related Agencies",HSAP06,2019-01-29,2021-01-03,HSAP,S001148
+"Energy and Water Development, and Related Agencies",HSAP10,2019-01-29,2021-01-03,HSAP,S001148
+Western Hemisphere,HSFA07,2019-01-29,2021-01-03,HSFA,S001165
+Europe,HSFA14,2019-01-29,2021-01-03,HSFA,S001165
+Highways and Transit,HSPW12,,2021-01-03,HSPW,S001165
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,S001165
+Intelligence and Special Operations,HSAS26,2019-01-23,2021-01-03,HSAS,S001208
+Readiness,HSAS03,2019-01-23,2021-01-03,HSAS,S001208
+"Counterterrorism, Law Enforcement, and Intelligence",HSHM05,,2021-01-03,HSHM,S001208
+Cybersecurity and Infrastructure Protection,HSHM08,,2021-01-03,HSHM,S001208
+Trade,HSWM04,2019-01-16,2021-01-03,HSWM,S001195
+Tax,HSWM05,2019-01-16,2021-01-03,HSWM,S001172
+Health,HSWM02,2019-01-16,2021-01-03,HSWM,S001172
+Western Hemisphere,HSFA07,2019-01-29,2021-01-03,HSFA,S000522
+Africa,HSFA16,2019-01-29,2021-01-03,HSFA,S000522
+Higher Education and Workforce Development,HSED13,2019-01-29,2021-01-03,HSED,S001199
+Aviation,HSPW05,,2021-01-03,HSPW,S001199
+Highways and Transit,HSPW12,,2021-01-03,HSPW,S001199
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,S001199
+Indian and Insular Affairs,HSII24,2019-01-30,2021-01-03,HSII,S001200
+Communications and Technology,HSIF16,2019-01-15,2021-01-03,HSIF,S001200
+"Innovation, Data, and Commerce",HSIF17,2019-01-15,2021-01-03,HSIF,S001200
+"Environment, Manufacturing, and Critical Materials",HSIF18,2019-01-15,2021-01-03,HSIF,S001200
+"Commodity Markets, Digital Assets, and Rural Development",HSAG22,2019-02-06,2021-01-03,HSAG,S001209
+Indo-Pacific,HSFA05,2019-01-29,2021-01-03,HSFA,S001209
+Europe,HSFA14,2019-01-29,2021-01-03,HSFA,S001209
+Forestry,HSAG15,2019-01-24,2021-01-03,HSAG,S001209
+Government Operations and the Federal Workforce,HSGO24,2019-01-29,2021-01-03,HSGO,S001175
+Environment,HSGO28,2019-01-29,2021-01-03,HSGO,S001175
+Strategic Forces,HSAS29,2019-01-23,2021-01-03,HSAS,S001175
+Military Personnel,HSAS02,2019-01-23,2021-01-03,HSAS,S001175
+"Counterterrorism, Counterintelligence, and Counterproliferation",HSIG05,,2021-01-03,HSIG,S001175
+Intelligence Modernization and Readiness,HSIG08,,2021-01-03,HSIG,S001175
+"Courts, Intellectual Property, and the Internet",HSJU03,2019-01-28,2021-01-03,HSJU,S001211
+Aviation,HSPW05,,2021-01-03,HSPW,S001211
+Highways and Transit,HSPW12,,2021-01-03,HSPW,S001211
+Contracting and Infrastructure,HSSM23,2019-02-04,2021-01-03,HSSM,S001212
+Aviation,HSPW05,,2021-01-03,HSPW,S001212
+Highways and Transit,HSPW12,,2021-01-03,HSPW,S001212
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,S001212
+"Economic Growth, Tax, and Capital Access",HSSM27,,2021-01-03,HSSM,S001212
+Higher Education and Workforce Development,HSED13,2019-01-29,2021-01-03,HSED,S001196
+Intelligence and Special Operations,HSAS26,2019-01-23,2021-01-03,HSAS,S001196
+Readiness,HSAS03,,2021-01-03,HSAS,S001196
+Intelligence Modernization and Readiness,HSIG08,,2021-01-03,HSIG,S001196
+Civil Rights and Human Services,HSED07,,2021-01-03,HSED,S001196
+Strategic Technologies and Advanced Research,HSIG10,,2021-01-03,HSIG,S001196
+Housing and Insurance,HSBA04,,2021-01-03,HSBA,S001213
+Oversight and Investigations,HSBA09,,2021-01-03,HSBA,S001213
+Diversity and Inclusion,HSBA13,,2021-01-03,HSBA,S001213
+Government Operations and the Federal Workforce,HSGO24,2019-01-29,2021-01-03,HSGO,S001214
+"Immigration Integrity, Security, and Enforcement",HSJU01,2019-01-28,2021-01-03,HSJU,S001214
+"The Administrative State, Regulatory Reform, and Antitrust",HSJU05,2019-01-28,2021-01-03,HSJU,S001214
+Crime and Federal Government Surveillance,HSJU08,2019-01-28,2021-01-03,HSJU,S001214
+Health,HSVR03,,2021-01-03,HSVR,S001214
+Disability Assistance and Memorial Affairs,HSVR09,,2021-01-03,HSVR,S001214
+Research and Technology,HSSY15,2019-01-30,2021-01-03,HSSY,S001215
+Energy,HSSY20,2019-01-30,2021-01-03,HSSY,S001215
+"Health, Employment, Labor, and Pensions",HSED02,2019-01-29,2021-01-03,HSED,S001215
+Workforce Protections,HSED10,2019-01-29,2021-01-03,HSED,S001215
+"Interior, Environment, and Related Agencies",HSAP06,2019-01-29,2021-01-03,HSAP,S001192
+Financial Services and General Government,HSAP23,2019-01-29,2021-01-03,HSAP,S001192
+"Counterterrorism, Counterintelligence, and Counterproliferation",HSIG05,,2021-01-03,HSIG,S001192
+Strategic Technologies and Advanced Research,HSIG10,,2021-01-03,HSIG,S001192
+Financial Institutions and Monetary Policy,HSBA20,2019-01-24,2021-01-03,HSBA,S001187
+"National Security, Illicit Finance, and International Financial Institutions",HSBA01,,2021-01-03,HSBA,S001187
+Capital Markets,HSBA16,,2021-01-03,HSBA,S001187
+Tax,HSWM05,2019-01-16,2021-01-03,HSWM,S001201
+Oversight,HSWM06,2019-01-16,2021-01-03,HSWM,S001201
+"Courts, Intellectual Property, and the Internet",HSJU03,2019-01-28,2021-01-03,HSJU,S001193
+The Constitution and Limited Government,HSJU10,2019-01-28,2021-01-03,HSJU,S001193
+Intelligence Modernization and Readiness,HSIG08,,2021-01-03,HSIG,S001193
+Strategic Technologies and Advanced Research,HSIG10,,2021-01-03,HSIG,S001193
+Workforce Protections,HSED10,2019-01-29,2021-01-03,HSED,T000472
+Higher Education and Workforce Development,HSED13,2019-01-29,2021-01-03,HSED,T000472
+"Health, Employment, Labor, and Pensions",HSED02,2019-01-29,2021-01-03,HSED,T000479
+"Early Childhood, Elementary, and Secondary Education",HSED14,2019-01-29,2021-01-03,HSED,T000479
+Cybersecurity and Infrastructure Protection,HSHM08,,2021-01-03,HSHM,T000479
+"Oversight, Investigations, and Accountability",HSHM09,,2021-01-03,HSHM,T000479
+Tax,HSWM05,2019-01-16,2021-01-03,HSWM,T000460
+Health,HSWM02,2019-01-16,2021-01-03,HSWM,T000460
+"Conservation, Research, and Biotechnology",HSAG14,2019-02-06,2021-01-03,HSAG,T000467
+"General Farm Commodities, Risk Management, and Credit",HSAG16,2019-02-06,2021-01-03,HSAG,T000467
+"Livestock, Dairy, and Poultry",HSAG29,2019-02-06,2021-01-03,HSAG,T000467
+"Early Childhood, Elementary, and Secondary Education",HSED14,2019-01-29,2021-01-03,HSED,T000467
+Civil Rights and Human Services,HSED07,,2021-01-03,HSED,T000467
+"Counterterrorism, Law Enforcement, and Intelligence",HSHM05,,2021-01-03,HSHM,T000193
+Transportation and Maritime Security,HSHM07,,2021-01-03,HSHM,T000193
+Cybersecurity and Infrastructure Protection,HSHM08,,2021-01-03,HSHM,T000193
+"Oversight, Investigations, and Accountability",HSHM09,,2021-01-03,HSHM,T000193
+Border Security and Enforcement,HSHM11,,2021-01-03,HSHM,T000193
+Emergency Management and Technology,HSHM12,,2021-01-03,HSHM,T000193
+Higher Education and Workforce Development,HSED13,2019-01-29,2021-01-03,HSED,T000480
+"Early Childhood, Elementary, and Secondary Education",HSED14,2019-01-29,2021-01-03,HSED,T000480
+Indo-Pacific,HSFA05,2019-01-29,2021-01-03,HSFA,T000468
+Europe,HSFA14,2019-01-29,2021-01-03,HSFA,T000468
+"Economic Development, Public Buildings, and Emergency Management",HSPW13,2019-01-24,2021-01-03,HSPW,T000468
+Aviation,HSPW05,,2021-01-03,HSPW,T000468
+Highways and Transit,HSPW12,,2021-01-03,HSPW,T000468
+Transportation and Maritime Security,HSHM07,,2021-01-03,HSHM,T000468
+"Oversight, Investigations, and Accountability",HSHM09,,2021-01-03,HSHM,T000468
+Environment,HSGO28,2019-01-29,2021-01-03,HSGO,T000481
+Housing and Insurance,HSBA04,,2021-01-03,HSBA,T000481
+Oversight and Investigations,HSBA09,,2021-01-03,HSBA,T000481
+Consumer Protection and Financial Institutions,HSBA15,,2021-01-03,HSBA,T000481
+"Economic Growth, Energy Policy, and Regulatory Affairs",HSGO05,,2021-01-03,HSGO,T000481
+Research and Technology,HSSY15,2019-01-30,2021-01-03,HSSY,T000469
+Environment,HSSY18,2019-01-30,2021-01-03,HSSY,T000469
+Oversight and Investigations,HSIF02,2019-01-15,2021-01-03,HSIF,T000469
+"Energy, Climate, and Grid Security",HSIF03,2019-01-15,2021-01-03,HSIF,T000469
+"Environment, Manufacturing, and Critical Materials",HSIF18,2019-01-15,2021-01-03,HSIF,T000469
+Federal Lands,HSII10,,2021-01-03,HSII,T000469
+"State, Foreign Operations, and Related Programs",HSAP04,,2021-01-03,HSAP,T000474
+"Transportation, Housing and Urban Development, and Related Agencies",HSAP20,,2021-01-03,HSAP,T000474
+Financial Services and General Government,HSAP23,,2021-01-03,HSAP,T000474
+"Health, Employment, Labor, and Pensions",HSED02,2019-01-29,2021-01-03,HSED,T000482
+Higher Education and Workforce Development,HSED13,2019-01-29,2021-01-03,HSED,T000482
+Intelligence and Special Operations,HSAS26,2019-01-23,2021-01-03,HSAS,T000482
+Military Personnel,HSAS02,2019-01-23,2021-01-03,HSAS,T000482
+Higher Education and Workforce Development,HSED13,2019-01-29,2021-01-03,HSED,T000483
+"Middle East, North Africa, and Central Asia",HSFA13,2019-01-29,2021-01-03,HSFA,T000483
+Europe,HSFA14,2019-01-29,2021-01-03,HSFA,T000483
+Civil Rights and Human Services,HSED07,,2021-01-03,HSED,T000483
+Strategic Forces,HSAS29,2019-01-23,2021-01-03,HSAS,T000463
+Tactical Air and Land Forces,HSAS25,,2021-01-03,HSAS,T000463
+National Intelligence Enterprise,HSIG06,,2021-01-03,HSIG,T000463
+Strategic Technologies and Advanced Research,HSIG10,,2021-01-03,HSIG,T000463
+Disability Assistance and Memorial Affairs,HSVR09,2019-01-31,2021-01-03,HSVR,U000040
+"Health, Employment, Labor, and Pensions",HSED02,2019-01-29,2021-01-03,HSED,U000040
+Cybersecurity and Infrastructure Protection,HSHM08,,2021-01-03,HSHM,U000040
+Emergency Management and Technology,HSHM12,,2021-01-03,HSHM,U000040
+"Energy, Climate, and Grid Security",HSIF03,2019-01-18,2021-01-03,HSIF,U000031
+Health,HSIF14,2019-01-18,2021-01-03,HSIF,U000031
+"Innovation, Data, and Commerce",HSIF17,2019-01-18,2021-01-03,HSIF,U000031
+"Nutrition, Foreign Agriculture, and Horticulture",HSAG03,2019-02-06,2019-12-19,HSAG,V000133
+"Conservation, Research, and Biotechnology",HSAG14,2019-02-06,2019-12-19,HSAG,V000133
+"General Farm Commodities, Risk Management, and Credit",HSAG16,2019-02-06,2019-12-19,HSAG,V000133
+"Commodity Markets, Digital Assets, and Rural Development",HSAG22,2019-02-06,2019-12-19,HSAG,V000133
+"Water, Wildlife and Fisheries",HSII13,2019-01-30,2019-12-19,HSII,V000133
+Western Hemisphere,HSFA07,2019-01-29,2021-01-03,HSFA,V000130
+"Middle East, North Africa, and Central Asia",HSFA13,2019-01-29,2021-01-03,HSFA,V000130
+"National Security, Illicit Finance, and International Financial Institutions",HSBA01,,2021-01-03,HSBA,V000130
+Housing and Insurance,HSBA04,,2021-01-03,HSBA,V000130
+Capital Markets,HSBA16,,2021-01-03,HSBA,V000130
+"Energy, Climate, and Grid Security",HSIF03,2019-01-15,2021-01-03,HSIF,V000131
+Communications and Technology,HSIF16,2019-01-15,2021-01-03,HSIF,V000131
+"Innovation, Data, and Commerce",HSIF17,2019-01-15,2021-01-03,HSIF,V000131
+"Innovation, Entrepreneurship, and Workforce Development",HSSM26,,2021-01-03,HSSM,V000131
+Contracting and Infrastructure,HSSM23,,2021-01-03,HSSM,V000131
+"Commodity Markets, Digital Assets, and Rural Development",HSAG22,2019-02-06,2021-01-03,HSAG,V000132
+"Livestock, Dairy, and Poultry",HSAG29,2019-02-06,2021-01-03,HSAG,V000132
+"General Farm Commodities, Risk Management, and Credit",HSAG16,2019-01-24,2021-01-03,HSAG,V000132
+Tactical Air and Land Forces,HSAS25,2019-01-23,2021-01-03,HSAS,V000132
+Seapower and Projection Forces,HSAS28,2019-01-23,2021-01-03,HSAS,V000132
+"Water, Wildlife and Fisheries",HSII13,2019-01-30,2021-01-03,HSII,V000081
+Housing and Insurance,HSBA04,,2021-01-03,HSBA,V000081
+Oversight and Investigations,HSBA09,,2021-01-03,HSBA,V000081
+Consumer Protection and Financial Institutions,HSBA15,,2021-01-03,HSBA,V000081
+Indo-Pacific,HSFA05,2019-01-29,2021-01-03,HSFA,W000812
+Europe,HSFA14,2019-01-29,2021-01-03,HSFA,W000812
+Diversity and Inclusion,HSBA13,,2021-01-03,HSBA,W000812
+Capital Markets,HSBA16,,2021-01-03,HSBA,W000812
+"Health, Employment, Labor, and Pensions",HSED02,2019-01-29,2021-01-03,HSED,W000798
+"Energy, Climate, and Grid Security",HSIF03,2019-01-18,2021-01-03,HSIF,W000798
+Communications and Technology,HSIF16,2019-01-18,2021-01-03,HSIF,W000798
+Oversight,HSWM06,2019-01-16,2021-01-03,HSWM,W000813
+Work and Welfare,HSWM03,2019-01-16,2021-01-03,HSWM,W000813
+Intelligence and Special Operations,HSAS26,,2021-01-03,HSAS,W000823
+Space and Aeronautics,HSSY16,,2021-01-03,HSSY,W000823
+Seapower and Projection Forces,HSAS28,,2021-01-03,HSAS,W000823
+Investigations and Oversight,HSSY21,,2021-01-03,HSSY,W000823
+"National Security, the Border, and Foreign Affairs",HSGO06,2019-01-29,2021-01-03,HSGO,W000797
+"Energy and Water Development, and Related Agencies",HSAP10,,2021-01-03,HSAP,W000797
+Homeland Security,HSAP15,,2021-01-03,HSAP,W000797
+"Military Construction, Veterans Affairs, and Related Agencies",HSAP18,,2021-01-03,HSAP,W000797
+Civil Rights and Civil Liberties,HSGO02,,2021-01-03,HSGO,W000797
+"Interior, Environment, and Related Agencies",HSAP06,,2021-01-03,HSAP,W000822
+"Labor, Health and Human Services, Education, and Related Agencies",HSAP07,,2021-01-03,HSAP,W000822
+"Transportation, Housing and Urban Development, and Related Agencies",HSAP20,,2021-01-03,HSAP,W000822
+Transportation and Maritime Security,HSHM07,,2021-01-03,HSHM,W000822
+"Oversight, Investigations, and Accountability",HSHM09,,2021-01-03,HSHM,W000822
+Water Resources and Environment,HSPW02,,2021-01-03,HSPW,W000814
+Coast Guard and Maritime Transportation,HSPW07,,2021-01-03,HSPW,W000814
+Energy,HSSY20,,2021-01-03,HSSY,W000814
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,W000814
+"Water, Wildlife and Fisheries",HSII13,2019-01-30,2021-01-03,HSII,W000806
+Federal Lands,HSII10,2019-01-30,2021-01-03,HSII,W000806
+Water Resources and Environment,HSPW02,,2021-01-03,HSPW,W000806
+Aviation,HSPW05,,2021-01-03,HSPW,W000806
+Highways and Transit,HSPW12,,2021-01-03,HSPW,W000806
+"National Security, the Border, and Foreign Affairs",HSGO06,2019-01-29,2021-01-03,HSGO,W000800
+"Energy, Climate, and Grid Security",HSIF03,2019-01-15,2021-01-03,HSIF,W000800
+Health,HSIF14,2019-01-15,2021-01-03,HSIF,W000800
+Communications and Technology,HSIF16,2019-01-15,2021-01-03,HSIF,W000800
+"Counterterrorism, Counterintelligence, and Counterproliferation",HSIG05,,2021-01-03,HSIG,W000800
+National Intelligence Enterprise,HSIG06,,2021-01-03,HSIG,W000800
+Oversight,HSWM06,2019-01-16,2021-01-03,HSWM,W000815
+Work and Welfare,HSWM03,2019-01-16,2021-01-03,HSWM,W000815
+"Counterterrorism, Counterintelligence, and Counterproliferation",HSIG05,,2021-01-03,HSIG,W000815
+National Intelligence Enterprise,HSIG06,,2021-01-03,HSIG,W000815
+Energy and Mineral Resources,HSII06,2019-01-30,2021-01-03,HSII,W000821
+Federal Lands,HSII10,2019-01-30,2021-01-03,HSII,W000821
+Highways and Transit,HSPW12,,2021-01-03,HSPW,W000821
+Water Resources and Environment,HSPW02,,2021-01-03,HSPW,W000821
+Space and Aeronautics,HSSY16,2019-01-30,2021-01-03,HSSY,W000825
+Investigations and Oversight,HSSY21,2019-01-30,2021-01-03,HSSY,W000825
+"National Security, Illicit Finance, and International Financial Institutions",HSBA01,,2021-01-03,HSBA,W000825
+Consumer Protection and Financial Institutions,HSBA15,,2021-01-03,HSBA,W000825
+Africa,HSFA16,2019-01-29,2021-01-03,HSFA,W000826
+"Health, Employment, Labor, and Pensions",HSED02,2019-01-29,2021-01-03,HSED,W000826
+Workforce Protections,HSED10,2019-01-29,2021-01-03,HSED,W000826
+Europe,HSFA14,2019-01-29,2021-01-03,HSFA,W000826
+"National Security, Illicit Finance, and International Financial Institutions",HSBA01,,2021-01-03,HSBA,W000816
+Consumer Protection and Financial Institutions,HSBA15,,2021-01-03,HSBA,W000816
+"Health, Employment, Labor, and Pensions",HSED02,2019-01-29,2021-01-03,HSED,W000808
+"Early Childhood, Elementary, and Secondary Education",HSED14,2019-01-29,2021-01-03,HSED,W000808
+Highways and Transit,HSPW12,,2021-01-03,HSPW,W000808
+"Railroads, Pipelines, and Hazardous Materials",HSPW14,,2021-01-03,HSPW,W000808
+Water Resources and Environment,HSPW02,,2021-01-03,HSPW,W000808
+"Middle East, North Africa, and Central Asia",HSFA13,2019-01-29,2021-01-03,HSFA,W000795
+Europe,HSFA14,2019-01-29,2021-01-03,HSFA,W000795
+Strategic Forces,HSAS29,,2021-01-03,HSAS,W000795
+Readiness,HSAS03,,2021-01-03,HSAS,W000795
+"Water, Wildlife and Fisheries",HSII13,2019-01-30,2021-01-03,HSII,W000804
+Seapower and Projection Forces,HSAS28,2019-01-23,2021-01-03,HSAS,W000804
+Tactical Air and Land Forces,HSAS25,,2021-01-03,HSAS,W000804
+Defense,HSAP02,2019-01-29,2021-01-03,HSAP,W000809
+"Transportation, Housing and Urban Development, and Related Agencies",HSAP20,2019-01-29,2021-01-03,HSAP,W000809
+Africa,HSFA16,2019-01-29,2021-01-03,HSFA,W000827
+"Health, Employment, Labor, and Pensions",HSED02,2019-01-29,2021-01-03,HSED,W000827
+Workforce Protections,HSED10,2019-01-29,2021-01-03,HSED,W000827
+Europe,HSFA14,2019-01-29,2021-01-03,HSFA,W000827
+Indian and Insular Affairs,HSII24,2019-01-30,2021-01-03,HSII,Y000033
+Federal Lands,HSII10,2019-01-30,2021-01-03,HSII,Y000033
+Aviation,HSPW05,,2021-01-03,HSPW,Y000033
+Coast Guard and Maritime Transportation,HSPW07,,2021-01-03,HSPW,Y000033
+Highways and Transit,HSPW12,,2021-01-03,HSPW,Y000033
+Oversight and Accountability,HSFA17,2019-01-29,2021-01-03,HSFA,Z000017
+"Middle East, North Africa, and Central Asia",HSFA13,2019-01-29,2021-01-03,HSFA,Z000017
+Housing and Insurance,HSBA04,,2021-01-03,HSBA,Z000017
+Oversight and Investigations,HSBA09,,2021-01-03,HSBA,Z000017

@@ -1,0 +1,2119 @@
+member_id,member_name,member_begin_date,congress,chamber,committee_id,subcommittee_id
+M001198,Roger Marshall,2019-02-06,116,house,HSAG,HSAG22
+M001198,Roger Marshall,2019-02-06,116,house,HSAG,HSAG29
+M001198,Roger Marshall,,116,house,HSSY,HSSY15
+M001198,Roger Marshall,,116,house,HSSY,HSSY18
+B001236,John Boozman,,116,senate,SSAF,SSAF13
+M000355,Mitch McConnell,,116,senate,SSAF,SSAF13
+B001267,Michael Bennet,,116,senate,SSAF,SSAF13
+H001061,John Hoeven,,116,senate,SSAF,SSAF13
+S001203,Tina Smith,,116,senate,SSAF,SSAF13
+P000612,David Perdue,,116,senate,SSAF,SSAF13
+R000307,Pat Roberts,,116,senate,SSAF,SSAF13
+B001267,Michael Bennet,,116,senate,SSAF,SSAF14
+B001236,John Boozman,,116,senate,SSAF,SSAF14
+P000612,David Perdue,,116,senate,SSAF,SSAF14
+T000250,John Thune,,116,senate,SSAF,SSAF14
+R000307,Pat Roberts,,116,senate,SSAF,SSAF14
+S001203,Tina Smith,,116,senate,SSAF,SSAF15
+M000355,Mitch McConnell,,116,senate,SSAF,SSAF15
+H001061,John Hoeven,,116,senate,SSAF,SSAF15
+B001267,Michael Bennet,,116,senate,SSAF,SSAF15
+T000250,John Thune,,116,senate,SSAF,SSAF15
+F000463,Deb Fischer,,116,senate,SSAF,SSAF15
+R000307,Pat Roberts,,116,senate,SSAF,SSAF15
+P000612,David Perdue,,116,senate,SSAF,SSAF17
+S001203,Tina Smith,,116,senate,SSAF,SSAF17
+F000463,Deb Fischer,,116,senate,SSAF,SSAF17
+R000307,Pat Roberts,,116,senate,SSAF,SSAF17
+F000463,Deb Fischer,,116,senate,SSAF,SSAF16
+M000355,Mitch McConnell,,116,senate,SSAF,SSAF16
+B001236,John Boozman,,116,senate,SSAF,SSAF16
+H001061,John Hoeven,,116,senate,SSAF,SSAF16
+T000250,John Thune,,116,senate,SSAF,SSAF16
+R000307,Pat Roberts,,116,senate,SSAF,SSAF16
+B000575,Roy Blunt,,116,senate,SSAP,SSAP18
+M001111,Patty Murray,,116,senate,SSAP,SSAP18
+S000320,Richard C. Shelby,,116,senate,SSAP,SSAP18
+A000360,Lamar Alexander,,116,senate,SSAP,SSAP18
+R000122,Jack Reed,,116,senate,SSAP,SSAP18
+G000359,Lindsey Graham,,116,senate,SSAP,SSAP18
+S001181,Jeanne Shaheen,,116,senate,SSAP,SSAP18
+M000934,Jerry Moran,,116,senate,SSAP,SSAP18
+C001047,Shelley Moore Capito,,116,senate,SSAP,SSAP18
+K000393,John Kennedy,,116,senate,SSAP,SSAP18
+M001183,Joe Manchin III,,116,senate,SSAP,SSAP18
+M000934,Jerry Moran,,116,senate,SSAP,SSAP16
+S001181,Jeanne Shaheen,,116,senate,SSAP,SSAP16
+A000360,Lamar Alexander,,116,senate,SSAP,SSAP16
+F000062,Dianne Feinstein,,116,senate,SSAP,SSAP16
+C001035,Susan Collins,,116,senate,SSAP,SSAP16
+R000122,Jack Reed,,116,senate,SSAP,SSAP16
+G000359,Lindsey Graham,,116,senate,SSAP,SSAP16
+C001088,Christopher A. Coons,,116,senate,SSAP,SSAP16
+B001236,John Boozman,,116,senate,SSAP,SSAP16
+C001047,Shelley Moore Capito,,116,senate,SSAP,SSAP16
+M001183,Joe Manchin III,,116,senate,SSAP,SSAP16
+K000393,John Kennedy,,116,senate,SSAP,SSAP16
+V000128,Chris Van Hollen,,116,senate,SSAP,SSAP16
+S000320,Richard C. Shelby,,116,senate,SSAP,SSAP16
+A000360,Lamar Alexander,,116,senate,SSAP,SSAP22
+F000062,Dianne Feinstein,,116,senate,SSAP,SSAP22
+M000355,Mitch McConnell,,116,senate,SSAP,SSAP22
+M001111,Patty Murray,,116,senate,SSAP,SSAP22
+S000320,Richard C. Shelby,,116,senate,SSAP,SSAP22
+C001035,Susan Collins,,116,senate,SSAP,SSAP22
+U000039,Tom Udall,,116,senate,SSAP,SSAP22
+G000359,Lindsey Graham,,116,senate,SSAP,SSAP22
+S001181,Jeanne Shaheen,,116,senate,SSAP,SSAP22
+H001061,John Hoeven,,116,senate,SSAP,SSAP22
+K000393,John Kennedy,,116,senate,SSAP,SSAP22
+C001088,Christopher A. Coons,,116,senate,SSAP,SSAP22
+G000359,Lindsey Graham,,116,senate,SSAP,SSAP20
+M000355,Mitch McConnell,,116,senate,SSAP,SSAP20
+B000575,Roy Blunt,,116,senate,SSAP,SSAP20
+S001181,Jeanne Shaheen,,116,senate,SSAP,SSAP20
+B001236,John Boozman,,116,senate,SSAP,SSAP20
+C001088,Christopher A. Coons,,116,senate,SSAP,SSAP20
+M000934,Jerry Moran,,116,senate,SSAP,SSAP20
+V000128,Chris Van Hollen,,116,senate,SSAP,SSAP20
+D000618,Steve Daines,,116,senate,SSAP,SSAP20
+S000320,Richard C. Shelby,,116,senate,SSAP,SSAP20
+C001047,Shelley Moore Capito,,116,senate,SSAP,SSAP14
+S000320,Richard C. Shelby,,116,senate,SSAP,SSAP14
+S001181,Jeanne Shaheen,,116,senate,SSAP,SSAP14
+H001061,John Hoeven,,116,senate,SSAP,SSAP14
+M001111,Patty Murray,,116,senate,SSAP,SSAP14
+K000393,John Kennedy,,116,senate,SSAP,SSAP14
+M001183,Joe Manchin III,,116,senate,SSAP,SSAP14
+U000039,Tom Udall,,116,senate,SSAP,SSAP17
+A000360,Lamar Alexander,,116,senate,SSAP,SSAP17
+F000062,Dianne Feinstein,,116,senate,SSAP,SSAP17
+B000575,Roy Blunt,,116,senate,SSAP,SSAP17
+M000355,Mitch McConnell,,116,senate,SSAP,SSAP17
+R000122,Jack Reed,,116,senate,SSAP,SSAP17
+C001047,Shelley Moore Capito,,116,senate,SSAP,SSAP17
+D000618,Steve Daines,,116,senate,SSAP,SSAP17
+V000128,Chris Van Hollen,,116,senate,SSAP,SSAP17
+S000320,Richard C. Shelby,,116,senate,SSAP,SSAP17
+C001035,Susan Collins,,116,senate,SSAP,SSAP24
+R000122,Jack Reed,,116,senate,SSAP,SSAP24
+S000320,Richard C. Shelby,,116,senate,SSAP,SSAP24
+M001111,Patty Murray,,116,senate,SSAP,SSAP24
+A000360,Lamar Alexander,,116,senate,SSAP,SSAP24
+B000575,Roy Blunt,,116,senate,SSAP,SSAP24
+F000062,Dianne Feinstein,,116,senate,SSAP,SSAP24
+B001236,John Boozman,,116,senate,SSAP,SSAP24
+C001088,Christopher A. Coons,,116,senate,SSAP,SSAP24
+C001047,Shelley Moore Capito,,116,senate,SSAP,SSAP24
+G000359,Lindsey Graham,,116,senate,SSAP,SSAP24
+H001061,John Hoeven,,116,senate,SSAP,SSAP24
+M001183,Joe Manchin III,,116,senate,SSAP,SSAP24
+D000618,Steve Daines,,116,senate,SSAP,SSAP24
+S000320,Richard C. Shelby,,116,senate,SSAP,SSAP08
+V000128,Chris Van Hollen,,116,senate,SSAP,SSAP08
+H001061,John Hoeven,,116,senate,SSAP,SSAP01
+M000355,Mitch McConnell,,116,senate,SSAP,SSAP01
+F000062,Dianne Feinstein,,116,senate,SSAP,SSAP01
+C001035,Susan Collins,,116,senate,SSAP,SSAP01
+B000575,Roy Blunt,,116,senate,SSAP,SSAP01
+U000039,Tom Udall,,116,senate,SSAP,SSAP01
+M000934,Jerry Moran,,116,senate,SSAP,SSAP01
+K000393,John Kennedy,,116,senate,SSAP,SSAP01
+S000320,Richard C. Shelby,,116,senate,SSAP,SSAP01
+S000320,Richard C. Shelby,,116,senate,SSAP,SSAP02
+M000355,Mitch McConnell,,116,senate,SSAP,SSAP02
+A000360,Lamar Alexander,,116,senate,SSAP,SSAP02
+F000062,Dianne Feinstein,,116,senate,SSAP,SSAP02
+C001035,Susan Collins,,116,senate,SSAP,SSAP02
+M001111,Patty Murray,,116,senate,SSAP,SSAP02
+R000122,Jack Reed,,116,senate,SSAP,SSAP02
+G000359,Lindsey Graham,,116,senate,SSAP,SSAP02
+B000575,Roy Blunt,,116,senate,SSAP,SSAP02
+U000039,Tom Udall,,116,senate,SSAP,SSAP02
+M000934,Jerry Moran,,116,senate,SSAP,SSAP02
+H001061,John Hoeven,,116,senate,SSAP,SSAP02
+B001236,John Boozman,,116,senate,SSAP,SSAP02
+B001236,John Boozman,,116,senate,SSAP,SSAP19
+M000355,Mitch McConnell,,116,senate,SSAP,SSAP19
+M001111,Patty Murray,,116,senate,SSAP,SSAP19
+H001061,John Hoeven,,116,senate,SSAP,SSAP19
+R000122,Jack Reed,,116,senate,SSAP,SSAP19
+C001035,Susan Collins,,116,senate,SSAP,SSAP19
+U000039,Tom Udall,,116,senate,SSAP,SSAP19
+C001047,Shelley Moore Capito,,116,senate,SSAP,SSAP19
+D000618,Steve Daines,,116,senate,SSAP,SSAP19
+S000320,Richard C. Shelby,,116,senate,SSAP,SSAP19
+K000393,John Kennedy,,116,senate,SSAP,SSAP23
+C001088,Christopher A. Coons,,116,senate,SSAP,SSAP23
+M000934,Jerry Moran,,116,senate,SSAP,SSAP23
+B001236,John Boozman,,116,senate,SSAP,SSAP23
+M001183,Joe Manchin III,,116,senate,SSAP,SSAP23
+D000618,Steve Daines,,116,senate,SSAP,SSAP23
+V000128,Chris Van Hollen,,116,senate,SSAP,SSAP23
+S000320,Richard C. Shelby,,116,senate,SSAP,SSAP23
+F000463,Deb Fischer,,116,senate,SSAS,SSAS16
+K000383,Angus King,,116,senate,SSAS,SSAS16
+R000605,Mike Rounds,,116,senate,SSAS,SSAS16
+W000817,Elizabeth Warren,,116,senate,SSAS,SSAS16
+S001198,Dan Sullivan,,116,senate,SSAS,SSAS16
+M001183,Joe Manchin III,,116,senate,SSAS,SSAS16
+R000122,Jack Reed,,116,senate,SSAS,SSAS16
+I000024,James M. Inhofe,,116,senate,SSAS,SSAS16
+P000595,Gary Peters,,116,senate,SSAS,SSAS20
+F000463,Deb Fischer,,116,senate,SSAS,SSAS20
+S001181,Jeanne Shaheen,,116,senate,SSAS,SSAS20
+R000122,Jack Reed,,116,senate,SSAS,SSAS20
+I000024,James M. Inhofe,,116,senate,SSAS,SSAS20
+T000476,Thom Tillis,,116,senate,SSAS,SSAS17
+R000605,Mike Rounds,,116,senate,SSAS,SSAS17
+W000817,Elizabeth Warren,,116,senate,SSAS,SSAS17
+D000622,Tammy Duckworth,,116,senate,SSAS,SSAS17
+S001217,Rick Scott,,116,senate,SSAS,SSAS17
+R000122,Jack Reed,,116,senate,SSAS,SSAS17
+I000024,James M. Inhofe,,116,senate,SSAS,SSAS17
+P000612,David Perdue,,116,senate,SSAS,SSAS13
+W000437,Roger Wicker,,116,senate,SSAS,SSAS13
+S001181,Jeanne Shaheen,,116,senate,SSAS,SSAS13
+B001277,Richard Blumenthal,,116,senate,SSAS,SSAS13
+K000384,Tim Kaine,,116,senate,SSAS,SSAS13
+T000476,Thom Tillis,,116,senate,SSAS,SSAS13
+K000383,Angus King,,116,senate,SSAS,SSAS13
+R000122,Jack Reed,,116,senate,SSAS,SSAS13
+I000024,James M. Inhofe,,116,senate,SSAS,SSAS13
+K000383,Angus King,,116,senate,SSAS,SSAS14
+W000437,Roger Wicker,,116,senate,SSAS,SSAS14
+B001277,Richard Blumenthal,,116,senate,SSAS,SSAS14
+T000476,Thom Tillis,,116,senate,SSAS,SSAS14
+W000817,Elizabeth Warren,,116,senate,SSAS,SSAS14
+S001198,Dan Sullivan,,116,senate,SSAS,SSAS14
+P000595,Gary Peters,,116,senate,SSAS,SSAS14
+I000024,James M. Inhofe,,116,senate,SSAS,SSAS14
+D000622,Tammy Duckworth,,116,senate,SSAS,SSAS14
+R000122,Jack Reed,,116,senate,SSAS,SSAS14
+S001217,Rick Scott,,116,senate,SSAS,SSAS14
+S001198,Dan Sullivan,,116,senate,SSAS,SSAS15
+K000384,Tim Kaine,,116,senate,SSAS,SSAS15
+F000463,Deb Fischer,,116,senate,SSAS,SSAS15
+S001181,Jeanne Shaheen,,116,senate,SSAS,SSAS15
+P000612,David Perdue,,116,senate,SSAS,SSAS15
+D000622,Tammy Duckworth,,116,senate,SSAS,SSAS15
+R000122,Jack Reed,,116,senate,SSAS,SSAS15
+I000024,James M. Inhofe,,116,senate,SSAS,SSAS15
+R000605,Mike Rounds,,116,senate,SSAS,SSAS21
+M001183,Joe Manchin III,,116,senate,SSAS,SSAS21
+W000437,Roger Wicker,,116,senate,SSAS,SSAS21
+P000612,David Perdue,,116,senate,SSAS,SSAS21
+B001277,Richard Blumenthal,,116,senate,SSAS,SSAS21
+S001217,Rick Scott,,116,senate,SSAS,SSAS21
+R000122,Jack Reed,,116,senate,SSAS,SSAS21
+I000024,James M. Inhofe,,116,senate,SSAS,SSAS21
+T000461,Patrick J. Toomey,2019-01-18,116,senate,SSBK,SSBK04
+V000128,Chris Van Hollen,2019-01-18,116,senate,SSBK,SSBK04
+S000320,Richard C. Shelby,2019-01-18,116,senate,SSBK,SSBK04
+R000122,Jack Reed,2019-01-18,116,senate,SSBK,SSBK04
+W000805,Mark Warner,2019-01-18,116,senate,SSBK,SSBK04
+R000605,Mike Rounds,2019-01-18,116,senate,SSBK,SSBK04
+W000817,Elizabeth Warren,2019-01-18,116,senate,SSBK,SSBK04
+P000612,David Perdue,2019-01-18,116,senate,SSBK,SSBK04
+S001203,Tina Smith,2019-01-18,116,senate,SSBK,SSBK04
+T000476,Thom Tillis,2019-01-18,116,senate,SSBK,SSBK04
+K000393,John Kennedy,2019-01-18,116,senate,SSBK,SSBK04
+C000880,Michael D. Crapo,2019-01-18,116,senate,SSBK,SSBK04
+P000612,David Perdue,2019-01-18,116,senate,SSBK,SSBK09
+S000320,Richard C. Shelby,2019-01-18,116,senate,SSBK,SSBK09
+R000122,Jack Reed,2019-01-18,116,senate,SSBK,SSBK09
+W000817,Elizabeth Warren,2019-01-18,116,senate,SSBK,SSBK09
+R000605,Mike Rounds,2019-01-18,116,senate,SSBK,SSBK09
+M000934,Jerry Moran,2019-01-18,116,senate,SSBK,SSBK09
+S001203,Tina Smith,2019-01-18,116,senate,SSBK,SSBK09
+C000880,Michael D. Crapo,2019-01-18,116,senate,SSBK,SSBK09
+P000612,David Perdue,2019-01-18,116,senate,SSBK,SSBK12
+S001203,Tina Smith,2019-01-18,116,senate,SSBK,SSBK12
+T000476,Thom Tillis,2019-01-18,116,senate,SSBK,SSBK12
+K000393,John Kennedy,2019-01-18,116,senate,SSBK,SSBK12
+C000880,Michael D. Crapo,2019-01-18,116,senate,SSBK,SSBK12
+W000805,Mark Warner,2019-01-18,116,senate,SSBK,SSBK05
+M000934,Jerry Moran,2019-01-18,116,senate,SSBK,SSBK05
+V000128,Chris Van Hollen,2019-01-18,116,senate,SSBK,SSBK05
+T000461,Patrick J. Toomey,2019-01-18,116,senate,SSBK,SSBK05
+C000880,Michael D. Crapo,2019-01-18,116,senate,SSBK,SSBK05
+W000817,Elizabeth Warren,2019-01-18,116,senate,SSBK,SSBK08
+R000605,Mike Rounds,2019-01-18,116,senate,SSBK,SSBK08
+R000122,Jack Reed,2019-01-18,116,senate,SSBK,SSBK08
+T000476,Thom Tillis,2019-01-18,116,senate,SSBK,SSBK08
+K000393,John Kennedy,2019-01-18,116,senate,SSBK,SSBK08
+W000805,Mark Warner,2019-01-18,116,senate,SSBK,SSBK08
+M000934,Jerry Moran,2019-01-18,116,senate,SSBK,SSBK08
+V000128,Chris Van Hollen,2019-01-18,116,senate,SSBK,SSBK08
+S000320,Richard C. Shelby,2019-01-18,116,senate,SSBK,SSBK08
+T000461,Patrick J. Toomey,2019-01-18,116,senate,SSBK,SSBK08
+C000880,Michael D. Crapo,2019-01-18,116,senate,SSBK,SSBK08
+T000250,John Thune,2019-01-24,116,senate,SSCM,SSCM26
+B000575,Roy Blunt,2019-01-24,116,senate,SSCM,SSCM26
+B001277,Richard Blumenthal,2019-01-24,116,senate,SSCM,SSCM26
+C001098,Ted Cruz,2019-01-24,116,senate,SSCM,SSCM26
+F000463,Deb Fischer,2019-01-24,116,senate,SSCM,SSCM26
+U000039,Tom Udall,2019-01-24,116,senate,SSCM,SSCM26
+M000934,Jerry Moran,2019-01-24,116,senate,SSCM,SSCM26
+P000595,Gary Peters,2019-01-24,116,senate,SSCM,SSCM26
+S001198,Dan Sullivan,2019-01-24,116,senate,SSCM,SSCM26
+D000622,Tammy Duckworth,2019-01-24,116,senate,SSCM,SSCM26
+C001047,Shelley Moore Capito,2019-01-24,116,senate,SSCM,SSCM26
+J000293,Ron Johnson,2019-01-24,116,senate,SSCM,SSCM26
+R000608,Jacky Rosen,2019-01-24,116,senate,SSCM,SSCM26
+C000127,Maria Cantwell,,116,senate,SSCM,SSCM26
+S001217,Rick Scott,2019-01-24,116,senate,SSCM,SSCM26
+W000437,Roger Wicker,,116,senate,SSCM,SSCM26
+F000463,Deb Fischer,2019-01-24,116,senate,SSCM,SSCM32
+D000622,Tammy Duckworth,2019-01-24,116,senate,SSCM,SSCM32
+T000250,John Thune,2019-01-24,116,senate,SSCM,SSCM32
+B000575,Roy Blunt,2019-01-24,116,senate,SSCM,SSCM32
+B001277,Richard Blumenthal,2019-01-24,116,senate,SSCM,SSCM32
+M000934,Jerry Moran,2019-01-24,116,senate,SSCM,SSCM32
+U000039,Tom Udall,2019-01-24,116,senate,SSCM,SSCM32
+C001047,Shelley Moore Capito,2019-01-24,116,senate,SSCM,SSCM32
+P000595,Gary Peters,2019-01-24,116,senate,SSCM,SSCM32
+C000127,Maria Cantwell,,116,senate,SSCM,SSCM32
+S001217,Rick Scott,2019-01-24,116,senate,SSCM,SSCM32
+W000437,Roger Wicker,,116,senate,SSCM,SSCM32
+S001198,Dan Sullivan,,116,senate,SSCM,SSCM31
+B000575,Roy Blunt,,116,senate,SSCM,SSCM31
+B001277,Richard Blumenthal,,116,senate,SSCM,SSCM31
+C001098,Ted Cruz,,116,senate,SSCM,SSCM31
+F000463,Deb Fischer,,116,senate,SSCM,SSCM31
+U000039,Tom Udall,,116,senate,SSCM,SSCM31
+D000622,Tammy Duckworth,,116,senate,SSCM,SSCM31
+J000293,Ron Johnson,,116,senate,SSCM,SSCM31
+R000608,Jacky Rosen,,116,senate,SSCM,SSCM31
+S001217,Rick Scott,,116,senate,SSCM,SSCM31
+C000127,Maria Cantwell,,116,senate,SSCM,SSCM31
+W000437,Roger Wicker,,116,senate,SSCM,SSCM31
+M000934,Jerry Moran,2019-01-24,116,senate,SSCM,SSCM29
+B001277,Richard Blumenthal,2019-01-24,116,senate,SSCM,SSCM29
+T000250,John Thune,2019-01-24,116,senate,SSCM,SSCM29
+F000463,Deb Fischer,2019-01-24,116,senate,SSCM,SSCM29
+S001198,Dan Sullivan,2019-01-24,116,senate,SSCM,SSCM29
+U000039,Tom Udall,2019-01-24,116,senate,SSCM,SSCM29
+C001047,Shelley Moore Capito,2019-01-24,116,senate,SSCM,SSCM29
+J000293,Ron Johnson,2019-01-24,116,senate,SSCM,SSCM29
+R000608,Jacky Rosen,2019-01-24,116,senate,SSCM,SSCM29
+C000127,Maria Cantwell,,116,senate,SSCM,SSCM29
+W000437,Roger Wicker,,116,senate,SSCM,SSCM29
+C001098,Ted Cruz,2019-01-24,116,senate,SSCM,SSCM28
+T000250,John Thune,2019-01-24,116,senate,SSCM,SSCM28
+B000575,Roy Blunt,2019-01-24,116,senate,SSCM,SSCM28
+U000039,Tom Udall,2019-01-24,116,senate,SSCM,SSCM28
+M000934,Jerry Moran,2019-01-24,116,senate,SSCM,SSCM28
+P000595,Gary Peters,2019-01-24,116,senate,SSCM,SSCM28
+D000622,Tammy Duckworth,2019-01-24,116,senate,SSCM,SSCM28
+C001047,Shelley Moore Capito,2019-01-24,116,senate,SSCM,SSCM28
+R000608,Jacky Rosen,2019-01-24,116,senate,SSCM,SSCM28
+C000127,Maria Cantwell,,116,senate,SSCM,SSCM28
+W000437,Roger Wicker,,116,senate,SSCM,SSCM28
+C001098,Ted Cruz,2019-01-24,116,senate,SSCM,SSCM30
+B001277,Richard Blumenthal,2019-01-24,116,senate,SSCM,SSCM30
+S001198,Dan Sullivan,2019-01-24,116,senate,SSCM,SSCM30
+J000293,Ron Johnson,2019-01-24,116,senate,SSCM,SSCM30
+P000595,Gary Peters,2019-01-24,116,senate,SSCM,SSCM30
+C000127,Maria Cantwell,,116,senate,SSCM,SSCM30
+S001217,Rick Scott,2019-01-24,116,senate,SSCM,SSCM30
+W000437,Roger Wicker,,116,senate,SSCM,SSCM30
+W000779,Ron Wyden,2019-02-05,116,senate,SSEG,SSEG03
+B001261,John Barrasso,2019-02-05,116,senate,SSEG,SSEG03
+C000127,Maria Cantwell,2019-02-05,116,senate,SSEG,SSEG03
+D000618,Steve Daines,2019-02-05,116,senate,SSEG,SSEG03
+C001075,Bill Cassidy,2019-02-05,116,senate,SSEG,SSEG03
+K000383,Angus King,2019-02-05,116,senate,SSEG,SSEG03
+M001183,Joe Manchin III,2019-02-05,116,senate,SSEG,SSEG03
+H001061,John Hoeven,2019-02-05,116,senate,SSEG,SSEG03
+D000618,Steve Daines,2019-02-05,116,senate,SSEG,SSEG04
+K000383,Angus King,2019-02-05,116,senate,SSEG,SSEG04
+B001261,John Barrasso,2019-02-05,116,senate,SSEG,SSEG04
+A000360,Lamar Alexander,2019-02-05,116,senate,SSEG,SSEG04
+M001183,Joe Manchin III,2019-02-05,116,senate,SSEG,SSEG04
+H001061,John Hoeven,2019-02-05,116,senate,SSEG,SSEG04
+B001261,John Barrasso,2019-02-05,116,senate,SSEG,SSEG07
+W000779,Ron Wyden,2019-02-05,116,senate,SSEG,SSEG07
+C000127,Maria Cantwell,2019-02-05,116,senate,SSEG,SSEG07
+C001075,Bill Cassidy,2019-02-05,116,senate,SSEG,SSEG07
+M001183,Joe Manchin III,2019-02-05,116,senate,SSEG,SSEG07
+A000360,Lamar Alexander,2019-02-05,116,senate,SSEG,SSEG07
+C001075,Bill Cassidy,2019-02-05,116,senate,SSEG,SSEG01
+W000779,Ron Wyden,2019-02-05,116,senate,SSEG,SSEG01
+C000127,Maria Cantwell,2019-02-05,116,senate,SSEG,SSEG01
+D000618,Steve Daines,2019-02-05,116,senate,SSEG,SSEG01
+K000383,Angus King,2019-02-05,116,senate,SSEG,SSEG01
+A000360,Lamar Alexander,2019-02-05,116,senate,SSEG,SSEG01
+H001061,John Hoeven,2019-02-05,116,senate,SSEG,SSEG01
+M001183,Joe Manchin III,2019-02-05,116,senate,SSEG,SSEG01
+D000622,Tammy Duckworth,,116,senate,SSEV,SSEV15
+C001047,Shelley Moore Capito,,116,senate,SSEV,SSEV15
+C000141,Benjamin L. Cardin,,116,senate,SSEV,SSEV15
+S001198,Dan Sullivan,,116,senate,SSEV,SSEV15
+W000802,Sheldon Whitehouse,,116,senate,SSEV,SSEV15
+B001236,John Boozman,,116,senate,SSEV,SSEV15
+W000437,Roger Wicker,,116,senate,SSEV,SSEV15
+V000128,Chris Van Hollen,,116,senate,SSEV,SSEV15
+S000320,Richard C. Shelby,,116,senate,SSEV,SSEV15
+C000174,Thomas R. Carper,,116,senate,SSEV,SSEV15
+B001261,John Barrasso,,116,senate,SSEV,SSEV15
+R000605,Mike Rounds,2019-01-28,116,senate,SSEV,SSEV09
+B001288,Cory Booker,,116,senate,SSEV,SSEV09
+I000024,James M. Inhofe,,116,senate,SSEV,SSEV09
+S000320,Richard C. Shelby,,116,senate,SSEV,SSEV09
+C000174,Thomas R. Carper,,116,senate,SSEV,SSEV09
+B001261,John Barrasso,,116,senate,SSEV,SSEV09
+W000802,Sheldon Whitehouse,,116,senate,SSEV,SSEV10
+I000024,James M. Inhofe,,116,senate,SSEV,SSEV10
+C000141,Benjamin L. Cardin,,116,senate,SSEV,SSEV10
+C001047,Shelley Moore Capito,,116,senate,SSEV,SSEV10
+R000605,Mike Rounds,,116,senate,SSEV,SSEV10
+S001198,Dan Sullivan,,116,senate,SSEV,SSEV10
+B001288,Cory Booker,,116,senate,SSEV,SSEV10
+B001236,John Boozman,,116,senate,SSEV,SSEV10
+W000437,Roger Wicker,,116,senate,SSEV,SSEV10
+D000622,Tammy Duckworth,,116,senate,SSEV,SSEV10
+C000174,Thomas R. Carper,,116,senate,SSEV,SSEV10
+B001261,John Barrasso,,116,senate,SSEV,SSEV10
+C001047,Shelley Moore Capito,2019-01-28,116,senate,SSEV,SSEV08
+C000141,Benjamin L. Cardin,,116,senate,SSEV,SSEV08
+I000024,James M. Inhofe,,116,senate,SSEV,SSEV08
+W000802,Sheldon Whitehouse,,116,senate,SSEV,SSEV08
+R000605,Mike Rounds,,116,senate,SSEV,SSEV08
+S001198,Dan Sullivan,,116,senate,SSEV,SSEV08
+B001288,Cory Booker,,116,senate,SSEV,SSEV08
+B001236,John Boozman,,116,senate,SSEV,SSEV08
+W000437,Roger Wicker,,116,senate,SSEV,SSEV08
+V000128,Chris Van Hollen,,116,senate,SSEV,SSEV08
+S000320,Richard C. Shelby,,116,senate,SSEV,SSEV08
+C000174,Thomas R. Carper,,116,senate,SSEV,SSEV08
+B001261,John Barrasso,,116,senate,SSEV,SSEV08
+C001056,John Cornyn,2019-01-31,116,senate,SSFI,SSFI13
+C000880,Michael D. Crapo,2019-01-31,116,senate,SSFI,SSFI13
+W000779,Ron Wyden,2019-01-31,116,senate,SSFI,SSFI13
+R000307,Pat Roberts,2019-01-31,116,senate,SSFI,SSFI13
+T000250,John Thune,2019-01-31,116,senate,SSFI,SSFI13
+C000127,Maria Cantwell,2019-01-31,116,senate,SSFI,SSFI13
+P000449,Rob Portman,2019-01-31,116,senate,SSFI,SSFI13
+C000141,Benjamin L. Cardin,2019-01-31,116,senate,SSFI,SSFI13
+T000461,Patrick J. Toomey,2019-01-31,116,senate,SSFI,SSFI13
+W000805,Mark Warner,2019-01-31,116,senate,SSFI,SSFI13
+C001075,Bill Cassidy,2019-01-31,116,senate,SSFI,SSFI13
+D000618,Steve Daines,2019-01-31,116,senate,SSFI,SSFI13
+B001267,Michael Bennet,2019-01-31,116,senate,SSFI,SSFI12
+W000779,Ron Wyden,2019-01-31,116,senate,SSFI,SSFI12
+C000880,Michael D. Crapo,2019-01-31,116,senate,SSFI,SSFI12
+C000127,Maria Cantwell,2019-01-31,116,senate,SSFI,SSFI12
+R000307,Pat Roberts,2019-01-31,116,senate,SSFI,SSFI12
+C000174,Thomas R. Carper,2019-01-31,116,senate,SSFI,SSFI12
+E000285,Michael B. Enzi,2019-01-31,116,senate,SSFI,SSFI12
+W000802,Sheldon Whitehouse,2019-01-31,116,senate,SSFI,SSFI12
+C001056,John Cornyn,2019-01-31,116,senate,SSFI,SSFI12
+B001135,Richard M. Burr,2019-01-31,116,senate,SSFI,SSFI12
+D000618,Steve Daines,2019-01-31,116,senate,SSFI,SSFI12
+C001075,Bill Cassidy,2019-01-31,116,senate,SSFI,SSFI14
+W000779,Ron Wyden,2019-01-31,116,senate,SSFI,SSFI14
+T000461,Patrick J. Toomey,2019-01-31,116,senate,SSFI,SSFI10
+C000127,Maria Cantwell,2019-01-31,116,senate,SSFI,SSFI10
+R000307,Pat Roberts,2019-01-31,116,senate,SSFI,SSFI10
+E000285,Michael B. Enzi,2019-01-31,116,senate,SSFI,SSFI10
+C000174,Thomas R. Carper,2019-01-31,116,senate,SSFI,SSFI10
+T000250,John Thune,2019-01-31,116,senate,SSFI,SSFI10
+C000141,Benjamin L. Cardin,2019-01-31,116,senate,SSFI,SSFI10
+B001135,Richard M. Burr,2019-01-31,116,senate,SSFI,SSFI10
+W000805,Mark Warner,2019-01-31,116,senate,SSFI,SSFI10
+C001075,Bill Cassidy,2019-01-31,116,senate,SSFI,SSFI10
+W000802,Sheldon Whitehouse,2019-01-31,116,senate,SSFI,SSFI10
+D000618,Steve Daines,2019-01-31,116,senate,SSFI,SSFI10
+W000779,Ron Wyden,,116,senate,SSFI,SSFI10
+P000449,Rob Portman,2019-01-31,116,senate,SSFI,SSFI02
+B001267,Michael Bennet,2019-01-31,116,senate,SSFI,SSFI02
+C001075,Bill Cassidy,2019-01-31,116,senate,SSFI,SSFI02
+W000779,Ron Wyden,2019-01-31,116,senate,SSFI,SSFI02
+W000805,Mark Warner,2019-01-31,116,senate,SSFI,SSFI11
+T000250,John Thune,2019-01-31,116,senate,SSFI,SSFI11
+C000880,Michael D. Crapo,2019-01-31,116,senate,SSFI,SSFI11
+C000174,Thomas R. Carper,2019-01-31,116,senate,SSFI,SSFI11
+E000285,Michael B. Enzi,2019-01-31,116,senate,SSFI,SSFI11
+C000141,Benjamin L. Cardin,2019-01-31,116,senate,SSFI,SSFI11
+C001056,John Cornyn,2019-01-31,116,senate,SSFI,SSFI11
+B001267,Michael Bennet,2019-01-31,116,senate,SSFI,SSFI11
+B001135,Richard M. Burr,2019-01-31,116,senate,SSFI,SSFI11
+W000802,Sheldon Whitehouse,2019-01-31,116,senate,SSFI,SSFI11
+W000779,Ron Wyden,2019-01-31,116,senate,SSFI,SSFI11
+P000449,Rob Portman,2019-01-31,116,senate,SSFI,SSFI11
+T000461,Patrick J. Toomey,2019-01-31,116,senate,SSFI,SSFI11
+G000359,Lindsey Graham,,116,senate,SSFR,SSFR09
+K000384,Tim Kaine,,116,senate,SSFR,SSFR09
+C001088,Christopher A. Coons,,116,senate,SSFR,SSFR09
+P000449,Rob Portman,,116,senate,SSFR,SSFR09
+B001288,Cory Booker,,116,senate,SSFR,SSFR09
+J000293,Ron Johnson,,116,senate,SSFR,SSFR09
+C001098,Ted Cruz,,116,senate,SSFR,SSFR09
+J000293,Ron Johnson,,116,senate,SSFR,SSFR01
+S001181,Jeanne Shaheen,,116,senate,SSFR,SSFR01
+B001261,John Barrasso,,116,senate,SSFR,SSFR01
+P000449,Rob Portman,,116,senate,SSFR,SSFR01
+C000141,Benjamin L. Cardin,,116,senate,SSFR,SSFR01
+P000603,Rand Paul,,116,senate,SSFR,SSFR01
+C001088,Christopher A. Coons,,116,senate,SSFR,SSFR01
+C001088,Christopher A. Coons,,116,senate,SSFR,SSFR02
+J000293,Ron Johnson,,116,senate,SSFR,SSFR02
+U000039,Tom Udall,,116,senate,SSFR,SSFR02
+C001098,Ted Cruz,,116,senate,SSFR,SSFR07
+C000141,Benjamin L. Cardin,,116,senate,SSFR,SSFR07
+G000359,Lindsey Graham,,116,senate,SSFR,SSFR07
+S001181,Jeanne Shaheen,,116,senate,SSFR,SSFR07
+K000384,Tim Kaine,,116,senate,SSFR,SSFR07
+P000603,Rand Paul,,116,senate,SSFR,SSFR07
+C000141,Benjamin L. Cardin,,116,senate,SSFR,SSFR06
+P000449,Rob Portman,,116,senate,SSFR,SSFR06
+U000039,Tom Udall,,116,senate,SSFR,SSFR06
+C001098,Ted Cruz,,116,senate,SSFR,SSFR06
+S001181,Jeanne Shaheen,,116,senate,SSFR,SSFR06
+K000384,Tim Kaine,,116,senate,SSFR,SSFR06
+B001261,John Barrasso,,116,senate,SSFR,SSFR06
+B001288,Cory Booker,,116,senate,SSFR,SSFR14
+P000603,Rand Paul,,116,senate,SSFR,SSFR14
+P000449,Rob Portman,,116,senate,SSFR,SSFR14
+U000039,Tom Udall,,116,senate,SSFR,SSFR14
+U000039,Tom Udall,,116,senate,SSFR,SSFR15
+P000603,Rand Paul,,116,senate,SSFR,SSFR15
+B001261,John Barrasso,,116,senate,SSFR,SSFR15
+B001288,Cory Booker,,116,senate,SSFR,SSFR15
+G000359,Lindsey Graham,,116,senate,SSFR,SSFR15
+P000603,Rand Paul,,116,senate,SSHR,SSHR09
+B001135,Richard M. Burr,,116,senate,SSHR,SSHR09
+C001075,Bill Cassidy,,116,senate,SSHR,SSHR09
+K000384,Tim Kaine,,116,senate,SSHR,SSHR09
+R000307,Pat Roberts,,116,senate,SSHR,SSHR09
+S001203,Tina Smith,,116,senate,SSHR,SSHR09
+M001111,Patty Murray,,116,senate,SSHR,SSHR09
+A000360,Lamar Alexander,,116,senate,SSHR,SSHR09
+P000603,Rand Paul,,116,senate,SSHR,SSHR11
+W000817,Elizabeth Warren,,116,senate,SSHR,SSHR11
+S001203,Tina Smith,,116,senate,SSHR,SSHR11
+B001135,Richard M. Burr,,116,senate,SSHR,SSHR11
+R000608,Jacky Rosen,,116,senate,SSHR,SSHR11
+C001075,Bill Cassidy,,116,senate,SSHR,SSHR11
+M001111,Patty Murray,,116,senate,SSHR,SSHR11
+A000360,Lamar Alexander,,116,senate,SSHR,SSHR11
+E000285,Michael B. Enzi,,116,senate,SSHR,SSHR12
+B001135,Richard M. Burr,,116,senate,SSHR,SSHR12
+C001035,Susan Collins,,116,senate,SSHR,SSHR12
+C001075,Bill Cassidy,,116,senate,SSHR,SSHR12
+W000817,Elizabeth Warren,,116,senate,SSHR,SSHR12
+R000307,Pat Roberts,,116,senate,SSHR,SSHR12
+K000384,Tim Kaine,,116,senate,SSHR,SSHR12
+R000608,Jacky Rosen,,116,senate,SSHR,SSHR12
+M001111,Patty Murray,,116,senate,SSHR,SSHR12
+A000360,Lamar Alexander,,116,senate,SSHR,SSHR12
+P000449,Rob Portman,2019-01-31,116,senate,SSGA,SSGA01
+C000174,Thomas R. Carper,2019-01-31,116,senate,SSGA,SSGA01
+P000603,Rand Paul,2019-01-31,116,senate,SSGA,SSGA01
+R000608,Jacky Rosen,2019-01-31,116,senate,SSGA,SSGA01
+J000293,Ron Johnson,2019-01-31,116,senate,SSGA,SSGA01
+P000449,Rob Portman,2019-01-31,116,senate,SSGA,SSGA19
+C000174,Thomas R. Carper,2019-01-31,116,senate,SSGA,SSGA19
+R000608,Jacky Rosen,2019-01-31,116,senate,SSGA,SSGA19
+S001217,Rick Scott,2019-01-31,116,senate,SSGA,SSGA19
+E000285,Michael B. Enzi,2019-01-31,116,senate,SSGA,SSGA19
+J000293,Ron Johnson,2019-01-31,116,senate,SSGA,SSGA19
+P000603,Rand Paul,2019-01-31,116,senate,SSGA,SSGA18
+S001217,Rick Scott,2019-01-31,116,senate,SSGA,SSGA18
+E000285,Michael B. Enzi,2019-01-31,116,senate,SSGA,SSGA18
+J000293,Ron Johnson,2019-01-31,116,senate,SSGA,SSGA18
+B001277,Richard Blumenthal,,116,senate,SSJU,SSJU01
+C000880,Michael D. Crapo,,116,senate,SSJU,SSJU01
+B001288,Cory Booker,,116,senate,SSJU,SSJU01
+C001056,John Cornyn,,116,senate,SSJU,SSJU04
+G000359,Lindsey Graham,,116,senate,SSJU,SSJU04
+F000062,Dianne Feinstein,,116,senate,SSJU,SSJU04
+C001098,Ted Cruz,,116,senate,SSJU,SSJU04
+C001088,Christopher A. Coons,,116,senate,SSJU,SSJU04
+B001277,Richard Blumenthal,,116,senate,SSJU,SSJU04
+T000476,Thom Tillis,,116,senate,SSJU,SSJU04
+B001288,Cory Booker,,116,senate,SSJU,SSJU04
+K000393,John Kennedy,,116,senate,SSJU,SSJU04
+W000802,Sheldon Whitehouse,,116,senate,SSJU,SSJU22
+G000359,Lindsey Graham,,116,senate,SSJU,SSJU22
+F000062,Dianne Feinstein,,116,senate,SSJU,SSJU22
+C001056,John Cornyn,,116,senate,SSJU,SSJU22
+C001098,Ted Cruz,,116,senate,SSJU,SSJU22
+T000476,Thom Tillis,,116,senate,SSJU,SSJU22
+C001088,Christopher A. Coons,,116,senate,SSJU,SSJU22
+B001288,Cory Booker,,116,senate,SSJU,SSJU22
+K000393,John Kennedy,,116,senate,SSJU,SSJU22
+C001098,Ted Cruz,,116,senate,SSJU,SSJU21
+C001056,John Cornyn,,116,senate,SSJU,SSJU21
+W000802,Sheldon Whitehouse,,116,senate,SSJU,SSJU21
+C001088,Christopher A. Coons,,116,senate,SSJU,SSJU21
+C000880,Michael D. Crapo,,116,senate,SSJU,SSJU21
+B001277,Richard Blumenthal,,116,senate,SSJU,SSJU25
+T000476,Thom Tillis,,116,senate,SSJU,SSJU25
+W000802,Sheldon Whitehouse,,116,senate,SSJU,SSJU25
+C000880,Michael D. Crapo,,116,senate,SSJU,SSJU25
+K000393,John Kennedy,,116,senate,SSJU,SSJU25
+T000476,Thom Tillis,,116,senate,SSJU,SSJU26
+C001088,Christopher A. Coons,,116,senate,SSJU,SSJU26
+G000359,Lindsey Graham,,116,senate,SSJU,SSJU26
+C001056,John Cornyn,,116,senate,SSJU,SSJU26
+W000802,Sheldon Whitehouse,,116,senate,SSJU,SSJU26
+B001277,Richard Blumenthal,,116,senate,SSJU,SSJU26
+C000880,Michael D. Crapo,,116,senate,SSJU,SSJU26
+B000575,Roy Blunt,,117,senate,SSAP,SSAP18
+M001111,Patty Murray,,117,senate,SSAP,SSAP18
+S000320,Richard C. Shelby,,117,senate,SSAP,SSAP18
+G000359,Lindsey Graham,,117,senate,SSAP,SSAP18
+R000122,Jack Reed,,117,senate,SSAP,SSAP18
+M000934,Jerry Moran,,117,senate,SSAP,SSAP18
+S001181,Jeanne Shaheen,,117,senate,SSAP,SSAP18
+C001047,Shelley Moore Capito,,117,senate,SSAP,SSAP18
+K000393,John Kennedy,,117,senate,SSAP,SSAP18
+M001183,Joe Manchin III,,117,senate,SSAP,SSAP18
+S001181,Jeanne Shaheen,,117,senate,SSAP,SSAP16
+M000934,Jerry Moran,,117,senate,SSAP,SSAP16
+F000062,Dianne Feinstein,,117,senate,SSAP,SSAP16
+C001035,Susan Collins,,117,senate,SSAP,SSAP16
+R000122,Jack Reed,,117,senate,SSAP,SSAP16
+G000359,Lindsey Graham,,117,senate,SSAP,SSAP16
+C001088,Christopher A. Coons,,117,senate,SSAP,SSAP16
+B001236,John Boozman,,117,senate,SSAP,SSAP16
+C001047,Shelley Moore Capito,,117,senate,SSAP,SSAP16
+M001183,Joe Manchin III,,117,senate,SSAP,SSAP16
+K000393,John Kennedy,,117,senate,SSAP,SSAP16
+V000128,Chris Van Hollen,,117,senate,SSAP,SSAP16
+H000601,Bill Hagerty,,117,senate,SSAP,SSAP16
+S000320,Richard C. Shelby,,117,senate,SSAP,SSAP16
+F000062,Dianne Feinstein,,117,senate,SSAP,SSAP22
+K000393,John Kennedy,,117,senate,SSAP,SSAP22
+M001111,Patty Murray,,117,senate,SSAP,SSAP22
+M000355,Mitch McConnell,,117,senate,SSAP,SSAP22
+S000320,Richard C. Shelby,,117,senate,SSAP,SSAP22
+C001035,Susan Collins,,117,senate,SSAP,SSAP22
+S001181,Jeanne Shaheen,,117,senate,SSAP,SSAP22
+G000359,Lindsey Graham,,117,senate,SSAP,SSAP22
+C001088,Christopher A. Coons,,117,senate,SSAP,SSAP22
+H001061,John Hoeven,,117,senate,SSAP,SSAP22
+H000601,Bill Hagerty,,117,senate,SSAP,SSAP22
+C001088,Christopher A. Coons,,117,senate,SSAP,SSAP20
+G000359,Lindsey Graham,,117,senate,SSAP,SSAP20
+M000355,Mitch McConnell,,117,senate,SSAP,SSAP20
+B000575,Roy Blunt,,117,senate,SSAP,SSAP20
+S001181,Jeanne Shaheen,,117,senate,SSAP,SSAP20
+B001236,John Boozman,,117,senate,SSAP,SSAP20
+M000934,Jerry Moran,,117,senate,SSAP,SSAP20
+V000128,Chris Van Hollen,,117,senate,SSAP,SSAP20
+H000601,Bill Hagerty,,117,senate,SSAP,SSAP20
+S000320,Richard C. Shelby,,117,senate,SSAP,SSAP20
+C001047,Shelley Moore Capito,,117,senate,SSAP,SSAP14
+S000320,Richard C. Shelby,,117,senate,SSAP,SSAP14
+S001181,Jeanne Shaheen,,117,senate,SSAP,SSAP14
+H001061,John Hoeven,,117,senate,SSAP,SSAP14
+M001111,Patty Murray,,117,senate,SSAP,SSAP14
+K000393,John Kennedy,,117,senate,SSAP,SSAP14
+F000062,Dianne Feinstein,,117,senate,SSAP,SSAP17
+B000575,Roy Blunt,,117,senate,SSAP,SSAP17
+M000355,Mitch McConnell,,117,senate,SSAP,SSAP17
+R000122,Jack Reed,,117,senate,SSAP,SSAP17
+C001047,Shelley Moore Capito,,117,senate,SSAP,SSAP17
+V000128,Chris Van Hollen,,117,senate,SSAP,SSAP17
+H000601,Bill Hagerty,,117,senate,SSAP,SSAP17
+S000320,Richard C. Shelby,,117,senate,SSAP,SSAP17
+C001035,Susan Collins,,117,senate,SSAP,SSAP24
+R000122,Jack Reed,,117,senate,SSAP,SSAP24
+S000320,Richard C. Shelby,,117,senate,SSAP,SSAP24
+M001111,Patty Murray,,117,senate,SSAP,SSAP24
+B000575,Roy Blunt,,117,senate,SSAP,SSAP24
+B001236,John Boozman,,117,senate,SSAP,SSAP24
+F000062,Dianne Feinstein,,117,senate,SSAP,SSAP24
+C001047,Shelley Moore Capito,,117,senate,SSAP,SSAP24
+C001088,Christopher A. Coons,,117,senate,SSAP,SSAP24
+G000359,Lindsey Graham,,117,senate,SSAP,SSAP24
+H001061,John Hoeven,,117,senate,SSAP,SSAP24
+M001183,Joe Manchin III,,117,senate,SSAP,SSAP24
+K000393,John Kennedy,,117,senate,SSAP,SSAP24
+V000128,Chris Van Hollen,,117,senate,SSAP,SSAP24
+R000122,Jack Reed,,117,senate,SSAP,SSAP08
+S000320,Richard C. Shelby,,117,senate,SSAP,SSAP08
+H001061,John Hoeven,,117,senate,SSAP,SSAP01
+M000355,Mitch McConnell,,117,senate,SSAP,SSAP01
+F000062,Dianne Feinstein,,117,senate,SSAP,SSAP01
+C001035,Susan Collins,,117,senate,SSAP,SSAP01
+B000575,Roy Blunt,,117,senate,SSAP,SSAP01
+M000934,Jerry Moran,,117,senate,SSAP,SSAP01
+S000320,Richard C. Shelby,,117,senate,SSAP,SSAP01
+S000320,Richard C. Shelby,,117,senate,SSAP,SSAP02
+M000355,Mitch McConnell,,117,senate,SSAP,SSAP02
+C001035,Susan Collins,,117,senate,SSAP,SSAP02
+F000062,Dianne Feinstein,,117,senate,SSAP,SSAP02
+M001111,Patty Murray,,117,senate,SSAP,SSAP02
+G000359,Lindsey Graham,,117,senate,SSAP,SSAP02
+R000122,Jack Reed,,117,senate,SSAP,SSAP02
+B000575,Roy Blunt,,117,senate,SSAP,SSAP02
+M000934,Jerry Moran,,117,senate,SSAP,SSAP02
+H001061,John Hoeven,,117,senate,SSAP,SSAP02
+S001181,Jeanne Shaheen,,117,senate,SSAP,SSAP02
+B001236,John Boozman,,117,senate,SSAP,SSAP02
+B001236,John Boozman,,117,senate,SSAP,SSAP19
+M000355,Mitch McConnell,,117,senate,SSAP,SSAP19
+M001111,Patty Murray,,117,senate,SSAP,SSAP19
+H001061,John Hoeven,,117,senate,SSAP,SSAP19
+R000122,Jack Reed,,117,senate,SSAP,SSAP19
+C001035,Susan Collins,,117,senate,SSAP,SSAP19
+C001047,Shelley Moore Capito,,117,senate,SSAP,SSAP19
+C001088,Christopher A. Coons,,117,senate,SSAP,SSAP19
+M001183,Joe Manchin III,,117,senate,SSAP,SSAP19
+H000601,Bill Hagerty,,117,senate,SSAP,SSAP19
+S000320,Richard C. Shelby,,117,senate,SSAP,SSAP19
+V000128,Chris Van Hollen,,117,senate,SSAP,SSAP23
+C001088,Christopher A. Coons,,117,senate,SSAP,SSAP23
+M000934,Jerry Moran,,117,senate,SSAP,SSAP23
+B001236,John Boozman,,117,senate,SSAP,SSAP23
+M001183,Joe Manchin III,,117,senate,SSAP,SSAP23
+K000393,John Kennedy,,117,senate,SSAP,SSAP23
+S000320,Richard C. Shelby,,117,senate,SSAP,SSAP23
+J000293,Ron Johnson,,117,senate,SSGA,SSGA01
+C000174,Thomas R. Carper,,117,senate,SSGA,SSGA01
+P000603,Rand Paul,,117,senate,SSGA,SSGA01
+S001217,Rick Scott,,117,senate,SSGA,SSGA01
+P000595,Gary Peters,,117,senate,SSGA,SSGA01
+P000449,Rob Portman,,117,senate,SSGA,SSGA01
+P000603,Rand Paul,,117,senate,SSGA,SSGA20
+R000608,Jacky Rosen,,117,senate,SSGA,SSGA20
+S001217,Rick Scott,,117,senate,SSGA,SSGA20
+P000595,Gary Peters,,117,senate,SSGA,SSGA20
+P000449,Rob Portman,,117,senate,SSGA,SSGA20
+C000174,Thomas R. Carper,,117,senate,SSGA,SSGA22
+J000293,Ron Johnson,,117,senate,SSGA,SSGA22
+P000595,Gary Peters,,117,senate,SSGA,SSGA22
+P000449,Rob Portman,,117,senate,SSGA,SSGA22
+S001203,Tina Smith,,118,senate,SSAF,SSAF13
+M000355,Mitch McConnell,,118,senate,SSAF,SSAF13
+B001288,Cory Booker,,118,senate,SSAF,SSAF13
+T000278,Tommy Tuberville,,118,senate,SSAF,SSAF13
+B001236,John Boozman,,118,senate,SSAF,SSAF13
+B001267,Michael Bennet,,118,senate,SSAF,SSAF14
+M001198,Roger Marshall,,118,senate,SSAF,SSAF14
+M000355,Mitch McConnell,,118,senate,SSAF,SSAF14
+S001203,Tina Smith,,118,senate,SSAF,SSAF14
+H001061,John Hoeven,,118,senate,SSAF,SSAF14
+T000250,John Thune,,118,senate,SSAF,SSAF14
+B001236,John Boozman,,118,senate,SSAF,SSAF14
+T000278,Tommy Tuberville,,118,senate,SSAF,SSAF15
+B001267,Michael Bennet,,118,senate,SSAF,SSAF15
+S001203,Tina Smith,,118,senate,SSAF,SSAF15
+F000463,Deb Fischer,,118,senate,SSAF,SSAF15
+B001236,John Boozman,,118,senate,SSAF,SSAF15
+H001061,John Hoeven,,118,senate,SSAF,SSAF17
+M001198,Roger Marshall,,118,senate,SSAF,SSAF17
+B001288,Cory Booker,,118,senate,SSAF,SSAF17
+T000250,John Thune,,118,senate,SSAF,SSAF17
+F000463,Deb Fischer,,118,senate,SSAF,SSAF17
+B001236,John Boozman,,118,senate,SSAF,SSAF17
+M000355,Mitch McConnell,,118,senate,SSAF,SSAF16
+M001198,Roger Marshall,,118,senate,SSAF,SSAF16
+B001288,Cory Booker,,118,senate,SSAF,SSAF16
+T000278,Tommy Tuberville,,118,senate,SSAF,SSAF16
+B001236,John Boozman,,118,senate,SSAF,SSAF16
+C001047,Shelley Moore Capito,,118,senate,SSAP,SSAP18
+M001111,Patty Murray,,118,senate,SSAP,SSAP18
+G000359,Lindsey Graham,,118,senate,SSAP,SSAP18
+M000934,Jerry Moran,,118,senate,SSAP,SSAP18
+R000122,Jack Reed,,118,senate,SSAP,SSAP18
+K000393,John Kennedy,,118,senate,SSAP,SSAP18
+S001181,Jeanne Shaheen,,118,senate,SSAP,SSAP18
+B001236,John Boozman,,118,senate,SSAP,SSAP18
+M001183,Joe Manchin III,,118,senate,SSAP,SSAP18
+C001035,Susan Collins,,118,senate,SSAP,SSAP18
+S001181,Jeanne Shaheen,,118,senate,SSAP,SSAP16
+M000934,Jerry Moran,,118,senate,SSAP,SSAP16
+R000122,Jack Reed,,118,senate,SSAP,SSAP16
+C001035,Susan Collins,,118,senate,SSAP,SSAP16
+C001088,Christopher A. Coons,,118,senate,SSAP,SSAP16
+C001047,Shelley Moore Capito,,118,senate,SSAP,SSAP16
+K000393,John Kennedy,,118,senate,SSAP,SSAP16
+M001183,Joe Manchin III,,118,senate,SSAP,SSAP16
+H000601,Bill Hagerty,,118,senate,SSAP,SSAP16
+V000128,Chris Van Hollen,,118,senate,SSAP,SSAP16
+F000463,Deb Fischer,,118,senate,SSAP,SSAP16
+P000595,Gary Peters,,118,senate,SSAP,SSAP16
+M001111,Patty Murray,,118,senate,SSAP,SSAP16
+K000393,John Kennedy,,118,senate,SSAP,SSAP22
+M001111,Patty Murray,,118,senate,SSAP,SSAP22
+M000355,Mitch McConnell,,118,senate,SSAP,SSAP22
+G000359,Lindsey Graham,,118,senate,SSAP,SSAP22
+S001181,Jeanne Shaheen,,118,senate,SSAP,SSAP22
+H001061,John Hoeven,,118,senate,SSAP,SSAP22
+C001088,Christopher A. Coons,,118,senate,SSAP,SSAP22
+H000601,Bill Hagerty,,118,senate,SSAP,SSAP22
+C001035,Susan Collins,,118,senate,SSAP,SSAP22
+C001088,Christopher A. Coons,,118,senate,SSAP,SSAP20
+G000359,Lindsey Graham,,118,senate,SSAP,SSAP20
+M000355,Mitch McConnell,,118,senate,SSAP,SSAP20
+S001181,Jeanne Shaheen,,118,senate,SSAP,SSAP20
+B001236,John Boozman,,118,senate,SSAP,SSAP20
+M000934,Jerry Moran,,118,senate,SSAP,SSAP20
+V000128,Chris Van Hollen,,118,senate,SSAP,SSAP20
+H000601,Bill Hagerty,,118,senate,SSAP,SSAP20
+C001035,Susan Collins,,118,senate,SSAP,SSAP20
+M001111,Patty Murray,,118,senate,SSAP,SSAP20
+M001111,Patty Murray,,118,senate,SSAP,SSAP14
+C001047,Shelley Moore Capito,,118,senate,SSAP,SSAP14
+S001181,Jeanne Shaheen,,118,senate,SSAP,SSAP14
+K000393,John Kennedy,,118,senate,SSAP,SSAP14
+P000595,Gary Peters,,118,senate,SSAP,SSAP14
+C001035,Susan Collins,,118,senate,SSAP,SSAP14
+M000355,Mitch McConnell,,118,senate,SSAP,SSAP17
+R000122,Jack Reed,,118,senate,SSAP,SSAP17
+C001047,Shelley Moore Capito,,118,senate,SSAP,SSAP17
+H001061,John Hoeven,,118,senate,SSAP,SSAP17
+V000128,Chris Van Hollen,,118,senate,SSAP,SSAP17
+F000463,Deb Fischer,,118,senate,SSAP,SSAP17
+P000595,Gary Peters,,118,senate,SSAP,SSAP17
+C001035,Susan Collins,,118,senate,SSAP,SSAP17
+M001111,Patty Murray,,118,senate,SSAP,SSAP17
+M001111,Patty Murray,,118,senate,SSAP,SSAP24
+C001035,Susan Collins,,118,senate,SSAP,SSAP24
+B001236,John Boozman,,118,senate,SSAP,SSAP24
+C001047,Shelley Moore Capito,,118,senate,SSAP,SSAP24
+R000122,Jack Reed,,118,senate,SSAP,SSAP24
+G000359,Lindsey Graham,,118,senate,SSAP,SSAP24
+C001088,Christopher A. Coons,,118,senate,SSAP,SSAP24
+H001061,John Hoeven,,118,senate,SSAP,SSAP24
+K000393,John Kennedy,,118,senate,SSAP,SSAP24
+M001183,Joe Manchin III,,118,senate,SSAP,SSAP24
+M000934,Jerry Moran,,118,senate,SSAP,SSAP24
+V000128,Chris Van Hollen,,118,senate,SSAP,SSAP24
+R000122,Jack Reed,,118,senate,SSAP,SSAP08
+F000463,Deb Fischer,,118,senate,SSAP,SSAP08
+V000128,Chris Van Hollen,,118,senate,SSAP,SSAP08
+C001035,Susan Collins,,118,senate,SSAP,SSAP08
+M001111,Patty Murray,,118,senate,SSAP,SSAP08
+H001061,John Hoeven,,118,senate,SSAP,SSAP01
+M000355,Mitch McConnell,,118,senate,SSAP,SSAP01
+C001035,Susan Collins,,118,senate,SSAP,SSAP01
+M000934,Jerry Moran,,118,senate,SSAP,SSAP01
+M001183,Joe Manchin III,,118,senate,SSAP,SSAP01
+F000463,Deb Fischer,,118,senate,SSAP,SSAP01
+P000595,Gary Peters,,118,senate,SSAP,SSAP01
+M001111,Patty Murray,,118,senate,SSAP,SSAP01
+C001035,Susan Collins,,118,senate,SSAP,SSAP02
+M000355,Mitch McConnell,,118,senate,SSAP,SSAP02
+M001111,Patty Murray,,118,senate,SSAP,SSAP02
+G000359,Lindsey Graham,,118,senate,SSAP,SSAP02
+R000122,Jack Reed,,118,senate,SSAP,SSAP02
+M000934,Jerry Moran,,118,senate,SSAP,SSAP02
+H001061,John Hoeven,,118,senate,SSAP,SSAP02
+B001236,John Boozman,,118,senate,SSAP,SSAP02
+S001181,Jeanne Shaheen,,118,senate,SSAP,SSAP02
+C001047,Shelley Moore Capito,,118,senate,SSAP,SSAP02
+B001236,John Boozman,,118,senate,SSAP,SSAP19
+M001111,Patty Murray,,118,senate,SSAP,SSAP19
+M000355,Mitch McConnell,,118,senate,SSAP,SSAP19
+R000122,Jack Reed,,118,senate,SSAP,SSAP19
+H001061,John Hoeven,,118,senate,SSAP,SSAP19
+C001035,Susan Collins,,118,senate,SSAP,SSAP19
+C001088,Christopher A. Coons,,118,senate,SSAP,SSAP19
+H000601,Bill Hagerty,,118,senate,SSAP,SSAP19
+M001183,Joe Manchin III,,118,senate,SSAP,SSAP19
+F000463,Deb Fischer,,118,senate,SSAP,SSAP19
+P000595,Gary Peters,,118,senate,SSAP,SSAP19
+V000128,Chris Van Hollen,,118,senate,SSAP,SSAP23
+H000601,Bill Hagerty,,118,senate,SSAP,SSAP23
+B001236,John Boozman,,118,senate,SSAP,SSAP23
+C001088,Christopher A. Coons,,118,senate,SSAP,SSAP23
+K000393,John Kennedy,,118,senate,SSAP,SSAP23
+M001183,Joe Manchin III,,118,senate,SSAP,SSAP23
+C001035,Susan Collins,,118,senate,SSAP,SSAP23
+M001111,Patty Murray,,118,senate,SSAP,SSAP23
+K000383,Angus King,,118,senate,SSAS,SSAS16
+F000463,Deb Fischer,,118,senate,SSAS,SSAS16
+W000817,Elizabeth Warren,,118,senate,SSAS,SSAS16
+R000605,Mike Rounds,,118,senate,SSAS,SSAS16
+M001183,Joe Manchin III,,118,senate,SSAS,SSAS16
+R000608,Jacky Rosen,,118,senate,SSAS,SSAS16
+T000278,Tommy Tuberville,,118,senate,SSAS,SSAS16
+W000437,Roger Wicker,,118,senate,SSAS,SSAS16
+R000122,Jack Reed,,118,senate,SSAS,SSAS16
+S001181,Jeanne Shaheen,,118,senate,SSAS,SSAS20
+W000817,Elizabeth Warren,,118,senate,SSAS,SSAS20
+P000595,Gary Peters,,118,senate,SSAS,SSAS20
+R000608,Jacky Rosen,,118,senate,SSAS,SSAS20
+W000437,Roger Wicker,,118,senate,SSAS,SSAS20
+R000122,Jack Reed,,118,senate,SSAS,SSAS20
+W000817,Elizabeth Warren,,118,senate,SSAS,SSAS17
+S001217,Rick Scott,,118,senate,SSAS,SSAS17
+B001277,Richard Blumenthal,,118,senate,SSAS,SSAS17
+R000605,Mike Rounds,,118,senate,SSAS,SSAS17
+S001198,Dan Sullivan,,118,senate,SSAS,SSAS17
+K000384,Tim Kaine,,118,senate,SSAS,SSAS17
+D000622,Tammy Duckworth,,118,senate,SSAS,SSAS17
+W000437,Roger Wicker,,118,senate,SSAS,SSAS17
+R000122,Jack Reed,,118,senate,SSAS,SSAS17
+K000384,Tim Kaine,,118,senate,SSAS,SSAS13
+S001181,Jeanne Shaheen,,118,senate,SSAS,SSAS13
+S001198,Dan Sullivan,,118,senate,SSAS,SSAS13
+B001277,Richard Blumenthal,,118,senate,SSAS,SSAS13
+S001217,Rick Scott,,118,senate,SSAS,SSAS13
+T000278,Tommy Tuberville,,118,senate,SSAS,SSAS13
+K000383,Angus King,,118,senate,SSAS,SSAS13
+P000595,Gary Peters,,118,senate,SSAS,SSAS13
+W000437,Roger Wicker,,118,senate,SSAS,SSAS13
+R000122,Jack Reed,,118,senate,SSAS,SSAS13
+B001277,Richard Blumenthal,,118,senate,SSAS,SSAS14
+F000463,Deb Fischer,,118,senate,SSAS,SSAS14
+K000383,Angus King,,118,senate,SSAS,SSAS14
+P000595,Gary Peters,,118,senate,SSAS,SSAS14
+S001217,Rick Scott,,118,senate,SSAS,SSAS14
+M001183,Joe Manchin III,,118,senate,SSAS,SSAS14
+D000622,Tammy Duckworth,,118,senate,SSAS,SSAS14
+W000437,Roger Wicker,,118,senate,SSAS,SSAS14
+R000122,Jack Reed,,118,senate,SSAS,SSAS14
+S001198,Dan Sullivan,,118,senate,SSAS,SSAS15
+S001181,Jeanne Shaheen,,118,senate,SSAS,SSAS15
+F000463,Deb Fischer,,118,senate,SSAS,SSAS15
+B001277,Richard Blumenthal,,118,senate,SSAS,SSAS15
+K000384,Tim Kaine,,118,senate,SSAS,SSAS15
+T000278,Tommy Tuberville,,118,senate,SSAS,SSAS15
+D000622,Tammy Duckworth,,118,senate,SSAS,SSAS15
+W000437,Roger Wicker,,118,senate,SSAS,SSAS15
+R000122,Jack Reed,,118,senate,SSAS,SSAS15
+M001183,Joe Manchin III,,118,senate,SSAS,SSAS21
+R000605,Mike Rounds,,118,senate,SSAS,SSAS21
+P000595,Gary Peters,,118,senate,SSAS,SSAS21
+D000622,Tammy Duckworth,,118,senate,SSAS,SSAS21
+R000608,Jacky Rosen,,118,senate,SSAS,SSAS21
+W000437,Roger Wicker,,118,senate,SSAS,SSAS21
+R000122,Jack Reed,,118,senate,SSAS,SSAS21
+R000605,Mike Rounds,,118,senate,SSBK,SSBK04
+R000122,Jack Reed,,118,senate,SSBK,SSBK04
+C000880,Michael D. Crapo,,118,senate,SSBK,SSBK04
+T000476,Thom Tillis,,118,senate,SSBK,SSBK04
+W000805,Mark Warner,,118,senate,SSBK,SSBK04
+K000393,John Kennedy,,118,senate,SSBK,SSBK04
+W000817,Elizabeth Warren,,118,senate,SSBK,SSBK04
+H000601,Bill Hagerty,,118,senate,SSBK,SSBK04
+S001203,Tina Smith,,118,senate,SSBK,SSBK09
+L000571,Cynthia M. Lummis,,118,senate,SSBK,SSBK09
+R000122,Jack Reed,,118,senate,SSBK,SSBK09
+C000880,Michael D. Crapo,,118,senate,SSBK,SSBK09
+R000605,Mike Rounds,,118,senate,SSBK,SSBK09
+K000393,John Kennedy,,118,senate,SSBK,SSBK09
+H000601,Bill Hagerty,,118,senate,SSBK,SSBK09
+W000817,Elizabeth Warren,,118,senate,SSBK,SSBK12
+K000393,John Kennedy,,118,senate,SSBK,SSBK12
+R000122,Jack Reed,,118,senate,SSBK,SSBK12
+R000605,Mike Rounds,,118,senate,SSBK,SSBK12
+T000476,Thom Tillis,,118,senate,SSBK,SSBK12
+V000128,Chris Van Hollen,,118,senate,SSBK,SSBK12
+L000571,Cynthia M. Lummis,,118,senate,SSBK,SSBK12
+S001203,Tina Smith,,118,senate,SSBK,SSBK12
+D000618,Steve Daines,,118,senate,SSBK,SSBK12
+W000805,Mark Warner,,118,senate,SSBK,SSBK05
+H000601,Bill Hagerty,,118,senate,SSBK,SSBK05
+V000128,Chris Van Hollen,,118,senate,SSBK,SSBK05
+D000618,Steve Daines,,118,senate,SSBK,SSBK05
+T000476,Thom Tillis,,118,senate,SSBK,SSBK08
+W000805,Mark Warner,,118,senate,SSBK,SSBK08
+C000880,Michael D. Crapo,,118,senate,SSBK,SSBK08
+W000817,Elizabeth Warren,,118,senate,SSBK,SSBK08
+L000571,Cynthia M. Lummis,,118,senate,SSBK,SSBK08
+V000128,Chris Van Hollen,,118,senate,SSBK,SSBK08
+S001203,Tina Smith,,118,senate,SSBK,SSBK08
+R000608,Jacky Rosen,,118,senate,SSCM,SSCM39
+T000250,John Thune,,118,senate,SSCM,SSCM39
+D000622,Tammy Duckworth,,118,senate,SSCM,SSCM39
+C001047,Shelley Moore Capito,,118,senate,SSCM,SSCM39
+H000273,John Hickenlooper,,118,senate,SSCM,SSCM39
+C001098,Ted Cruz,,118,senate,SSCM,SSCM39
+C000127,Maria Cantwell,,118,senate,SSCM,SSCM39
+T000250,John Thune,,118,senate,SSCM,SSCM34
+W000437,Roger Wicker,,118,senate,SSCM,SSCM34
+F000463,Deb Fischer,,118,senate,SSCM,SSCM34
+M000934,Jerry Moran,,118,senate,SSCM,SSCM34
+P000595,Gary Peters,,118,senate,SSCM,SSCM34
+S001198,Dan Sullivan,,118,senate,SSCM,SSCM34
+D000622,Tammy Duckworth,,118,senate,SSCM,SSCM34
+R000608,Jacky Rosen,,118,senate,SSCM,SSCM34
+H000273,John Hickenlooper,,118,senate,SSCM,SSCM34
+C001047,Shelley Moore Capito,,118,senate,SSCM,SSCM34
+L000571,Cynthia M. Lummis,,118,senate,SSCM,SSCM34
+C001098,Ted Cruz,,118,senate,SSCM,SSCM34
+C000127,Maria Cantwell,,118,senate,SSCM,SSCM34
+D000622,Tammy Duckworth,,118,senate,SSCM,SSCM33
+M000934,Jerry Moran,,118,senate,SSCM,SSCM33
+T000250,John Thune,,118,senate,SSCM,SSCM33
+W000437,Roger Wicker,,118,senate,SSCM,SSCM33
+R000608,Jacky Rosen,,118,senate,SSCM,SSCM33
+S001198,Dan Sullivan,,118,senate,SSCM,SSCM33
+H000273,John Hickenlooper,,118,senate,SSCM,SSCM33
+C001098,Ted Cruz,,118,senate,SSCM,SSCM33
+C000127,Maria Cantwell,,118,senate,SSCM,SSCM33
+H000273,John Hickenlooper,,118,senate,SSCM,SSCM35
+F000463,Deb Fischer,,118,senate,SSCM,SSCM35
+M000934,Jerry Moran,,118,senate,SSCM,SSCM35
+S001198,Dan Sullivan,,118,senate,SSCM,SSCM35
+D000622,Tammy Duckworth,,118,senate,SSCM,SSCM35
+L000571,Cynthia M. Lummis,,118,senate,SSCM,SSCM35
+C001098,Ted Cruz,,118,senate,SSCM,SSCM35
+C000127,Maria Cantwell,,118,senate,SSCM,SSCM35
+P000595,Gary Peters,,118,senate,SSCM,SSCM38
+T000250,John Thune,,118,senate,SSCM,SSCM38
+W000437,Roger Wicker,,118,senate,SSCM,SSCM38
+F000463,Deb Fischer,,118,senate,SSCM,SSCM38
+D000622,Tammy Duckworth,,118,senate,SSCM,SSCM38
+C001047,Shelley Moore Capito,,118,senate,SSCM,SSCM38
+C001098,Ted Cruz,,118,senate,SSCM,SSCM38
+C000127,Maria Cantwell,,118,senate,SSCM,SSCM38
+F000463,Deb Fischer,,118,senate,SSCM,SSCM37
+P000595,Gary Peters,,118,senate,SSCM,SSCM37
+L000571,Cynthia M. Lummis,,118,senate,SSCM,SSCM37
+H000273,John Hickenlooper,,118,senate,SSCM,SSCM37
+C001098,Ted Cruz,,118,senate,SSCM,SSCM37
+C000127,Maria Cantwell,,118,senate,SSCM,SSCM37
+S001198,Dan Sullivan,,118,senate,SSCM,SSCM36
+W000437,Roger Wicker,,118,senate,SSCM,SSCM36
+M000934,Jerry Moran,,118,senate,SSCM,SSCM36
+C001098,Ted Cruz,,118,senate,SSCM,SSCM36
+C000127,Maria Cantwell,,118,senate,SSCM,SSCM36
+W000779,Ron Wyden,,118,senate,SSEG,SSEG03
+D000618,Steve Daines,,118,senate,SSEG,SSEG03
+K000383,Angus King,,118,senate,SSEG,SSEG03
+C001075,Bill Cassidy,,118,senate,SSEG,SSEG03
+H000273,John Hickenlooper,,118,senate,SSEG,SSEG03
+B001261,John Barrasso,,118,senate,SSEG,SSEG03
+M001183,Joe Manchin III,,118,senate,SSEG,SSEG03
+K000383,Angus King,,118,senate,SSEG,SSEG04
+D000618,Steve Daines,,118,senate,SSEG,SSEG04
+B001261,John Barrasso,,118,senate,SSEG,SSEG04
+M001183,Joe Manchin III,,118,senate,SSEG,SSEG04
+W000779,Ron Wyden,,118,senate,SSEG,SSEG07
+H001061,John Hoeven,,118,senate,SSEG,SSEG07
+C001075,Bill Cassidy,,118,senate,SSEG,SSEG07
+H000273,John Hickenlooper,,118,senate,SSEG,SSEG07
+B001261,John Barrasso,,118,senate,SSEG,SSEG07
+M001183,Joe Manchin III,,118,senate,SSEG,SSEG07
+W000779,Ron Wyden,,118,senate,SSEG,SSEG01
+H001061,John Hoeven,,118,senate,SSEG,SSEG01
+K000383,Angus King,,118,senate,SSEG,SSEG01
+C001075,Bill Cassidy,,118,senate,SSEG,SSEG01
+H000273,John Hickenlooper,,118,senate,SSEG,SSEG01
+B001261,John Barrasso,,118,senate,SSEG,SSEG01
+M001183,Joe Manchin III,,118,senate,SSEG,SSEG01
+L000571,Cynthia M. Lummis,,118,senate,SSEV,SSEV15
+C000141,Benjamin L. Cardin,,118,senate,SSEV,SSEV15
+W000802,Sheldon Whitehouse,,118,senate,SSEV,SSEV15
+B001236,John Boozman,,118,senate,SSEV,SSEV15
+S001198,Dan Sullivan,,118,senate,SSEV,SSEV15
+C001047,Shelley Moore Capito,,118,senate,SSEV,SSEV15
+C000174,Thomas R. Carper,,118,senate,SSEV,SSEV15
+B001236,John Boozman,,118,senate,SSEV,SSEV09
+W000802,Sheldon Whitehouse,,118,senate,SSEV,SSEV09
+W000437,Roger Wicker,,118,senate,SSEV,SSEV09
+S001198,Dan Sullivan,,118,senate,SSEV,SSEV09
+C001047,Shelley Moore Capito,,118,senate,SSEV,SSEV09
+C000174,Thomas R. Carper,,118,senate,SSEV,SSEV09
+C000141,Benjamin L. Cardin,,118,senate,SSEV,SSEV10
+L000571,Cynthia M. Lummis,,118,senate,SSEV,SSEV10
+W000802,Sheldon Whitehouse,,118,senate,SSEV,SSEV10
+W000437,Roger Wicker,,118,senate,SSEV,SSEV10
+S001198,Dan Sullivan,,118,senate,SSEV,SSEV10
+G000359,Lindsey Graham,,118,senate,SSEV,SSEV10
+C001047,Shelley Moore Capito,,118,senate,SSEV,SSEV10
+C000174,Thomas R. Carper,,118,senate,SSEV,SSEV10
+C000141,Benjamin L. Cardin,,118,senate,SSEV,SSEV08
+L000571,Cynthia M. Lummis,,118,senate,SSEV,SSEV08
+B001236,John Boozman,,118,senate,SSEV,SSEV08
+W000437,Roger Wicker,,118,senate,SSEV,SSEV08
+G000359,Lindsey Graham,,118,senate,SSEV,SSEV08
+C001047,Shelley Moore Capito,,118,senate,SSEV,SSEV08
+C000174,Thomas R. Carper,,118,senate,SSEV,SSEV08
+C000174,Thomas R. Carper,,118,senate,SSFI,SSFI13
+C001056,John Cornyn,,118,senate,SSFI,SSFI13
+W000779,Ron Wyden,,118,senate,SSFI,SSFI13
+T000250,John Thune,,118,senate,SSFI,SSFI13
+C001075,Bill Cassidy,,118,senate,SSFI,SSFI13
+C000141,Benjamin L. Cardin,,118,senate,SSFI,SSFI13
+D000618,Steve Daines,,118,senate,SSFI,SSFI13
+B001267,Michael Bennet,,118,senate,SSFI,SSFI13
+B001261,John Barrasso,,118,senate,SSFI,SSFI13
+J000293,Ron Johnson,,118,senate,SSFI,SSFI13
+W000805,Mark Warner,,118,senate,SSFI,SSFI13
+T000476,Thom Tillis,,118,senate,SSFI,SSFI13
+C000880,Michael D. Crapo,,118,senate,SSFI,SSFI13
+W000779,Ron Wyden,,118,senate,SSFI,SSFI12
+C001056,John Cornyn,,118,senate,SSFI,SSFI12
+C000174,Thomas R. Carper,,118,senate,SSFI,SSFI12
+B001267,Michael Bennet,,118,senate,SSFI,SSFI12
+D000618,Steve Daines,,118,senate,SSFI,SSFI12
+W000802,Sheldon Whitehouse,,118,senate,SSFI,SSFI12
+B001261,John Barrasso,,118,senate,SSFI,SSFI12
+C000880,Michael D. Crapo,,118,senate,SSFI,SSFI12
+W000779,Ron Wyden,,118,senate,SSFI,SSFI14
+C000880,Michael D. Crapo,,118,senate,SSFI,SSFI14
+C000141,Benjamin L. Cardin,,118,senate,SSFI,SSFI10
+D000618,Steve Daines,,118,senate,SSFI,SSFI10
+W000779,Ron Wyden,,118,senate,SSFI,SSFI10
+T000250,John Thune,,118,senate,SSFI,SSFI10
+C000174,Thomas R. Carper,,118,senate,SSFI,SSFI10
+C001075,Bill Cassidy,,118,senate,SSFI,SSFI10
+W000805,Mark Warner,,118,senate,SSFI,SSFI10
+W000802,Sheldon Whitehouse,,118,senate,SSFI,SSFI10
+B001261,John Barrasso,,118,senate,SSFI,SSFI10
+J000293,Ron Johnson,,118,senate,SSFI,SSFI10
+W000817,Elizabeth Warren,,118,senate,SSFI,SSFI10
+C000880,Michael D. Crapo,,118,senate,SSFI,SSFI10
+T000476,Thom Tillis,,118,senate,SSFI,SSFI02
+W000779,Ron Wyden,,118,senate,SSFI,SSFI02
+C001075,Bill Cassidy,,118,senate,SSFI,SSFI02
+W000817,Elizabeth Warren,,118,senate,SSFI,SSFI02
+C000880,Michael D. Crapo,,118,senate,SSFI,SSFI02
+B001267,Michael Bennet,,118,senate,SSFI,SSFI11
+T000250,John Thune,,118,senate,SSFI,SSFI11
+W000779,Ron Wyden,,118,senate,SSFI,SSFI11
+C001056,John Cornyn,,118,senate,SSFI,SSFI11
+C000141,Benjamin L. Cardin,,118,senate,SSFI,SSFI11
+W000805,Mark Warner,,118,senate,SSFI,SSFI11
+J000293,Ron Johnson,,118,senate,SSFI,SSFI11
+W000802,Sheldon Whitehouse,,118,senate,SSFI,SSFI11
+W000817,Elizabeth Warren,,118,senate,SSFI,SSFI11
+C000880,Michael D. Crapo,,118,senate,SSFI,SSFI11
+B001288,Cory Booker,,118,senate,SSFR,SSFR09
+C001088,Christopher A. Coons,,118,senate,SSFR,SSFR09
+P000603,Rand Paul,,118,senate,SSFR,SSFR09
+B001261,John Barrasso,,118,senate,SSFR,SSFR09
+V000128,Chris Van Hollen,,118,senate,SSFR,SSFR09
+S001181,Jeanne Shaheen,,118,senate,SSFR,SSFR01
+P000603,Rand Paul,,118,senate,SSFR,SSFR01
+V000128,Chris Van Hollen,,118,senate,SSFR,SSFR01
+B001261,John Barrasso,,118,senate,SSFR,SSFR01
+D000622,Tammy Duckworth,,118,senate,SSFR,SSFR01
+C000141,Benjamin L. Cardin,,118,senate,SSFR,SSFR01
+V000128,Chris Van Hollen,,118,senate,SSFR,SSFR02
+H000601,Bill Hagerty,,118,senate,SSFR,SSFR02
+D000622,Tammy Duckworth,,118,senate,SSFR,SSFR02
+C001088,Christopher A. Coons,,118,senate,SSFR,SSFR02
+C000141,Benjamin L. Cardin,,118,senate,SSFR,SSFR07
+S001181,Jeanne Shaheen,,118,senate,SSFR,SSFR07
+C001098,Ted Cruz,,118,senate,SSFR,SSFR07
+K000384,Tim Kaine,,118,senate,SSFR,SSFR07
+B001288,Cory Booker,,118,senate,SSFR,SSFR07
+K000384,Tim Kaine,,118,senate,SSFR,SSFR06
+C001098,Ted Cruz,,118,senate,SSFR,SSFR06
+C000141,Benjamin L. Cardin,,118,senate,SSFR,SSFR06
+S001181,Jeanne Shaheen,,118,senate,SSFR,SSFR06
+C000141,Benjamin L. Cardin,,118,senate,SSFR,SSFR14
+H000601,Bill Hagerty,,118,senate,SSFR,SSFR14
+K000384,Tim Kaine,,118,senate,SSFR,SSFR14
+B001288,Cory Booker,,118,senate,SSFR,SSFR14
+C001098,Ted Cruz,,118,senate,SSFR,SSFR14
+C001088,Christopher A. Coons,,118,senate,SSFR,SSFR14
+P000603,Rand Paul,,118,senate,SSFR,SSFR14
+D000622,Tammy Duckworth,,118,senate,SSFR,SSFR15
+B001261,John Barrasso,,118,senate,SSFR,SSFR15
+C001088,Christopher A. Coons,,118,senate,SSFR,SSFR15
+H000601,Bill Hagerty,,118,senate,SSFR,SSFR15
+S001181,Jeanne Shaheen,,118,senate,SSFR,SSFR15
+P000603,Rand Paul,,118,senate,SSFR,SSFR15
+K000384,Tim Kaine,,118,senate,SSFR,SSFR15
+T000278,Tommy Tuberville,,118,senate,SSHR,SSHR09
+P000603,Rand Paul,,118,senate,SSHR,SSHR09
+M001111,Patty Murray,,118,senate,SSHR,SSHR09
+K000384,Tim Kaine,,118,senate,SSHR,SSHR09
+S001203,Tina Smith,,118,senate,SSHR,SSHR09
+C001075,Bill Cassidy,,118,senate,SSHR,SSHR09
+H000273,John Hickenlooper,,118,senate,SSHR,SSHR11
+M001198,Roger Marshall,,118,senate,SSHR,SSHR11
+K000384,Tim Kaine,,118,senate,SSHR,SSHR11
+T000278,Tommy Tuberville,,118,senate,SSHR,SSHR11
+C001075,Bill Cassidy,,118,senate,SSHR,SSHR11
+M001198,Roger Marshall,,118,senate,SSHR,SSHR12
+M001111,Patty Murray,,118,senate,SSHR,SSHR12
+P000603,Rand Paul,,118,senate,SSHR,SSHR12
+C001035,Susan Collins,,118,senate,SSHR,SSHR12
+S001203,Tina Smith,,118,senate,SSHR,SSHR12
+H000273,John Hickenlooper,,118,senate,SSHR,SSHR12
+C001075,Bill Cassidy,,118,senate,SSHR,SSHR12
+B001277,Richard Blumenthal,,118,senate,SSGA,SSGA01
+J000293,Ron Johnson,,118,senate,SSGA,SSGA01
+C000174,Thomas R. Carper,,118,senate,SSGA,SSGA01
+S001217,Rick Scott,,118,senate,SSGA,SSGA01
+M001198,Roger Marshall,,118,senate,SSGA,SSGA01
+P000603,Rand Paul,,118,senate,SSGA,SSGA01
+P000595,Gary Peters,,118,senate,SSGA,SSGA01
+R000608,Jacky Rosen,,118,senate,SSGA,SSGA20
+S001217,Rick Scott,,118,senate,SSGA,SSGA20
+P000603,Rand Paul,,118,senate,SSGA,SSGA20
+P000595,Gary Peters,,118,senate,SSGA,SSGA20
+C000174,Thomas R. Carper,,118,senate,SSGA,SSGA22
+J000293,Ron Johnson,,118,senate,SSGA,SSGA22
+B001277,Richard Blumenthal,,118,senate,SSGA,SSGA22
+P000603,Rand Paul,,118,senate,SSGA,SSGA22
+P000595,Gary Peters,,118,senate,SSGA,SSGA22
+W000802,Sheldon Whitehouse,,118,senate,SSJU,SSJU01
+C001088,Christopher A. Coons,,118,senate,SSJU,SSJU01
+B001277,Richard Blumenthal,,118,senate,SSJU,SSJU01
+T000476,Thom Tillis,,118,senate,SSJU,SSJU01
+B001288,Cory Booker,,118,senate,SSJU,SSJU01
+C001056,John Cornyn,,118,senate,SSJU,SSJU04
+W000802,Sheldon Whitehouse,,118,senate,SSJU,SSJU04
+C001098,Ted Cruz,,118,senate,SSJU,SSJU04
+C001088,Christopher A. Coons,,118,senate,SSJU,SSJU04
+T000476,Thom Tillis,,118,senate,SSJU,SSJU04
+B001288,Cory Booker,,118,senate,SSJU,SSJU04
+B001288,Cory Booker,,118,senate,SSJU,SSJU22
+W000802,Sheldon Whitehouse,,118,senate,SSJU,SSJU22
+C001056,John Cornyn,,118,senate,SSJU,SSJU22
+C001088,Christopher A. Coons,,118,senate,SSJU,SSJU22
+C001098,Ted Cruz,,118,senate,SSJU,SSJU22
+K000393,John Kennedy,,118,senate,SSJU,SSJU22
+C001098,Ted Cruz,,118,senate,SSJU,SSJU21
+C001056,John Cornyn,,118,senate,SSJU,SSJU21
+B001277,Richard Blumenthal,,118,senate,SSJU,SSJU21
+B001288,Cory Booker,,118,senate,SSJU,SSJU21
+W000802,Sheldon Whitehouse,,118,senate,SSJU,SSJU25
+K000393,John Kennedy,,118,senate,SSJU,SSJU25
+B001277,Richard Blumenthal,,118,senate,SSJU,SSJU25
+C001098,Ted Cruz,,118,senate,SSJU,SSJU25
+B001288,Cory Booker,,118,senate,SSJU,SSJU25
+T000476,Thom Tillis,,118,senate,SSJU,SSJU25
+C001088,Christopher A. Coons,,118,senate,SSJU,SSJU26
+T000476,Thom Tillis,,118,senate,SSJU,SSJU26
+C001056,John Cornyn,,118,senate,SSJU,SSJU26
+B001277,Richard Blumenthal,,118,senate,SSJU,SSJU28
+K000393,John Kennedy,,118,senate,SSJU,SSJU28
+C001088,Christopher A. Coons,,118,senate,SSJU,SSJU28
+C001056,John Cornyn,,118,senate,SSJU,SSJU28
+K000393,John Kennedy,,118,senate,SSJU,SSJU27
+B001277,Richard Blumenthal,,118,senate,SSJU,SSJU27
+S001216,Kim Schrier,2019-02-06,116,house,HSAG,HSAG03
+H001088,Jim Hagedorn,2019-02-06,116,house,HSAG,HSAG03
+S001189,Austin Scott,2019-02-06,116,house,HSAG,HSAG16
+A000372,Rick Allen,2019-02-06,116,house,HSAG,HSAG16
+S001209,Abigail Spanberger,2019-01-24,116,house,HSAG,HSAG15
+A000372,Rick Allen,2019-02-06,116,house,HSAG,HSAG15
+O000171,Tom O'Halleran,2019-02-06,116,house,HSAG,HSAG15
+A000378,Cynthia Axne,2019-02-06,116,house,HSAG,HSAG15
+S001189,Austin Scott,2019-02-06,116,house,HSAG,HSAG22
+R000603,David Rouzer,2019-02-06,116,house,HSAG,HSAG22
+S001209,Abigail Spanberger,2019-02-06,116,house,HSAG,HSAG22
+M001198,Roger Marshall,2019-02-06,116,house,HSAG,HSAG22
+D000628,Neal Dunn,2019-02-06,116,house,HSAG,HSAG22
+M001185,Sean Patrick Maloney,2019-02-06,116,house,HSAG,HSAG22
+A000378,Cynthia Axne,2019-02-06,116,house,HSAG,HSAG22
+R000603,David Rouzer,2019-02-06,116,house,HSAG,HSAG29
+C001108,James Comer,2019-02-06,116,house,HSAG,HSAG29
+M001198,Roger Marshall,2019-02-06,116,house,HSAG,HSAG29
+H001088,Jim Hagedorn,2019-02-06,116,house,HSAG,HSAG29
+B001286,Cheri Bustos,2019-02-06,116,house,HSAG,HSAG29
+D000628,Neal Dunn,2019-02-06,116,house,HSAG,HSAG14
+S001216,Kim Schrier,2019-02-06,116,house,HSAG,HSAG14
+C001108,James Comer,2019-02-06,116,house,HSAG,HSAG14
+M001185,Sean Patrick Maloney,2019-02-06,116,house,HSAG,HSAG14
+A000055,Robert B. Aderholt,2019-01-29,116,house,HSAP,HSAP01
+A000055,Robert B. Aderholt,2019-01-29,116,house,HSAP,HSAP19
+M001188,Grace Meng,,116,house,HSAP,HSAP19
+C001055,Ed Case,,116,house,HSAP,HSAP19
+V000108,Peter J. Visclosky,,116,house,HSAP,HSAP02
+R000395,Harold Rogers,2019-01-29,116,house,HSAP,HSAP02
+C001053,Tom Cole,2019-01-29,116,house,HSAP,HSAP02
+A000055,Robert B. Aderholt,2019-01-29,116,house,HSAP,HSAP02
+B001286,Cheri Bustos,,116,house,HSAP,HSAP02
+V000108,Peter J. Visclosky,,116,house,HSAP,HSAP10
+W000797,Debbie Wasserman Schultz,,116,house,HSAP,HSAP10
+F000459,Chuck Fleischmann,2019-01-29,116,house,HSAP,HSAP10
+N000189,Dan Newhouse,2019-01-29,116,house,HSAP,HSAP10
+F000462,Lois Frankel,,116,house,HSAP,HSAP10
+J000295,Dave Joyce,2019-01-29,116,house,HSAP,HSAP23
+F000459,Chuck Fleischmann,2019-01-29,116,house,HSAP,HSAP15
+N000189,Dan Newhouse,2019-01-29,116,house,HSAP,HSAP15
+P000523,David E. Price,,116,house,HSAP,HSAP15
+R000609,John Rutherford,2019-01-29,116,house,HSAP,HSAP15
+W000797,Debbie Wasserman Schultz,,116,house,HSAP,HSAP15
+M001188,Grace Meng,,116,house,HSAP,HSAP15
+J000295,Dave Joyce,2019-01-29,116,house,HSAP,HSAP06
+C001053,Tom Cole,2019-01-29,116,house,HSAP,HSAP07
+C001101,Katherine Clark,,116,house,HSAP,HSAP07
+F000462,Lois Frankel,,116,house,HSAP,HSAP07
+B001286,Cheri Bustos,,116,house,HSAP,HSAP07
+N000189,Dan Newhouse,2019-01-29,116,house,HSAP,HSAP24
+C001101,Katherine Clark,,116,house,HSAP,HSAP24
+C001055,Ed Case,,116,house,HSAP,HSAP24
+W000797,Debbie Wasserman Schultz,,116,house,HSAP,HSAP18
+C001055,Ed Case,,116,house,HSAP,HSAP18
+R000609,John Rutherford,2019-01-29,116,house,HSAP,HSAP18
+B001286,Cheri Bustos,,116,house,HSAP,HSAP18
+R000395,Harold Rogers,2019-01-29,116,house,HSAP,HSAP04
+M001188,Grace Meng,,116,house,HSAP,HSAP04
+P000523,David E. Price,,116,house,HSAP,HSAP04
+F000462,Lois Frankel,,116,house,HSAP,HSAP04
+P000523,David E. Price,,116,house,HSAP,HSAP20
+R000609,John Rutherford,2019-01-29,116,house,HSAP,HSAP20
+C001101,Katherine Clark,,116,house,HSAP,HSAP20
+L000559,Jim Langevin,2019-01-23,116,house,HSAS,HSAS25
+C001069,Joe Courtney,2019-01-23,116,house,HSAS,HSAS25
+G000578,Matt Gaetz,,116,house,HSAS,HSAS25
+B001299,Jim Banks,,116,house,HSAS,HSAS25
+L000564,Doug Lamborn,,116,house,HSAS,HSAS25
+S001207,Mikie Sherrill,2019-01-23,116,house,HSAS,HSAS25
+W000804,Robert J. Wittman,,116,house,HSAS,HSAS25
+D000598,Susan A. Davis,2019-01-23,116,house,HSAS,HSAS02
+C001123,Gilbert Cisneros,2019-01-23,116,house,HSAS,HSAS02
+G000578,Matt Gaetz,,116,house,HSAS,HSAS02
+T000482,Lori Trahan,2019-01-23,116,house,HSAS,HSAS02
+L000591,Elaine Luria,2019-01-23,116,house,HSAS,HSAS02
+L000564,Doug Lamborn,2019-01-23,116,house,HSAS,HSAS03
+G000559,John Garamendi,2019-01-23,116,house,HSAS,HSAS03
+S001189,Austin Scott,,116,house,HSAS,HSAS03
+B001274,Mo Brooks,,116,house,HSAS,HSAS03
+W000804,Robert J. Wittman,2019-01-23,116,house,HSAS,HSAS28
+C001069,Joe Courtney,2019-01-23,116,house,HSAS,HSAS28
+L000559,Jim Langevin,,116,house,HSAS,HSAS28
+C001062,K. Michael Conaway,,116,house,HSAS,HSAS28
+G000579,Mike Gallagher,,116,house,HSAS,HSAS28
+M001196,Seth Moulton,2019-01-23,116,house,HSAS,HSAS28
+W000823,Michael Waltz,,116,house,HSAS,HSAS28
+C001123,Gilbert Cisneros,2019-01-23,116,house,HSAS,HSAS28
+S001207,Mikie Sherrill,2019-01-23,116,house,HSAS,HSAS28
+L000591,Elaine Luria,2019-01-23,116,house,HSAS,HSAS28
+D000598,Susan A. Davis,2019-01-23,116,house,HSAS,HSAS29
+G000559,John Garamendi,2019-01-23,116,house,HSAS,HSAS29
+B001274,Mo Brooks,,116,house,HSAS,HSAS29
+M001196,Seth Moulton,2019-01-23,116,house,HSAS,HSAS29
+K000389,Ro Khanna,2019-01-23,116,house,HSAS,HSAS29
+K000375,Bill Keating,2019-01-23,116,house,HSAS,HSAS29
+L000559,Jim Langevin,2019-01-23,116,house,HSAS,HSAS26
+C001062,K. Michael Conaway,,116,house,HSAS,HSAS26
+S001189,Austin Scott,,116,house,HSAS,HSAS26
+K000389,Ro Khanna,2019-01-23,116,house,HSAS,HSAS26
+K000375,Bill Keating,2019-01-23,116,house,HSAS,HSAS26
+G000579,Mike Gallagher,,116,house,HSAS,HSAS26
+W000823,Michael Waltz,,116,house,HSAS,HSAS26
+B001299,Jim Banks,,116,house,HSAS,HSAS26
+T000482,Lori Trahan,2019-01-23,116,house,HSAS,HSAS26
+A000372,Rick Allen,2019-01-29,116,house,HSED,HSED14
+S001216,Kim Schrier,2019-01-29,116,house,HSED,HSED14
+T000479,Van Taylor,2019-01-29,116,house,HSED,HSED14
+S001206,Donna Shalala,2019-01-29,116,house,HSED,HSED14
+T000480,William Timmons,2019-01-29,116,house,HSED,HSED14
+D000598,Susan A. Davis,2019-01-29,116,house,HSED,HSED14
+M001206,Joe Morelle,2019-01-29,116,house,HSED,HSED14
+R000582,Phil Roe,2019-01-29,116,house,HSED,HSED02
+A000372,Rick Allen,2019-01-29,116,house,HSED,HSED02
+M001206,Joe Morelle,2019-01-29,116,house,HSED,HSED02
+R000607,Francis Rooney,2019-01-29,116,house,HSED,HSED02
+B001299,Jim Banks,2019-01-29,116,house,HSED,HSED02
+F000469,Russ Fulcher,2019-01-29,116,house,HSED,HSED02
+T000479,Van Taylor,2019-01-29,116,house,HSED,HSED02
+C001069,Joe Courtney,2019-01-29,116,house,HSED,HSED02
+M001204,Daniel Meuser,2019-01-29,116,house,HSED,HSED02
+S001206,Donna Shalala,2019-01-29,116,house,HSED,HSED02
+T000482,Lori Trahan,2019-01-29,116,house,HSED,HSED02
+S000185,Robert C. Scott,,116,house,HSED,HSED02
+S001199,Lloyd Smucker,2019-01-29,116,house,HSED,HSED13
+D000598,Susan A. Davis,2019-01-29,116,house,HSED,HSED13
+C001069,Joe Courtney,2019-01-29,116,house,HSED,HSED13
+B001299,Jim Banks,2019-01-29,116,house,HSED,HSED13
+C001108,James Comer,2019-01-29,116,house,HSED,HSED13
+T000483,David Trone,2019-01-29,116,house,HSED,HSED13
+F000469,Russ Fulcher,2019-01-29,116,house,HSED,HSED13
+L000590,Susie Lee,2019-01-29,116,house,HSED,HSED13
+T000482,Lori Trahan,2019-01-29,116,house,HSED,HSED13
+M001204,Daniel Meuser,2019-01-29,116,house,HSED,HSED13
+T000480,William Timmons,2019-01-29,116,house,HSED,HSED13
+G000551,Raúl M. Grijalva,2019-01-29,116,house,HSED,HSED13
+R000607,Francis Rooney,2019-01-29,116,house,HSED,HSED10
+C001108,James Comer,,116,house,HSED,HSED07
+G000551,Raúl M. Grijalva,,116,house,HSED,HSED07
+S001216,Kim Schrier,,116,house,HSED,HSED07
+T000483,David Trone,,116,house,HSED,HSED07
+L000590,Susie Lee,,116,house,HSED,HSED07
+U000031,Fred Upton,2019-01-18,116,house,HSIF,HSIF17
+C001066,Kathy Castor,2019-01-15,116,house,HSIF,HSIF17
+B001248,Michael C. Burgess,2019-01-18,116,house,HSIF,HSIF17
+L000566,Robert E. Latta,2019-01-18,116,house,HSIF,HSIF17
+O000171,Tom O'Halleran,2019-01-15,116,house,HSIF,HSIF17
+B001275,Larry Bucshon,2019-01-18,116,house,HSIF,HSIF17
+G000584,Greg Gianforte,2019-01-18,116,house,HSIF,HSIF17
+M001163,Doris Matsui,2019-01-15,116,house,HSIF,HSIF17
+D000624,Debbie Dingell,2019-01-15,116,house,HSIF,HSIF17
+P000034,Frank Pallone,2019-01-15,116,house,HSIF,HSIF17
+L000566,Robert E. Latta,2019-01-18,116,house,HSIF,HSIF16
+K000378,Adam Kinzinger,2019-01-18,116,house,HSIF,HSIF16
+B001257,Gus Bilirakis,2019-01-18,116,house,HSIF,HSIF16
+M001200,A. Donald McEachin,2019-01-15,116,house,HSIF,HSIF16
+L000576,Billy Long,2019-01-18,116,house,HSIF,HSIF16
+O000171,Tom O'Halleran,2019-01-15,116,house,HSIF,HSIF16
+F000461,Bill Flores,2019-01-18,116,house,HSIF,HSIF16
+B001284,Susan Brooks,2019-01-18,116,house,HSIF,HSIF16
+G000584,Greg Gianforte,2019-01-18,116,house,HSIF,HSIF16
+M001163,Doris Matsui,2019-01-15,116,house,HSIF,HSIF16
+W000800,Peter Welch,2019-01-15,116,house,HSIF,HSIF16
+S001180,Kurt Schrader,2019-01-15,116,house,HSIF,HSIF16
+D000624,Debbie Dingell,2019-01-15,116,house,HSIF,HSIF16
+P000034,Frank Pallone,2019-01-15,116,house,HSIF,HSIF16
+U000031,Fred Upton,2019-01-18,116,house,HSIF,HSIF03
+L000566,Robert E. Latta,2019-01-18,116,house,HSIF,HSIF03
+P000608,Scott Peters,2019-01-15,116,house,HSIF,HSIF03
+M001180,David McKinley,2019-01-18,116,house,HSIF,HSIF03
+K000378,Adam Kinzinger,2019-01-18,116,house,HSIF,HSIF03
+B001275,Larry Bucshon,2019-01-18,116,house,HSIF,HSIF03
+W000800,Peter Welch,2019-01-15,116,house,HSIF,HSIF03
+F000461,Bill Flores,2019-01-18,116,house,HSIF,HSIF03
+S001180,Kurt Schrader,2019-01-15,116,house,HSIF,HSIF03
+K000379,Joseph P. Kennedy III,2019-01-15,116,house,HSIF,HSIF03
+M001200,A. Donald McEachin,2019-01-15,116,house,HSIF,HSIF03
+O000171,Tom O'Halleran,2019-01-15,116,house,HSIF,HSIF03
+P000034,Frank Pallone,2019-01-15,116,house,HSIF,HSIF03
+B001248,Michael C. Burgess,2019-01-18,116,house,HSIF,HSIF14
+U000031,Fred Upton,2019-01-18,116,house,HSIF,HSIF14
+M001163,Doris Matsui,2019-01-15,116,house,HSIF,HSIF14
+C001066,Kathy Castor,2019-01-15,116,house,HSIF,HSIF14
+B001257,Gus Bilirakis,2019-01-18,116,house,HSIF,HSIF14
+L000576,Billy Long,2019-01-18,116,house,HSIF,HSIF14
+B001275,Larry Bucshon,2019-01-18,116,house,HSIF,HSIF14
+W000800,Peter Welch,2019-01-15,116,house,HSIF,HSIF14
+B001284,Susan Brooks,2019-01-18,116,house,HSIF,HSIF14
+K000379,Joseph P. Kennedy III,2019-01-15,116,house,HSIF,HSIF14
+S001180,Kurt Schrader,2019-01-15,116,house,HSIF,HSIF14
+G000584,Greg Gianforte,2019-01-18,116,house,HSIF,HSIF14
+D000624,Debbie Dingell,2019-01-15,116,house,HSIF,HSIF14
+P000034,Frank Pallone,2019-01-15,116,house,HSIF,HSIF14
+B001248,Michael C. Burgess,2019-01-18,116,house,HSIF,HSIF02
+M001180,David McKinley,2019-01-18,116,house,HSIF,HSIF02
+K000379,Joseph P. Kennedy III,2019-01-15,116,house,HSIF,HSIF02
+B001284,Susan Brooks,2019-01-18,116,house,HSIF,HSIF02
+C001066,Kathy Castor,2019-01-15,116,house,HSIF,HSIF02
+P000608,Scott Peters,2019-01-15,116,house,HSIF,HSIF02
+P000034,Frank Pallone,2019-01-15,116,house,HSIF,HSIF02
+M001180,David McKinley,2019-01-18,116,house,HSIF,HSIF18
+P000608,Scott Peters,2019-01-15,116,house,HSIF,HSIF18
+L000576,Billy Long,2019-01-18,116,house,HSIF,HSIF18
+M001200,A. Donald McEachin,2019-01-15,116,house,HSIF,HSIF18
+F000461,Bill Flores,2019-01-18,116,house,HSIF,HSIF18
+M001163,Doris Matsui,2019-01-15,116,house,HSIF,HSIF18
+D000624,Debbie Dingell,2019-01-15,116,house,HSIF,HSIF18
+P000034,Frank Pallone,2019-01-15,116,house,HSIF,HSIF18
+W000812,Ann Wagner,,116,house,HSBA,HSBA16
+G000583,Josh Gottheimer,,116,house,HSBA,HSBA16
+G000581,Vicente Gonzalez,,116,house,HSBA,HSBA16
+S001204,Michael San Nicolas,,116,house,HSBA,HSBA16
+H001074,Trey Hollingsworth,,116,house,HSBA,HSBA16
+A000378,Cynthia Axne,,116,house,HSBA,HSBA16
+C001049,William Lacy Clay,,116,house,HSBA,HSBA15
+K000392,David Kustoff,,116,house,HSBA,HSBA15
+C001049,William Lacy Clay,2019-01-24,116,house,HSBA,HSBA04
+K000392,David Kustoff,,116,house,HSBA,HSBA04
+G000581,Vicente Gonzalez,,116,house,HSBA,HSBA04
+G000588,Anthony Gonzalez,,116,house,HSBA,HSBA04
+R000612,John Rose,,116,house,HSBA,HSBA04
+A000378,Cynthia Axne,,116,house,HSBA,HSBA04
+L000562,Stephen F. Lynch,,116,house,HSBA,HSBA09
+P000593,Ed Perlmutter,,116,house,HSBA,HSBA09
+R000612,John Rose,,116,house,HSBA,HSBA09
+P000616,Dean Phillips,,116,house,HSBA,HSBA09
+P000593,Ed Perlmutter,,116,house,HSBA,HSBA01
+G000583,Josh Gottheimer,,116,house,HSBA,HSBA01
+G000588,Anthony Gonzalez,,116,house,HSBA,HSBA01
+S001204,Michael San Nicolas,,116,house,HSBA,HSBA01
+R000612,John Rose,,116,house,HSBA,HSBA01
+L000562,Stephen F. Lynch,,116,house,HSBA,HSBA01
+W000812,Ann Wagner,,116,house,HSBA,HSBA13
+C001049,William Lacy Clay,,116,house,HSBA,HSBA13
+G000583,Josh Gottheimer,,116,house,HSBA,HSBA13
+G000581,Vicente Gonzalez,,116,house,HSBA,HSBA13
+K000392,David Kustoff,,116,house,HSBA,HSBA13
+H001074,Trey Hollingsworth,,116,house,HSBA,HSBA13
+G000588,Anthony Gonzalez,,116,house,HSBA,HSBA13
+P000616,Dean Phillips,,116,house,HSBA,HSBA13
+P000616,Dean Phillips,2019-01-29,116,house,HSFA,HSFA16
+B001309,Tim Burchett,2019-01-29,116,house,HSFA,HSFA16
+W000812,Ann Wagner,2019-01-29,116,house,HSFA,HSFA05
+M001199,Brian Mast,2019-01-29,116,house,HSFA,HSFA05
+C001078,Gerald E. Connolly,2019-01-29,116,house,HSFA,HSFA05
+C001114,John Curtis,2019-01-29,116,house,HSFA,HSFA05
+S001209,Abigail Spanberger,2019-01-29,116,house,HSFA,HSFA05
+K000378,Adam Kinzinger,2019-01-29,116,house,HSFA,HSFA14
+K000375,Bill Keating,2019-01-29,116,house,HSFA,HSFA14
+S001209,Abigail Spanberger,2019-01-29,116,house,HSFA,HSFA14
+W000812,Ann Wagner,2019-01-29,116,house,HSFA,HSFA14
+R000607,Francis Rooney,2019-01-29,116,house,HSFA,HSFA14
+G000591,Michael Guest,2019-01-29,116,house,HSFA,HSFA14
+B001309,Tim Burchett,2019-01-29,116,house,HSFA,HSFA14
+T000483,David Trone,2019-01-29,116,house,HSFA,HSFA14
+G000581,Vicente Gonzalez,2019-01-29,116,house,HSFA,HSFA14
+B001297,Ken Buck,2019-01-29,116,house,HSFA,HSFA17
+M001203,Tom Malinowski,2019-01-29,116,house,HSFA,HSFA17
+C000266,Steven J. Chabot,2019-01-29,116,house,HSFA,HSFA13
+C001078,Gerald E. Connolly,2019-01-29,116,house,HSFA,HSFA13
+K000378,Adam Kinzinger,2019-01-29,116,house,HSFA,HSFA13
+M001199,Brian Mast,2019-01-29,116,house,HSFA,HSFA13
+M001203,Tom Malinowski,2019-01-29,116,house,HSFA,HSFA13
+T000483,David Trone,2019-01-29,116,house,HSFA,HSFA13
+K000375,Bill Keating,2019-01-29,116,house,HSFA,HSFA13
+R000607,Francis Rooney,2019-01-29,116,house,HSFA,HSFA07
+C001114,John Curtis,2019-01-29,116,house,HSFA,HSFA07
+B001297,Ken Buck,2019-01-29,116,house,HSFA,HSFA07
+P000616,Dean Phillips,2019-01-29,116,house,HSFA,HSFA07
+G000591,Michael Guest,2019-01-29,116,house,HSFA,HSFA07
+G000581,Vicente Gonzalez,2019-01-29,116,house,HSFA,HSFA07
+G000591,Michael Guest,,116,house,HSHM,HSHM11
+C001120,Dan Crenshaw,,116,house,HSHM,HSHM12
+G000591,Michael Guest,,116,house,HSHM,HSHM12
+L000559,Jim Langevin,,116,house,HSHM,HSHM08
+T000479,Van Taylor,,116,house,HSHM,HSHM08
+L000559,Jim Langevin,,116,house,HSHM,HSHM05
+G000590,Mark Green,,116,house,HSHM,HSHM05
+C001120,Dan Crenshaw,,116,house,HSHM,HSHM09
+T000479,Van Taylor,,116,house,HSHM,HSHM09
+G000590,Mark Green,,116,house,HSHM,HSHM07
+L000579,Alan Lowenthal,2019-01-29,116,house,HSII,HSII06
+L000564,Doug Lamborn,2019-01-30,116,house,HSII,HSII06
+G000577,Garret Graves,2019-01-30,116,house,HSII,HSII06
+M001200,A. Donald McEachin,2019-01-30,116,house,HSII,HSII06
+H001082,Kevin Hern,2019-01-30,116,house,HSII,HSII06
+G000551,Raúl M. Grijalva,2019-01-30,116,house,HSII,HSII06
+D000624,Debbie Dingell,2019-01-30,116,house,HSII,HSII10
+C001114,John Curtis,2019-01-30,116,house,HSII,HSII10
+L000579,Alan Lowenthal,2019-01-30,116,house,HSII,HSII10
+F000469,Russ Fulcher,2019-01-30,116,house,HSII,HSII10
+C001055,Ed Case,2019-01-30,116,house,HSII,HSII10
+G000551,Raúl M. Grijalva,2019-01-30,116,house,HSII,HSII10
+L000564,Doug Lamborn,2019-01-30,116,house,HSII,HSII13
+W000804,Robert J. Wittman,2019-01-30,116,house,HSII,HSII13
+G000577,Garret Graves,2019-01-30,116,house,HSII,HSII13
+C001055,Ed Case,2019-01-30,116,house,HSII,HSII13
+L000579,Alan Lowenthal,2019-01-30,116,house,HSII,HSII13
+F000469,Russ Fulcher,2019-01-30,116,house,HSII,HSII13
+G000551,Raúl M. Grijalva,2019-01-30,116,house,HSII,HSII13
+D000624,Debbie Dingell,2019-01-30,116,house,HSII,HSII15
+M001200,A. Donald McEachin,2019-01-30,116,house,HSII,HSII15
+S001204,Michael San Nicolas,2019-01-30,116,house,HSII,HSII15
+G000551,Raúl M. Grijalva,2019-01-30,116,house,HSII,HSII15
+S001204,Michael San Nicolas,,116,house,HSII,HSII24
+C001114,John Curtis,2019-01-30,116,house,HSII,HSII24
+H001082,Kevin Hern,2019-01-30,116,house,HSII,HSII24
+C001055,Ed Case,2019-01-30,116,house,HSII,HSII24
+G000551,Raúl M. Grijalva,2019-01-30,116,house,HSII,HSII24
+C001078,Gerald E. Connolly,2019-01-24,116,house,HSGO,HSGO24
+M001184,Thomas Massie,2019-01-29,116,house,HSGO,HSGO24
+C001108,James Comer,2019-01-29,116,house,HSGO,HSGO24
+S001214,Greg Steube,2019-01-29,116,house,HSGO,HSGO24
+K000389,Ro Khanna,2019-01-29,116,house,HSGO,HSGO24
+L000562,Stephen F. Lynch,2019-01-29,116,house,HSGO,HSGO24
+R000606,Jamie Raskin,2019-01-29,116,house,HSGO,HSGO24
+L000562,Stephen F. Lynch,2019-01-24,116,house,HSGO,HSGO06
+W000800,Peter Welch,2019-01-29,116,house,HSGO,HSGO06
+F000450,Virginia Foxx,2019-01-29,116,house,HSGO,HSGO06
+R000616,Harley Rouda,2019-01-29,116,house,HSGO,HSGO06
+W000797,Debbie Wasserman Schultz,2019-01-29,116,house,HSGO,HSGO06
+G000590,Mark Green,2019-01-29,116,house,HSGO,HSGO06
+C001108,James Comer,2019-01-29,116,house,HSGO,HSGO28
+R000616,Harley Rouda,2019-01-29,116,house,HSGO,HSGO28
+G000563,Bob Gibbs,2019-01-29,116,house,HSGO,HSGO28
+R000606,Jamie Raskin,,116,house,HSGO,HSGO02
+C001049,William Lacy Clay,,116,house,HSGO,HSGO02
+M001184,Thomas Massie,,116,house,HSGO,HSGO02
+W000797,Debbie Wasserman Schultz,,116,house,HSGO,HSGO02
+M001205,Carol Miller,,116,house,HSGO,HSGO02
+C001108,James Comer,,116,house,HSGO,HSGO05
+K000389,Ro Khanna,,116,house,HSGO,HSGO05
+M001205,Carol Miller,,116,house,HSGO,HSGO05
+C001078,Gerald E. Connolly,,116,house,HSGO,HSGO05
+D000628,Neal Dunn,,116,house,HSSY,HSSY20
+S001207,Mikie Sherrill,2019-01-30,116,house,HSSY,HSSY21
+C001068,Steve Cohen,2019-01-30,116,house,HSSY,HSSY21
+W000823,Michael Waltz,,116,house,HSSY,HSSY21
+B001292,Donald Beyer,2019-01-30,116,house,HSSY,HSSY21
+L000397,Zoe Lofgren,2019-01-30,116,house,HSSY,HSSY16
+B001274,Mo Brooks,,116,house,HSSY,HSSY16
+P000593,Ed Perlmutter,2019-01-30,116,house,HSSY,HSSY16
+B001292,Donald Beyer,2019-01-30,116,house,HSSY,HSSY16
+W000823,Michael Waltz,,116,house,HSSY,HSSY16
+M001198,Roger Marshall,,116,house,HSSY,HSSY15
+S001207,Mikie Sherrill,2019-01-30,116,house,HSSY,HSSY15
+D000628,Neal Dunn,,116,house,HSSY,HSSY15
+G000588,Anthony Gonzalez,,116,house,HSSY,HSSY15
+C001068,Steve Cohen,2019-01-30,116,house,HSSY,HSSY15
+M001198,Roger Marshall,,116,house,HSSY,HSSY18
+G000588,Anthony Gonzalez,,116,house,HSSY,HSSY18
+B001292,Donald Beyer,2019-01-30,116,house,HSSY,HSSY18
+H001088,Jim Hagedorn,,116,house,HSSM,HSSM23
+C001080,Judy Chu,,116,house,HSSM,HSSM23
+C001080,Judy Chu,2019-01-29,116,house,HSSM,HSSM24
+E000296,Dwight Evans,,116,house,HSSM,HSSM24
+B001309,Tim Burchett,,116,house,HSSM,HSSM24
+H001088,Jim Hagedorn,,116,house,HSSM,HSSM25
+H001082,Kevin Hern,2019-02-04,116,house,HSSM,HSSM27
+D000629,Sharice Davids,,116,house,HSSM,HSSM27
+S001190,Brad Schneider,,116,house,HSSM,HSSM27
+B001309,Tim Burchett,,116,house,HSSM,HSSM26
+H001082,Kevin Hern,,116,house,HSSM,HSSM26
+D000629,Sharice Davids,,116,house,HSSM,HSSM26
+C001068,Steve Cohen,2019-01-28,116,house,HSJU,HSJU10
+R000606,Jamie Raskin,2019-01-28,116,house,HSJU,HSJU10
+S001205,Mary Gay Scanlon,2019-01-28,116,house,HSJU,HSJU10
+C000266,Steven J. Chabot,2019-01-28,116,house,HSJU,HSJU03
+J000294,Hakeem Jeffries,2019-01-28,116,house,HSJU,HSJU03
+G000578,Matt Gaetz,2019-01-28,116,house,HSJU,HSJU03
+L000397,Zoe Lofgren,2019-01-28,116,house,HSJU,HSJU03
+C001068,Steve Cohen,2019-01-28,116,house,HSJU,HSJU03
+C000266,Steven J. Chabot,2019-01-28,116,house,HSJU,HSJU08
+J000294,Hakeem Jeffries,2019-01-28,116,house,HSJU,HSJU08
+S001214,Greg Steube,2019-01-28,116,house,HSJU,HSJU08
+C001068,Steve Cohen,2019-01-28,116,house,HSJU,HSJU08
+B001297,Ken Buck,2019-01-28,116,house,HSJU,HSJU01
+L000397,Zoe Lofgren,2019-01-28,116,house,HSJU,HSJU01
+S001214,Greg Steube,2019-01-28,116,house,HSJU,HSJU01
+S001205,Mary Gay Scanlon,2019-01-28,116,house,HSJU,HSJU01
+G000578,Matt Gaetz,2019-01-28,116,house,HSJU,HSJU05
+B001297,Ken Buck,2019-01-28,116,house,HSJU,HSJU05
+R000606,Jamie Raskin,2019-01-28,116,house,HSJU,HSJU05
+S001214,Greg Steube,2019-01-28,116,house,HSJU,HSJU05
+S001205,Mary Gay Scanlon,2019-01-28,116,house,HSJU,HSJU05
+G000577,Garret Graves,2019-01-17,116,house,HSPW,HSPW05
+L000562,Stephen F. Lynch,,116,house,HSPW,HSPW05
+M001184,Thomas Massie,,116,house,HSPW,HSPW05
+C001068,Steve Cohen,,116,house,HSPW,HSPW05
+R000603,David Rouzer,,116,house,HSPW,HSPW05
+S001199,Lloyd Smucker,,116,house,HSPW,HSPW05
+M001199,Brian Mast,,116,house,HSPW,HSPW05
+G000579,Mike Gallagher,,116,house,HSPW,HSPW05
+M001185,Sean Patrick Maloney,,116,house,HSPW,HSPW05
+D000629,Sharice Davids,,116,house,HSPW,HSPW05
+G000563,Bob Gibbs,2019-01-17,116,house,HSPW,HSPW07
+M001185,Sean Patrick Maloney,2019-01-24,116,house,HSPW,HSPW07
+M001199,Brian Mast,,116,house,HSPW,HSPW07
+G000559,John Garamendi,,116,house,HSPW,HSPW07
+G000579,Mike Gallagher,,116,house,HSPW,HSPW07
+L000579,Alan Lowenthal,,116,house,HSPW,HSPW07
+M001205,Carol Miller,,116,house,HSPW,HSPW07
+D000629,Sharice Davids,,116,house,HSPW,HSPW13
+M001205,Carol Miller,,116,house,HSPW,HSPW13
+G000559,John Garamendi,,116,house,HSPW,HSPW13
+C001068,Steve Cohen,,116,house,HSPW,HSPW12
+G000559,John Garamendi,,116,house,HSPW,HSPW12
+G000563,Bob Gibbs,,116,house,HSPW,HSPW12
+M001184,Thomas Massie,,116,house,HSPW,HSPW12
+L000579,Alan Lowenthal,,116,house,HSPW,HSPW12
+R000603,David Rouzer,,116,house,HSPW,HSPW12
+M001203,Tom Malinowski,,116,house,HSPW,HSPW12
+S001199,Lloyd Smucker,,116,house,HSPW,HSPW12
+D000629,Sharice Davids,,116,house,HSPW,HSPW12
+G000579,Mike Gallagher,,116,house,HSPW,HSPW12
+R000616,Harley Rouda,,116,house,HSPW,HSPW12
+M001205,Carol Miller,,116,house,HSPW,HSPW12
+M001185,Sean Patrick Maloney,,116,house,HSPW,HSPW12
+S001199,Lloyd Smucker,,116,house,HSPW,HSPW14
+L000562,Stephen F. Lynch,,116,house,HSPW,HSPW14
+M001203,Tom Malinowski,,116,house,HSPW,HSPW14
+C001068,Steve Cohen,,116,house,HSPW,HSPW14
+L000579,Alan Lowenthal,,116,house,HSPW,HSPW14
+M001184,Thomas Massie,,116,house,HSPW,HSPW02
+G000559,John Garamendi,,116,house,HSPW,HSPW02
+G000577,Garret Graves,,116,house,HSPW,HSPW02
+L000579,Alan Lowenthal,,116,house,HSPW,HSPW02
+R000603,David Rouzer,,116,house,HSPW,HSPW02
+M001199,Brian Mast,,116,house,HSPW,HSPW02
+R000616,Harley Rouda,,116,house,HSPW,HSPW02
+L000562,Stephen F. Lynch,,116,house,HSPW,HSPW02
+M001203,Tom Malinowski,,116,house,HSPW,HSPW02
+L000591,Elaine Luria,2019-01-31,116,house,HSVR,HSVR09
+C001123,Gilbert Cisneros,2019-01-31,116,house,HSVR,HSVR09
+B001257,Gus Bilirakis,,116,house,HSVR,HSVR09
+S001214,Greg Steube,,116,house,HSVR,HSVR09
+B001257,Gus Bilirakis,2019-01-30,116,house,HSVR,HSVR10
+B001299,Jim Banks,,116,house,HSVR,HSVR10
+L000591,Elaine Luria,2019-01-31,116,house,HSVR,HSVR10
+M001204,Daniel Meuser,,116,house,HSVR,HSVR10
+L000590,Susie Lee,2019-01-31,116,house,HSVR,HSVR10
+D000628,Neal Dunn,2019-01-30,116,house,HSVR,HSVR03
+M001204,Daniel Meuser,,116,house,HSVR,HSVR03
+S001214,Greg Steube,,116,house,HSVR,HSVR03
+C001123,Gilbert Cisneros,2019-01-31,116,house,HSVR,HSVR03
+C001123,Gilbert Cisneros,2019-01-31,116,house,HSVR,HSVR08
+B001299,Jim Banks,2019-01-30,116,house,HSVR,HSVR11
+L000590,Susie Lee,2019-01-31,116,house,HSVR,HSVR11
+D000399,Lloyd Doggett,2019-01-16,116,house,HSWM,HSWM02
+M001158,Kenny Marchant,2019-01-16,116,house,HSWM,HSWM02
+B000574,Earl Blumenauer,2019-01-16,116,house,HSWM,HSWM02
+H001038,Brian Higgins,2019-01-16,116,house,HSWM,HSWM02
+K000376,Mike Kelly,2019-01-16,116,house,HSWM,HSWM02
+H001065,George Holding,2019-01-16,116,house,HSWM,HSWM02
+C001080,Judy Chu,2019-01-16,116,house,HSWM,HSWM02
+E000296,Dwight Evans,2019-01-16,116,house,HSWM,HSWM02
+S001190,Brad Schneider,2019-01-16,116,house,HSWM,HSWM02
+E000298,Ron Estes,2019-01-16,116,house,HSWM,HSWM03
+C001080,Judy Chu,2019-01-16,116,house,HSWM,HSWM03
+E000296,Dwight Evans,2019-01-16,116,house,HSWM,HSWM03
+K000376,Mike Kelly,2019-01-16,116,house,HSWM,HSWM06
+D000617,Suzan K. DelBene,2019-01-16,116,house,HSWM,HSWM06
+S001156,Linda T. Sánchez,2019-01-16,116,house,HSWM,HSWM06
+S001201,Thomas Suozzi,2019-01-16,116,house,HSWM,HSWM06
+C001080,Judy Chu,2019-01-16,116,house,HSWM,HSWM06
+R000597,Tom Rice,2019-01-16,116,house,HSWM,HSWM05
+D000399,Lloyd Doggett,2019-01-16,116,house,HSWM,HSWM05
+L000557,John B. Larson,2019-01-16,116,house,HSWM,HSWM05
+S001156,Linda T. Sánchez,2019-01-16,116,house,HSWM,HSWM05
+D000617,Suzan K. DelBene,2019-01-16,116,house,HSWM,HSWM05
+B001292,Donald Beyer,2019-01-16,116,house,HSWM,HSWM05
+S001201,Thomas Suozzi,2019-01-16,116,house,HSWM,HSWM05
+L000557,John B. Larson,2019-01-16,116,house,HSWM,HSWM01
+P000096,Bill Pascrell Jr.,2019-01-16,116,house,HSWM,HSWM01
+S001156,Linda T. Sánchez,2019-01-16,116,house,HSWM,HSWM01
+E000298,Ron Estes,2019-01-16,116,house,HSWM,HSWM01
+S001190,Brad Schneider,2019-01-16,116,house,HSWM,HSWM01
+H001038,Brian Higgins,2019-01-16,116,house,HSWM,HSWM01
+B000574,Earl Blumenauer,2019-01-16,116,house,HSWM,HSWM04
+P000096,Bill Pascrell Jr.,2019-01-16,116,house,HSWM,HSWM04
+H001065,George Holding,2019-01-16,116,house,HSWM,HSWM04
+R000597,Tom Rice,2019-01-16,116,house,HSWM,HSWM04
+M001158,Kenny Marchant,2019-01-16,116,house,HSWM,HSWM04
+H001038,Brian Higgins,2019-01-16,116,house,HSWM,HSWM04
+D000617,Suzan K. DelBene,2019-01-16,116,house,HSWM,HSWM04
+B001292,Donald Beyer,2019-01-16,116,house,HSWM,HSWM04
+C001062,K. Michael Conaway,,116,house,HSIG,HSIG06
+W000800,Peter Welch,,116,house,HSIG,HSIG06
+M001185,Sean Patrick Maloney,,116,house,HSIG,HSIG06
+C001062,K. Michael Conaway,,116,house,HSIG,HSIG05
+W000800,Peter Welch,,116,house,HSIG,HSIG05
+M001185,Sean Patrick Maloney,,116,house,HSIG,HSIG05
+C001062,K. Michael Conaway,,116,house,HSIG,HSIG08
+B000740,Stephanie Bice,,118,house,HSHA,HSHA08
+B000740,Stephanie Bice,,118,house,HSHA,HSHA27
+M001206,Joe Morelle,,118,house,HSHA,HSHA27
+S001189,Austin Scott,,118,house,HSAG,HSAG03
+R000612,John Rose,,118,house,HSAG,HSAG03
+J000309,Jonathan Jackson,,118,house,HSAG,HSAG03
+M001222,Max Miller,,118,house,HSAG,HSAG03
+S001189,Austin Scott,,118,house,HSAG,HSAG16
+D000629,Sharice Davids,,118,house,HSAG,HSAG16
+R000603,David Rouzer,,118,house,HSAG,HSAG16
+R000612,John Rose,,118,house,HSAG,HSAG16
+S001189,Austin Scott,,118,house,HSAG,HSAG22
+R000603,David Rouzer,,118,house,HSAG,HSAG22
+R000612,John Rose,,118,house,HSAG,HSAG22
+J000309,Jonathan Jackson,,118,house,HSAG,HSAG22
+M001222,Max Miller,,118,house,HSAG,HSAG22
+S001209,Abigail Spanberger,,118,house,HSAG,HSAG29
+S001209,Abigail Spanberger,,118,house,HSAG,HSAG14
+D000629,Sharice Davids,,118,house,HSAG,HSAG14
+N000189,Dan Newhouse,,118,house,HSAP,HSAP01
+W000797,Debbie Wasserman Schultz,,118,house,HSAP,HSAP01
+F000472,Scott Franklin,,118,house,HSAP,HSAP01
+R000395,Harold Rogers,,118,house,HSAP,HSAP19
+A000055,Robert B. Aderholt,,118,house,HSAP,HSAP19
+M001188,Grace Meng,,118,house,HSAP,HSAP19
+T000483,David Trone,,118,house,HSAP,HSAP19
+G000061,Mike Garcia,,118,house,HSAP,HSAP19
+M001206,Joe Morelle,,118,house,HSAP,HSAP19
+R000395,Harold Rogers,,118,house,HSAP,HSAP02
+C001053,Tom Cole,,118,house,HSAP,HSAP02
+A000055,Robert B. Aderholt,,118,house,HSAP,HSAP02
+C001055,Ed Case,,118,house,HSAP,HSAP02
+J000295,Dave Joyce,,118,house,HSAP,HSAP02
+G000061,Mike Garcia,,118,house,HSAP,HSAP02
+F000459,Chuck Fleischmann,,118,house,HSAP,HSAP10
+W000797,Debbie Wasserman Schultz,,118,house,HSAP,HSAP10
+L000590,Susie Lee,,118,house,HSAP,HSAP10
+N000189,Dan Newhouse,,118,house,HSAP,HSAP10
+M001206,Joe Morelle,,118,house,HSAP,HSAP10
+G000061,Mike Garcia,,118,house,HSAP,HSAP10
+G000591,Michael Guest,,118,house,HSAP,HSAP10
+B000740,Stephanie Bice,,118,house,HSAP,HSAP10
+J000295,Dave Joyce,,118,house,HSAP,HSAP23
+J000295,Dave Joyce,,118,house,HSAP,HSAP15
+R000609,John Rutherford,,118,house,HSAP,HSAP15
+C001055,Ed Case,,118,house,HSAP,HSAP15
+N000189,Dan Newhouse,,118,house,HSAP,HSAP15
+T000483,David Trone,,118,house,HSAP,HSAP15
+G000591,Michael Guest,,118,house,HSAP,HSAP15
+A000055,Robert B. Aderholt,,118,house,HSAP,HSAP07
+F000459,Chuck Fleischmann,,118,house,HSAP,HSAP07
+F000462,Lois Frankel,,118,house,HSAP,HSAP07
+B000740,Stephanie Bice,,118,house,HSAP,HSAP24
+F000472,Scott Franklin,,118,house,HSAP,HSAP24
+W000797,Debbie Wasserman Schultz,,118,house,HSAP,HSAP18
+R000609,John Rutherford,,118,house,HSAP,HSAP18
+L000590,Susie Lee,,118,house,HSAP,HSAP18
+G000591,Michael Guest,,118,house,HSAP,HSAP18
+B000740,Stephanie Bice,,118,house,HSAP,HSAP18
+F000472,Scott Franklin,,118,house,HSAP,HSAP18
+R000395,Harold Rogers,,118,house,HSAP,HSAP04
+M001188,Grace Meng,,118,house,HSAP,HSAP04
+F000462,Lois Frankel,,118,house,HSAP,HSAP04
+F000459,Chuck Fleischmann,,118,house,HSAP,HSAP04
+C001053,Tom Cole,,118,house,HSAP,HSAP20
+R000609,John Rutherford,,118,house,HSAP,HSAP20
+W000804,Robert J. Wittman,,118,house,HSAS,HSAS25
+C001069,Joe Courtney,,118,house,HSAS,HSAS25
+L000564,Doug Lamborn,,118,house,HSAS,HSAS25
+S001207,Mikie Sherrill,,118,house,HSAS,HSAS25
+F000246,Pat Fallon,,118,house,HSAS,HSAS25
+J000308,Jeffrey Jackson,,118,house,HSAS,HSAS25
+B001299,Jim Banks,,118,house,HSAS,HSAS02
+G000578,Matt Gaetz,,118,house,HSAS,HSAS02
+W000823,Michael Waltz,,118,house,HSAS,HSAS02
+W000823,Michael Waltz,,118,house,HSAS,HSAS03
+G000559,John Garamendi,,118,house,HSAS,HSAS03
+S001207,Mikie Sherrill,,118,house,HSAS,HSAS03
+S001189,Austin Scott,,118,house,HSAS,HSAS03
+C001069,Joe Courtney,,118,house,HSAS,HSAS28
+W000804,Robert J. Wittman,,118,house,HSAS,HSAS28
+G000559,John Garamendi,,118,house,HSAS,HSAS28
+G000579,Mike Gallagher,,118,house,HSAS,HSAS28
+J000305,Sara Jacobs,,118,house,HSAS,HSAS28
+L000564,Doug Lamborn,,118,house,HSAS,HSAS29
+M001196,Seth Moulton,,118,house,HSAS,HSAS29
+G000559,John Garamendi,,118,house,HSAS,HSAS29
+K000389,Ro Khanna,,118,house,HSAS,HSAS29
+B001299,Jim Banks,,118,house,HSAS,HSAS29
+W000823,Michael Waltz,,118,house,HSAS,HSAS29
+S001189,Austin Scott,,118,house,HSAS,HSAS26
+K000375,Bill Keating,,118,house,HSAS,HSAS26
+J000305,Sara Jacobs,,118,house,HSAS,HSAS26
+J000308,Jeffrey Jackson,,118,house,HSAS,HSAS26
+G000579,Mike Gallagher,,118,house,HSAS,HSAS35
+K000389,Ro Khanna,,118,house,HSAS,HSAS35
+G000578,Matt Gaetz,,118,house,HSAS,HSAS35
+M001196,Seth Moulton,,118,house,HSAS,HSAS35
+K000375,Bill Keating,,118,house,HSAS,HSAS35
+F000246,Pat Fallon,,118,house,HSAS,HSAS35
+G000551,Raúl M. Grijalva,,118,house,HSED,HSED14
+F000450,Virginia Foxx,,118,house,HSED,HSED14
+C001069,Joe Courtney,,118,house,HSED,HSED02
+A000372,Rick Allen,,118,house,HSED,HSED02
+B001299,Jim Banks,,118,house,HSED,HSED02
+C001108,James Comer,,118,house,HSED,HSED02
+S001199,Lloyd Smucker,,118,house,HSED,HSED02
+B001316,Eric Burlison,,118,house,HSED,HSED02
+M001135,Kathy Manning,,118,house,HSED,HSED02
+L000273,Teresa Leger Fernandez,,118,house,HSED,HSED13
+B001299,Jim Banks,,118,house,HSED,HSED13
+M001135,Kathy Manning,,118,house,HSED,HSED13
+S001199,Lloyd Smucker,,118,house,HSED,HSED13
+G000551,Raúl M. Grijalva,,118,house,HSED,HSED13
+C001069,Joe Courtney,,118,house,HSED,HSED13
+F000450,Virginia Foxx,,118,house,HSED,HSED13
+C001108,James Comer,,118,house,HSED,HSED10
+B001316,Eric Burlison,,118,house,HSED,HSED10
+B001257,Gus Bilirakis,,118,house,HSIF,HSIF17
+B001275,Larry Bucshon,,118,house,HSIF,HSIF17
+C001066,Kathy Castor,,118,house,HSIF,HSIF17
+D000624,Debbie Dingell,,118,house,HSIF,HSIF17
+D000628,Neal Dunn,,118,house,HSIF,HSIF17
+T000482,Lori Trahan,,118,house,HSIF,HSIF17
+A000372,Rick Allen,,118,house,HSIF,HSIF17
+F000469,Russ Fulcher,,118,house,HSIF,HSIF17
+H001086,Diana Harshbarger,,118,house,HSIF,HSIF17
+L000566,Robert E. Latta,,118,house,HSIF,HSIF16
+M001163,Doris Matsui,,118,house,HSIF,HSIF16
+B001257,Gus Bilirakis,,118,house,HSIF,HSIF16
+D000628,Neal Dunn,,118,house,HSIF,HSIF16
+C001114,John Curtis,,118,house,HSIF,HSIF16
+A000372,Rick Allen,,118,house,HSIF,HSIF16
+D000624,Debbie Dingell,,118,house,HSIF,HSIF16
+F000469,Russ Fulcher,,118,house,HSIF,HSIF16
+P000048,August Pfluger,,118,house,HSIF,HSIF16
+H001086,Diana Harshbarger,,118,house,HSIF,HSIF16
+B001248,Michael C. Burgess,,118,house,HSIF,HSIF03
+P000608,Scott Peters,,118,house,HSIF,HSIF03
+L000566,Robert E. Latta,,118,house,HSIF,HSIF03
+M001163,Doris Matsui,,118,house,HSIF,HSIF03
+B001275,Larry Bucshon,,118,house,HSIF,HSIF03
+S001216,Kim Schrier,,118,house,HSIF,HSIF03
+C001066,Kathy Castor,,118,house,HSIF,HSIF03
+C001114,John Curtis,,118,house,HSIF,HSIF03
+P000048,August Pfluger,,118,house,HSIF,HSIF03
+B001248,Michael C. Burgess,,118,house,HSIF,HSIF14
+L000566,Robert E. Latta,,118,house,HSIF,HSIF14
+B001257,Gus Bilirakis,,118,house,HSIF,HSIF14
+D000624,Debbie Dingell,,118,house,HSIF,HSIF14
+B001275,Larry Bucshon,,118,house,HSIF,HSIF14
+D000628,Neal Dunn,,118,house,HSIF,HSIF14
+S001216,Kim Schrier,,118,house,HSIF,HSIF14
+C001120,Dan Crenshaw,,118,house,HSIF,HSIF14
+T000482,Lori Trahan,,118,house,HSIF,HSIF14
+H001086,Diana Harshbarger,,118,house,HSIF,HSIF14
+C001066,Kathy Castor,,118,house,HSIF,HSIF02
+B001248,Michael C. Burgess,,118,house,HSIF,HSIF02
+P000608,Scott Peters,,118,house,HSIF,HSIF02
+C001120,Dan Crenshaw,,118,house,HSIF,HSIF02
+C001120,Dan Crenshaw,,118,house,HSIF,HSIF18
+A000372,Rick Allen,,118,house,HSIF,HSIF18
+P000608,Scott Peters,,118,house,HSIF,HSIF18
+F000469,Russ Fulcher,,118,house,HSIF,HSIF18
+P000048,August Pfluger,,118,house,HSIF,HSIF18
+W000812,Ann Wagner,,118,house,HSBA,HSBA16
+S000250,Pete Sessions,,118,house,HSBA,HSBA16
+G000583,Josh Gottheimer,,118,house,HSBA,HSBA16
+G000581,Vicente Gonzalez,,118,house,HSBA,HSBA16
+M001204,Daniel Meuser,,118,house,HSBA,HSBA16
+L000562,Stephen F. Lynch,,118,house,HSBA,HSBA16
+G000597,Andrew Garbarino,,118,house,HSBA,HSBA16
+G000597,Andrew Garbarino,,118,house,HSBA,HSBA04
+R000612,John Rose,,118,house,HSBA,HSBA20
+T000480,William Timmons,,118,house,HSBA,HSBA20
+S000250,Pete Sessions,,118,house,HSBA,HSBA09
+W000812,Ann Wagner,,118,house,HSBA,HSBA09
+R000612,John Rose,,118,house,HSBA,HSBA09
+M001204,Daniel Meuser,,118,house,HSBA,HSBA09
+G000581,Vicente Gonzalez,,118,house,HSBA,HSBA01
+M001204,Daniel Meuser,,118,house,HSBA,HSBA01
+G000583,Josh Gottheimer,,118,house,HSBA,HSBA01
+L000562,Stephen F. Lynch,,118,house,HSBA,HSBA21
+G000583,Josh Gottheimer,,118,house,HSBA,HSBA21
+R000612,John Rose,,118,house,HSBA,HSBA21
+T000480,William Timmons,,118,house,HSBA,HSBA21
+J000305,Sara Jacobs,,118,house,HSFA,HSFA16
+J000309,Jonathan Jackson,,118,house,HSFA,HSFA16
+K000398,Thomas Kean,,118,house,HSFA,HSFA16
+W000812,Ann Wagner,,118,house,HSFA,HSFA05
+B001297,Ken Buck,,118,house,HSFA,HSFA05
+G000590,Mark Green,,118,house,HSFA,HSFA05
+C001078,Gerald E. Connolly,,118,house,HSFA,HSFA05
+K000375,Bill Keating,,118,house,HSFA,HSFA05
+W000823,Michael Waltz,,118,house,HSFA,HSFA05
+K000398,Thomas Kean,,118,house,HSFA,HSFA14
+K000375,Bill Keating,,118,house,HSFA,HSFA14
+W000812,Ann Wagner,,118,house,HSFA,HSFA14
+M001199,Brian Mast,,118,house,HSFA,HSFA17
+B001309,Tim Burchett,,118,house,HSFA,HSFA17
+W000823,Michael Waltz,,118,house,HSFA,HSFA17
+P000616,Dean Phillips,,118,house,HSFA,HSFA13
+M001199,Brian Mast,,118,house,HSFA,HSFA13
+B001309,Tim Burchett,,118,house,HSFA,HSFA13
+C001078,Gerald E. Connolly,,118,house,HSFA,HSFA13
+M001135,Kathy Manning,,118,house,HSFA,HSFA13
+S000168,Maria Elvira Salazar,,118,house,HSFA,HSFA07
+B001297,Ken Buck,,118,house,HSFA,HSFA07
+G000590,Mark Green,,118,house,HSFA,HSFA07
+M001217,Jared Moskowitz,,118,house,HSFA,HSFA07
+S000168,Maria Elvira Salazar,,118,house,HSFA,HSFA06
+J000305,Sara Jacobs,,118,house,HSFA,HSFA06
+M001135,Kathy Manning,,118,house,HSFA,HSFA06
+G000591,Michael Guest,,118,house,HSHM,HSHM11
+G000596,Marjorie Taylor Greene,,118,house,HSHM,HSHM11
+T000488,Shri Thanedar,,118,house,HSHM,HSHM11
+G000597,Andrew Garbarino,,118,house,HSHM,HSHM08
+P000048,August Pfluger,,118,house,HSHM,HSHM05
+G000596,Marjorie Taylor Greene,,118,house,HSHM,HSHM09
+T000488,Shri Thanedar,,118,house,HSHM,HSHM09
+T000488,Shri Thanedar,,118,house,HSHM,HSHM07
+L000564,Doug Lamborn,,118,house,HSII,HSII06
+W000804,Robert J. Wittman,,118,house,HSII,HSII06
+G000577,Garret Graves,,118,house,HSII,HSII06
+F000469,Russ Fulcher,,118,house,HSII,HSII06
+D000624,Debbie Dingell,,118,house,HSII,HSII06
+C001114,John Curtis,,118,house,HSII,HSII06
+G000551,Raúl M. Grijalva,,118,house,HSII,HSII06
+L000590,Susie Lee,,118,house,HSII,HSII06
+L000564,Doug Lamborn,,118,house,HSII,HSII10
+F000469,Russ Fulcher,,118,house,HSII,HSII10
+C001114,John Curtis,,118,house,HSII,HSII10
+L000273,Teresa Leger Fernandez,,118,house,HSII,HSII10
+B000668,Cliff Bentz,,118,house,HSII,HSII10
+B000668,Cliff Bentz,,118,house,HSII,HSII13
+W000804,Robert J. Wittman,,118,house,HSII,HSII13
+G000577,Garret Graves,,118,house,HSII,HSII13
+D000624,Debbie Dingell,,118,house,HSII,HSII13
+C001055,Ed Case,,118,house,HSII,HSII13
+C001055,Ed Case,,118,house,HSII,HSII15
+L000590,Susie Lee,,118,house,HSII,HSII15
+L000273,Teresa Leger Fernandez,,118,house,HSII,HSII24
+C001055,Ed Case,,118,house,HSII,HSII24
+S000250,Pete Sessions,,118,house,HSGO,HSGO24
+C001078,Gerald E. Connolly,,118,house,HSGO,HSGO24
+T000480,William Timmons,,118,house,HSGO,HSGO24
+B001309,Tim Burchett,,118,house,HSGO,HSGO24
+G000596,Marjorie Taylor Greene,,118,house,HSGO,HSGO24
+B001316,Eric Burlison,,118,house,HSGO,HSGO24
+L000562,Stephen F. Lynch,,118,house,HSGO,HSGO06
+F000450,Virginia Foxx,,118,house,HSGO,HSGO06
+M001217,Jared Moskowitz,,118,house,HSGO,HSGO06
+S000250,Pete Sessions,,118,house,HSGO,HSGO06
+F000246,Pat Fallon,,118,house,HSGO,HSGO06
+F000450,Virginia Foxx,,118,house,HSGO,HSGO27
+B001316,Eric Burlison,,118,house,HSGO,HSGO27
+F000246,Pat Fallon,,118,house,HSGO,HSGO05
+K000389,Ro Khanna,,118,house,HSGO,HSGO05
+C001078,Gerald E. Connolly,,118,house,HSGO,HSGO12
+T000480,William Timmons,,118,house,HSGO,HSGO12
+K000389,Ro Khanna,,118,house,HSGO,HSGO12
+B001309,Tim Burchett,,118,house,HSGO,HSGO12
+L000562,Stephen F. Lynch,,118,house,HSGO,HSGO12
+G000596,Marjorie Taylor Greene,,118,house,HSGO,HSGO12
+M001217,Jared Moskowitz,,118,house,HSGO,HSGO12
+B001316,Eric Burlison,,118,house,HSGO,HSGO12
+L000273,Teresa Leger Fernandez,,118,house,HSRU,HSRU02
+C001053,Tom Cole,,118,house,HSRU,HSRU02
+B001248,Michael C. Burgess,,118,house,HSRU,HSRU04
+S001205,Mary Gay Scanlon,,118,house,HSRU,HSRU04
+C001053,Tom Cole,,118,house,HSRU,HSRU04
+M001184,Thomas Massie,,118,house,HSRU,HSRU04
+R000305,Deborah Ross,,118,house,HSSY,HSSY20
+B000740,Stephanie Bice,,118,house,HSSY,HSSY20
+F000459,Chuck Fleischmann,,118,house,HSSY,HSSY20
+M001222,Max Miller,,118,house,HSSY,HSSY20
+K000398,Thomas Kean,,118,house,HSSY,HSSY20
+M001222,Max Miller,,118,house,HSSY,HSSY21
+J000308,Jeffrey Jackson,,118,house,HSSY,HSSY21
+J000308,Jeffrey Jackson,,118,house,HSSY,HSSY16
+G000061,Mike Garcia,,118,house,HSSY,HSSY16
+F000472,Scott Franklin,,118,house,HSSY,HSSY15
+K000398,Thomas Kean,,118,house,HSSY,HSSY15
+M001222,Max Miller,,118,house,HSSY,HSSY18
+R000305,Deborah Ross,,118,house,HSSY,HSSY18
+S000168,Maria Elvira Salazar,,118,house,HSSM,HSSM23
+M001220,Morgan McGarvey,,118,house,HSSM,HSSM23
+C001080,Judy Chu,,118,house,HSSM,HSSM23
+T000488,Shri Thanedar,,118,house,HSSM,HSSM23
+M001204,Daniel Meuser,,118,house,HSSM,HSSM21
+M001204,Daniel Meuser,,118,house,HSSM,HSSM27
+P000616,Dean Phillips,,118,house,HSSM,HSSM27
+C001080,Judy Chu,,118,house,HSSM,HSSM27
+D000629,Sharice Davids,,118,house,HSSM,HSSM27
+M001220,Morgan McGarvey,,118,house,HSSM,HSSM22
+T000488,Shri Thanedar,,118,house,HSSM,HSSM22
+S000168,Maria Elvira Salazar,,118,house,HSSM,HSSM22
+P000616,Dean Phillips,,118,house,HSSM,HSSM22
+C001080,Judy Chu,,118,house,HSSM,HSSM22
+S001205,Mary Gay Scanlon,,118,house,HSJU,HSJU10
+C001068,Steve Cohen,,118,house,HSJU,HSJU10
+M001184,Thomas Massie,,118,house,HSJU,HSJU03
+B000668,Cliff Bentz,,118,house,HSJU,HSJU03
+R000305,Deborah Ross,,118,house,HSJU,HSJU03
+S001150,Adam B. Schiff,,118,house,HSJU,HSJU03
+L000397,Zoe Lofgren,,118,house,HSJU,HSJU03
+G000578,Matt Gaetz,,118,house,HSJU,HSJU08
+C001068,Steve Cohen,,118,house,HSJU,HSJU08
+B001297,Ken Buck,,118,house,HSJU,HSJU01
+L000397,Zoe Lofgren,,118,house,HSJU,HSJU01
+S000929,Victoria Spartz,,118,house,HSJU,HSJU01
+R000305,Deborah Ross,,118,house,HSJU,HSJU01
+M001184,Thomas Massie,,118,house,HSJU,HSJU05
+B001297,Ken Buck,,118,house,HSJU,HSJU05
+G000578,Matt Gaetz,,118,house,HSJU,HSJU05
+S000929,Victoria Spartz,,118,house,HSJU,HSJU05
+S001205,Mary Gay Scanlon,,118,house,HSJU,HSJU05
+B000668,Cliff Bentz,,118,house,HSJU,HSJU05
+L000397,Zoe Lofgren,,118,house,HSJU,HSJU05
+C001068,Steve Cohen,,118,house,HSJU,HSJU05
+G000577,Garret Graves,,118,house,HSPW,HSPW05
+C001068,Steve Cohen,,118,house,HSPW,HSPW05
+M001184,Thomas Massie,,118,house,HSPW,HSPW05
+M001199,Brian Mast,,118,house,HSPW,HSPW05
+B001309,Tim Burchett,,118,house,HSPW,HSPW05
+D000629,Sharice Davids,,118,house,HSPW,HSPW05
+K000398,Thomas Kean,,118,house,HSPW,HSPW05
+G000559,John Garamendi,,118,house,HSPW,HSPW07
+M001199,Brian Mast,,118,house,HSPW,HSPW07
+G000577,Garret Graves,,118,house,HSPW,HSPW13
+D000629,Sharice Davids,,118,house,HSPW,HSPW13
+G000559,John Garamendi,,118,house,HSPW,HSPW13
+M001184,Thomas Massie,,118,house,HSPW,HSPW12
+B001309,Tim Burchett,,118,house,HSPW,HSPW12
+C001068,Steve Cohen,,118,house,HSPW,HSPW12
+M001196,Seth Moulton,,118,house,HSPW,HSPW12
+K000398,Thomas Kean,,118,house,HSPW,HSPW12
+G000559,John Garamendi,,118,house,HSPW,HSPW12
+B001316,Eric Burlison,,118,house,HSPW,HSPW12
+R000603,David Rouzer,,118,house,HSPW,HSPW14
+M001196,Seth Moulton,,118,house,HSPW,HSPW14
+B001309,Tim Burchett,,118,house,HSPW,HSPW14
+C001068,Steve Cohen,,118,house,HSPW,HSPW14
+K000398,Thomas Kean,,118,house,HSPW,HSPW14
+B001316,Eric Burlison,,118,house,HSPW,HSPW14
+R000603,David Rouzer,,118,house,HSPW,HSPW02
+G000559,John Garamendi,,118,house,HSPW,HSPW02
+M001184,Thomas Massie,,118,house,HSPW,HSPW02
+M001199,Brian Mast,,118,house,HSPW,HSPW02
+B001316,Eric Burlison,,118,house,HSPW,HSPW02
+M001196,Seth Moulton,,118,house,HSPW,HSPW02
+F000472,Scott Franklin,,118,house,HSVR,HSVR09
+M001220,Morgan McGarvey,,118,house,HSVR,HSVR09
+F000472,Scott Franklin,,118,house,HSVR,HSVR10
+M001220,Morgan McGarvey,,118,house,HSVR,HSVR10
+D000399,Lloyd Doggett,,118,house,HSWM,HSWM02
+K000376,Mike Kelly,,118,house,HSWM,HSWM02
+B000574,Earl Blumenauer,,118,house,HSWM,HSWM02
+H001038,Brian Higgins,,118,house,HSWM,HSWM02
+H001082,Kevin Hern,,118,house,HSWM,HSWM02
+C001080,Judy Chu,,118,house,HSWM,HSWM02
+M001205,Carol Miller,,118,house,HSWM,HSWM02
+E000296,Dwight Evans,,118,house,HSWM,HSWM02
+M001213,Blake Moore,,118,house,HSWM,HSWM02
+C001080,Judy Chu,,118,house,HSWM,HSWM03
+M001213,Blake Moore,,118,house,HSWM,HSWM03
+E000296,Dwight Evans,,118,house,HSWM,HSWM03
+S001199,Lloyd Smucker,,118,house,HSWM,HSWM03
+P000096,Bill Pascrell Jr.,,118,house,HSWM,HSWM06
+C001080,Judy Chu,,118,house,HSWM,HSWM06
+S001214,Greg Steube,,118,house,HSWM,HSWM06
+S001190,Brad Schneider,,118,house,HSWM,HSWM06
+D000617,Suzan K. DelBene,,118,house,HSWM,HSWM06
+M000317,Nicole Malliotakis,,118,house,HSWM,HSWM06
+K000376,Mike Kelly,,118,house,HSWM,HSWM05
+D000399,Lloyd Doggett,,118,house,HSWM,HSWM05
+L000557,John B. Larson,,118,house,HSWM,HSWM05
+S001156,Linda T. Sánchez,,118,house,HSWM,HSWM05
+H001082,Kevin Hern,,118,house,HSWM,HSWM05
+D000617,Suzan K. DelBene,,118,house,HSWM,HSWM05
+E000298,Ron Estes,,118,house,HSWM,HSWM05
+S001199,Lloyd Smucker,,118,house,HSWM,HSWM05
+B001292,Donald Beyer,,118,house,HSWM,HSWM05
+K000392,David Kustoff,,118,house,HSWM,HSWM05
+S001190,Brad Schneider,,118,house,HSWM,HSWM05
+M000317,Nicole Malliotakis,,118,house,HSWM,HSWM05
+L000557,John B. Larson,,118,house,HSWM,HSWM01
+P000096,Bill Pascrell Jr.,,118,house,HSWM,HSWM01
+S001156,Linda T. Sánchez,,118,house,HSWM,HSWM01
+E000298,Ron Estes,,118,house,HSWM,HSWM01
+H001038,Brian Higgins,,118,house,HSWM,HSWM01
+M001213,Blake Moore,,118,house,HSWM,HSWM01
+S001214,Greg Steube,,118,house,HSWM,HSWM01
+K000392,David Kustoff,,118,house,HSWM,HSWM01
+B000574,Earl Blumenauer,,118,house,HSWM,HSWM04
+H001038,Brian Higgins,,118,house,HSWM,HSWM04
+E000298,Ron Estes,,118,house,HSWM,HSWM04
+D000617,Suzan K. DelBene,,118,house,HSWM,HSWM04
+M001205,Carol Miller,,118,house,HSWM,HSWM04
+B001292,Donald Beyer,,118,house,HSWM,HSWM04
+S001199,Lloyd Smucker,,118,house,HSWM,HSWM04
+S001156,Linda T. Sánchez,,118,house,HSWM,HSWM04
+S001214,Greg Steube,,118,house,HSWM,HSWM04
+K000392,David Kustoff,,118,house,HSWM,HSWM04
+G000583,Josh Gottheimer,,118,house,HSIG,HSIG06
+S001209,Abigail Spanberger,,118,house,HSIG,HSIG06
+C001120,Dan Crenshaw,,118,house,HSIG,HSIG06
+S001209,Abigail Spanberger,,118,house,HSIG,HSIG04
+G000061,Mike Garcia,,118,house,HSIG,HSIG04
+G000583,Josh Gottheimer,,118,house,HSIG,HSIG02
+G000579,Mike Gallagher,,118,house,HSIG,HSIG02
+S001189,Austin Scott,,118,house,HSIG,HSIG02
+W000823,Michael Waltz,,118,house,HSIG,HSIG02
+G000061,Mike Garcia,,118,house,HSIG,HSIG02
+G000579,Mike Gallagher,,118,house,HSIG,HSIG01
+S001189,Austin Scott,,118,house,HSIG,HSIG01
+C001120,Dan Crenshaw,,118,house,HSIG,HSIG01
+W000823,Michael Waltz,,118,house,HSIG,HSIG01
+M001198,Roger Marshall,,118,senate,SSAF,SSAF14
+W000800,Peter Welch,,118,senate,SSAF,SSAF14
+W000800,Peter Welch,,118,senate,SSAF,SSAF15
+M001198,Roger Marshall,,118,senate,SSAF,SSAF17
+W000800,Peter Welch,,118,senate,SSAF,SSAF17
+M001198,Roger Marshall,,118,senate,SSAF,SSAF16
+W000800,Peter Welch,,118,senate,SSCM,SSCM34
+W000800,Peter Welch,,118,senate,SSCM,SSCM35
+W000800,Peter Welch,,118,senate,SSCM,SSCM38
+W000800,Peter Welch,,118,senate,SSCM,SSCM36
+M001198,Roger Marshall,,118,senate,SSHR,SSHR11
+M001198,Roger Marshall,,118,senate,SSHR,SSHR12
+M001198,Roger Marshall,,118,senate,SSGA,SSGA01
+W000800,Peter Welch,,118,senate,SSJU,SSJU01
+W000800,Peter Welch,,118,senate,SSJU,SSJU04
+W000800,Peter Welch,,118,senate,SSJU,SSJU25
+W000800,Peter Welch,,118,senate,SSJU,SSJU26
+W000800,Peter Welch,,118,senate,SSJU,SSJU27

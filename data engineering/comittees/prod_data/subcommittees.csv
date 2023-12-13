@@ -1,0 +1,631 @@
+subcommittee_id,subcommittee_name,parent_committee_id,congress,chamber
+HSHA01,Elections,HSHA,116,house
+HSHA08,Elections,HSHA,116,house
+HSHA06,Oversight,HSHA,116,house
+HSHA27,Modernization,HSHA,116,house
+HSAG03,"Nutrition, Foreign Agriculture, and Horticulture",HSAG,116,house
+HSAG16,"General Farm Commodities, Risk Management, and Credit",HSAG,116,house
+HSAG15,Forestry,HSAG,116,house
+HSAG22,"Commodity Markets, Digital Assets, and Rural Development",HSAG,116,house
+HSAG29,"Livestock, Dairy, and Poultry",HSAG,116,house
+HSAG14,"Conservation, Research, and Biotechnology",HSAG,116,house
+HSAP01,"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",HSAP,116,house
+HSAP19,"Commerce, Justice, Science, and Related Agencies",HSAP,116,house
+HSAP02,Defense,HSAP,116,house
+HSAP10,"Energy and Water Development, and Related Agencies",HSAP,116,house
+HSAP23,Financial Services and General Government,HSAP,116,house
+HSAP15,Homeland Security,HSAP,116,house
+HSAP06,"Interior, Environment, and Related Agencies",HSAP,116,house
+HSAP07,"Labor, Health and Human Services, Education, and Related Agencies",HSAP,116,house
+HSAP24,Legislative Branch,HSAP,116,house
+HSAP18,"Military Construction, Veterans Affairs, and Related Agencies",HSAP,116,house
+HSAP04,"State, Foreign Operations, and Related Programs",HSAP,116,house
+HSAP20,"Transportation, Housing and Urban Development, and Related Agencies",HSAP,116,house
+HSAS25,Tactical Air and Land Forces,HSAS,116,house
+HSAS02,Military Personnel,HSAS,116,house
+HSAS03,Readiness,HSAS,116,house
+HSAS28,Seapower and Projection Forces,HSAS,116,house
+HSAS29,Strategic Forces,HSAS,116,house
+HSAS26,Intelligence and Special Operations,HSAS,116,house
+HSAS35,"Cyber, Information Technologies, and Innovation",HSAS,116,house
+HSED14,"Early Childhood, Elementary, and Secondary Education",HSED,116,house
+HSED02,"Health, Employment, Labor, and Pensions",HSED,116,house
+HSED13,Higher Education and Workforce Development,HSED,116,house
+HSED10,Workforce Protections,HSED,116,house
+HSED07,Civil Rights and Human Services,HSED,116,house
+HSIF17,"Innovation, Data, and Commerce",HSIF,116,house
+HSIF16,Communications and Technology,HSIF,116,house
+HSIF03,"Energy, Climate, and Grid Security",HSIF,116,house
+HSIF14,Health,HSIF,116,house
+HSIF02,Oversight and Investigations,HSIF,116,house
+HSIF18,"Environment, Manufacturing, and Critical Materials",HSIF,116,house
+HSBA16,Capital Markets,HSBA,116,house
+HSBA15,Consumer Protection and Financial Institutions,HSBA,116,house
+HSBA04,Housing and Insurance,HSBA,116,house
+HSBA20,Financial Institutions and Monetary Policy,HSBA,116,house
+HSBA09,Oversight and Investigations,HSBA,116,house
+HSBA01,"National Security, Illicit Finance, and International Financial Institutions",HSBA,116,house
+HSBA13,Diversity and Inclusion,HSBA,116,house
+HSBA21,"Digital Assets, Financial Technology and Inclusion",HSBA,116,house
+HSFA16,Africa,HSFA,116,house
+HSFA05,Indo-Pacific,HSFA,116,house
+HSFA14,Europe,HSFA,116,house
+HSFA17,Oversight and Accountability,HSFA,116,house
+HSFA13,"Middle East, North Africa, and Central Asia",HSFA,116,house
+HSFA07,Western Hemisphere,HSFA,116,house
+HSFA06,"Global Health, Global Human Rights, and International Organizations",HSFA,116,house
+HSHM11,Border Security and Enforcement,HSHM,116,house
+HSHM12,Emergency Management and Technology,HSHM,116,house
+HSHM08,Cybersecurity and Infrastructure Protection,HSHM,116,house
+HSHM05,"Counterterrorism, Law Enforcement, and Intelligence",HSHM,116,house
+HSHM09,"Oversight, Investigations, and Accountability",HSHM,116,house
+HSHM07,Transportation and Maritime Security,HSHM,116,house
+HSII06,Energy and Mineral Resources,HSII,116,house
+HSII22,"Fisheries, Wildlife, Oceans and Insular Affairs",HSII,116,house
+HSII10,Federal Lands,HSII,116,house
+HSII13,"Water, Wildlife and Fisheries",HSII,116,house
+HSII15,Oversight and Investigations,HSII,116,house
+HSII24,Indian and Insular Affairs,HSII,116,house
+HSGO25,Information Technology,HSGO,116,house
+HSGO24,Government Operations and the Federal Workforce,HSGO,116,house
+HSGO06,"National Security, the Border, and Foreign Affairs",HSGO,116,house
+HSGO28,Environment,HSGO,116,house
+HSGO27,Health Care and Financial Services,HSGO,116,house
+HSGO29,Intergovernmental Affairs,HSGO,116,house
+HSGO02,Civil Rights and Civil Liberties,HSGO,116,house
+HSGO05,"Economic Growth, Energy Policy, and Regulatory Affairs",HSGO,116,house
+HSGO12,"Cybersecurity, Information Technology, and Government Innovation",HSGO,116,house
+HSRU02,Legislative and Budget Process,HSRU,116,house
+HSRU04,Rules and Organization of the House,HSRU,116,house
+HSRU05,Expedited Procedures,HSRU,116,house
+HSSY20,Energy,HSSY,116,house
+HSSY21,Investigations and Oversight,HSSY,116,house
+HSSY16,Space and Aeronautics,HSSY,116,house
+HSSY15,Research and Technology,HSSY,116,house
+HSSY18,Environment,HSSY,116,house
+HSSM23,Contracting and Infrastructure,HSSM,116,house
+HSSM24,"Oversight, Investigations, and Regulations",HSSM,116,house
+HSSM21,"Rural Development, Energy, and Supply Chains",HSSM,116,house
+HSSM25,"Underserved, Agricultural, and Rural Business Development",HSSM,116,house
+HSSM27,"Economic Growth, Tax, and Capital Access",HSSM,116,house
+HSSM26,"Innovation, Entrepreneurship, and Workforce Development",HSSM,116,house
+HSSM22,"Innovation, Entrepreneurship, and Workforce Development",HSSM,116,house
+HSJU10,The Constitution and Limited Government,HSJU,116,house
+HSJU03,"Courts, Intellectual Property, and the Internet",HSJU,116,house
+HSJU08,Crime and Federal Government Surveillance,HSJU,116,house
+HSJU01,"Immigration Integrity, Security, and Enforcement",HSJU,116,house
+HSJU05,"The Administrative State, Regulatory Reform, and Antitrust",HSJU,116,house
+HSJU13,Responsiveness and Accountability to Oversight,HSJU,116,house
+HSPW05,Aviation,HSPW,116,house
+HSPW07,Coast Guard and Maritime Transportation,HSPW,116,house
+HSPW13,"Economic Development, Public Buildings, and Emergency Management",HSPW,116,house
+HSPW12,Highways and Transit,HSPW,116,house
+HSPW14,"Railroads, Pipelines, and Hazardous Materials",HSPW,116,house
+HSPW02,Water Resources and Environment,HSPW,116,house
+HSVR09,Disability Assistance and Memorial Affairs,HSVR,116,house
+HSVR10,Economic Opportunity,HSVR,116,house
+HSVR03,Health,HSVR,116,house
+HSVR08,Oversight and Investigations,HSVR,116,house
+HSVR11,Technology Modernization,HSVR,116,house
+HSWM02,Health,HSWM,116,house
+HSWM03,Work and Welfare,HSWM,116,house
+HSWM06,Oversight,HSWM,116,house
+HSWM05,Tax,HSWM,116,house
+HSWM01,Social Security,HSWM,116,house
+HSWM04,Trade,HSWM,116,house
+HSIG06,National Intelligence Enterprise,HSIG,116,house
+HSIG09,Oversight and Investigations,HSIG,116,house
+HSIG05,"Counterterrorism, Counterintelligence, and Counterproliferation",HSIG,116,house
+HSIG08,Intelligence Modernization and Readiness,HSIG,116,house
+HSIG04,Defense Intelligence and Overhead Architecture,HSIG,116,house
+HSIG03,Emerging Threats,HSIG,116,house
+HSIG02,National Security Agency and Cyber,HSIG,116,house
+HSIG01,Central Intelligence Agency,HSIG,116,house
+HSIG10,Strategic Technologies and Advanced Research,HSIG,116,house
+SSAF13,"Commodities, Risk Management, and Trade",SSAF,116,senate
+SSAF14,"Conservation, Climate, Forestry, and Natural Resources",SSAF,116,senate
+SSAF15,Rural Development and Energy,SSAF,116,senate
+SSAF17,"Livestock, Dairy, Poultry, Local Food Systems, and Food Safety and Security",SSAF,116,senate
+SSAF16,"Food and Nutrition, Specialty Crops, Organics, and Research",SSAF,116,senate
+SSAP18,"Labor, Health and Human Services, and Education, and Related Agencies",SSAP,116,senate
+SSAP16,"Commerce, Justice, Science, and Related Agencies",SSAP,116,senate
+SSAP22,Energy and Water Development,SSAP,116,senate
+SSAP20,"State, Foreign Operations, and Related Programs",SSAP,116,senate
+SSAP14,Homeland Security,SSAP,116,senate
+SSAP17,"Interior, Environment, and Related Agencies",SSAP,116,senate
+SSAP24,"Transportation, Housing and Urban Development, and Related Agencies",SSAP,116,senate
+SSAP08,Legislative Branch,SSAP,116,senate
+SSAP01,"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP,116,senate
+SSAP02,Defense,SSAP,116,senate
+SSAP19,"Military Construction, Veterans Affairs, and Related Agencies",SSAP,116,senate
+SSAP23,Financial Services and General Government,SSAP,116,senate
+SSAS16,Strategic Forces,SSAS,116,senate
+SSAS20,Emerging Threats and Capabilities,SSAS,116,senate
+SSAS17,Personnel,SSAS,116,senate
+SSAS13,Seapower,SSAS,116,senate
+SSAS14,Airland,SSAS,116,senate
+SSAS15,Readiness and Management Support,SSAS,116,senate
+SSAS21,Cybersecurity,SSAS,116,senate
+SSBK04,"Securities, Insurance, and Investment",SSBK,116,senate
+SSBK09,"Housing, Transportation, and Community Development",SSBK,116,senate
+SSBK12,Economic Policy,SSBK,116,senate
+SSBK05,National Security and International Trade and Finance,SSBK,116,senate
+SSBK08,Financial Institutions and Consumer Protection,SSBK,116,senate
+SSCM26,"Communications, Technology, Innovation, and the Internet",SSCM,116,senate
+SSCM27,"Tourism, Competitiveness, and Innovation",SSCM,116,senate
+SSCM32,Transportation and Safety,SSCM,116,senate
+SSCM31,Security,SSCM,116,senate
+SSCM29,"Manufacturing, Trade, and Consumer Protection",SSCM,116,senate
+SSCM28,Aviation and Space,SSCM,116,senate
+SSCM30,"Science, Oceans, Fisheries, and Weather",SSCM,116,senate
+SSCM39,"Tourism, Trade, and Export Promotion",SSCM,116,senate
+SSCM34,"Communications, Media, and Broadband",SSCM,116,senate
+SSCM33,"Aviation Safety, Operations, and Innovation",SSCM,116,senate
+SSCM35,"Consumer Protection, Product Safety, and Data Security",SSCM,116,senate
+SSCM38,"Surface Transportation, Maritime, Freight, and Ports",SSCM,116,senate
+SSCM37,Space and Science,SSCM,116,senate
+SSCM36,"Oceans, Fisheries, Climate Change, and Manufacturing",SSCM,116,senate
+SSEG03,"Public Lands, Forests, and Mining",SSEG,116,senate
+SSEG04,National Parks,SSEG,116,senate
+SSEG07,Water and Power,SSEG,116,senate
+SSEG01,Energy,SSEG,116,senate
+SSEV15,"Fisheries, Water, and Wildlife",SSEV,116,senate
+SSEV09,"Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight",SSEV,116,senate
+SSEV10,"Clean Air, Climate, and Nuclear Safety",SSEV,116,senate
+SSEV16,Green Jobs and the New Economy,SSEV,116,senate
+SSEV08,Transportation and Infrastructure,SSEV,116,senate
+SSEV18,Oversight,SSEV,116,senate
+SSFI13,"International Trade, Customs, and Global Competitiveness",SSFI,116,senate
+SSFI12,"Energy, Natural Resources, and Infrastructure",SSFI,116,senate
+SSFI14,Fiscal Responsibility and Economic Growth,SSFI,116,senate
+SSFI10,Health Care,SSFI,116,senate
+SSFI02,"Social Security, Pensions, and Family Policy",SSFI,116,senate
+SSFI11,Taxation and IRS Oversight,SSFI,116,senate
+SSFR12,"International Development and Foreign Assistance, Economic Affairs, International Environmental Protection, and Peace Corps",SSFR,116,senate
+SSFR13,"International Operations and Organizations, Human Rights, Democracy, and Global Women's Issues",SSFR,116,senate
+SSFR09,Africa and Global Health Policy,SSFR,116,senate
+SSFR01,Europe and Regional Security Cooperation,SSFR,116,senate
+SSFR02,"East Asia, the Pacific, and International Cybersecurity Policy",SSFR,116,senate
+SSFR07,"Near East, South Asia, Central Asia, and Counterterrorism",SSFR,116,senate
+SSFR06,"Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues",SSFR,116,senate
+SSFR14,"State Department and USAID Management, International Operations, and Bilateral International Development",SSFR,116,senate
+SSFR15,"Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy",SSFR,116,senate
+SSHR09,Children and Families,SSHR,116,senate
+SSHR11,Employment and Workplace Safety,SSHR,116,senate
+SSHR12,Primary Health and Retirement Security,SSHR,116,senate
+SSGA01,Permanent Subcommittee on Investigations,SSGA,116,senate
+SSGA15,Financial and Contracting Oversight,SSGA,116,senate
+SSGA17,"Emergency Management, Intergovernmental Relations, and the District of Columbia",SSGA,116,senate
+SSGA16,the Efficiency and Effectiveness of Federal Programs and the Federal Workforce,SSGA,116,senate
+SSGA19,Regulatory Affairs and Federal Management,SSGA,116,senate
+SSGA18,Federal Spending Oversight and Emergency Management,SSGA,116,senate
+SSGA20,Emerging Threats and Spending Oversight,SSGA,116,senate
+SSGA22,Government Operations and Border Management,SSGA,116,senate
+SSJU01,"Competition Policy, Antitrust, and Consumer Rights",SSJU,116,senate
+SSJU04,"Immigration, Citizenship, and Border Safety",SSJU,116,senate
+SSJU22,Criminal Justice and Counterterrorism,SSJU,116,senate
+SSJU21,the Constitution,SSJU,116,senate
+SSJU25,"Federal Courts, Oversight, Agency Action, and Federal Rights",SSJU,116,senate
+SSJU26,Intellectual Property,SSJU,116,senate
+SSJU28,"Privacy, Technology, and the Law",SSJU,116,senate
+SSJU27,Human Rights and the Law,SSJU,116,senate
+HSHA01,Elections,HSHA,117,house
+HSHA08,Elections,HSHA,117,house
+HSHA06,Oversight,HSHA,117,house
+HSHA27,Modernization,HSHA,117,house
+HSAG03,"Nutrition, Foreign Agriculture, and Horticulture",HSAG,117,house
+HSAG16,"General Farm Commodities, Risk Management, and Credit",HSAG,117,house
+HSAG15,Forestry,HSAG,117,house
+HSAG22,"Commodity Markets, Digital Assets, and Rural Development",HSAG,117,house
+HSAG29,"Livestock, Dairy, and Poultry",HSAG,117,house
+HSAG14,"Conservation, Research, and Biotechnology",HSAG,117,house
+HSAP01,"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",HSAP,117,house
+HSAP19,"Commerce, Justice, Science, and Related Agencies",HSAP,117,house
+HSAP02,Defense,HSAP,117,house
+HSAP10,"Energy and Water Development, and Related Agencies",HSAP,117,house
+HSAP23,Financial Services and General Government,HSAP,117,house
+HSAP15,Homeland Security,HSAP,117,house
+HSAP06,"Interior, Environment, and Related Agencies",HSAP,117,house
+HSAP07,"Labor, Health and Human Services, Education, and Related Agencies",HSAP,117,house
+HSAP24,Legislative Branch,HSAP,117,house
+HSAP18,"Military Construction, Veterans Affairs, and Related Agencies",HSAP,117,house
+HSAP04,"State, Foreign Operations, and Related Programs",HSAP,117,house
+HSAP20,"Transportation, Housing and Urban Development, and Related Agencies",HSAP,117,house
+HSAS25,Tactical Air and Land Forces,HSAS,117,house
+HSAS02,Military Personnel,HSAS,117,house
+HSAS03,Readiness,HSAS,117,house
+HSAS28,Seapower and Projection Forces,HSAS,117,house
+HSAS29,Strategic Forces,HSAS,117,house
+HSAS26,Intelligence and Special Operations,HSAS,117,house
+HSAS35,"Cyber, Information Technologies, and Innovation",HSAS,117,house
+HSED14,"Early Childhood, Elementary, and Secondary Education",HSED,117,house
+HSED02,"Health, Employment, Labor, and Pensions",HSED,117,house
+HSED13,Higher Education and Workforce Development,HSED,117,house
+HSED10,Workforce Protections,HSED,117,house
+HSED07,Civil Rights and Human Services,HSED,117,house
+HSIF17,"Innovation, Data, and Commerce",HSIF,117,house
+HSIF16,Communications and Technology,HSIF,117,house
+HSIF03,"Energy, Climate, and Grid Security",HSIF,117,house
+HSIF14,Health,HSIF,117,house
+HSIF02,Oversight and Investigations,HSIF,117,house
+HSIF18,"Environment, Manufacturing, and Critical Materials",HSIF,117,house
+HSBA16,Capital Markets,HSBA,117,house
+HSBA15,Consumer Protection and Financial Institutions,HSBA,117,house
+HSBA04,Housing and Insurance,HSBA,117,house
+HSBA20,Financial Institutions and Monetary Policy,HSBA,117,house
+HSBA09,Oversight and Investigations,HSBA,117,house
+HSBA01,"National Security, Illicit Finance, and International Financial Institutions",HSBA,117,house
+HSBA13,Diversity and Inclusion,HSBA,117,house
+HSBA21,"Digital Assets, Financial Technology and Inclusion",HSBA,117,house
+HSFA16,Africa,HSFA,117,house
+HSFA05,Indo-Pacific,HSFA,117,house
+HSFA14,Europe,HSFA,117,house
+HSFA17,Oversight and Accountability,HSFA,117,house
+HSFA13,"Middle East, North Africa, and Central Asia",HSFA,117,house
+HSFA07,Western Hemisphere,HSFA,117,house
+HSFA06,"Global Health, Global Human Rights, and International Organizations",HSFA,117,house
+HSHM11,Border Security and Enforcement,HSHM,117,house
+HSHM12,Emergency Management and Technology,HSHM,117,house
+HSHM08,Cybersecurity and Infrastructure Protection,HSHM,117,house
+HSHM05,"Counterterrorism, Law Enforcement, and Intelligence",HSHM,117,house
+HSHM09,"Oversight, Investigations, and Accountability",HSHM,117,house
+HSHM07,Transportation and Maritime Security,HSHM,117,house
+HSII06,Energy and Mineral Resources,HSII,117,house
+HSII22,"Fisheries, Wildlife, Oceans and Insular Affairs",HSII,117,house
+HSII10,Federal Lands,HSII,117,house
+HSII13,"Water, Wildlife and Fisheries",HSII,117,house
+HSII15,Oversight and Investigations,HSII,117,house
+HSII24,Indian and Insular Affairs,HSII,117,house
+HSGO25,Information Technology,HSGO,117,house
+HSGO24,Government Operations and the Federal Workforce,HSGO,117,house
+HSGO06,"National Security, the Border, and Foreign Affairs",HSGO,117,house
+HSGO28,Environment,HSGO,117,house
+HSGO27,Health Care and Financial Services,HSGO,117,house
+HSGO29,Intergovernmental Affairs,HSGO,117,house
+HSGO02,Civil Rights and Civil Liberties,HSGO,117,house
+HSGO05,"Economic Growth, Energy Policy, and Regulatory Affairs",HSGO,117,house
+HSGO12,"Cybersecurity, Information Technology, and Government Innovation",HSGO,117,house
+HSRU02,Legislative and Budget Process,HSRU,117,house
+HSRU04,Rules and Organization of the House,HSRU,117,house
+HSRU05,Expedited Procedures,HSRU,117,house
+HSSY20,Energy,HSSY,117,house
+HSSY21,Investigations and Oversight,HSSY,117,house
+HSSY16,Space and Aeronautics,HSSY,117,house
+HSSY15,Research and Technology,HSSY,117,house
+HSSY18,Environment,HSSY,117,house
+HSSM23,Contracting and Infrastructure,HSSM,117,house
+HSSM24,"Oversight, Investigations, and Regulations",HSSM,117,house
+HSSM21,"Rural Development, Energy, and Supply Chains",HSSM,117,house
+HSSM25,"Underserved, Agricultural, and Rural Business Development",HSSM,117,house
+HSSM27,"Economic Growth, Tax, and Capital Access",HSSM,117,house
+HSSM26,"Innovation, Entrepreneurship, and Workforce Development",HSSM,117,house
+HSSM22,"Innovation, Entrepreneurship, and Workforce Development",HSSM,117,house
+HSJU10,The Constitution and Limited Government,HSJU,117,house
+HSJU03,"Courts, Intellectual Property, and the Internet",HSJU,117,house
+HSJU08,Crime and Federal Government Surveillance,HSJU,117,house
+HSJU01,"Immigration Integrity, Security, and Enforcement",HSJU,117,house
+HSJU05,"The Administrative State, Regulatory Reform, and Antitrust",HSJU,117,house
+HSJU13,Responsiveness and Accountability to Oversight,HSJU,117,house
+HSPW05,Aviation,HSPW,117,house
+HSPW07,Coast Guard and Maritime Transportation,HSPW,117,house
+HSPW13,"Economic Development, Public Buildings, and Emergency Management",HSPW,117,house
+HSPW12,Highways and Transit,HSPW,117,house
+HSPW14,"Railroads, Pipelines, and Hazardous Materials",HSPW,117,house
+HSPW02,Water Resources and Environment,HSPW,117,house
+HSVR09,Disability Assistance and Memorial Affairs,HSVR,117,house
+HSVR10,Economic Opportunity,HSVR,117,house
+HSVR03,Health,HSVR,117,house
+HSVR08,Oversight and Investigations,HSVR,117,house
+HSVR11,Technology Modernization,HSVR,117,house
+HSWM02,Health,HSWM,117,house
+HSWM03,Work and Welfare,HSWM,117,house
+HSWM06,Oversight,HSWM,117,house
+HSWM05,Tax,HSWM,117,house
+HSWM01,Social Security,HSWM,117,house
+HSWM04,Trade,HSWM,117,house
+HSIG06,National Intelligence Enterprise,HSIG,117,house
+HSIG09,Oversight and Investigations,HSIG,117,house
+HSIG05,"Counterterrorism, Counterintelligence, and Counterproliferation",HSIG,117,house
+HSIG08,Intelligence Modernization and Readiness,HSIG,117,house
+HSIG04,Defense Intelligence and Overhead Architecture,HSIG,117,house
+HSIG03,Emerging Threats,HSIG,117,house
+HSIG02,National Security Agency and Cyber,HSIG,117,house
+HSIG01,Central Intelligence Agency,HSIG,117,house
+HSIG10,Strategic Technologies and Advanced Research,HSIG,117,house
+SSAF13,"Commodities, Risk Management, and Trade",SSAF,117,senate
+SSAF14,"Conservation, Climate, Forestry, and Natural Resources",SSAF,117,senate
+SSAF15,Rural Development and Energy,SSAF,117,senate
+SSAF17,"Livestock, Dairy, Poultry, Local Food Systems, and Food Safety and Security",SSAF,117,senate
+SSAF16,"Food and Nutrition, Specialty Crops, Organics, and Research",SSAF,117,senate
+SSAP18,"Labor, Health and Human Services, and Education, and Related Agencies",SSAP,117,senate
+SSAP16,"Commerce, Justice, Science, and Related Agencies",SSAP,117,senate
+SSAP22,Energy and Water Development,SSAP,117,senate
+SSAP20,"State, Foreign Operations, and Related Programs",SSAP,117,senate
+SSAP14,Homeland Security,SSAP,117,senate
+SSAP17,"Interior, Environment, and Related Agencies",SSAP,117,senate
+SSAP24,"Transportation, Housing and Urban Development, and Related Agencies",SSAP,117,senate
+SSAP08,Legislative Branch,SSAP,117,senate
+SSAP01,"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP,117,senate
+SSAP02,Defense,SSAP,117,senate
+SSAP19,"Military Construction, Veterans Affairs, and Related Agencies",SSAP,117,senate
+SSAP23,Financial Services and General Government,SSAP,117,senate
+SSAS16,Strategic Forces,SSAS,117,senate
+SSAS20,Emerging Threats and Capabilities,SSAS,117,senate
+SSAS17,Personnel,SSAS,117,senate
+SSAS13,Seapower,SSAS,117,senate
+SSAS14,Airland,SSAS,117,senate
+SSAS15,Readiness and Management Support,SSAS,117,senate
+SSAS21,Cybersecurity,SSAS,117,senate
+SSBK04,"Securities, Insurance, and Investment",SSBK,117,senate
+SSBK09,"Housing, Transportation, and Community Development",SSBK,117,senate
+SSBK12,Economic Policy,SSBK,117,senate
+SSBK05,National Security and International Trade and Finance,SSBK,117,senate
+SSBK08,Financial Institutions and Consumer Protection,SSBK,117,senate
+SSCM26,"Communications, Technology, Innovation, and the Internet",SSCM,117,senate
+SSCM27,"Tourism, Competitiveness, and Innovation",SSCM,117,senate
+SSCM32,Transportation and Safety,SSCM,117,senate
+SSCM31,Security,SSCM,117,senate
+SSCM29,"Manufacturing, Trade, and Consumer Protection",SSCM,117,senate
+SSCM28,Aviation and Space,SSCM,117,senate
+SSCM30,"Science, Oceans, Fisheries, and Weather",SSCM,117,senate
+SSCM39,"Tourism, Trade, and Export Promotion",SSCM,117,senate
+SSCM34,"Communications, Media, and Broadband",SSCM,117,senate
+SSCM33,"Aviation Safety, Operations, and Innovation",SSCM,117,senate
+SSCM35,"Consumer Protection, Product Safety, and Data Security",SSCM,117,senate
+SSCM38,"Surface Transportation, Maritime, Freight, and Ports",SSCM,117,senate
+SSCM37,Space and Science,SSCM,117,senate
+SSCM36,"Oceans, Fisheries, Climate Change, and Manufacturing",SSCM,117,senate
+SSEG03,"Public Lands, Forests, and Mining",SSEG,117,senate
+SSEG04,National Parks,SSEG,117,senate
+SSEG07,Water and Power,SSEG,117,senate
+SSEG01,Energy,SSEG,117,senate
+SSEV15,"Fisheries, Water, and Wildlife",SSEV,117,senate
+SSEV09,"Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight",SSEV,117,senate
+SSEV10,"Clean Air, Climate, and Nuclear Safety",SSEV,117,senate
+SSEV16,Green Jobs and the New Economy,SSEV,117,senate
+SSEV08,Transportation and Infrastructure,SSEV,117,senate
+SSEV18,Oversight,SSEV,117,senate
+SSFI13,"International Trade, Customs, and Global Competitiveness",SSFI,117,senate
+SSFI12,"Energy, Natural Resources, and Infrastructure",SSFI,117,senate
+SSFI14,Fiscal Responsibility and Economic Growth,SSFI,117,senate
+SSFI10,Health Care,SSFI,117,senate
+SSFI02,"Social Security, Pensions, and Family Policy",SSFI,117,senate
+SSFI11,Taxation and IRS Oversight,SSFI,117,senate
+SSFR12,"International Development and Foreign Assistance, Economic Affairs, International Environmental Protection, and Peace Corps",SSFR,117,senate
+SSFR13,"International Operations and Organizations, Human Rights, Democracy, and Global Women's Issues",SSFR,117,senate
+SSFR09,Africa and Global Health Policy,SSFR,117,senate
+SSFR01,Europe and Regional Security Cooperation,SSFR,117,senate
+SSFR02,"East Asia, the Pacific, and International Cybersecurity Policy",SSFR,117,senate
+SSFR07,"Near East, South Asia, Central Asia, and Counterterrorism",SSFR,117,senate
+SSFR06,"Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues",SSFR,117,senate
+SSFR14,"State Department and USAID Management, International Operations, and Bilateral International Development",SSFR,117,senate
+SSFR15,"Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy",SSFR,117,senate
+SSHR09,Children and Families,SSHR,117,senate
+SSHR11,Employment and Workplace Safety,SSHR,117,senate
+SSHR12,Primary Health and Retirement Security,SSHR,117,senate
+SSGA01,Permanent Subcommittee on Investigations,SSGA,117,senate
+SSGA15,Financial and Contracting Oversight,SSGA,117,senate
+SSGA17,"Emergency Management, Intergovernmental Relations, and the District of Columbia",SSGA,117,senate
+SSGA16,the Efficiency and Effectiveness of Federal Programs and the Federal Workforce,SSGA,117,senate
+SSGA19,Regulatory Affairs and Federal Management,SSGA,117,senate
+SSGA18,Federal Spending Oversight and Emergency Management,SSGA,117,senate
+SSGA20,Emerging Threats and Spending Oversight,SSGA,117,senate
+SSGA22,Government Operations and Border Management,SSGA,117,senate
+SSJU01,"Competition Policy, Antitrust, and Consumer Rights",SSJU,117,senate
+SSJU04,"Immigration, Citizenship, and Border Safety",SSJU,117,senate
+SSJU22,Criminal Justice and Counterterrorism,SSJU,117,senate
+SSJU21,the Constitution,SSJU,117,senate
+SSJU25,"Federal Courts, Oversight, Agency Action, and Federal Rights",SSJU,117,senate
+SSJU26,Intellectual Property,SSJU,117,senate
+SSJU28,"Privacy, Technology, and the Law",SSJU,117,senate
+SSJU27,Human Rights and the Law,SSJU,117,senate
+HSHA01,Elections,HSHA,118,house
+HSHA08,Elections,HSHA,118,house
+HSHA06,Oversight,HSHA,118,house
+HSHA27,Modernization,HSHA,118,house
+HSAG03,"Nutrition, Foreign Agriculture, and Horticulture",HSAG,118,house
+HSAG16,"General Farm Commodities, Risk Management, and Credit",HSAG,118,house
+HSAG15,Forestry,HSAG,118,house
+HSAG22,"Commodity Markets, Digital Assets, and Rural Development",HSAG,118,house
+HSAG29,"Livestock, Dairy, and Poultry",HSAG,118,house
+HSAG14,"Conservation, Research, and Biotechnology",HSAG,118,house
+HSAP01,"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",HSAP,118,house
+HSAP19,"Commerce, Justice, Science, and Related Agencies",HSAP,118,house
+HSAP02,Defense,HSAP,118,house
+HSAP10,"Energy and Water Development, and Related Agencies",HSAP,118,house
+HSAP23,Financial Services and General Government,HSAP,118,house
+HSAP15,Homeland Security,HSAP,118,house
+HSAP06,"Interior, Environment, and Related Agencies",HSAP,118,house
+HSAP07,"Labor, Health and Human Services, Education, and Related Agencies",HSAP,118,house
+HSAP24,Legislative Branch,HSAP,118,house
+HSAP18,"Military Construction, Veterans Affairs, and Related Agencies",HSAP,118,house
+HSAP04,"State, Foreign Operations, and Related Programs",HSAP,118,house
+HSAP20,"Transportation, Housing and Urban Development, and Related Agencies",HSAP,118,house
+HSAS25,Tactical Air and Land Forces,HSAS,118,house
+HSAS02,Military Personnel,HSAS,118,house
+HSAS03,Readiness,HSAS,118,house
+HSAS28,Seapower and Projection Forces,HSAS,118,house
+HSAS29,Strategic Forces,HSAS,118,house
+HSAS26,Intelligence and Special Operations,HSAS,118,house
+HSAS35,"Cyber, Information Technologies, and Innovation",HSAS,118,house
+HSED14,"Early Childhood, Elementary, and Secondary Education",HSED,118,house
+HSED02,"Health, Employment, Labor, and Pensions",HSED,118,house
+HSED13,Higher Education and Workforce Development,HSED,118,house
+HSED10,Workforce Protections,HSED,118,house
+HSED07,Civil Rights and Human Services,HSED,118,house
+HSIF17,"Innovation, Data, and Commerce",HSIF,118,house
+HSIF16,Communications and Technology,HSIF,118,house
+HSIF03,"Energy, Climate, and Grid Security",HSIF,118,house
+HSIF14,Health,HSIF,118,house
+HSIF02,Oversight and Investigations,HSIF,118,house
+HSIF18,"Environment, Manufacturing, and Critical Materials",HSIF,118,house
+HSBA16,Capital Markets,HSBA,118,house
+HSBA15,Consumer Protection and Financial Institutions,HSBA,118,house
+HSBA04,Housing and Insurance,HSBA,118,house
+HSBA20,Financial Institutions and Monetary Policy,HSBA,118,house
+HSBA09,Oversight and Investigations,HSBA,118,house
+HSBA01,"National Security, Illicit Finance, and International Financial Institutions",HSBA,118,house
+HSBA13,Diversity and Inclusion,HSBA,118,house
+HSBA21,"Digital Assets, Financial Technology and Inclusion",HSBA,118,house
+HSFA16,Africa,HSFA,118,house
+HSFA05,Indo-Pacific,HSFA,118,house
+HSFA14,Europe,HSFA,118,house
+HSFA17,Oversight and Accountability,HSFA,118,house
+HSFA13,"Middle East, North Africa, and Central Asia",HSFA,118,house
+HSFA07,Western Hemisphere,HSFA,118,house
+HSFA06,"Global Health, Global Human Rights, and International Organizations",HSFA,118,house
+HSHM11,Border Security and Enforcement,HSHM,118,house
+HSHM12,Emergency Management and Technology,HSHM,118,house
+HSHM08,Cybersecurity and Infrastructure Protection,HSHM,118,house
+HSHM05,"Counterterrorism, Law Enforcement, and Intelligence",HSHM,118,house
+HSHM09,"Oversight, Investigations, and Accountability",HSHM,118,house
+HSHM07,Transportation and Maritime Security,HSHM,118,house
+HSII06,Energy and Mineral Resources,HSII,118,house
+HSII22,"Fisheries, Wildlife, Oceans and Insular Affairs",HSII,118,house
+HSII10,Federal Lands,HSII,118,house
+HSII13,"Water, Wildlife and Fisheries",HSII,118,house
+HSII15,Oversight and Investigations,HSII,118,house
+HSII24,Indian and Insular Affairs,HSII,118,house
+HSGO25,Information Technology,HSGO,118,house
+HSGO24,Government Operations and the Federal Workforce,HSGO,118,house
+HSGO06,"National Security, the Border, and Foreign Affairs",HSGO,118,house
+HSGO28,Environment,HSGO,118,house
+HSGO27,Health Care and Financial Services,HSGO,118,house
+HSGO29,Intergovernmental Affairs,HSGO,118,house
+HSGO02,Civil Rights and Civil Liberties,HSGO,118,house
+HSGO05,"Economic Growth, Energy Policy, and Regulatory Affairs",HSGO,118,house
+HSGO12,"Cybersecurity, Information Technology, and Government Innovation",HSGO,118,house
+HSRU02,Legislative and Budget Process,HSRU,118,house
+HSRU04,Rules and Organization of the House,HSRU,118,house
+HSRU05,Expedited Procedures,HSRU,118,house
+HSSY20,Energy,HSSY,118,house
+HSSY21,Investigations and Oversight,HSSY,118,house
+HSSY16,Space and Aeronautics,HSSY,118,house
+HSSY15,Research and Technology,HSSY,118,house
+HSSY18,Environment,HSSY,118,house
+HSSM23,Contracting and Infrastructure,HSSM,118,house
+HSSM24,"Oversight, Investigations, and Regulations",HSSM,118,house
+HSSM21,"Rural Development, Energy, and Supply Chains",HSSM,118,house
+HSSM25,"Underserved, Agricultural, and Rural Business Development",HSSM,118,house
+HSSM27,"Economic Growth, Tax, and Capital Access",HSSM,118,house
+HSSM26,"Innovation, Entrepreneurship, and Workforce Development",HSSM,118,house
+HSSM22,"Innovation, Entrepreneurship, and Workforce Development",HSSM,118,house
+HSJU10,The Constitution and Limited Government,HSJU,118,house
+HSJU03,"Courts, Intellectual Property, and the Internet",HSJU,118,house
+HSJU08,Crime and Federal Government Surveillance,HSJU,118,house
+HSJU01,"Immigration Integrity, Security, and Enforcement",HSJU,118,house
+HSJU05,"The Administrative State, Regulatory Reform, and Antitrust",HSJU,118,house
+HSJU13,Responsiveness and Accountability to Oversight,HSJU,118,house
+HSPW05,Aviation,HSPW,118,house
+HSPW07,Coast Guard and Maritime Transportation,HSPW,118,house
+HSPW13,"Economic Development, Public Buildings, and Emergency Management",HSPW,118,house
+HSPW12,Highways and Transit,HSPW,118,house
+HSPW14,"Railroads, Pipelines, and Hazardous Materials",HSPW,118,house
+HSPW02,Water Resources and Environment,HSPW,118,house
+HSVR09,Disability Assistance and Memorial Affairs,HSVR,118,house
+HSVR10,Economic Opportunity,HSVR,118,house
+HSVR03,Health,HSVR,118,house
+HSVR08,Oversight and Investigations,HSVR,118,house
+HSVR11,Technology Modernization,HSVR,118,house
+HSWM02,Health,HSWM,118,house
+HSWM03,Work and Welfare,HSWM,118,house
+HSWM06,Oversight,HSWM,118,house
+HSWM05,Tax,HSWM,118,house
+HSWM01,Social Security,HSWM,118,house
+HSWM04,Trade,HSWM,118,house
+HSIG06,National Intelligence Enterprise,HSIG,118,house
+HSIG09,Oversight and Investigations,HSIG,118,house
+HSIG05,"Counterterrorism, Counterintelligence, and Counterproliferation",HSIG,118,house
+HSIG08,Intelligence Modernization and Readiness,HSIG,118,house
+HSIG04,Defense Intelligence and Overhead Architecture,HSIG,118,house
+HSIG03,Emerging Threats,HSIG,118,house
+HSIG02,National Security Agency and Cyber,HSIG,118,house
+HSIG01,Central Intelligence Agency,HSIG,118,house
+HSIG10,Strategic Technologies and Advanced Research,HSIG,118,house
+SSAF13,"Commodities, Risk Management, and Trade",SSAF,118,senate
+SSAF14,"Conservation, Climate, Forestry, and Natural Resources",SSAF,118,senate
+SSAF15,Rural Development and Energy,SSAF,118,senate
+SSAF17,"Livestock, Dairy, Poultry, Local Food Systems, and Food Safety and Security",SSAF,118,senate
+SSAF16,"Food and Nutrition, Specialty Crops, Organics, and Research",SSAF,118,senate
+SSAP18,"Labor, Health and Human Services, and Education, and Related Agencies",SSAP,118,senate
+SSAP16,"Commerce, Justice, Science, and Related Agencies",SSAP,118,senate
+SSAP22,Energy and Water Development,SSAP,118,senate
+SSAP20,"State, Foreign Operations, and Related Programs",SSAP,118,senate
+SSAP14,Homeland Security,SSAP,118,senate
+SSAP17,"Interior, Environment, and Related Agencies",SSAP,118,senate
+SSAP24,"Transportation, Housing and Urban Development, and Related Agencies",SSAP,118,senate
+SSAP08,Legislative Branch,SSAP,118,senate
+SSAP01,"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP,118,senate
+SSAP02,Defense,SSAP,118,senate
+SSAP19,"Military Construction, Veterans Affairs, and Related Agencies",SSAP,118,senate
+SSAP23,Financial Services and General Government,SSAP,118,senate
+SSAS16,Strategic Forces,SSAS,118,senate
+SSAS20,Emerging Threats and Capabilities,SSAS,118,senate
+SSAS17,Personnel,SSAS,118,senate
+SSAS13,Seapower,SSAS,118,senate
+SSAS14,Airland,SSAS,118,senate
+SSAS15,Readiness and Management Support,SSAS,118,senate
+SSAS21,Cybersecurity,SSAS,118,senate
+SSBK04,"Securities, Insurance, and Investment",SSBK,118,senate
+SSBK09,"Housing, Transportation, and Community Development",SSBK,118,senate
+SSBK12,Economic Policy,SSBK,118,senate
+SSBK05,National Security and International Trade and Finance,SSBK,118,senate
+SSBK08,Financial Institutions and Consumer Protection,SSBK,118,senate
+SSCM26,"Communications, Technology, Innovation, and the Internet",SSCM,118,senate
+SSCM27,"Tourism, Competitiveness, and Innovation",SSCM,118,senate
+SSCM32,Transportation and Safety,SSCM,118,senate
+SSCM31,Security,SSCM,118,senate
+SSCM29,"Manufacturing, Trade, and Consumer Protection",SSCM,118,senate
+SSCM28,Aviation and Space,SSCM,118,senate
+SSCM30,"Science, Oceans, Fisheries, and Weather",SSCM,118,senate
+SSCM39,"Tourism, Trade, and Export Promotion",SSCM,118,senate
+SSCM34,"Communications, Media, and Broadband",SSCM,118,senate
+SSCM33,"Aviation Safety, Operations, and Innovation",SSCM,118,senate
+SSCM35,"Consumer Protection, Product Safety, and Data Security",SSCM,118,senate
+SSCM38,"Surface Transportation, Maritime, Freight, and Ports",SSCM,118,senate
+SSCM37,Space and Science,SSCM,118,senate
+SSCM36,"Oceans, Fisheries, Climate Change, and Manufacturing",SSCM,118,senate
+SSEG03,"Public Lands, Forests, and Mining",SSEG,118,senate
+SSEG04,National Parks,SSEG,118,senate
+SSEG07,Water and Power,SSEG,118,senate
+SSEG01,Energy,SSEG,118,senate
+SSEV15,"Fisheries, Water, and Wildlife",SSEV,118,senate
+SSEV09,"Chemical Safety, Waste Management, Environmental Justice, and Regulatory Oversight",SSEV,118,senate
+SSEV10,"Clean Air, Climate, and Nuclear Safety",SSEV,118,senate
+SSEV16,Green Jobs and the New Economy,SSEV,118,senate
+SSEV08,Transportation and Infrastructure,SSEV,118,senate
+SSEV18,Oversight,SSEV,118,senate
+SSFI13,"International Trade, Customs, and Global Competitiveness",SSFI,118,senate
+SSFI12,"Energy, Natural Resources, and Infrastructure",SSFI,118,senate
+SSFI14,Fiscal Responsibility and Economic Growth,SSFI,118,senate
+SSFI10,Health Care,SSFI,118,senate
+SSFI02,"Social Security, Pensions, and Family Policy",SSFI,118,senate
+SSFI11,Taxation and IRS Oversight,SSFI,118,senate
+SSFR12,"International Development and Foreign Assistance, Economic Affairs, International Environmental Protection, and Peace Corps",SSFR,118,senate
+SSFR13,"International Operations and Organizations, Human Rights, Democracy, and Global Women's Issues",SSFR,118,senate
+SSFR09,Africa and Global Health Policy,SSFR,118,senate
+SSFR01,Europe and Regional Security Cooperation,SSFR,118,senate
+SSFR02,"East Asia, the Pacific, and International Cybersecurity Policy",SSFR,118,senate
+SSFR07,"Near East, South Asia, Central Asia, and Counterterrorism",SSFR,118,senate
+SSFR06,"Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues",SSFR,118,senate
+SSFR14,"State Department and USAID Management, International Operations, and Bilateral International Development",SSFR,118,senate
+SSFR15,"Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy",SSFR,118,senate
+SSHR09,Children and Families,SSHR,118,senate
+SSHR11,Employment and Workplace Safety,SSHR,118,senate
+SSHR12,Primary Health and Retirement Security,SSHR,118,senate
+SSGA01,Permanent Subcommittee on Investigations,SSGA,118,senate
+SSGA15,Financial and Contracting Oversight,SSGA,118,senate
+SSGA17,"Emergency Management, Intergovernmental Relations, and the District of Columbia",SSGA,118,senate
+SSGA16,the Efficiency and Effectiveness of Federal Programs and the Federal Workforce,SSGA,118,senate
+SSGA19,Regulatory Affairs and Federal Management,SSGA,118,senate
+SSGA18,Federal Spending Oversight and Emergency Management,SSGA,118,senate
+SSGA20,Emerging Threats and Spending Oversight,SSGA,118,senate
+SSGA22,Government Operations and Border Management,SSGA,118,senate
+SSJU01,"Competition Policy, Antitrust, and Consumer Rights",SSJU,118,senate
+SSJU04,"Immigration, Citizenship, and Border Safety",SSJU,118,senate
+SSJU22,Criminal Justice and Counterterrorism,SSJU,118,senate
+SSJU21,the Constitution,SSJU,118,senate
+SSJU25,"Federal Courts, Oversight, Agency Action, and Federal Rights",SSJU,118,senate
+SSJU26,Intellectual Property,SSJU,118,senate
+SSJU28,"Privacy, Technology, and the Law",SSJU,118,senate
+SSJU27,Human Rights and the Law,SSJU,118,senate

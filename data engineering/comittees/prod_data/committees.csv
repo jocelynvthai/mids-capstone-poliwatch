@@ -1,0 +1,149 @@
+committee_id,committee_name,congress,chamber
+HSHA,Committee on Administration,116,house
+HSAG,Committee on Agriculture,116,house
+HSAP,Committee on Appropriations,116,house
+HSAS,Committee on Armed Services,116,house
+HSED,Committee on Education and the Workforce,116,house
+HSIF,Committee on Energy and Commerce,116,house
+HSSO,Committee on Ethics,116,house
+HSBA,Committee on Financial Services,116,house
+HSFA,Committee on Foreign Affairs,116,house
+HSHM,Committee on Homeland Security,116,house
+HSII,Committee on Natural Resources,116,house
+HSGO,Committee on Oversight and Accountability,116,house
+HSRU,Committee on Rules,116,house
+HSSY,"Committee on Science, Space, and Technology",116,house
+HSSM,Committee on Small Business,116,house
+HSBU,Committee on the Budget,116,house
+HSJU,Committee on the Judiciary,116,house
+HSPW,Committee on Transportation and Infrastructure,116,house
+HSVR,Committee on Veterans' Affairs,116,house
+HSWM,Committee on Ways and Means,116,house
+HSIG,Permanent Select Committee on Intelligence,116,house
+HSCN,Select Committee on the Climate Crisis,116,house
+HSMH,Select Committee on the Modernization of Congress,116,house
+SSAF,"Committee on Agriculture, Nutrition, and Forestry",116,senate
+SSAP,Committee on Appropriations,116,senate
+SSAS,Committee on Armed Services,116,senate
+SSBK,"Committee on Banking, Housing, and Urban Affairs",116,senate
+SSCM,"Committee on Commerce, Science, and Transportation",116,senate
+SSEG,Committee on Energy and Natural Resources,116,senate
+SSEV,Committee on Environment and Public Works,116,senate
+SSFI,Committee on Finance,116,senate
+SSFR,Committee on Foreign Relations,116,senate
+SSHR,"Committee on Health, Education, Labor, and Pensions",116,senate
+SSGA,Committee on Homeland Security and Governmental Affairs,116,senate
+SLIA,Committee on Indian Affairs,116,senate
+SSRA,Committee on Rules and Administration,116,senate
+SSSB,Committee on Small Business and Entrepreneurship,116,senate
+SSBU,Committee on the Budget,116,senate
+SSJU,Committee on the Judiciary,116,senate
+SSVA,Committee on Veterans' Affairs,116,senate
+SLET,Select Committee on Ethics,116,senate
+SLIN,Select Committee on Intelligence,116,senate
+SPAG,Special Committee on Aging,116,senate
+SCNC,United States Caucus on International Narcotics Control,116,senate
+JCSE,Commission on Security and Cooperation in Europe,116,joint
+JSPR,Joint Committee on Printing,116,joint
+JSTX,Joint Committee on Taxation,116,joint
+JSLC,Joint Committee on the Library,116,joint
+JSEC,Joint Economic Committee,116,joint
+HSHA,Committee on Administration,117,house
+HSAG,Committee on Agriculture,117,house
+HSAP,Committee on Appropriations,117,house
+HSAS,Committee on Armed Services,117,house
+HSED,Committee on Education and the Workforce,117,house
+HSIF,Committee on Energy and Commerce,117,house
+HSSO,Committee on Ethics,117,house
+HSBA,Committee on Financial Services,117,house
+HSFA,Committee on Foreign Affairs,117,house
+HSHM,Committee on Homeland Security,117,house
+HSII,Committee on Natural Resources,117,house
+HSGO,Committee on Oversight and Accountability,117,house
+HSRU,Committee on Rules,117,house
+HSSY,"Committee on Science, Space, and Technology",117,house
+HSSM,Committee on Small Business,117,house
+HSBU,Committee on the Budget,117,house
+HSJU,Committee on the Judiciary,117,house
+HSPW,Committee on Transportation and Infrastructure,117,house
+HSVR,Committee on Veterans' Affairs,117,house
+HSWM,Committee on Ways and Means,117,house
+HSIG,Permanent Select Committee on Intelligence,117,house
+HSCN,Select Committee on the Climate Crisis,117,house
+HSMH,Select Committee on the Modernization of Congress,117,house
+SSAF,"Committee on Agriculture, Nutrition, and Forestry",117,senate
+SSAP,Committee on Appropriations,117,senate
+SSAS,Committee on Armed Services,117,senate
+SSBK,"Committee on Banking, Housing, and Urban Affairs",117,senate
+SSCM,"Committee on Commerce, Science, and Transportation",117,senate
+SSEG,Committee on Energy and Natural Resources,117,senate
+SSEV,Committee on Environment and Public Works,117,senate
+SSFI,Committee on Finance,117,senate
+SSFR,Committee on Foreign Relations,117,senate
+SSHR,"Committee on Health, Education, Labor, and Pensions",117,senate
+SSGA,Committee on Homeland Security and Governmental Affairs,117,senate
+SLIA,Committee on Indian Affairs,117,senate
+SSRA,Committee on Rules and Administration,117,senate
+SSSB,Committee on Small Business and Entrepreneurship,117,senate
+SSBU,Committee on the Budget,117,senate
+SSJU,Committee on the Judiciary,117,senate
+SSVA,Committee on Veterans' Affairs,117,senate
+SLET,Select Committee on Ethics,117,senate
+SLIN,Select Committee on Intelligence,117,senate
+SPAG,Special Committee on Aging,117,senate
+SCNC,United States Caucus on International Narcotics Control,117,senate
+JCSE,Commission on Security and Cooperation in Europe,117,joint
+JSPR,Joint Committee on Printing,117,joint
+JSTX,Joint Committee on Taxation,117,joint
+JSLC,Joint Committee on the Library,117,joint
+JSEC,Joint Economic Committee,117,joint
+HSHA,Committee on Administration,118,house
+HSAG,Committee on Agriculture,118,house
+HSAP,Committee on Appropriations,118,house
+HSAS,Committee on Armed Services,118,house
+HSED,Committee on Education and the Workforce,118,house
+HSIF,Committee on Energy and Commerce,118,house
+HSSO,Committee on Ethics,118,house
+HSBA,Committee on Financial Services,118,house
+HSFA,Committee on Foreign Affairs,118,house
+HSHM,Committee on Homeland Security,118,house
+HSII,Committee on Natural Resources,118,house
+HSGO,Committee on Oversight and Accountability,118,house
+HSRU,Committee on Rules,118,house
+HSSY,"Committee on Science, Space, and Technology",118,house
+HSSM,Committee on Small Business,118,house
+HSBU,Committee on the Budget,118,house
+HSJU,Committee on the Judiciary,118,house
+HSPW,Committee on Transportation and Infrastructure,118,house
+HSVR,Committee on Veterans' Affairs,118,house
+HSWM,Committee on Ways and Means,118,house
+HSIG,Permanent Select Committee on Intelligence,118,house
+HSZS,Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party,118,house
+HSVC,Select Subcommittee on the Coronavirus Pandemic,118,house
+HSFD,Select Subcommittee on the Weaponization of the Federal Government,118,house
+SSAF,"Committee on Agriculture, Nutrition, and Forestry",118,senate
+SSAP,Committee on Appropriations,118,senate
+SSAS,Committee on Armed Services,118,senate
+SSBK,"Committee on Banking, Housing, and Urban Affairs",118,senate
+SSCM,"Committee on Commerce, Science, and Transportation",118,senate
+SSEG,Committee on Energy and Natural Resources,118,senate
+SSEV,Committee on Environment and Public Works,118,senate
+SSFI,Committee on Finance,118,senate
+SSFR,Committee on Foreign Relations,118,senate
+SSHR,"Committee on Health, Education, Labor, and Pensions",118,senate
+SSGA,Committee on Homeland Security and Governmental Affairs,118,senate
+SLIA,Committee on Indian Affairs,118,senate
+SSRA,Committee on Rules and Administration,118,senate
+SSSB,Committee on Small Business and Entrepreneurship,118,senate
+SSBU,Committee on the Budget,118,senate
+SSJU,Committee on the Judiciary,118,senate
+SSVA,Committee on Veterans' Affairs,118,senate
+SLET,Select Committee on Ethics,118,senate
+SLIN,Select Committee on Intelligence,118,senate
+SPAG,Special Committee on Aging,118,senate
+SCNC,United States Caucus on International Narcotics Control,118,senate
+JCSE,Commission on Security and Cooperation in Europe,118,joint
+JSPR,Joint Committee on Printing,118,joint
+JSTX,Joint Committee on Taxation,118,joint
+JSLC,Joint Committee on the Library,118,joint
+JSEC,Joint Economic Committee,118,joint

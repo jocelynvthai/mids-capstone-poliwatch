@@ -1,0 +1,12 @@
+House of Representatives STOCK ACT disclosures:
+https://housestockwatcher.com/api
+
+Senate STOCK ACT disclosures:
+https://senatestockwatcher.com/api
+
+Senate committee assignments:
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EQ6KC7
+
+House committee assignments: 
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XLIHUC
+https://data.world/govtrack/congressional-committees 

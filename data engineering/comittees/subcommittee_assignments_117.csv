@@ -1,0 +1,217 @@
+name,code,begin_date,end_date,parent_committee_id,member_id
+Energy and Water Development,SSAP22,,2023-01-03,SSAP,B001230
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2023-01-03,SSAP,B001230
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2023-01-03,SSAP,B001230
+Defense,SSAP02,,2023-01-03,SSAP,B001230
+Homeland Security,SSAP14,,2023-01-03,SSAP,B001230
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2023-01-03,SSAP,B001230
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2023-01-03,SSAP,B000575
+"State, Foreign Operations, and Related Programs",SSAP20,,2023-01-03,SSAP,B000575
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2023-01-03,SSAP,B000575
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2023-01-03,SSAP,B000575
+Defense,SSAP02,,2023-01-03,SSAP,B000575
+"Interior, Environment, and Related Agencies",SSAP17,,2023-01-03,SSAP,B000575
+Financial Services and General Government,SSAP23,,2023-01-03,SSAP,B001236
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2023-01-03,SSAP,B001236
+"State, Foreign Operations, and Related Programs",SSAP20,,2023-01-03,SSAP,B001236
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2023-01-03,SSAP,B001236
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2023-01-03,SSAP,B001236
+Defense,SSAP02,,2023-01-03,SSAP,B001236
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2023-01-03,SSAP,B001310
+Legislative Branch,SSAP08,,2023-01-03,SSAP,B001310
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2023-01-03,SSAP,B001310
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2023-01-03,SSAP,B001310
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2023-01-03,SSAP,B001310
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2023-01-03,SSAP,C001047
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2023-01-03,SSAP,C001047
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2023-01-03,SSAP,C001047
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2023-01-03,SSAP,C001047
+Homeland Security,SSAP14,,2023-01-03,SSAP,C001047
+"Interior, Environment, and Related Agencies",SSAP17,,2023-01-03,SSAP,C001047
+Government Operations and Border Management,SSGA22,,2023-01-03,SSGA,C000174
+Permanent Subcommittee on Investigations,SSGA01,,2023-01-03,SSGA,C000174
+Energy and Water Development,SSAP22,,2023-01-03,SSAP,C001035
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2023-01-03,SSAP,C001035
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2023-01-03,SSAP,C001035
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2023-01-03,SSAP,C001035
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2023-01-03,SSAP,C001035
+Defense,SSAP02,,2023-01-03,SSAP,C001035
+Energy and Water Development,SSAP22,,2023-01-03,SSAP,C001088
+Financial Services and General Government,SSAP23,,2023-01-03,SSAP,C001088
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2023-01-03,SSAP,C001088
+"State, Foreign Operations, and Related Programs",SSAP20,,2023-01-03,SSAP,C001088
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2023-01-03,SSAP,C001088
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2023-01-03,SSAP,C001088
+Energy and Water Development,SSAP22,,2023-01-03,SSAP,D000563
+Financial Services and General Government,SSAP23,,2023-01-03,SSAP,D000563
+"State, Foreign Operations, and Related Programs",SSAP20,,2023-01-03,SSAP,D000563
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2023-01-03,SSAP,D000563
+Defense,SSAP02,,2023-01-03,SSAP,D000563
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2023-01-03,SSAP,D000563
+Energy and Water Development,SSAP22,,2023-01-03,SSAP,F000062
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2023-01-03,SSAP,F000062
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2023-01-03,SSAP,F000062
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2023-01-03,SSAP,F000062
+Defense,SSAP02,,2023-01-03,SSAP,F000062
+"Interior, Environment, and Related Agencies",SSAP17,,2023-01-03,SSAP,F000062
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2023-01-03,SSAP,G000359
+Energy and Water Development,SSAP22,,2023-01-03,SSAP,G000359
+"State, Foreign Operations, and Related Programs",SSAP20,,2023-01-03,SSAP,G000359
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2023-01-03,SSAP,G000359
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2023-01-03,SSAP,G000359
+Defense,SSAP02,,2023-01-03,SSAP,G000359
+Energy and Water Development,SSAP22,,2023-01-03,SSAP,H000601
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2023-01-03,SSAP,H000601
+"State, Foreign Operations, and Related Programs",SSAP20,,2023-01-03,SSAP,H000601
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2023-01-03,SSAP,H000601
+"Interior, Environment, and Related Agencies",SSAP17,,2023-01-03,SSAP,H000601
+Emerging Threats and Spending Oversight,SSGA20,,2023-01-03,SSGA,H001076
+Permanent Subcommittee on Investigations,SSGA01,,2023-01-03,SSGA,H001076
+Emerging Threats and Spending Oversight,SSGA20,,2023-01-03,SSGA,H001089
+Government Operations and Border Management,SSGA22,,2023-01-03,SSGA,H001089
+Energy and Water Development,SSAP22,,2023-01-03,SSAP,H001046
+Legislative Branch,SSAP08,,2023-01-03,SSAP,H001046
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2023-01-03,SSAP,H001046
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2023-01-03,SSAP,H001046
+"Interior, Environment, and Related Agencies",SSAP17,,2023-01-03,SSAP,H001046
+Energy and Water Development,SSAP22,,2023-01-03,SSAP,H001061
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2023-01-03,SSAP,H001061
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2023-01-03,SSAP,H001061
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2023-01-03,SSAP,H001061
+Defense,SSAP02,,2023-01-03,SSAP,H001061
+Homeland Security,SSAP14,,2023-01-03,SSAP,H001061
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2023-01-03,SSAP,H001079
+Energy and Water Development,SSAP22,,2023-01-03,SSAP,H001079
+Financial Services and General Government,SSAP23,,2023-01-03,SSAP,H001079
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2023-01-03,SSAP,H001079
+Homeland Security,SSAP14,,2023-01-03,SSAP,H001079
+"Interior, Environment, and Related Agencies",SSAP17,,2023-01-03,SSAP,H001079
+Government Operations and Border Management,SSGA22,,2023-01-03,SSGA,J000293
+Permanent Subcommittee on Investigations,SSGA01,,2023-01-03,SSGA,J000293
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2023-01-03,SSAP,K000393
+Energy and Water Development,SSAP22,,2023-01-03,SSAP,K000393
+Financial Services and General Government,SSAP23,,2023-01-03,SSAP,K000393
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2023-01-03,SSAP,K000393
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2023-01-03,SSAP,K000393
+Homeland Security,SSAP14,,2023-01-03,SSAP,K000393
+Government Operations and Border Management,SSGA22,,2023-01-03,SSGA,L000575
+Permanent Subcommittee on Investigations,SSGA01,,2023-01-03,SSGA,L000575
+Energy and Water Development,SSAP22,,2023-01-03,SSAP,L000174
+Financial Services and General Government,SSAP23,,2023-01-03,SSAP,L000174
+Legislative Branch,SSAP08,,2023-01-03,SSAP,L000174
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2023-01-03,SSAP,L000174
+"State, Foreign Operations, and Related Programs",SSAP20,,2023-01-03,SSAP,L000174
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2023-01-03,SSAP,L000174
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2023-01-03,SSAP,L000174
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2023-01-03,SSAP,L000174
+Defense,SSAP02,,2023-01-03,SSAP,L000174
+Homeland Security,SSAP14,,2023-01-03,SSAP,L000174
+"Interior, Environment, and Related Agencies",SSAP17,,2023-01-03,SSAP,L000174
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2023-01-03,SSAP,L000174
+Financial Services and General Government,SSAP23,,2023-01-03,SSAP,M001183
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2023-01-03,SSAP,M001183
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2023-01-03,SSAP,M001183
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2023-01-03,SSAP,M001183
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2023-01-03,SSAP,M001183
+Energy and Water Development,SSAP22,,2023-01-03,SSAP,M000355
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2023-01-03,SSAP,M000355
+"State, Foreign Operations, and Related Programs",SSAP20,,2023-01-03,SSAP,M000355
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2023-01-03,SSAP,M000355
+Defense,SSAP02,,2023-01-03,SSAP,M000355
+"Interior, Environment, and Related Agencies",SSAP17,,2023-01-03,SSAP,M000355
+Energy and Water Development,SSAP22,,2023-01-03,SSAP,M001176
+"State, Foreign Operations, and Related Programs",SSAP20,,2023-01-03,SSAP,M001176
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2023-01-03,SSAP,M001176
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2023-01-03,SSAP,M001176
+"Interior, Environment, and Related Agencies",SSAP17,,2023-01-03,SSAP,M001176
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2023-01-03,SSAP,M001176
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2023-01-03,SSAP,M000934
+Financial Services and General Government,SSAP23,,2023-01-03,SSAP,M000934
+"State, Foreign Operations, and Related Programs",SSAP20,,2023-01-03,SSAP,M000934
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2023-01-03,SSAP,M000934
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2023-01-03,SSAP,M000934
+Defense,SSAP02,,2023-01-03,SSAP,M000934
+Energy and Water Development,SSAP22,,2023-01-03,SSAP,M001153
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2023-01-03,SSAP,M001153
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2023-01-03,SSAP,M001153
+Defense,SSAP02,,2023-01-03,SSAP,M001153
+Homeland Security,SSAP14,,2023-01-03,SSAP,M001153
+"Interior, Environment, and Related Agencies",SSAP17,,2023-01-03,SSAP,M001153
+Legislative Branch,SSAP08,,2023-01-03,SSAP,M001169
+"State, Foreign Operations, and Related Programs",SSAP20,,2023-01-03,SSAP,M001169
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2023-01-03,SSAP,M001169
+Homeland Security,SSAP14,,2023-01-03,SSAP,M001169
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2023-01-03,SSAP,M001169
+Energy and Water Development,SSAP22,,2023-01-03,SSAP,M001111
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2023-01-03,SSAP,M001111
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2023-01-03,SSAP,M001111
+Defense,SSAP02,,2023-01-03,SSAP,M001111
+Homeland Security,SSAP14,,2023-01-03,SSAP,M001111
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2023-01-03,SSAP,M001111
+Emerging Threats and Spending Oversight,SSGA20,,2023-01-03,SSGA,O000174
+Government Operations and Border Management,SSGA22,,2023-01-03,SSGA,O000174
+Permanent Subcommittee on Investigations,SSGA01,,2023-01-03,SSGA,O000174
+Government Operations and Border Management,SSGA22,,2023-01-03,SSGA,P000145
+Permanent Subcommittee on Investigations,SSGA01,,2023-01-03,SSGA,P000145
+Emerging Threats and Spending Oversight,SSGA20,,2023-01-03,SSGA,P000603
+Permanent Subcommittee on Investigations,SSGA01,,2023-01-03,SSGA,P000603
+Emerging Threats and Spending Oversight,SSGA20,,2023-01-03,SSGA,P000595
+Government Operations and Border Management,SSGA22,,2023-01-03,SSGA,P000595
+Permanent Subcommittee on Investigations,SSGA01,,2023-01-03,SSGA,P000595
+Emerging Threats and Spending Oversight,SSGA20,,2023-01-03,SSGA,P000449
+Government Operations and Border Management,SSGA22,,2023-01-03,SSGA,P000449
+Permanent Subcommittee on Investigations,SSGA01,,2023-01-03,SSGA,P000449
+Legislative Branch,SSAP08,,2023-01-03,SSAP,R000122
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2023-01-03,SSAP,R000122
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2023-01-03,SSAP,R000122
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2023-01-03,SSAP,R000122
+Defense,SSAP02,,2023-01-03,SSAP,R000122
+"Interior, Environment, and Related Agencies",SSAP17,,2023-01-03,SSAP,R000122
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2023-01-03,SSAP,R000122
+Emerging Threats and Spending Oversight,SSGA20,,2023-01-03,SSGA,R000615
+Government Operations and Border Management,SSGA22,,2023-01-03,SSGA,R000615
+Emerging Threats and Spending Oversight,SSGA20,,2023-01-03,SSGA,R000608
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2023-01-03,SSAP,R000595
+Legislative Branch,SSAP08,,2023-01-03,SSAP,R000595
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2023-01-03,SSAP,R000595
+"State, Foreign Operations, and Related Programs",SSAP20,,2023-01-03,SSAP,R000595
+"Interior, Environment, and Related Agencies",SSAP17,,2023-01-03,SSAP,R000595
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2023-01-03,SSAP,S001194
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2023-01-03,SSAP,S001194
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2023-01-03,SSAP,S001194
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2023-01-03,SSAP,S001194
+Defense,SSAP02,,2023-01-03,SSAP,S001194
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2023-01-03,SSAP,S001194
+Emerging Threats and Spending Oversight,SSGA20,,2023-01-03,SSGA,S001217
+Permanent Subcommittee on Investigations,SSGA01,,2023-01-03,SSGA,S001217
+Energy and Water Development,SSAP22,,2023-01-03,SSAP,S001181
+"State, Foreign Operations, and Related Programs",SSAP20,,2023-01-03,SSAP,S001181
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2023-01-03,SSAP,S001181
+Defense,SSAP02,,2023-01-03,SSAP,S001181
+Homeland Security,SSAP14,,2023-01-03,SSAP,S001181
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2023-01-03,SSAP,S001181
+"Labor, Health and Human Services, and Education, and Related Agencies",SSAP18,,2023-01-03,SSAP,S000320
+Energy and Water Development,SSAP22,,2023-01-03,SSAP,S000320
+Financial Services and General Government,SSAP23,,2023-01-03,SSAP,S000320
+Legislative Branch,SSAP08,,2023-01-03,SSAP,S000320
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2023-01-03,SSAP,S000320
+"State, Foreign Operations, and Related Programs",SSAP20,,2023-01-03,SSAP,S000320
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2023-01-03,SSAP,S000320
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2023-01-03,SSAP,S000320
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2023-01-03,SSAP,S000320
+Defense,SSAP02,,2023-01-03,SSAP,S000320
+Homeland Security,SSAP14,,2023-01-03,SSAP,S000320
+"Interior, Environment, and Related Agencies",SSAP17,,2023-01-03,SSAP,S000320
+Emerging Threats and Spending Oversight,SSGA20,,2022-12-08,SSGA,S001191
+Government Operations and Border Management,SSGA22,,2022-12-08,SSGA,S001191
+Energy and Water Development,SSAP22,,2023-01-03,SSAP,T000464
+"Military Construction, Veterans Affairs, and Related Agencies",SSAP19,,2023-01-03,SSAP,T000464
+"Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",SSAP01,,2023-01-03,SSAP,T000464
+Defense,SSAP02,,2023-01-03,SSAP,T000464
+Homeland Security,SSAP14,,2023-01-03,SSAP,T000464
+"Interior, Environment, and Related Agencies",SSAP17,,2023-01-03,SSAP,T000464
+Financial Services and General Government,SSAP23,,2023-01-03,SSAP,V000128
+"State, Foreign Operations, and Related Programs",SSAP20,,2023-01-03,SSAP,V000128
+"Transportation, Housing and Urban Development, and Related Agencies",SSAP24,,2023-01-03,SSAP,V000128
+"Commerce, Justice, Science, and Related Agencies",SSAP16,,2023-01-03,SSAP,V000128
+"Interior, Environment, and Related Agencies",SSAP17,,2023-01-03,SSAP,V000128

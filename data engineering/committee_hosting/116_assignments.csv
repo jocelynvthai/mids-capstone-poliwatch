@@ -1,0 +1,912 @@
+Congress,Committee code,ID #,Name,Maj/Min,Rank Within Party Status,Party,Date of Assignment,Date of Termination,Senior Party Member,Committee Seniority,Committee Period of Service,Committee status at end of this Congress,Committee continuity of assignment in next Congress,Appointment Citation,Committee Name,State,CD,State Name,Notes,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,parsed_name,first_name,last_name
+116,102,29127.0,"Peterson, Collin C.",1.0,1.0,100,2019-01-04 00:00:00,2021-01-03,11.0,15.0,2.0,1.0,0.0,HRES24,Agriculture,33,7.0,MN,,,,,,Collin C. Peterson,Collin,Peterson
+116,102,20321.0,"Scott, David",1.0,2.0,100,2019-01-17 00:00:00,2021-01-03,0.0,9.0,2.0,1.0,1.0,HRES57,Agriculture,44,13.0,GA,,,,,,David Scott,David,Scott
+116,102,20501.0,"Costa, Jim",1.0,3.0,100,2019-01-17 00:00:00,2021-01-03,0.0,8.0,2.0,1.0,1.0,HRES57,Agriculture,71,16.0,CA,,,,,,Jim Costa,Jim,Costa
+116,102,20941.0,"Fudge, Marcia",1.0,4.0,100,2019-01-17 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,3.0,HRES57,Agriculture,24,11.0,OH,"On December 10, 2020, President Biden announced his plan to nominate Fudge for Secretary of Housing and Urban Development",,,,,Marcia Fudge,Marcia,Fudge
+116,102,29729.0,"McGovern, Jim",1.0,5.0,100,2019-01-17 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES57,Agriculture,3,2.0,MA,,,,,,Jim McGovern,Jim,McGovern
+116,102,21366.0,"Vela, Filemon",1.0,6.0,100,2019-01-17 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES57,Agriculture,49,34.0,TX,,,,,,Filemon Vela,Filemon,Vela
+116,102,70502.0,"Plaskett, Stacey",1.0,7.0,100,2019-01-17 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES57,Agriculture,93,1.0,VI,,,,,,Stacey Plaskett,Stacey,Plaskett
+116,102,21545.0,"Adams, Alma",1.0,8.0,100,2019-01-17 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES57,Agriculture,44,12.0,NC,,,,,,Alma Adams,Alma,Adams
+116,102,21966.0,"Spanberger, Abigail",1.0,9.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Agriculture,40,7.0,VA,,,,,,Abigail Spanberger,Abigail,Spanberger
+116,102,21931.0,"Hayes, Jahana",1.0,10.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Agriculture,1,5.0,CT,,,,,,Jahana Hayes,Jahana,Hayes
+116,102,21916.0,"Delgado, Antonio",1.0,11.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Agriculture,13,19.0,NY,,,,,,Antonio Delgado,Antonio,Delgado
+116,102,21909.0,"Cox, TJ",1.0,12.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES57,Agriculture,71,21.0,CA,,,,,,TJ Cox,TJ,Cox
+116,102,21910.0,"Craig, Angela",1.0,13.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Agriculture,33,2.0,MN,,,,,,Angela Craig,Angela,Craig
+116,102,21904.0,"Brindisi, Anthony",1.0,14.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES57,Agriculture,13,22.0,NY,,,,,,Anthony Brindisi,Anthony,Brindisi
+116,102,21980.0,"Van Drew, Jefferson",1.0,15.0,100,2019-01-17 00:00:00,2020-01-07,0.0,1.0,2.0,2.0,2.0,HRES57,Agriculture,12,2.0,NJ,"Changed party to Republican 1/7/2020, left this committtee",,,,,Jefferson Van Drew,Jefferson,Van Drew
+116,102,21930.0,"Harder, Josh",1.0,16.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Agriculture,71,10.0,CA,,,,,,Josh Harder,Josh,Harder
+116,102,21962.0,"Schrier, Kim",1.0,17.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Agriculture,73,8.0,WA,,,,,,Kim Schrier,Kim,Schrier
+116,102,20920.0,"Pingree, Chellie",1.0,18.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Agriculture,2,1.0,ME,,,,,,Chellie Pingree,Chellie,Pingree
+116,102,21329.0,"Bustos, Cheri",1.0,19.0,100,2019-01-17 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES57,Agriculture,21,17.0,IL,,,,,,Cheri Bustos,Cheri,Bustos
+116,102,21344.0,"Maloney, Sean Patrick",1.0,20.0,100,2019-01-17 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES57,Agriculture,13,18.0,NY,,,,,,Sean Patrick Maloney,Sean,Maloney
+116,102,21709.0,"Carbajal, Salud",1.0,21.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Agriculture,71,24.0,CA,,,,,,Salud Carbajal,Salud,Carbajal
+116,102,21732.0,"Lawson Jr., Alfred (Al)",1.0,22.0,100,2019-01-17 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES57,Agriculture,43,5.0,FL,,,,,,Alfred Lawson Jr. (Al),Alfred,Lawson
+116,102,21739.0,"O'Halleran, Tom",1.0,23.0,100,2019-01-17 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES57,Agriculture,51,1.0,AZ,,,,,,Tom O'Halleran,Tom,O'Halleran
+116,102,21740.0,"Panetta, James V. (Jimmy)",1.0,24.0,100,2019-01-17 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES57,Agriculture,71,21.0,CA,,,,,,James V. Panetta (Jimmy),James,Panetta
+116,102,20902.0,"Kirkpatrick, Ann",1.0,25.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,4.0,1.0,1.0,HRES57,Agriculture,61,2.0,AZ,,,,,,Ann Kirkpatrick,Ann,Kirkpatrick
+116,102,21902.0,"Axne, Cynthia",1.0,26.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Agriculture,31,3.0,IA,,,,,,Cynthia Axne,Cynthia,Axne
+116,102,21976.0,"Torres Small, Xochitl",4.0,27.0,100,2020-02-27 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES870,Agriculture,66,2.0,NM,,,,,,Xochitl Torres Small,Xochitl,Torres Small
+116,102,20531.0,"Conaway, K. Michael",2.0,1.0,200,2019-01-04 00:00:00,2021-01-03,21.0,8.0,2.0,1.0,0.0,HRES25,Agriculture,49,11.0,TX,Announced retirement at end of 116th congress 7/30/2019,,,,,K. Michael Conaway,K.,Conaway
+116,102,20946.0,"Thompson, Glenn",2.0,2.0,200,2019-01-23 00:00:00,2021-01-03,0.0,6.0,2.0,1.0,1.0,HRES68,Agriculture,14,5.0,PA,,,,,,Glenn Thompson,Glenn,Thompson
+116,102,21123.0,"Scott, Austin",2.0,3.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Agriculture,44,8.0,GA,,,,,,Austin Scott,Austin,Scott
+116,102,21106.0,"Crawford, Rick",2.0,4.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Agriculture,42,1.0,AR,,,,,,Rick Crawford,Rick,Crawford
+116,102,21179.0,"DesJarlais, Scott",2.0,5.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Agriculture,54,4.0,TN,,,,,,Scott DesJarlais,Scott,DesJarlais
+116,102,21149.0,"Hartzler, Vicky",2.0,6.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Agriculture,34,4.0,MO,,,,,,Vicky Hartzler,Vicky,Hartzler
+116,102,21302.0,"La Malfa, Doug",2.0,7.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Agriculture,71,1.0,CA,,,,,,Doug La Malfa,Doug,La Malfa
+116,102,21328.0,"Davis, Rodney",2.0,8.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Agriculture,21,13.0,IL,,,,,,Rodney Davis,Rodney,Davis
+116,102,21317.0,"Yoho, Ted",2.0,9.0,200,2019-01-23 00:00:00,2021-01-03,0.0,6.0,2.0,1.0,0.0,HRES68,Agriculture,43,3.0,FL,Announced retirement at end of 116th congress,,,,,Ted Yoho,Ted,Yoho
+116,102,21516.0,"Allen, Rick",2.0,10.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Agriculture,44,12.0,GA,,,,,,Rick Allen,Rick,Allen
+116,102,21519.0,"Bost, Mike",2.0,11.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,2.0,HRES68,Agriculture,21,12.0,IL,,,,,,Mike Bost,Mike,Bost
+116,102,21544.0,"Rouzer, David",2.0,12.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Agriculture,47,7.0,NC,,,,,,David Rouzer,David,Rouzer
+116,102,21522.0,"Abraham, Ralph",2.0,13.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,0.0,HRES68,Agriculture,45,5.0,LA,announced retirement at end of 116th congress 2/26/20,,,,,Ralph Abraham,Ralph,Abraham
+116,102,21561.0,"Kelly, Trent",2.0,14.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Agriculture,46,1.0,MS,,,,,,Trent Kelly,Trent,Kelly
+116,102,21565.0,"Comer, James",2.0,15.0,200,2019-01-23 00:00:00,2020-07-07,0.0,2.0,3.0,1.0,2.0,HRES68,Agriculture,51,1.0,KY,"Leaves summer 2020, after being made a ranking member on the oversight and reform committee. ",,,,,James Comer,James,Comer
+116,102,21734.0,"Marshall, Roger",2.0,16.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,0.0,HRES68,Agriculture,32,1.0,KS,Ran for senate,,,,,Roger Marshall,Roger,Marshall
+116,102,21701.0,"Bacon, Donald J. (Don)",2.0,17.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Agriculture,35,2.0,NE,,,,,,Donald J. Bacon (Don),Donald,Bacon
+116,102,21714.0,"Dunn, Neal",2.0,18.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES68,Agriculture,43,2.0,FL,,,,,,Neal Dunn,Neal,Dunn
+116,102,21935.0,"Johnson, Dustin",2.0,19.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Agriculture,37,1.0,SD,,,,,,Dustin Johnson,Dustin,Johnson
+116,102,21903.0,"Baird, James",2.0,20.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Agriculture,22,4.0,IN,,,,,,James Baird,James,Baird
+116,102,21929.0,"Hagedorn, Jim",2.0,21.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Agriculture,33,1.0,MN,,,,,,Jim Hagedorn,Jim,Hagedorn
+116,102,21990.0,"Jacobs, Chris",2.0,22.0,200,2020-07-21 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES1058,Agriculture,13,27.0,NY,"Elected in a special election held on June 23, 2020",,,,,Chris Jacobs,Chris,Jacobs
+116,102,21759.0,"Balderson, Troy",2.0,23.0,200,2020-07-30 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES1072,Argriculture,24,12.0,OH,,,,,,Troy Balderson,Troy,Balderson
+116,104,15612.0,"Lowey, Nita M.",1.0,1.0,100,2019-01-03 00:00:00,2021-01-03,11.0,14.0,2.0,1.0,0.0,HRES7,Appropriations,13,17.0,NY,Announced retirement at end of 116th congress 10/10/2019,,,,,Nita M. Lowey,Nita,Lowey
+116,104,15029.0,"Kaptur, Marcy",1.0,2.0,100,2019-01-15 00:00:00,2021-01-03,0.0,16.0,2.0,1.0,1.0,HRES42,Appropriations,24,9.0,OH,,,,,,Marcy Kaptur,Marcy,Kaptur
+116,104,15124.0,"Visclosky, Peter J.",1.0,3.0,100,2019-01-15 00:00:00,2021-01-03,0.0,15.0,2.0,1.0,0.0,HRES42,Appropriations,22,1.0,IN,Announced retirement at end of 116th congress 11/06/2019,,,,,Peter J. Visclosky,Peter,Visclosky
+116,104,29134.0,"Serrano, Jose E.",1.0,4.0,100,2019-01-15 00:00:00,2021-01-03,0.0,13.0,4.0,1.0,0.0,HRES42,Appropriations,13,15.0,NY,Announced retirement at end of 116th congress 3/25/2019,,,,,Jose E. Serrano,Jose,Serrano
+116,104,29109.0,"Delauro, Rosa L.",1.0,5.0,100,2019-01-15 00:00:00,2021-01-03,0.0,12.0,4.0,1.0,1.0,HRES42,Appropriations,1,3.0,CT,,,,,,Rosa L. Delauro,Rosa,Delauro
+116,104,15438.0,"Price, David E.",1.0,6.0,100,2019-01-15 00:00:00,2021-01-03,0.0,12.0,4.0,1.0,1.0,HRES42,Appropriations,47,4.0,NC,,,,,,David E. Price,David,Price
+116,104,29317.0,"Roybal-Allard, Lucille",1.0,7.0,100,2019-01-15 00:00:00,2021-01-03,0.0,11.0,2.0,1.0,1.0,HRES42,Appropriations,71,40.0,CA,,,,,,Lucille Roybal-Allard,Lucille,Roybal-Allard
+116,104,29339.0,"Bishop, Sanford D., Jr.",1.0,8.0,100,2019-01-15 00:00:00,2021-01-03,0.0,9.0,2.0,1.0,1.0,HRES42,Appropriations,44,2.0,GA,,,,,,Sanford D. Bishop Jr.,Sanford,Bishop
+116,104,29778.0,"Lee, Barbara",1.0,9.0,100,2019-01-15 00:00:00,2021-01-03,0.0,7.0,2.0,1.0,1.0,HRES42,Appropriations,71,13.0,CA,,,,,,Barbara Lee,Barbara,Lee
+116,104,20122.0,"McCollum, Betty",1.0,10.0,100,2019-01-15 00:00:00,2021-01-03,0.0,7.0,2.0,1.0,1.0,HRES42,Appropriations,33,4.0,MN,,,,,,Betty McCollum,Betty,McCollum
+116,104,20343.0,"Ryan, Timothy J.",1.0,11.0,100,2019-01-15 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES42,Appropriations,24,13.0,OH,,,,,,Timothy J. Ryan,Timothy,Ryan
+116,104,20329.0,"Ruppersberger, C.A. Dutch",1.0,12.0,100,2019-01-15 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES42,Appropriations,52,2.0,MD,,,,,,C.A. Dutch Ruppersberger,C.A.,Ruppersberger
+116,104,20504.0,"Wasserman Schultz, Debbie",1.0,13.0,100,2019-01-15 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES42,Appropriations,43,20.0,FL,,,,,,Debbie Wasserman Schultz,Debbie,Wasserman Schultz
+116,104,20533.0,"Cuellar, Henry",1.0,14.0,100,2019-01-15 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES42,Appropriations,49,28.0,TX,,,,,,Henry Cuellar,Henry,Cuellar
+116,104,20920.0,"Pingree, Chellie",1.0,15.0,100,2019-01-15 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES42,Appropriations,2,1.0,ME,,,,,,Chellie Pingree,Chellie,Pingree
+116,104,20954.0,"Quigley, Mike",1.0,16.0,100,2019-01-15 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES42,Appropriations,21,5.0,IL,,,,,,Mike Quigley,Mike,Quigley
+116,104,21368.0,"Kilmer, Derek",1.0,17.0,100,2019-01-15 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES42,Appropriations,73,6.0,WA,,,,,,Derek Kilmer,Derek,Kilmer
+116,104,21358.0,"Cartwright, Matthew",1.0,18.0,100,2019-01-15 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES42,Appropriations,14,17.0,PA,,,,,,Matthew Cartwright,Matthew,Cartwright
+116,104,21342.0,"Meng, Grace",1.0,19.0,100,2019-01-15 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES42,Appropriations,13,6.0,NY,,,,,,Grace Meng,Grace,Meng
+116,104,21370.0,"Pocan, Mark",1.0,20.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Appropriations,25,2.0,WI,,,,,,Mark Pocan,Mark,Pocan
+116,104,21375.0,"Clark, Katherine Marlea",1.0,21.0,100,2019-01-15 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES42,Appropriations,3,5.0,MA,,,,,,Katherine Marlea Clark,Katherine,Clark
+116,104,21506.0,"Aguilar, Peter Rey",1.0,22.0,100,2019-01-15 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES42,Appropriations,71,31.0,CA,,,,,,Peter Rey Aguilar,Peter,Aguilar
+116,104,21321.0,"Frankel, Lois",1.0,23.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Appropriations,43,21.0,FL,,,,,,Lois Frankel,Lois,Frankel
+116,104,21329.0,"Bustos, Cheri",1.0,24.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Appropriations,21,17.0,IL,,,,,,Cheri Bustos,Cheri,Bustos
+116,104,21538.0,"Watson Coleman, Bonnie",1.0,25.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Appropriations,12,12.0,NJ,,,,,,Bonnie Watson Coleman,Bonnie,Watson Coleman
+116,104,21530.0,"Lawrence, Brenda",1.0,26.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Appropriations,23,14.0,MI,,,,,,Brenda Lawrence,Brenda,Lawrence
+116,104,21508.0,"Torres, Norma",1.0,27.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Appropriations,71,35.0,CA,,,,,,Norma Torres,Norma,Torres
+116,104,21712.0,"Crist, Charles J. (Charlie)",1.0,28.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Appropriations,43,13.0,FL,,,,,,Charles J. Crist (Charlie),Charles,Crist
+116,104,20902.0,"Kirkpatrick, Ann",1.0,29.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Appropriations,61,2.0,AZ,,,,,,Ann Kirkpatrick,Ann,Kirkpatrick
+116,104,20322.0,"Case, Ed",1.0,30.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Appropriations,82,1.0,HI,,,,,,Ed Case,Ed,Case
+116,104,29762.0,"Granger, Kay",2.0,1.0,200,2019-01-03 00:00:00,2021-01-03,21.0,11.0,2.0,1.0,1.0,HRES8,Appropriations,49,12.0,TX,,,,,,Kay Granger,Kay,Granger
+116,104,14854.0,"Rogers, Harold",2.0,2.0,200,2019-01-23 00:00:00,2021-01-03,0.0,19.0,2.0,1.0,1.0,HRES68,Appropriations,51,5.0,KY,,,,,,Harold Rogers,Harold,Rogers
+116,104,29701.0,"Aderholt, Robert",2.0,3.0,200,2019-01-23 00:00:00,2021-01-03,0.0,12.0,2.0,1.0,1.0,HRES68,Appropriations,41,4.0,AL,,,,,,Robert Aderholt,Robert,Aderholt
+116,104,29910.0,"Simpson, Michael K.",2.0,4.0,200,2019-01-23 00:00:00,2021-01-03,0.0,9.0,2.0,1.0,1.0,HRES68,Appropriations,63,2.0,ID,,,,,,Michael K. Simpson,Michael,Simpson
+116,104,20356.0,"Carter, John R",2.0,5.0,200,2019-01-23 00:00:00,2021-01-03,0.0,8.0,2.0,1.0,1.0,HRES68,Appropriations,49,31.0,TX,,,,,,John R Carter,John,Carter
+116,104,29323.0,"Calvert, Ken",2.0,6.0,200,2019-01-23 00:00:00,2021-01-03,0.0,7.0,2.0,1.0,1.0,HRES68,Appropriations,71,42.0,CA,,,,,,Ken Calvert,Ken,Calvert
+116,104,20344.0,"Cole, Tom",2.0,7.0,200,2019-01-23 00:00:00,2021-01-03,0.0,6.0,2.0,1.0,1.0,HRES68,Appropriations,53,4.0,OK,,,,,,Tom Cole,Tom,Cole
+116,104,20316.0,"Diaz-Balart, Mario",2.0,8.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Appropriations,25,43.0,FL,,,,,,Mario Diaz-Balart,Mario,Diaz-Balart
+116,104,20962.0,"Graves, Tom",2.0,9.0,200,2019-01-23 00:00:00,2020-10-04,0.0,5.0,2.0,8.0,0.0,HRES68,Appropriations,44,14.0,GA,"Announced retirement early, effective october 4th",,,,,Tom Graves,Tom,Graves
+116,104,21108.0,"Womack, Steve",2.0,10.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Appropriations,3,42.0,AR,,,,,,Steve Womack,Steve,Womack
+116,104,20518.0,"Fortenberry, Jeff",2.0,11.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES68,Appropriations,35,1.0,NE,,,,,,Jeff Fortenberry,Jeff,Fortenberry
+116,104,21178.0,"Fleischmann, Chuck",2.0,12.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES68,Appropriations,54,3.0,TN,,,,,,Chuck Fleischmann,Chuck,Fleischmann
+116,104,21187.0,"Herrera Beutler, Jaime",2.0,13.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES68,Appropriations,73,3.0,WA,,,,,,Jaime Herrera Beutler,Jaime,Herrera Beutler
+116,104,21353.0,"Joyce, David P.",2.0,14.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES68,Appropriations,24,14.0,OH,,,,,,David P. Joyce,David,Joyce
+116,104,21139.0,"Harris, Andy",2.0,15.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES68,Appropriations,52,1.0,MD,,,,,,Andy Harris,Andy,Harris
+116,104,21192.0,"Roby, Martha",2.0,16.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,0.0,HRES68,Appropriations,41,2.0,AL,Announced retirement at end of 116th congress,,,,,Martha Roby,Martha,Roby
+116,104,21196.0,"Amodei, Mark E.",2.0,17.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES68,Appropriations,65,2.0,NV,,,,,,Mark E. Amodei,Mark,Amodei
+116,104,21367.0,"Stewart, Chris",2.0,18.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES68,Appropriations,67,2.0,UT,,,,,,Chris Stewart,Chris,Stewart
+116,104,21148.0,"Palazzo, Steven",2.0,19.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Appropriations,49,4.0,MS,,,,,,Steven Palazzo,Steven,Palazzo
+116,104,21556.0,"Newhouse, Dan",2.0,20.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Appropriations,73,4.0,WA,,,,,,Dan Newhouse,Dan,Newhouse
+116,104,21526.0,"Moolenaar, John",2.0,21.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Appropriations,23,4.0,MI,,,,,,John Moolenaar,John,Moolenaar
+116,104,21744.0,"Rutherford, John H.",2.0,22.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Appropriations,43,4.0,FL,,,,,,John H. Rutherford,John,Rutherford
+116,104,21550.0,"Hurd, Will",2.0,23.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES68,Appropriations,49,23.0,TX,Announced retirement at end of 116th congress 8/1/2019,,,,,Will Hurd,Will,Hurd
+116,106,29768.0,"Smith, Adam",1.0,1.0,100,2019-01-04 00:00:00,2021-01-03,11.0,12.0,2.0,1.0,1.0,HRES24,Armed Services,73,9.0,WA,,,,,,Adam Smith,Adam,Smith
+116,106,20108.0,"Davis, Susan",1.0,2.0,100,2019-01-15 00:00:00,2021-01-03,0.0,10.0,2.0,1.0,0.0,HRES42,Armed Services,71,53.0,CA,Announced retirement at end of 116th congress,,,,,Susan Davis,Susan,Davis
+116,106,20136.0,"Langevin, James",1.0,3.0,100,2019-01-15 00:00:00,2021-01-03,0.0,7.0,4.0,1.0,1.0,HRES42,Armed Services,5,2.0,RI,,,,,,James Langevin,James,Langevin
+116,106,20145.0,"Larsen, Rick",1.0,4.0,100,2019-01-15 00:00:00,2021-01-03,0.0,10.0,2.0,1.0,1.0,HRES42,Armed Services,73,2.0,WA,,,,,,Rick Larsen,Rick,Larsen
+116,106,15019.0,"Cooper, Jim",1.0,5.0,100,2019-01-15 00:00:00,2021-01-03,0.0,9.0,2.0,1.0,1.0,HRES42,Armed Services,54,5.0,TN,,,,,,Jim Cooper,Jim,Cooper
+116,106,20706.0,"Courtney, Joe",1.0,6.0,100,2019-01-15 00:00:00,2021-01-03,0.0,7.0,2.0,1.0,1.0,HRES42,Armed Services,1,2.0,CT,,,,,,Joe Courtney,Joe,Courtney
+116,106,20958.0,"Garamendi, John J.",1.0,7.0,100,2019-01-15 00:00:00,2021-01-03,0.0,6.0,2.0,1.0,1.0,HRES42,Armed Services,71,3.0,CA,,,,,,John J. Garamendi,John,Garamendi
+116,106,20762.0,"Speier, Karen Lorraine Jacqueline (Jackie)",1.0,8.0,100,2019-01-15 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES42,Armed Services,71,14.0,CA,,,,,,Karen Lorraine Jacqueline Speier (Jackie),Karen,Speier
+116,106,21324.0,"Gabbard, Tulsi",1.0,9.0,100,2019-01-15 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,9.0,HRES42,Armed Services,82,2.0,HI,Announced 10/25/19 that she is not running for re-election in 2020 due to presidential bid,,,,,Tulsi Gabbard,Tulsi,Gabbard
+116,106,21536.0,"Norcross, Donald",1.0,10.0,100,2019-01-15 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES42,Armed Services,12,1.0,NJ,,,,,,Donald Norcross,Donald,Norcross
+116,106,21502.0,"Gallego, Ruben",1.0,11.0,100,2019-01-15 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES42,Armed Services,61,7.0,AZ,,,,,,Ruben Gallego,Ruben,Gallego
+116,106,21525.0,"Moulton, Seth",1.0,12.0,100,2019-01-15 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES42,Armed Services,3,6.0,MA,,,,,,Seth Moulton,Seth,Moulton
+116,106,21709.0,"Carbajal, Salud",1.0,13.0,100,2019-01-15 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES42,Armed Services,71,24.0,CA,,,,,,Salud Carbajal,Salud,Carbajal
+116,106,21707.0,"Brown, Anthony G.",1.0,14.0,100,2019-01-15 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES42,Armed Services,52,4.0,MD,,,,,,Anthony G. Brown,Anthony,Brown
+116,106,21728.0,"Khanna, Rohit (Ro)",1.0,15.0,100,2019-01-15 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES42,Armed Services,71,17.0,CA,,,,,,Rohit Khanna (Ro),Rohit,Khanna
+116,106,21140.0,"Keating, William",1.0,16.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Armed Services,3,9.0,MA,,,,,,William Keating,William,Keating
+116,106,21366.0,"Vela, Filemon",1.0,17.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Armed Services,49,34.0,TX,,,,,,Filemon Vela,Filemon,Vela
+116,106,21937.0,"Kim, Andy",1.0,18.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Armed Services,12,3.0,NJ,,,,,,Andy Kim,Andy,Kim
+116,106,21933.0,"Horn, Kendra",1.0,19.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES42,Armed Services,53,5.0,OK,,,,,,Kendra Horn,Kendra,Horn
+116,106,21907.0,"Cisneros, Gil",1.0,20.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES42,Armed Services,71,39.0,CA,,,,,,Gil Cisneros,Gil,Cisneros
+116,106,21934.0,"Houlahan, Christina",1.0,21.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Armed Services,14,6.0,PA,,,,,,Christina Houlahan,Christina,Houlahan
+116,106,21912.0,"Crow, Jason",1.0,22.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Armed Services,62,6.0,CO,,,,,,Jason Crow,Jason,Crow
+116,106,21976.0,"Torres Small, Xochitl",1.0,23.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES42,Armed Services,66,2.0,NM,,,,,,Xochitl Torres Small,Xochitl,Torres Small
+116,106,21965.0,"Slotkin, Elissa",1.0,24.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Armed Services,23,8.0,MI,,,,,,Elissa Slotkin,Elissa,Slotkin
+116,106,21964.0,"Sherrill, Mikie",1.0,25.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Armed Services,12,11.0,NJ,,,,,,Mikie Sherrill,Mikie,Sherrill
+116,106,21932.0,"Hill, Katie",1.0,26.0,100,2019-01-15 00:00:00,2019-11-03,0.0,1.0,2.0,8.0,0.0,HRES42,Armed Services,71,25.0,CA,Resigned because of allegations that she had relations with a staffer and because her husband released her nudes ,,,,,Katie Hill,Katie,Hill
+116,106,21917.0,"Escobar, Veronica",1.0,27.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Armed Services,49,16.0,TX,,,,,,Veronica Escobar,Veronica,Escobar
+116,106,21928.0,"Haaland, Debra",1.0,28.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES42,Armed Services,66,1.0,NM,"Biden announced on December 17th, 2020 that Haaland would be secretary of the interior",,,,,Debra Haaland,Debra,Haaland
+116,106,21923.0,"Golden, Jared",1.0,29.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Armed Services,2,2.0,ME,,,,,,Jared Golden,Jared,Golden
+116,106,21977.0,"Trahan, Lori",1.0,30.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES42,Armed Services,3,3.0,MA,,,,,,Lori Trahan,Lori,Trahan
+116,106,21941.0,"Luria, Elaine",1.0,31.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Armed Services,40,2.0,VA,,,,,,Elaine Luria,Elaine,Luria
+116,106,21904.0,"Brindisi, Anthony",6.0,1.0,100,2019-11-19 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES712,Armed Services,13,22.0,NY,,,,,,Anthony Brindisi,Anthony,Brindisi
+116,106,29572.0,"Thornberry, William M. (Mac)",2.0,1.0,200,2019-01-04 00:00:00,2021-01-03,21.0,13.0,2.0,1.0,0.0,HRES25,Armed Services,49,13.0,TX,"Retired, announced 9/30/2019",,,,,William M. Thornberry (Mac),William,Thornberry
+116,106,20138.0,"Wilson, Addison G. (Joe)",2.0,2.0,200,2019-01-23 00:00:00,2021-01-03,0.0,10.0,2.0,1.0,1.0,HRES68,Armed Services,48,2.0,SC,,,,,,Addison G. Wilson (Joe),Addison,Wilson
+116,106,20357.0,"Bishop, Rob",2.0,3.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,0.0,HRES68,Armed Services,67,1.0,UT,,,,,,Rob Bishop,Rob,Bishop
+116,106,20342.0,"Turner, Mike",2.0,4.0,200,2019-01-23 00:00:00,2021-01-03,0.0,9.0,2.0,1.0,1.0,HRES68,Armed Services,24,10.0,OH,,,,,,Mike Turner,Mike,Turner
+116,106,20301.0,"Rogers, Mike Dennis",2.0,5.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Armed Services,41,3.0,AL,,,,,,Mike Dennis Rogers,Mike,Rogers
+116,106,20531.0,"Conaway, K. Michael",2.0,6.0,200,2019-01-23 00:00:00,2021-01-03,0.0,8.0,2.0,1.0,0.0,HRES68,Armed Services,49,11.0,TX,Announced retirement at end of 116th congress 7/30/2019,,,,,K. Michael Conaway,K.,Conaway
+116,106,20704.0,"Lamborn, Doug",2.0,7.0,200,2019-01-23 00:00:00,2021-01-03,0.0,7.0,2.0,1.0,1.0,HRES68,Armed Services,62,5.0,CO,,,,,,Doug Lamborn,Doug,Lamborn
+116,106,20756.0,"Wittman, Robert J.",2.0,8.0,200,2019-01-23 00:00:00,2021-01-03,0.0,7.0,2.0,1.0,1.0,HRES68,Armed Services,40,1.0,VA,,,,,,Robert J. Wittman,Robert,Wittman
+116,106,21149.0,"Hartzler, Vicky",2.0,9.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Armed Services,34,4.0,MO,,,,,,Vicky Hartzler,Vicky,Hartzler
+116,106,21123.0,"Scott, Austin",2.0,10.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Armed Services,44,8.0,GA,,,,,,Austin Scott,Austin,Scott
+116,106,21193.0,"Brooks, Mo",2.0,11.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Armed Services,41,5.0,AL,,,,,,Mo Brooks,Mo,Brooks
+116,106,21305.0,"Cook, Paul",2.0,12.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,0.0,HRES68,Armed Services,71,8.0,CA,,,,,,Paul Cook,Paul,Cook
+116,106,21376.0,"Byrne, Bradley",2.0,13.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,0.0,HRES68,Armed Services,41,1.0,AL,,,,,,Bradley Byrne,Bradley,Byrne
+116,106,20124.0,"Graves, Samuel",2.0,14.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Armed Services,34,6.0,MO,,,,,,Samuel Graves,Samuel,Graves
+116,106,21541.0,"Stefanik, Elise",2.0,15.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Armed Services,13,21.0,NY,,,,,,Elise Stefanik,Elise,Stefanik
+116,106,21179.0,"DesJarlais, Scott",2.0,16.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Armed Services,54,4.0,TN,,,,,,Scott DesJarlais,Scott,DesJarlais
+116,106,21522.0,"Abraham, Ralph",2.0,17.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,0.0,HRES68,Armed Services,45,5.0,LA,Announced retirement at end of 116th congress 2/26/20,,,,,Ralph Abraham,Ralph,Abraham
+116,106,21561.0,"Kelly, Trent",2.0,18.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Armed Services,46,1.0,MS,,,,,,Trent Kelly,Trent,Kelly
+116,106,21720.0,"Gallagher, Michael (Mike)",2.0,19.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Armed Services,25,8.0,WI,,,,,,Michael Gallagher (Mike),Michael,Gallagher
+116,106,21719.0,"Gaetz, Matthew (Matt)",2.0,20.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Armed Services,43,1.0,FL,,,,,,Matthew Gaetz (Matt),Matthew,Gaetz
+116,106,21701.0,"Bacon, Donald J. (Don)",2.0,21.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Armed Services,35,2.0,NE,,,,,,Donald J. Bacon (Don),Donald,Bacon
+116,106,21702.0,"Banks, James E. (Jim)",2.0,22.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Armed Services,22,3.0,IN,,,,,,James E. Banks (Jim),James,Banks
+116,106,21710.0,"Cheney, Elizabeth L. (Liz)",2.0,23.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Armed Services,68,1.0,WY,,,,,,Elizabeth L. Cheney (Liz),Elizabeth,Cheney
+116,106,21737.0,"Mitchell, Paul",2.0,24.0,200,2019-01-23 00:00:00,2020-12-20,0.0,2.0,2.0,1.0,0.0,HRES68,Armed Services,23,10.0,MI,Changed party to independent 12/20/2020 and left committees; Announced retirement at end of 116th congress 7/24/2019 ,,,,,Paul Mitchell,Paul,Mitchell
+116,106,21704.0,"Bergman, John W. (Jack)",2.0,25.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Armed Services,23,1.0,MI,,,,,,John W. Bergman (Jack),John,Bergman
+116,106,21981.0,"Waltz, Michael",2.0,26.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Armed Services,43,6.0,FL,,,,,,Michael Waltz,Michael,Waltz
+116,115,20723.0,"Yarmuth, John A.",1.0,1.0,100,2019-01-03 00:00:00,2021-01-03,12.0,6.0,2.0,1.0,1.0,HRES7,Budget,51,3.0,KY,,,,,,John A. Yarmuth,John,Yarmuth
+116,115,21525.0,"Moulton, Seth",1.0,2.0,100,2019-01-24 00:00:00,2021-01-03,13.0,3.0,2.0,1.0,1.0,HRES73,Budget,3,6.0,MA,,,,,,Seth Moulton,Seth,Moulton
+116,115,21343.0,"Jeffries, Hakeem",1.0,3.0,100,2019-01-24 00:00:00,2021-01-03,0.0,2.0,5.0,1.0,1.0,HRES73,Budget,13,8.0,NY,,,,,,Hakeem Jeffries,Hakeem,Jeffries
+116,115,20519.0,"Higgins, Brian",1.0,4.0,100,2019-01-24 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES73,Budget,13,26.0,NY,to rank immediately after Mr. Jeffries per HRES85,,,,,Brian Higgins,Brian,Higgins
+116,115,21548.0,"Boyle, Brendan Francis",1.0,5.0,100,2019-01-29 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES85,Budget,14,13.0,PA,to rank immediately after Mr. Higgins of New York,,,,,Brendan Francis Boyle,Brendan,Boyle
+116,115,21728.0,"Khanna, Rohit (Ro)",1.0,6.0,100,2019-01-24 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,2.0,HRES73,Budget,71,17.0,CA,"Per HRES870, Mr. Khanna (to rank immediately after Mr. Cooper)",,,,,Rohit Khanna (Ro),Rohit,Khanna
+116,115,29109.0,"Delauro, Rosa L.",1.0,7.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,4.0,1.0,2.0,HRES73,Budget,1,3.0,CT,,,,,,Rosa L. Delauro,Rosa,Delauro
+116,115,29571.0,"Doggett, Lloyd",1.0,8.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,5.0,1.0,1.0,HRES73,Budget,49,35.0,TX,,,,,,Lloyd Doggett,Lloyd,Doggett
+116,115,15438.0,"Price, David E.",1.0,9.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,5.0,1.0,1.0,HRES73,Budget,47,4.0,NC,,,,,,David E. Price,David,Price
+116,115,29911.0,"Schakowsky, Janice D",1.0,10.0,100,2019-01-24 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES73,Budget,21,9.0,IL,,,,,,Janice D Schakowsky,Janice,Schakowsky
+116,115,21372.0,"Kildee, Dan",1.0,11.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,5.0,1.0,1.0,HRES73,Budget,23,5.0,MI,,,,,,Dan Kildee,Dan,Kildee
+116,115,21740.0,"Panetta, James V. (Jimmy)",1.0,12.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES73,Budget,71,20.0,CA,,,,,,James V. Panetta (Jimmy),James,Panetta
+116,115,21761.0,"Morelle, Joseph",1.0,13.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES73,Budget,13,25.0,NY,,,,,,Joseph Morelle,Joseph,Morelle
+116,115,21339.0,"Horsford, Steven",1.0,14.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES73,Budget,65,4.0,NV,,,,,,Steven Horsford,Steven,Horsford
+116,115,39307.0,"Scott, Robert C.",1.0,15.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,5.0,1.0,1.0,HRES73,Budget,40,3.0,VA,,,,,,Robert C. Scott,Robert,Scott
+116,115,29573.0,"Jackson Lee, Sheila",1.0,16.0,100,2019-01-24 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES73,Budget,49,18.0,TX,,,,,,Sheila Jackson Lee,Sheila,Jackson Lee
+116,115,29778.0,"Lee, Barbara",1.0,17.0,100,2019-01-24 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES73,Budget,71,13.0,CA,,,,,,Barbara Lee,Barbara,Lee
+116,115,21726.0,"Jayapal, Pramila",1.0,18.0,100,2019-01-24 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES73,Budget,73,7.0,WA,,,,,,Pramila Jayapal,Pramila,Jayapal
+116,115,21950.0,"Omar, Ilhan",1.0,19.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES73,Budget,33,5.0,MN,,,,,,Ilhan Omar,Ilhan,Omar
+116,115,20542.0,"Sires, Albio",1.0,20.0,100,2019-02-13 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES125,Budget,12,8.0,NJ,,,,,,Albio Sires,Albio,Sires
+116,115,21315.0,"Peters, Scott",1.0,21.0,100,2019-02-13 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES125,Budget,71,52.0,CA,,,,,,Scott Peters,Scott,Peters
+116,115,15019.0,"Cooper, Jim",1.0,22.0,100,2019-02-13 00:00:00,2021-01-03,0.0,1.0,5.0,1.0,1.0,HRES125,Budget,54,5.0,TN,,,,,,Jim Cooper,Jim,Cooper
+116,115,21108.0,"Womack, Steve",2.0,1.0,200,2019-01-03 00:00:00,2021-01-03,22.0,3.0,2.0,1.0,2.0,HRES8,Budget,3,42.0,AR,,,,,,Steve Womack,Steve,Womack
+116,115,21162.0,"Johnson, Bill",2.0,2.0,200,2019-01-24 00:00:00,2021-01-03,23.0,2.0,2.0,1.0,2.0,HRES74,Budget,24,6.0,OH,,,,,,Bill Johnson,Bill,Johnson
+116,115,21122.0,"Woodall, Robert",2.0,3.0,200,2019-01-24 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,0.0,HRES74,Budget,44,7.0,GA,Announced retirement at end of 116th congress 2/7/2019,,,,,Robert Woodall,Robert,Woodall
+116,115,21373.0,"Smith, Jason",2.0,4.0,200,2019-01-24 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES74,Budget,34,8.0,MO,,,,,,Jason Smith,Jason,Smith
+116,115,21182.0,"Flores, Bill",2.0,5.0,200,2019-01-24 00:00:00,2021-01-03,0.0,1.0,4.0,1.0,0.0,HRES74,Budget,49,17.0,TX,Announced retirement at end of 116th congress 9/4/2019,,,,,Bill Flores,Bill,Flores
+116,115,21349.0,"Holding, George E.B.",2.0,6.0,200,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES74,Budget,47,2.0,NC,"Retired, announced 12/6/2019",,,,,George E.B. Holding,George,Holding
+116,115,21367.0,"Stewart, Chris",2.0,7.0,200,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES74,Budget,67,2.0,UT,,,,,,Chris Stewart,Chris,Stewart
+116,115,21753.0,"Norman, Ralph",2.0,8.0,200,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES74,Budget,48,5.0,SC,,,,,,Ralph Norman,Ralph,Norman
+116,115,21961.0,"Roy, Charles",2.0,9.0,200,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES74,Budget,49,21.0,TX,,,,,,Charles Roy,Charles,Roy
+116,115,21945.0,"Meuser, Dan",2.0,10.0,200,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES74,Budget,14,9.0,PA,,,,,,Dan Meuser,Dan,Meuser
+116,115,21974.0,"Timmons, William",2.0,11.0,200,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES74,Budget,48,4.0,SC,,,,,,William Timmons,William,Timmons
+116,115,21911.0,"Crenshaw, Daniel",2.0,12.0,200,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES74,Budget,49,2.0,TX,,,,,,Daniel Crenshaw,Daniel,Crenshaw
+116,115,21760.0,"Hern, Kevin",2.0,13.0,200,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES74,Budget,53,1.0,OK,,,,,,Kevin Hern,Kevin,Hern
+116,115,21905.0,"Burchett, Timothy",2.0,14.0,200,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES74,Budget,54,2.0,TN,,,,,,Timothy Burchett,Timothy,Burchett
+116,115,21990.0,"Jacobs, Chris",5.0,15.0,200,2020-07-21 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES1058,Budget,13,27.0,NY,"Elected in a special election held on June 23, 2020",,,,,Chris Jacobs,Chris,Jacobs
+116,124,39307.0,"Scott, Robert C.",1.0,1.0,100,2019-01-04 00:00:00,2021-01-03,11.0,8.0,4.0,1.0,1.0,HRES24,Education and Labor,40,3.0,VA,,,,,,Robert C. Scott,Robert,Scott
+116,124,20108.0,"Davis, Susan",1.0,2.0,100,2019-01-15 00:00:00,2021-01-03,0.0,10.0,2.0,1.0,0.0,HRES42,Education and Labor,71,53.0,CA,Announced retirement at end of 116th congress,,,,,Susan Davis,Susan,Davis
+116,124,20305.0,"Grijalva, Raul M",1.0,3.0,100,2019-01-15 00:00:00,2021-01-03,0.0,9.0,2.0,1.0,1.0,HRES42,Education and Labor,61,3.0,AZ,,,,,,Raul M Grijalva,Raul,Grijalva
+116,124,20706.0,"Courtney, Joe",1.0,4.0,100,2019-01-15 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES42,Education and Labor,1,2.0,CT,,,,,,Joe Courtney,Joe,Courtney
+116,124,20941.0,"Fudge, Marcia",1.0,5.0,100,2019-01-15 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,3.0,HRES42,Education and Labor,24,11.0,OH,"On December 10, 2020, President Biden announced his plan to nominate Fudge for Secretary of Housing and Urban Development",,,,,Marcia Fudge,Marcia,Fudge
+116,124,70810.0,"Sablan, Gregorio",1.0,6.0,100,2019-01-15 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES42,Education and Labor,95,1.0,MP,,,,,,Gregorio Sablan,Gregorio,Sablan
+116,124,21118.0,"Wilson, Frederica",1.0,7.0,100,2019-01-15 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES42,Education and Labor,43,24.0,FL,,,,,,Frederica Wilson,Frederica,Wilson
+116,124,21198.0,"Bonamici, Suzanne",1.0,8.0,100,2019-01-15 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES42,Education and Labor,72,1.0,OR,,,,,,Suzanne Bonamici,Suzanne,Bonamici
+116,124,21312.0,"Takano, Mark",1.0,9.0,100,2019-01-15 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES42,Education and Labor,71,41.0,CA,,,,,,Mark Takano,Mark,Takano
+116,124,21545.0,"Adams, Alma",1.0,10.0,100,2019-01-15 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES42,Education and Labor,44,12.0,NC,,,,,,Alma Adams,Alma,Adams
+116,124,21504.0,"DeSaulnier, Mark",1.0,11.0,100,2019-01-15 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES42,Education and Labor,71,11.0,CA,,,,,,Mark DeSaulnier,Mark,DeSaulnier
+116,124,21536.0,"Norcross, Donald",1.0,12.0,100,2019-01-15 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES42,Education and Labor,12,1.0,NJ,,,,,,Donald Norcross,Donald,Norcross
+116,124,21726.0,"Jayapal, Pramila",1.0,15.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Education and Labor,73,7.0,WA,,,,,,Pramila Jayapal,Pramila,Jayapal
+116,124,21761.0,"Morelle, Joseph",1.0,16.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Education and Labor,13,25.0,NY,,,,,,Joseph Morelle,Joseph,Morelle
+116,124,21763.0,"Wild, Susan",1.0,17.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Education and Labor,14,7.0,PA,,,,,,Susan Wild,Susan,Wild
+116,124,21930.0,"Harder, Josh",1.0,18.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES42,Education and Labor,71,10.0,CA,,,,,  ,Josh Harder,Josh,Harder
+116,124,21944.0,"Mcbath, Lucy",1.0,19.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Education and Labor,44,6.0,GA,,,,,,Lucy Mcbath,Lucy,Mcbath
+116,124,21962.0,"Schrier, Kim",1.0,20.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES42,Education and Labor,73,8.0,WA,,,,,,Kim Schrier,Kim,Schrier
+116,124,21979.0,"Underwood, Lauren",1.0,21.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES42,Education and Labor,21,14.0,IL,,,,,,Lauren Underwood,Lauren,Underwood
+116,124,21931.0,"Hayes, Jahana",1.0,22.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Education and Labor,1,5.0,CT,,,,,,Jahana Hayes,Jahana,Hayes
+116,124,21963.0,"Shalala, Donna",1.0,23.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES42,Education and Labor,43,27.0,FL,Defeated in the general election,,,,,Donna Shalala,Donna,Shalala
+116,124,21940.0,"Levin, Andy",1.0,24.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Education and Labor,23,9.0,MI,,,,,,Andy Levin,Andy,Levin
+116,124,21950.0,"Omar, Ilhan",1.0,25.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Education and Labor,33,5.0,MN,,,,,,Ilhan Omar,Ilhan,Omar
+116,124,21978.0,"Trone, David",1.0,26.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES42,Education and Labor,53,6.0,MD,,,,,,David Trone,David,Trone
+116,124,21972.0,"Stevens, Haley",1.0,27.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Education and Labor,23,11.0,MI,,,,,,Haley Stevens,Haley,Stevens
+116,124,21938.0,"Lee, Susie",1.0,28.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES42,Education and Labor,65,3.0,NV,,,,,,Susie Lee,Susie,Lee
+116,124,21977.0,"Trahan, Lori",1.0,29.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES73,Education and Labor,3,3.0,MA,,,,,,Lori Trahan,Lori,Trahan
+116,124,21362.0,"Castro, Joaquin",1.0,30.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES73,Education and Labor,49,20.0,TX,,,,,,Joaquin Castro,Joaquin,Castro
+116,124,20521.0,"Foxx, Virginia",2.0,1.0,200,2019-01-04 00:00:00,2021-01-03,21.0,8.0,2.0,1.0,1.0,HRES25,Education and Labor,47,5.0,NC,,,,,,Virginia Foxx,Virginia,Foxx
+116,124,20947.0,"Roe, David P.",2.0,2.0,200,2019-01-23 00:00:00,2021-01-03,0.0,6.0,2.0,1.0,0.0,HRES68,Education and Labor,54,1.0,TN,Announced retirement at end of 116th congress 1/3/2020,,,,,David P. Roe,David,Roe
+116,124,20946.0,"Thompson, Glenn",2.0,3.0,200,2019-01-23 00:00:00,2021-01-03,0.0,6.0,2.0,1.0,1.0,HRES68,Education and Labor,14,5.0,PA,,,,,,Glenn Thompson,Glenn,Thompson
+116,124,20725.0,"Walberg, Tim",2.0,4.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Education and Labor,23,7.0,MI,,,,,,Tim Walberg,Tim,Walberg
+116,124,20916.0,"Guthrie, Brett",2.0,5.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,2.0,HRES68,Education and Labor,51,2.0,KY,,,,,,Brett Guthrie,Brett,Guthrie
+116,124,21376.0,"Byrne, Bradley",2.0,6.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,0.0,HRES68,Education and Labor,41,1.0,AL,,,,,,Bradley Byrne,Bradley,Byrne
+116,124,21559.0,"Grothman, Glenn",2.0,7.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Education and Labor,25,6.0,WI,,,,,,Glenn Grothman,Glenn,Grothman
+116,124,21541.0,"Stefanik, Elise",2.0,8.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Education and Labor,13,21.0,NY,,,,,,Elise Stefanik,Elise,Stefanik
+116,124,21516.0,"Allen, Rick",2.0,9.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Education and Labor,44,12.0,GA,,,,,,Rick Allen,Rick,Allen
+116,124,21745.0,"Smucker, Lloyd K.",2.0,11.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,2.0,HRES68,Education and Labor,14,16.0,PA,,,,,,Lloyd K. Smucker,Lloyd,Smucker
+116,124,21702.0,"Banks, James E. (Jim)",2.0,12.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Education and Labor,22,3.0,IN,,,,,,James E. Banks (Jim),James,Banks
+116,124,21543.0,"Walker, Mark",2.0,13.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,0.0,HRES68,Education and Labor,47,6.0,NC,Announced retirement at end of 116th congress 12/16/2019,,,,,Mark Walker,Mark,Walker
+116,124,21565.0,"Comer, James",2.0,14.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Education and Labor,51,1.0,KY,,,,,,James Comer,James,Comer
+116,124,21908.0,"Cline, Benjamin",2.0,15.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES68,Education and Labor,40,6.0,VA,,,,,,Benjamin Cline,Benjamin,Cline
+116,124,21920.0,"Fulcher, Russell",2.0,16.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Education and Labor,63,1.0,ID,,,,,,Russell Fulcher,Russell,Fulcher
+116,124,21973.0,"Taylor, Nicholas",2.0,17.0,200,2019-01-23 00:00:00,2020-01-15,0.0,1.0,2.0,2.0,2.0,HRES68,Education and Labor,49,3.0,TX,Transferred to Financial services,,,,,Nicholas Taylor,Nicholas,Taylor
+116,124,21982.0,"Watkins, Steve",2.0,18.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,4.0,0.0,HRES68,Education and Labor,32,2.0,KS,Resigned from committee assignments 7/17/20 following felony charges for voter fraud in his home state.,,,,,Steve Watkins,Steve,Watkins
+116,124,21984.0,"Wright, Ron",2.0,19.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Education and Labor,49,6.0,TX,,,,,,Ron Wright,Ron,Wright
+116,124,21945.0,"Meuser, Dan",2.0,20.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES68,Education and Labor,14,9.0,PA,,,,,,Dan Meuser,Dan,Meuser
+116,124,21974.0,"Timmons, William",2.0,21.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,2.0,2.0,HRES68,Education and Labor,48,4.0,SC,Transferred to Financial services,,,,,William Timmons,William,Timmons
+116,124,21935.0,"Johnson, Dustin",2.0,22.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Education and Labor,37,1.0,SD,,,,,,Dustin Johnson,Dustin,Johnson
+116,124,21985.0,"Keller, Frederick",7.0,1.0,200,2019-07-10 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES481,Education and Labor,14,12.0,PA,replaced Tom Marino after Marino's resignation,,,,,Frederick Keller,Frederick,Keller
+116,124,21987.0,"Murphy, Greg",7.0,2.0,200,2019-09-26 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES596,Education and Labor,47,3.0,NC,"Won special election in a runoff 9/10/2019 to replace Walter B. Jones, Jr. ",,,,,Greg Murphy,Greg,Murphy
+116,124,91980.0,"Van Drew, Jefferson",7.0,3.0,200,2020-01-16 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES801,Education and Labor,12,2.0,NJ,"Changed party to Republican 1/7/2020, newly assigned to this committee",,,,,Jefferson Van Drew,Jefferson,Van Drew
+116,128,15454.0,"Pallone, Frank, Jr.",1.0,1.0,100,2019-01-03 00:00:00,2021-01-03,11.0,12.0,4.0,1.0,1.0,HRES7,Energy and Commerce,12,6.0,NJ,,,,,,Frank Pallone Jr.,Frank,Pallone
+116,128,29346.0,"Rush, Bobby L.",1.0,2.0,100,2019-01-15 00:00:00,2021-01-03,0.0,13.0,2.0,1.0,1.0,HRES42,Energy and Commerce,21,1.0,IL,,,,,,Bobby L. Rush,Bobby,Rush
+116,128,29312.0,"Eshoo, Anna G.",1.0,3.0,100,2019-01-15 00:00:00,2021-01-03,0.0,13.0,2.0,1.0,1.0,HRES42,Energy and Commerce,71,18.0,CA,,,,,,Anna G. Eshoo,Anna,Eshoo
+116,128,15603.0,"Engel, Eliot L.",1.0,4.0,100,2019-01-15 00:00:00,2021-01-03,0.0,13.0,2.0,1.0,0.0,HRES42,Energy and Commerce,13,16.0,NY,,,,,,Eliot L. Engel,Eliot,Engel
+116,128,29710.0,"DeGette, Diana",1.0,5.0,100,2019-01-15 00:00:00,2021-01-03,0.0,12.0,2.0,1.0,1.0,HRES42,Energy and Commerce,62,1.0,CO,,,,,,Diana DeGette,Diana,DeGette
+116,128,29561.0,"Doyle, Michael F.",1.0,6.0,100,2019-01-15 00:00:00,2021-01-03,0.0,10.0,2.0,1.0,1.0,HRES42,Energy and Commerce,14,14.0,PA,,,,,,Michael F. Doyle,Michael,Doyle
+116,128,29911.0,"Schakowsky, Janice D",1.0,7.0,100,2019-01-15 00:00:00,2021-01-03,0.0,9.0,2.0,1.0,1.0,HRES42,Energy and Commerce,21,9.0,IL,,,,,,Janice D Schakowsky,Janice,Schakowsky
+116,128,20340.0,"Butterfield, George Kenneth, Jr. (G.K.)",1.0,8.0,100,2019-01-15 00:00:00,2021-01-03,0.0,7.0,2.0,1.0,1.0,HRES42,Energy and Commerce,47,1.0,NC,,,,,,George Kenneth Butterfield Jr. (G.K.),George,Butterfield
+116,128,20538.0,"Matsui, Doris O.",1.0,9.0,100,2019-01-15 00:00:00,2021-01-03,0.0,7.0,2.0,1.0,1.0,HRES42,Energy and Commerce,71,6.0,CA,,,,,,Doris O. Matsui,Doris,Matsui
+116,128,20708.0,"Castor, Kathy",1.0,10.0,100,2019-01-15 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES42,Energy and Commerce,43,14.0,FL,,,,,,Kathy Castor,Kathy,Castor
+116,128,20724.0,"Sarbanes, John P.",1.0,11.0,100,2019-01-15 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES42,Energy and Commerce,52,3.0,MD,,,,,,John P. Sarbanes,John,Sarbanes
+116,128,20702.0,"McNerney, Jerry",1.0,12.0,100,2019-01-15 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES42,Energy and Commerce,71,9.0,CA,,,,,,Jerry McNerney,Jerry,McNerney
+116,128,20750.0,"Welch, Peter",1.0,13.0,100,2019-01-15 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES42,Energy and Commerce,6,1.0,VT,,,,,,Peter Welch,Peter,Welch
+116,128,20932.0,"Luján, Ben Ray",1.0,14.0,100,2019-01-15 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,0.0,HRES42,Energy and Commerce,66,3.0,NM,,,,,,Ben Ray Luján,Ben,Luján
+116,128,20934.0,"Tonko, Paul",1.0,15.0,100,2019-01-15 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES42,Energy and Commerce,13,20.0,NY,,,,,,Paul Tonko,Paul,Tonko
+116,128,20733.0,"Clarke, Yvette D.",1.0,16.0,100,2019-01-15 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES42,Energy and Commerce,13,9.0,NY,,,,,,Yvette D. Clarke,Yvette,Clarke
+116,128,20720.0,"Loebsack, David",1.0,17.0,100,2019-01-15 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,0.0,HRES42,Energy and Commerce,31,2.0,IA,Announced retirement at end of 116th congress 4/12/19,,,,,David Loebsack,David,Loebsack
+116,128,20944.0,"Schrader, Kurt",1.0,18.0,100,2019-01-15 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,2.0,HRES42,Energy and Commerce,72,5.0,OR,,,,,,Kurt Schrader,Kurt,Schrader
+116,128,21335.0,"Kennedy, Joseph P., III",1.0,19.0,100,2019-01-15 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,0.0,HRES42,Energy and Commerce,3,4.0,MA,"Ran for senate, lost in primary",,,,,Joseph P. Kennedy III,Joseph,Kennedy
+116,128,21309.0,"Cardenas, Tony",1.0,20.0,100,2019-01-15 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES42,Energy and Commerce,71,29.0,CA,,,,,,Tony Cardenas,Tony,Cardenas
+116,128,21311.0,"Ruiz, Raul",1.0,21.0,100,2019-01-15 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES42,Energy and Commerce,71,36.0,CA,,,,,,Raul Ruiz,Raul,Ruiz
+116,128,21315.0,"Peters, Scott",1.0,22.0,100,2019-01-15 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES42,Energy and Commerce,71,52.0,CA,,,,,,Scott Peters,Scott,Peters
+116,128,21529.0,"Dingell, Debbie",1.0,23.0,100,2019-01-15 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES42,Energy and Commerce,23,14.0,MI,,,,,,Debbie Dingell,Debbie,Dingell
+116,128,21365.0,"Veasey, Marc",1.0,24.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Energy and Commerce,49,33.0,TX,,,,,,Marc Veasey,Marc,Veasey
+116,128,21340.0,"Kuster, Ann McLane",1.0,25.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Energy and Commerce,4,2.0,NH,,,,,,Ann McLane Kuster,Ann,Kuster
+116,128,21371.0,"Kelly, Robin",1.0,26.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Energy and Commerce,21,2.0,IL,,,,,,Robin Kelly,Robin,Kelly
+116,128,21703.0,"Barragán, Nanette D.",1.0,27.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Energy and Commerce,71,44.0,CA,,,,,,Nanette D. Barragán,Nanette,Barragán
+116,128,21736.0,"McEachin, Aston D. (Donald)",1.0,28.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Energy and Commerce,40,4.0,VA,,,,,,Aston D. McEachin (Donald),Aston,McEachin
+116,128,21706.0,"Blunt Rochester, Lisa",1.0,29.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Energy and Commerce,11,1.0,DE,,,,,,Lisa Blunt Rochester,Lisa,Blunt Rochester
+116,128,21746.0,"Soto, Darren",1.0,30.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Energy and Commerce,43,9.0,FL,,,,,,Darren Soto,Darren,Soto
+116,128,21739.0,"O'Halleran, Tom",1.0,31.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Energy and Commerce,71,1.0,AZ,,,,,,Tom O'Halleran,Tom,O'Halleran
+116,128,29932.0,"Walden, Greg",2.0,1.0,200,2019-01-03 00:00:00,2021-01-03,21.0,10.0,2.0,1.0,0.0,HRES8,Energy and Commerce,72,2.0,OR,Announced retirement at end of 116th congress10/28/19,,,,,Greg Walden,Greg,Walden
+116,128,15446.0,"Upton, Frederick S.",2.0,2.0,200,2019-01-23 00:00:00,2021-01-03,0.0,15.0,2.0,1.0,1.0,HRES68,Energy and Commerce,23,6.0,MI,,,,,,Frederick S. Upton,Frederick,Upton
+116,128,29718.0,"Shimkus, John M.",2.0,3.0,200,2019-01-23 00:00:00,2021-01-03,0.0,12.0,2.0,1.0,0.0,HRES68,Energy and Commerce,21,19.0,IL,"Retired, announced 8/30/2019",,,,,John M. Shimkus,John,Shimkus
+116,128,20355.0,"Burgess, Michael",2.0,4.0,200,2019-01-23 00:00:00,2021-01-03,0.0,8.0,2.0,1.0,1.0,HRES68,Energy and Commerce,49,26.0,TX,,,,,,Michael Burgess,Michael,Burgess
+116,128,20759.0,"Scalise, Steve",2.0,5.0,200,2019-01-23 00:00:00,2021-01-03,0.0,6.0,2.0,1.0,1.0,HRES68,Energy and Commerce,45,1.0,LA,,,,,,Steve Scalise,Steve,Scalise
+116,128,20755.0,"Latta, Robert E.",2.0,6.0,200,2019-01-23 00:00:00,2021-01-03,0.0,6.0,2.0,1.0,1.0,HRES68,Energy and Commerce,24,5.0,OH,,,,,,Robert E. Latta,Robert,Latta
+116,128,20535.0,"McMorris Rodgers, Cathy",2.0,7.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Energy and Commerce,73,5.0,WA,,,,,,Cathy McMorris Rodgers,Cathy,McMorris Rodgers
+116,128,20916.0,"Guthrie, Brett",2.0,8.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Energy and Commerce,51,2.0,KY,,,,,,Brett Guthrie,Brett,Guthrie
+116,128,20948.0,"Olson, Pete",2.0,9.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,0.0,HRES68,Energy and Commerce,49,22.0,TX,Announced retirement at end of 116th congress7/25/2019,,,,,Pete Olson,Pete,Olson
+116,128,21188.0,"McKinley, David",2.0,10.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Energy and Commerce,56,1.0,WV,,,,,,David McKinley,David,McKinley
+116,128,21128.0,"Kinzinger, Adam",2.0,11.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Energy and Commerce,21,16.0,IL,,,,,,Adam Kinzinger,Adam,Kinzinger
+116,128,21191.0,"Griffith, Morgan",2.0,12.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Energy and Commerce,40,9.0,VA,,,,,,Morgan Griffith,Morgan,Griffith
+116,128,20758.0,"Bilirakis, Gus",2.0,13.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES68,Energy and Commerce,43,12.0,FL,,,,,,Gus Bilirakis,Gus,Bilirakis
+116,128,21162.0,"Johnson, Bill",2.0,14.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES68,Energy and Commerce,24,6.0,OH,,,,,,Bill Johnson,Bill,Johnson
+116,128,21150.0,"Long, Billy",2.0,15.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES68,Energy and Commerce,34,7.0,MO,,,,,,Billy Long,Billy,Long
+116,128,21132.0,"Bucshon, Larry",2.0,16.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Energy and Commerce,22,8.0,IN,,,,,,Larry Bucshon,Larry,Bucshon
+116,128,21182.0,"Flores, Bill",2.0,17.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,0.0,HRES68,Energy and Commerce,49,17.0,TX,Announced retirement at end of 116th congress 9/4/2019,,,,,Bill Flores,Bill,Flores
+116,128,21331.0,"Brooks, Susan",2.0,18.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,0.0,HRES68,Energy and Commerce,22,5.0,IN,Announced retirement at end of 116th congress 6/14/2019,,,,,Susan Brooks,Susan,Brooks
+116,128,21355.0,"Mullin, Markwayne",2.0,19.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Energy and Commerce,53,2.0,OK,,,,,,Markwayne Mullin,Markwayne,Mullin
+116,128,21346.0,"Hudson, Richard",2.0,20.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Energy and Commerce,47,8.0,NC,,,,,,Richard Hudson,Richard,Hudson
+116,128,20725.0,"Walberg, Tim",2.0,21.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Energy and Commerce,23,7.0,MI,,,,,,Tim Walberg,Tim,Walberg
+116,128,21513.0,"Carter, Buddy",2.0,22.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Energy and Commerce,44,1.0,GA,,,,,,Buddy Carter,Buddy,Carter
+116,128,21174.0,"Duncan, Jeff",2.0,23.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Energy and Commerce,48,3.0,SC,,,,,,Jeff Duncan,Jeff,Duncan
+116,128,21751.0,"Gianforte, Greg",2.0,24.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES68,Energy and Commerce,64,1.0,MT,,,,,,Greg Gianforte,Greg,Gianforte
+116,186,20959.0,"Deutch, Theodore E.",1.0,1.0,100,2019-01-09 00:00:00,2021-01-03,11.0,4.0,2.0,1.0,1.0,HRES31,Ethics,43,21.0,FL,,,,,,Theodore E. Deutch,Theodore,Deutch
+116,186,21342.0,"Meng, Grace",1.0,2.0,100,2019-02-13 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES125,Ethics,13,6.0,NY,,,,,,Grace Meng,Grace,Meng
+116,186,21763.0,"Wild, Susan",1.0,3.0,100,2019-02-13 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES125,Ethics,14,7.0,PA,,,,,,Susan Wild,Susan,Wild
+116,186,21953.0,"Phillips, Dean",1.0,4.0,100,2019-02-13 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES125,Ethics,33,3.0,MN,,,,,,Dean Phillips,Dean,Phillips
+116,186,21707.0,"Brown, Anthony G.",1.0,5.0,100,2019-02-26 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,2.0,HRES148,Ethics,52,4.0,MD,,,,,,Anthony G. Brown,Anthony,Brown
+116,186,20532.0,"Marchant, Kenny",2.0,1.0,200,2019-01-09 00:00:00,2021-01-03,21.0,3.0,2.0,1.0,0.0,HRES32,Ethics,49,24.0,TX,Announced retirement at end of 116th congress 8/5/2019,,,,,Kenny Marchant,Kenny,Marchant
+116,186,21549.0,"Ratcliffe, John",2.0,2.0,200,2019-02-08 00:00:00,2021-01-03,0.0,2.0,2.0,6.0,0.0,HRES113,Ethics,49,4.0,TX,"Resigned May 22, 2020 to become the Director of National Intelligence",,,,,John Ratcliffe,John,Ratcliffe
+116,186,21349.0,"Holding, George E.B.",2.0,3.0,200,2019-02-08 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES113,Ethics,47,2.0,NC,Announced retirement at end of 116th congress 12/6/2019,,,,,George E.B. Holding,George,Holding
+116,186,21330.0,"Walorski, Jackie",2.0,4.0,200,2019-02-08 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES113,Ethics,22,2.0,IN,,,,,,Jackie Walorski,Jackie,Walorski
+116,186,21927.0,"Guest, Michael",2.0,5.0,200,2019-02-08 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES113,Ethics,46,3.0,MS,,,,,,Michael Guest,Michael,Guest
+116,113,29106.0,"Waters, Maxine",1.0,1.0,100,2019-01-03 00:00:00,2021-01-03,11.0,15.0,2.0,1.0,1.0,HRES7,Financial Services,71,43.0,CA,,,,,,Maxine Waters,Maxine,Waters
+116,113,29379.0,"Maloney, Carolyn B.",1.0,2.0,100,2019-01-17 00:00:00,2021-01-03,0.0,14.0,2.0,1.0,1.0,HRES57,Financial Services,13,12.0,NY,,,,,,Carolyn B. Maloney,Carolyn,Maloney
+116,113,29378.0,"Velazquez, Nydia M.",1.0,3.0,100,2019-01-17 00:00:00,2021-01-03,0.0,14.0,2.0,1.0,1.0,HRES57,Financial Services,13,7.0,NY,,,,,,Nydia M. Velazquez,Nydia,Velazquez
+116,113,29707.0,"Sherman, Brad",1.0,4.0,100,2019-01-17 00:00:00,2021-01-03,0.0,12.0,2.0,1.0,1.0,HRES57,Financial Services,71,30.0,CA,,,,,,Brad Sherman,Brad,Sherman
+116,113,29776.0,"Meeks, Gregory W.",1.0,5.0,100,2019-01-17 00:00:00,2021-01-03,0.0,12.0,2.0,1.0,1.0,HRES57,Financial Services,13,5.0,NY,,,,,,Gregory W. Meeks,Gregory,Meeks
+116,113,20147.0,"Clay, William L., Jr.",1.0,6.0,100,2019-01-17 00:00:00,2021-01-03,0.0,10.0,4.0,1.0,0.0,HRES57,Financial Services,34,1.0,MO,,,,,,William L. Clay Jr.,William,Clay
+116,113,20321.0,"Scott, David",1.0,7.0,100,2019-01-17 00:00:00,2021-01-03,0.0,9.0,2.0,1.0,1.0,HRES57,Financial Services,44,13.0,GA,,,,,,David Scott,David,Scott
+116,113,20529.0,"Green, Al",1.0,8.0,100,2019-01-17 00:00:00,2021-01-03,0.0,8.0,2.0,1.0,1.0,HRES57,Financial Services,49,9.0,TX,,,,,,Al Green,Al,Green
+116,113,20517.0,"Cleaver, Emanuel",1.0,9.0,100,2019-01-17 00:00:00,2021-01-03,0.0,8.0,2.0,1.0,1.0,HRES57,Financial Services,34,5.0,MO,,,,,,Emanuel Cleaver,Emanuel,Cleaver
+116,113,20705.0,"Perlmutter, Ed",1.0,10.0,100,2019-01-17 00:00:00,2021-01-03,0.0,7.0,2.0,1.0,1.0,HRES57,Financial Services,62,7.0,CO,,,,,,Ed Perlmutter,Ed,Perlmutter
+116,113,20907.0,"Himes, James A.",1.0,11.0,100,2019-01-17 00:00:00,2021-01-03,0.0,6.0,2.0,1.0,1.0,HRES57,Financial Services,1,4.0,CT,,,,,,James A. Himes,James,Himes
+116,113,20749.0,"Foster, Bill",1.0,12.0,100,2019-01-17 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES57,Financial Services,21,11.0,IL,,,,,,Bill Foster,Bill,Foster
+116,113,21352.0,"Beatty, Joyce",1.0,13.0,100,2019-01-17 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES57,Financial Services,24,3.0,OH,,,,,,Joyce Beatty,Joyce,Beatty
+116,113,21369.0,"Heck, Denny",1.0,14.0,100,2019-01-17 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,0.0,HRES57,Financial Services,73,10.0,WA,,,,,,Denny Heck,Denny,Heck
+116,113,21314.0,"Vargas, Juan",1.0,15.0,100,2019-01-17 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES57,Financial Services,71,51.0,CA,,,,,,Juan Vargas,Juan,Vargas
+116,113,21723.0,"Gottheimer, Joshua S. (Josh)",1.0,16.0,100,2019-01-17 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES57,Financial Services,12,5.0,NJ,,,,,,Joshua S. Gottheimer (Josh),Joshua,Gottheimer
+116,113,21722.0,"González, Vicente",1.0,17.0,100,2019-01-17 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,2.0,HRES57,Financial Services,49,15.0,TX,,,,,,Vicente González,Vicente,González
+116,113,21732.0,"Lawson Jr., Alfred (Al)",1.0,18.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Financial Services,43,5.0,FL,,,,,,Alfred Lawson Jr. (Al),Alfred,Lawson
+116,113,70703.0,"San Nicolas, Michael F. Q. ",1.0,19.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Financial Services,91,79.0,GU,,,,,,Michael F. Q. San Nicolas,Michael,San Nicolas
+116,113,21975.0,"Tlaib, Rashida",1.0,20.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Financial Services,23,13.0,MI,,,,,,Rashida Tlaib,Rashida,Tlaib
+116,113,21954.0,"Porter, Katie",1.0,21.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES57,Financial Services,71,45.0,CA,,,,,,Katie Porter,Katie,Porter
+116,113,21902.0,"Axne, Cynthia",1.0,22.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Financial Services,31,3.0,IA,,,,,,Cynthia Axne,Cynthia,Axne
+116,113,21906.0,"Casten, Sean",1.0,23.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Financial Services,21,6.0,IL,,,,,,Sean Casten,Sean,Casten
+116,113,21955.0,"Pressley, Ayanna",1.0,24.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Financial Services,3,7.0,MA,,,,,,Ayanna Pressley,Ayanna,Pressley
+116,113,21943.0,"Mcadams, Ben",1.0,25.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES57,Financial Services,67,4.0,UT,,,,,,Ben Mcadams,Ben,Mcadams
+116,113,21949.0,"Ocasio-Cortez, Alexandria",1.0,26.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Financial Services,13,14.0,NY,,,,,,Alexandria Ocasio-Cortez,Alexandria,Ocasio-Cortez
+116,113,21983.0,"Wexton, Jennifer",1.0,27.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES57,Financial Services,40,10.0,VA,,,,,,Jennifer Wexton,Jennifer,Wexton
+116,113,20119.0,"Lynch, Stephen F.",1.0,28.0,100,2019-01-17 00:00:00,2021-01-03,0.0,9.0,2.0,1.0,1.0,HRES57,Financial Services,3,8.0,MA,,,,,,Stephen F. Lynch,Stephen,Lynch
+116,113,21324.0,"Gabbard, Tulsi",1.0,29.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,9.0,HRES57,Financial Services,82,2.0,HI,Announced 10/25/19 that she is not running for re-election in 2020 due to presidential bid,,,,,Tulsi Gabbard,Tulsi,Gabbard
+116,113,21545.0,"Adams, Alma",1.0,30.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Financial Services,47,12.0,NC,,,,,,Alma Adams,Alma,Adams
+116,113,21915.0,"Dean, Madeleine",1.0,31.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Financial Services,14,4.0,PA,,,,,,Madeleine Dean,Madeleine,Dean
+116,113,21921.0,"Garcia, Jesus",1.0,32.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Financial Services,21,4.0,IL,,,,,,Jesus Garcia,Jesus,Garcia
+116,113,21922.0,"Garcia, Sylvia",1.0,33.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Financial Services,49,29.0,TX,,,,,,Sylvia Garcia,Sylvia,Garcia
+116,113,21953.0,"Phillips, Dean",1.0,34.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES57,Financial Services,33,3.0,MN,,,,,,Dean Phillips,Dean,Phillips
+116,113,20522.0,"McHenry, Patrick T.",2.0,1.0,200,2019-01-03 00:00:00,2021-01-03,21.0,8.0,2.0,1.0,1.0,HRES8,Financial Services,47,10.0,NC,,,,,,Patrick T. McHenry,Patrick,McHenry
+116,113,29375.0,"King, Peter T.",2.0,2.0,200,2019-01-23 00:00:00,2020-01-15,0.0,7.0,4.0,,0.0,HRES68,Financial Services,13,2.0,NY,Leaves committee to make room for Van Taylor of Texas due to Van Drew's arrival in congress,,,,,Peter T. King,Peter,King
+116,113,29393.0,"Lucas, Frank D.",2.0,3.0,200,2019-01-23 00:00:00,2021-01-03,0.0,13.0,2.0,1.0,1.0,HRES68,Financial Services,53,3.0,OK,,,,,,Frank D. Lucas,Frank,Lucas
+116,113,20909.0,"Posey, Bill",2.0,4.0,200,2019-01-23 00:00:00,2021-01-03,0.0,6.0,2.0,1.0,1.0,HRES68,Financial Services,43,8.0,FL,,,,,,Bill Posey,Bill,Posey
+116,113,20926.0,"Luetkemeyer, Blaine",2.0,5.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Financial Services,34,3.0,MO,,,,,,Blaine Luetkemeyer,Blaine,Luetkemeyer
+116,113,21142.0,"Huizenga, Bill",2.0,6.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Financial Services,23,2.0,MI,,,,,,Bill Huizenga,Bill,Huizenga
+116,113,21189.0,"Duffy, Sean P.",2.0,7.0,200,2019-01-23 00:00:00,2019-09-23,0.0,5.0,2.0,8.0,0.0,HRES68,Financial Services,25,7.0,WI,resigned for the birth of his child on 09/23/2019,,,,,Sean P. Duffy,Sean,Duffy
+116,113,21163.0,"Stivers, Steve",2.0,8.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Financial Services,24,15.0,OH,,,,,,Steve Stivers,Steve,Stivers
+116,113,21337.0,"Wagner, Ann",2.0,9.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES68,Financial Services,34,2.0,MO,,,,,,Ann Wagner,Ann,Wagner
+116,113,21333.0,"Barr, Andy",2.0,10.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES68,Financial Services,51,6.0,KY,,,,,,Andy Barr,Andy,Barr
+116,113,21111.0,"Tipton, Scott",2.0,11.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,0.0,HRES68,Financial Services,62,3.0,CO,Defeated in primary,,,,,Scott Tipton,Scott,Tipton
+116,113,21364.0,"Williams, Roger",2.0,12.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Financial Services,49,25.0,TX,,,,,,Roger Williams,Roger,Williams
+116,113,21503.0,"Hill, French",2.0,13.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Financial Services,42,2.0,AR,,,,,,French Hill,French,Hill
+116,113,21531.0,"Emmer, Tom",2.0,14.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Financial Services,33,6.0,MN,,,,,,Tom Emmer,Tom,Emmer
+116,113,21539.0,"Zeldin, Lee",2.0,15.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Financial Services,13,1.0,NY,,,,,,Lee Zeldin,Lee,Zeldin
+116,113,21515.0,"Loudermilk, Barry",2.0,16.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Financial Services,44,11.0,GA,,,,,,Barry Loudermilk,Barry,Loudermilk
+116,113,21557.0,"Mooney, Alex",2.0,17.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Financial Services,56,2.0,WV,,,,,,Alex Mooney,Alex,Mooney
+116,113,21564.0,"Davidson, Warren",2.0,18.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Financial Services,8,24.0,OH,,,,,,Warren Davidson,Warren,Davidson
+116,113,21708.0,"Budd, Theodore P. (Ted)",2.0,19.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Financial Services,47,13.0,NC,,,,,,Theodore P. Budd (Ted),Theodore,Budd
+116,113,21731.0,"Kustoff, David F.",2.0,20.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Financial Services,54,8.0,TN,,,,,,David F. Kustoff,David,Kustoff
+116,113,21725.0,"Hollingsworth, Joseph A. (Trey)",2.0,21.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Financial Services,22,9.0,IN,,,,,,Joseph A. Hollingsworth (Trey),Joseph,Hollingsworth
+116,113,21924.0,"Gonzalez, Anthony",2.0,22.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Financial Services,24,16.0,OH,,,,,,Anthony Gonzalez,Anthony,Gonzalez
+116,113,21959.0,"Rose, John",2.0,23.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Financial Services,54,6.0,TN,,,,,,John Rose,John,Rose
+116,113,21970.0,"Steil, Bryan",2.0,24.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Financial Services,25,1.0,WI,,,,,,Bryan Steil,Bryan,Steil
+116,113,21925.0,"Gooden, Lance",2.0,25.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Financial Services,49,5.0,TX,,,,,,Lance Gooden,Lance,Gooden
+116,113,21957.0,"Riggleman, Denver",2.0,26.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES68,Financial Services,40,5.0,VA,,,,,,Denver Riggleman,Denver,Riggleman
+116,113,21974.0,"Timmons, William",7.0,1.0,200,2019-09-26 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES596,Financial Services,48,4.0,SC,,,,,,William Timmons,William,Timmons
+116,113,21973.0,"Taylor, Nicholas",7.0,2.0,200,2020-01-16 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Financial Services,49,3.0,TX,,,,,,Nicholas Taylor,Nicholas,Taylor
+116,134,15603.0,"Engel, Eliot L.",1.0,1.0,100,2019-01-04 00:00:00,2021-01-03,11.0,10.0,4.0,1.0,0.0,HRES24,Foreign Affairs,13,16.0,NY,,,,,,Eliot L. Engel,Eliot,Engel
+116,134,29707.0,"Sherman, Brad",1.0,2.0,100,2019-01-17 00:00:00,2021-01-03,0.0,12.0,2.0,1.0,1.0,HRES57,Foreign Affairs,71,30.0,CA,,,,,,Brad Sherman,Brad,Sherman
+116,134,29776.0,"Meeks, Gregory W.",1.0,3.0,100,2019-01-17 00:00:00,2021-01-03,0.0,11.0,2.0,1.0,1.0,HRES57,Foreign Affairs,13,5.0,NY,,,,,,Gregory W. Meeks,Gregory,Meeks
+116,134,20542.0,"Sires, Albio",1.0,4.0,100,2019-01-17 00:00:00,2021-01-03,0.0,7.0,2.0,1.0,1.0,HRES57,Foreign Affairs,12,8.0,NJ,,,,,,Albio Sires,Albio,Sires
+116,134,20952.0,"Connolly, Gerald E.",1.0,5.0,100,2019-01-17 00:00:00,2021-01-03,0.0,6.0,2.0,1.0,1.0,HRES57,Foreign Affairs,40,11.0,VA,,,,,,Gerald E. Connolly,Gerald,Connolly
+116,134,20959.0,"Deutch, Theodore E.",1.0,6.0,100,2019-01-17 00:00:00,2021-01-03,0.0,6.0,2.0,1.0,1.0,HRES57,Foreign Affairs,43,21.0,FL,,,,,,Theodore E. Deutch,Theodore,Deutch
+116,134,21110.0,"Bass, Karen",1.0,7.0,100,2019-01-17 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES57,Foreign Affairs,71,37.0,CA,,,,,,Karen Bass,Karen,Bass
+116,134,21140.0,"Keating, William",1.0,8.0,100,2019-01-17 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES57,Foreign Affairs,3,9.0,MA,,,,,,William Keating,William,Keating
+116,134,21172.0,"Cicilline, David",1.0,9.0,100,2019-01-17 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES57,Foreign Affairs,5,1.0,RI,,,,,,David Cicilline,David,Cicilline
+116,134,21304.0,"Bera, Ami",1.0,10.0,100,2019-01-17 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES57,Foreign Affairs,71,7.0,CA,,,,,,Ami Bera,Ami,Bera
+116,134,21362.0,"Castro, Joaquin",1.0,11.0,100,2019-01-17 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES57,Foreign Affairs,49,20.0,TX,,,,,,Joaquin Castro,Joaquin,Castro
+116,134,20927.0,"Titus, Dina",1.0,12.0,100,2019-01-17 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES57,Foreign Affairs,65,1.0,NV,,,,,,Dina Titus,Dina,Titus
+116,134,21715.0,"Espaillat Cabral, Adriano",1.0,13.0,100,2019-01-17 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,2.0,HRES57,Foreign Affairs,13,13.0,NY,,,,,,Adriano Espaillat Cabral,Adriano,Espaillat Cabral
+116,134,21507.0,"Lieu, Ted",1.0,14.0,100,2019-01-17 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES57,Foreign Affairs,71,33.0,CA,,,,,,Ted Lieu,Ted,Lieu
+116,134,21763.0,"Wild, Susan",1.0,15.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Foreign Affairs,14,7.0,PA,,,,,,Susan Wild,Susan,Wild
+116,134,21953.0,"Phillips, Dean",1.0,16.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Foreign Affairs,33,3.0,MN,,,,,,Dean Phillips,Dean,Phillips
+116,134,21950.0,"Omar, Ilhan",1.0,17.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Foreign Affairs,33,5.0,MN,,,,,,Ilhan Omar,Ilhan,Omar
+116,134,21900.0,"Allred, Colin",1.0,18.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Foreign Affairs,49,32.0,TX,,,,,,Colin Allred,Colin,Allred
+116,134,21940.0,"Levin, Andy",1.0,19.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Foreign Affairs,23,9.0,MI,,,,,,Andy Levin,Andy,Levin
+116,134,21966.0,"Spanberger, Abigail",1.0,20.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Foreign Affairs,40,7.0,VA,,,,,,Abigail Spanberger,Abigail,Spanberger
+116,134,21934.0,"Houlahan, Christina",1.0,21.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Foreign Affairs,14,6.0,PA,,,,,,Christina Houlahan,Christina,Houlahan
+116,134,21942.0,"Malinowski, Tomaz",1.0,22.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Foreign Affairs,12,7.0,NJ,,,,,,Tomaz Malinowski,Tomaz,Malinowski
+116,134,21978.0,"Trone, David",1.0,23.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES57,Foreign Affairs,52,6.0,MD,,,,,,David Trone,David,Trone
+116,134,20501.0,"Costa, Jim",1.0,24.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,4.0,1.0,1.0,HRES57,Foreign Affairs,71,16.0,CA,,,,,,Jim Costa,Jim,Costa
+116,134,21314.0,"Vargas, Juan",1.0,25.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,4.0,1.0,1.0,HRES57,Foreign Affairs,71,51.0,CA,,,,,,Juan Vargas,Juan,Vargas
+116,134,21722.0,"González, Vicente",1.0,26.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Foreign Affairs,49,15.0,TX,,,,,,Vicente González,Vicente,González
+116,134,20530.0,"McCaul, Michael T.",2.0,1.0,200,2019-01-04 00:00:00,2021-01-03,21.0,8.0,2.0,1.0,1.0,HRES25,Foreign Affairs,49,10.0,TX,,,,,,Michael T. McCaul,Michael,McCaul
+116,134,14863.0,"Smith, Christopher H.",2.0,2.0,200,2019-01-23 00:00:00,2021-01-03,0.0,18.0,2.0,1.0,1.0,HRES68,Foreign Affairs,12,4.0,NJ,,,,,,Christopher H. Smith,Christopher,Smith
+116,134,29550.0,"Chabot, Steven J.",2.0,3.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Foreign Affairs,24,1.0,OH,,,,,,Steven J. Chabot,Steven,Chabot
+116,134,20138.0,"Wilson, Addison G. (Joe)",2.0,4.0,200,2019-01-23 00:00:00,2021-01-03,0.0,8.0,2.0,1.0,1.0,HRES68,Foreign Affairs,48,2.0,SC,,,,,,Addison G. Wilson (Joe),Addison,Wilson
+116,134,21356.0,"Perry, Scott",2.0,5.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES68,Foreign Affairs,14,4.0,PA,,,,,,Scott Perry,Scott,Perry
+116,134,21317.0,"Yoho, Ted",2.0,6.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,0.0,HRES68,Foreign Affairs,43,3.0,FL,Announced retirement at end of 116th congress,,,,,Ted Yoho,Ted,Yoho
+116,134,21128.0,"Kinzinger, Adam",2.0,7.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES68,Foreign Affairs,21,16.0,IL,,,,,,Adam Kinzinger,Adam,Kinzinger
+116,134,21539.0,"Zeldin, Lee",2.0,8.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Foreign Affairs,13,1.0,NY,,,,,,Lee Zeldin,Lee,Zeldin
+116,134,14657.0,"Sensenbrenner, F. James, Jr.",2.0,9.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,0.0,HRES68,Foreign Affairs,25,5.0,WI,Announced retirement at the end of 116th congress 9/4/2019,,,,,F. James Sensenbrenner Jr.,F.,Sensenbrenner
+116,134,21337.0,"Wagner, Ann",2.0,10.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Foreign Affairs,34,2.0,MO,,,,,,Ann Wagner,Ann,Wagner
+116,134,21735.0,"Mast, Brian",2.0,11.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Foreign Affairs,43,18.0,FL,,,,,,Brian Mast,Brian,Mast
+116,134,21742.0,"Rooney, Francis",2.0,12.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,0.0,HRES68,Foreign Affairs,43,19.0,FL,"Retired, announced 10/19/19",,,,,Francis Rooney,Francis,Rooney
+116,134,21718.0,"Fitzpatrick, Brian K.",2.0,13.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Foreign Affairs,14,8.0,PA,,,,,,Brian K. Fitzpatrick,Brian,Fitzpatrick
+116,134,21755.0,"Curtis, John R.",2.0,14.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,2.0,HRES68,Foreign Affairs,67,3.0,UT,,,,,,John R. Curtis,John,Curtis
+116,134,21510.0,"Buck, Ken",2.0,15.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Foreign Affairs,62,4.0,CO,,,,,,Ken Buck,Ken,Buck
+116,134,21984.0,"Wright, Ron",2.0,16.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Foreign Affairs,49,6.0,TX,,,,,,Ron Wright,Ron,Wright
+116,134,21956.0,"Reschenthaler, Guy",2.0,17.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES68,Foreign Affairs,14,14.0,PA,,,,,,Guy Reschenthaler,Guy,Reschenthaler
+116,134,21905.0,"Burchett, Timothy",2.0,18.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Foreign Affairs,54,2.0,TN,,,,,,Timothy Burchett,Timothy,Burchett
+116,134,21952.0,"Pence, Gregory",2.0,19.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES68,Foreign Affairs,22,6.0,IN,,,,,,Gregory Pence,Gregory,Pence
+116,134,21982.0,"Watkins, Steve",2.0,20.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,4.0,0.0,HRES68,Foreign Affairs,32,2.0,KS,Resigned from committee assignments 7/17/20 following felony charges for voter fraud in his home state.,,,,,Steve Watkins,Steve,Watkins
+116,134,21927.0,"Guest, Michael",2.0,21.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES68,Foreign Affairs,46,3.0,MS,,,,,,Michael Guest,Michael,Guest
+116,134,21926.0,"Green, Mark",7.0,1.0,200,2020-07-30 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES1072,Foreign Affairs,54,7.0,TN,,,,,,Mark Green,Mark,Green
+116,142,29504.0,"Lofgren, Zoe",1.0,1.0,100,2019-01-09 00:00:00,2021-01-03,12.0,8.0,2.0,1.0,1.0,HRES31,House Administration,71,19.0,CA,,,,,,Zoe Lofgren,Zoe,Lofgren
+116,142,21741.0,"Raskin, Jamin B. (Jamie)",1.0,2.0,100,2019-01-29 00:00:00,2021-01-03,13.0,2.0,2.0,1.0,1.0,HRES85,House Administration,52,8.0,MD,,,,,,Jamin B. Raskin (Jamie),Jamin,Raskin
+116,142,20108.0,"Davis, Susan",1.0,3.0,100,2019-01-29 00:00:00,2021-01-03,0.0,1.0,4.0,1.0,0.0,HRES85,House Administration,71,53.0,CA,Announced retirement at end of 116th congress,,,,,Susan Davis,Susan,Davis
+116,142,20340.0,"Butterfield, George Kenneth, Jr. (G.K.)",1.0,4.0,100,2019-01-29 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES85,House Administration,47,1.0,NC,,,,,,George Kenneth Butterfield Jr. (G.K.),George,Butterfield
+116,142,20941.0,"Fudge, Marcia",1.0,5.0,100,2019-01-29 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,3.0,HRES85,House Administration,24,11.0,OH,"On December 10, 2020, President Biden announced his plan to nominate Fudge for Secretary of Housing and Urban Development",,,,,Marcia Fudge,Marcia,Fudge
+116,142,21506.0,"Aguilar, Peter Rey",1.0,6.0,100,2019-01-29 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES85,House Administration,71,31.0,CA,,,,,,Peter Rey Aguilar,Peter,Aguilar
+116,142,21328.0,"Davis, Rodney",2.0,1.0,200,2019-01-09 00:00:00,2021-01-03,21.0,3.0,2.0,1.0,1.0,HRES32,House Administration,21,13.0,IL,,,,,,Rodney Davis,Rodney,Davis
+116,142,21543.0,"Walker, Mark",2.0,2.0,200,2019-02-06 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,0.0,HRES103,House Administration,47,6.0,NC,Announced retirement at end of 116th congress 12/16/2019,,,,,Mark Walker,Mark,Walker
+116,142,21515.0,"Loudermilk, Barry",2.0,3.0,200,2019-02-06 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES103,House Administration,44,11.0,GA,,,,,,Barry Loudermilk,Barry,Loudermilk
+116,251,29368.0,"Thompson, Bennie",1.0,1.0,100,2019-01-04 00:00:00,2021-01-03,11.0,9.0,2.0,1.0,1.0,HRES24,Homeland Security,46,2.0,MS,,,,,,Bennie Thompson,Bennie,Thompson
+116,251,29573.0,"Jackson Lee, Sheila",1.0,2.0,100,2019-01-23 00:00:00,2021-01-03,0.0,9.0,2.0,1.0,1.0,HRES67,Homeland Security,49,18.0,TX,,,,,,Sheila Jackson Lee,Sheila,Jackson Lee
+116,251,20136.0,"Langevin, James",1.0,3.0,100,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES67,Homeland Security,5,2.0,RI,,,,,,James Langevin,James,Langevin
+116,251,21137.0,"Richmond, Cedric",1.0,4.0,100,2019-01-23 00:00:00,2020-09-22,0.0,5.0,2.0,2.0,0.0,HRES67,Homeland Security,45,2.0,LA,"Transferred to Ways and Means Committee, On November 17, 2020, he announced that he will join the Biden administration, Resignation offical January 15",,,,,Cedric Richmond,Cedric,Richmond
+116,251,31103.0,"Payne, Donald, Jr.",1.0,5.0,100,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES67,Homeland Security,12,10.0,NJ,,,,,,Donald Payne Jr.,Donald,Payne
+116,251,21540.0,"Rice, Kathleen",1.0,6.0,100,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES67,Homeland Security,13,4.0,NY,,,,,,Kathleen Rice,Kathleen,Rice
+116,251,21711.0,"Correa, Jose Luis (Lou)",1.0,7.0,100,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES67,Homeland Security,71,46.0,CA,,,,,,Jose Luis Correa (Lou),Jose,Correa
+116,251,21976.0,"Torres Small, Xochitl",1.0,8.0,100,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES67,Homeland Security,66,2.0,NM,,,,,,Xochitl Torres Small,Xochitl,Torres Small
+116,251,21958.0,"Rose, Max",1.0,9.0,100,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES67,Homeland Security,13,11.0,NY,,,,,,Max Rose,Max,Rose
+116,251,21979.0,"Underwood, Lauren",1.0,10.0,100,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES67,Homeland Security,21,14.0,IL,,,,,,Lauren Underwood,Lauren,Underwood
+116,251,21965.0,"Slotkin, Elissa",1.0,11.0,100,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES67,Homeland Security,23,8.0,MI,,,,,,Elissa Slotkin,Elissa,Slotkin
+116,251,20517.0,"Cleaver, Emanuel",1.0,12.0,100,2019-01-23 00:00:00,2021-01-03,0.0,1.0,4.0,1.0,1.0,HRES67,Homeland Security,34,5.0,MO,,,,,,Emanuel Cleaver,Emanuel,Cleaver
+116,251,20529.0,"Green, Al",1.0,13.0,100,2019-01-23 00:00:00,2021-01-03,0.0,1.0,4.0,1.0,1.0,HRES67,Homeland Security,49,9.0,TX,,,,,,Al Green,Al,Green
+116,251,20733.0,"Clarke, Yvette D.",1.0,14.0,100,2019-01-23 00:00:00,2021-01-03,0.0,1.0,4.0,1.0,1.0,HRES67,Homeland Security,13,9.0,NY,,,,,,Yvette D. Clarke,Yvette,Clarke
+116,251,20927.0,"Titus, Dina",1.0,15.0,100,2019-01-23 00:00:00,2021-01-03,0.0,1.0,4.0,1.0,1.0,HRES67,Homeland Security,65,1.0,NV,,,,,,Dina Titus,Dina,Titus
+116,251,21538.0,"Watson Coleman, Bonnie",1.0,16.0,100,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES67,Homeland Security,12,12.0,NJ,,,,,,Bonnie Watson Coleman,Bonnie,Watson Coleman
+116,251,21703.0,"Barragán, Nanette D.",1.0,17.0,100,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES67,Homeland Security,71,44.0,CA,,,,,,Nanette D. Barragán,Nanette,Barragán
+116,251,21713.0,"Demings, Valdez V. (Val)",1.0,18.0,100,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES67,Homeland Security,43,10.0,FL,,,,,,Valdez V. Demings (Val),Valdez,Demings
+116,251,20301.0,"Rogers, Mike Dennis",2.0,1.0,200,2019-01-04 00:00:00,2021-01-03,21.0,3.0,2.0,1.0,2.0,HRES25,Homeland Security,41,3.0,AL,,,,,,Mike Dennis Rogers,Mike,Rogers
+116,251,20530.0,"McCaul, Michael T.",2.0,2.0,200,2019-01-23 00:00:00,2021-01-03,0.0,8.0,2.0,1.0,1.0,HRES68,Homeland Security,49,10.0,TX,,,,,,Michael T. McCaul,Michael,McCaul
+116,251,29375.0,"King, Peter T.",2.0,3.0,200,2019-01-23 00:00:00,2021-01-03,0.0,9.0,2.0,1.0,0.0,HRES68,Homeland Security,13,2.0,NY,,,,,,Peter T. King,Peter,King
+116,251,21542.0,"Katko, John",2.0,4.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Homeland Security,13,24.0,NY,,,,,,John Katko,John,Katko
+116,251,21549.0,"Ratcliffe, John",2.0,5.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,6.0,0.0,HRES68,Homeland Security,49,4.0,TX,"Resigned May 22, 2020 to become the Director of National Intelligence",,,,,John Ratcliffe,John,Ratcliffe
+116,251,21724.0,"Higgins, Glen C. (Clay)",2.0,6.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Homeland Security,45,3.0,LA,,,,,,Glen C. Higgins (Clay),Glen,Higgins
+116,251,21543.0,"Walker, Mark",2.0,7.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,4.0,1.0,0.0,HRES68,Homeland Security,47,6.0,NC,Announced retirement at end of 116th congress 12/16/2019,,,,,Mark Walker,Mark,Walker
+116,251,21757.0,"Lesko, Debbie",2.0,8.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,2.0,HRES68,Homeland Security,61,8.0,AZ,,,,,,Debbie Lesko,Debbie,Lesko
+116,251,21926.0,"Green, Mark",2.0,9.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES68,Homeland Security,54,7.0,TN,,,,,,Mark Green,Mark,Green
+116,251,21973.0,"Taylor, Nicholas",2.0,10.0,200,2019-01-23 00:00:00,2020-01-15,0.0,1.0,2.0,2.0,2.0,HRES68,Homeland Security,49,3.0,TX,Transferred to financial services,,,,,Nicholas Taylor,Nicholas,Taylor
+116,251,21936.0,"Joyce, John",2.0,11.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES68,Homeland Security,14,13.0,PA,,,,,,John Joyce,John,Joyce
+116,251,21911.0,"Crenshaw, Daniel",2.0,12.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES68,Homeland Security,49,2.0,TX,,,,,,Daniel Crenshaw,Daniel,Crenshaw
+116,251,21927.0,"Guest, Michael",2.0,13.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Homeland Security,46,3.0,MS,,,,,,Michael Guest,Michael,Guest
+116,251,21986.0,"Bishop, Dan",7.0,1.0,200,2019-09-26 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES596,Homeland Security,47,9.0,NC,won special election on 09/10/2019,,,,,Dan Bishop,Dan,Bishop
+116,251,91980.0,"Van Drew, Jefferson",7.0,2.0,200,2020-01-16 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES801,Homeland Security,12,2.0,NJ,"Changed party to Republican 1/7/2020, newly assigned to this committee",,,,,Jefferson Van Drew,Jefferson,Van Drew
+116,251,21988.0,"Garcia, Mike",5.0,15.0,100,2020-07-30 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES1072,Homeland Security,71,25.0,CA,"Special election held March 3, 2020, but no candidate won the majority, so there was a runoff May 12, 2020",,,,,Mike Garcia,Mike,Garcia
+116,156,29377.0,"Nadler, Jerrold",1.0,1.0,100,2019-01-04 00:00:00,2021-01-03,12.0,14.0,2.0,1.0,1.0,HRES24,Judiciary,13,10.0,NY,,,,,,Jerrold Nadler,Jerrold,Nadler
+116,156,21762.0,"Scanlon, Mary Gay",1.0,2.0,100,2019-01-16 00:00:00,2021-01-03,13.0,1.0,2.0,1.0,1.0,HRES46,Judiciary,14,5.0,PA,,,,,,Mary Gay Scanlon,Mary,Scanlon
+116,156,29504.0,"Lofgren, Zoe",1.0,3.0,100,2019-01-16 00:00:00,2021-01-03,0.0,13.0,2.0,1.0,1.0,HRES46,Judiciary,71,19.0,CA,,,,,,Zoe Lofgren,Zoe,Lofgren
+116,156,29573.0,"Jackson Lee, Sheila",1.0,4.0,100,2019-01-16 00:00:00,2021-01-03,0.0,13.0,2.0,1.0,1.0,HRES46,Judiciary,49,18.0,TX,,,,,,Sheila Jackson Lee,Sheila,Jackson Lee
+116,156,20748.0,"Cohen, Steve",1.0,5.0,100,2019-01-16 00:00:00,2021-01-03,0.0,7.0,2.0,1.0,1.0,HRES46,Judiciary,54,9.0,TN,,,,,,Steve Cohen,Steve,Cohen
+116,156,20712.0,"Johnson, Henry C. ""Hank"", Jr.",1.0,6.0,100,2019-01-16 00:00:00,2021-01-03,0.0,7.0,2.0,1.0,1.0,HRES46,Judiciary,44,4.0,GA,,,,,,Henry C. Johnson Jr. (Hank),Henry,Johnson
+116,156,20959.0,"Deutch, Theodore E.",1.0,7.0,100,2019-01-16 00:00:00,2021-01-03,0.0,6.0,2.0,1.0,1.0,HRES46,Judiciary,43,21.0,FL,,,,,,Theodore E. Deutch,Theodore,Deutch
+116,156,21110.0,"Bass, Karen",1.0,8.0,100,2019-01-16 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES46,Judiciary,71,37.0,CA,,,,,,Karen Bass,Karen,Bass
+116,156,21137.0,"Richmond, Cedric",1.0,9.0,100,2019-01-16 00:00:00,2020-09-22,0.0,4.0,2.0,2.0,0.0,HRES46,Judiciary,45,2.0,LA,"Transferred to Ways and Means Committee, On November 17, 2020, he announced that he will join the Biden administration, Resignation offical January 15",,,,,Cedric Richmond,Cedric,Richmond
+116,156,21343.0,"Jeffries, Hakeem",1.0,10.0,100,2019-01-16 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES46,Judiciary,13,8.0,NY,,,,,,Hakeem Jeffries,Hakeem,Jeffries
+116,156,21172.0,"Cicilline, David",1.0,11.0,100,2019-01-16 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES46,Judiciary,5,1.0,RI,,,,,,David Cicilline,David,Cicilline
+116,156,21306.0,"Swalwell, Eric",1.0,12.0,100,2019-01-16 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES46,Judiciary,71,15.0,CA,,,,,,Eric Swalwell,Eric,Swalwell
+116,156,21507.0,"Lieu, Ted",1.0,13.0,100,2019-01-16 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES46,Judiciary,71,33.0,CA,,,,,,Ted Lieu,Ted,Lieu
+116,156,21741.0,"Raskin, Jamin B. (Jamie)",1.0,14.0,100,2019-01-16 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES46,Judiciary,52,8.0,MD,,,,,,Jamin B. Raskin (Jamie),Jamin,Raskin
+116,156,21726.0,"Jayapal, Pramila",1.0,15.0,100,2019-01-16 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES46,Judiciary,73,7.0,WA,,,,,,Pramila Jayapal,Pramila,Jayapal
+116,156,21713.0,"Demings, Valdez V. (Val)",1.0,16.0,100,2019-01-16 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES46,Judiciary,43,10.0,FL,,,,,,Valdez V. Demings (Val),Valdez,Demings
+116,156,21711.0,"Correa, Jose Luis (Lou)",1.0,17.0,100,2019-01-16 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES46,Judiciary,71,46.0,CA,,,,,,Jose Luis Correa (Lou),Jose,Correa
+116,156,21922.0,"Garcia, Sylvia",1.0,18.0,100,2019-01-16 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES46,Judiciary,49,29.0,TX,,,,,,Sylvia Garcia,Sylvia,Garcia
+116,156,21948.0,"Neguse, Joseph",1.0,19.0,100,2019-01-16 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES46,Judiciary,62,2.0,CO,,,,,,Joseph Neguse,Joseph,Neguse
+116,156,21944.0,"Mcbath, Lucy",1.0,20.0,100,2019-01-16 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES46,Judiciary,44,6.0,GA,,,,,,Lucy Mcbath,Lucy,Mcbath
+116,156,21968.0,"Stanton, Greg",1.0,21.0,100,2019-01-16 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES46,Judiciary,61,9.0,AZ,,,,,,Greg Stanton,Greg,Stanton
+116,156,21915.0,"Dean, Madeleine",1.0,22.0,100,2019-01-16 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES46,Judiciary,14,4.0,PA,,,,,,Madeleine Dean,Madeleine,Dean
+116,156,21947.0,"Mucarsel-Powell, Debbie",1.0,23.0,100,2019-01-16 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES46,Judiciary,43,26.0,FL,,,,,,Debbie Mucarsel-Powell,Debbie,Mucarsel-Powell
+116,156,21917.0,"Escobar, Veronica",1.0,24.0,100,2019-01-16 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES46,Judiciary,49,16.0,TX,,,,,,Veronica Escobar,Veronica,Escobar
+116,156,21323.0,"Collins, Doug",2.0,1.0,200,2019-01-04 00:00:00,2021-01-03,21.0,4.0,2.0,1.0,0.0,HRES25,Judiciary,44,9.0,GA,,,,,,Doug Collins,Doug,Collins
+116,156,14657.0,"Sensenbrenner, F. James, Jr.",2.0,2.0,200,2019-01-23 00:00:00,2021-01-03,0.0,21.0,2.0,1.0,0.0,HRES68,Judiciary,25,5.0,WI,Announced retirement at end of 116th congress 9/4/2019,,,,,F. James Sensenbrenner Jr.,F.,Sensenbrenner
+116,156,29550.0,"Chabot, Steven J.",2.0,3.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Judiciary,24,1.0,OH,,,,,,Steven J. Chabot,Steven,Chabot
+116,156,20527.0,"Gohmert, Louie",2.0,4.0,200,2019-01-23 00:00:00,2021-01-03,0.0,8.0,2.0,1.0,1.0,HRES68,Judiciary,49,1.0,TX,,,,,,Louie Gohmert,Louie,Gohmert
+116,156,20738.0,"Jordan, Jim",2.0,5.0,200,2019-01-23 00:00:00,2021-01-03,0.0,7.0,2.0,1.0,1.0,HRES68,Judiciary,24,4.0,OH,"Per HRES903 3/14/2020 Mr. Jordan, to rank before Mr. Collins of Georgia",,,,,Jim Jordan,Jim,Jordan
+116,156,21510.0,"Buck, Ken",2.0,6.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Judiciary,62,4.0,CO,,,,,,Ken Buck,Ken,Buck
+116,156,21549.0,"Ratcliffe, John",2.0,7.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,6.0,0.0,HRES68,Judiciary,49,4.0,TX,"Resigned May 22, 2020 to become the Director of National Intelligence",,,,,John Ratcliffe,John,Ratcliffe
+116,156,21192.0,"Roby, Martha",2.0,8.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,0.0,HRES68,Judiciary,41,2.0,AL,Retired,,,,,Martha Roby,Martha,Roby
+116,156,21719.0,"Gaetz, Matthew (Matt)",2.0,9.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Judiciary,43,1.0,FL,,,,,,Matthew Gaetz (Matt),Matthew,Gaetz
+116,156,21727.0,"Johnson, James M. (Mike)",2.0,10.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Judiciary,45,4.0,LA,,,,,,James M. Johnson (Mike),James,Johnson
+116,156,21705.0,"Biggs, Andy",2.0,11.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Judiciary,61,5.0,AZ,,,,,,Andy Biggs,Andy,Biggs
+116,156,20903.0,"Mcclintock, Tom",2.0,12.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Judiciary,71,4.0,CA,,,,,,Tom Mcclintock,Tom,Mcclintock
+116,156,21757.0,"Lesko, Debbie",2.0,13.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES68,Judiciary,61,8.0,AZ,,,,,,Debbie Lesko,Debbie,Lesko
+116,156,21956.0,"Reschenthaler, Guy",2.0,14.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES68,Judiciary,14,14.0,PA,,,,,,Guy Reschenthaler,Guy,Reschenthaler
+116,156,21908.0,"Cline, Benjamin",2.0,15.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES68,Judiciary,41,6.0,VA,,,,,,Benjamin Cline,Benjamin,Cline
+116,156,21901.0,"Armstrong, Kelly",2.0,16.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES68,Judiciary,36,1.0,ND,,,,,,Kelly Armstrong,Kelly,Armstrong
+116,156,21971.0,"Steube, William",2.0,17.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Judiciary,34,17.0,FL,,,,,,William Steube,William,Steube
+116,156,21989.0,"Tiffany, Thomas ",5.0,18.0,200,2020-07-01 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES1037,Judiciary,25,7.0,WI,"Elected in a special election May 12, 2020",,,,,Thomas Tiffany,Thomas,Tiffany
+116,164,20305.0,"Grijalva, Raul M",1.0,1.0,100,2019-01-04 00:00:00,2021-01-03,11.0,9.0,2.0,1.0,1.0,HRES24,Natural Resources,61,3.0,AZ,,,,,,Raul M Grijalva,Raul,Grijalva
+116,164,29903.0,"Napolitano, Grace F.",1.0,2.0,100,2019-01-24 00:00:00,2021-01-03,0.0,11.0,2.0,1.0,1.0,HRES73,Natural Resources,71,32.0,CA,,,,,,Grace F. Napolitano,Grace,Napolitano
+116,164,20501.0,"Costa, Jim",1.0,3.0,100,2019-01-24 00:00:00,2021-01-03,0.0,8.0,2.0,1.0,1.0,HRES73,Natural Resources,71,16.0,CA,,,,,,Jim Costa,Jim,Costa
+116,164,70810.0,"Sablan, Gregorio",1.0,4.0,100,2019-01-24 00:00:00,2021-01-03,0.0,6.0,2.0,1.0,1.0,HRES73,Natural Resources,95,1.0,MP,,,,,,Gregorio Sablan,Gregorio,Sablan
+116,164,21303.0,"Huffman, Jared",1.0,5.0,100,2019-01-24 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES73,Natural Resources,71,2.0,CA,,,,,,Jared Huffman,Jared,Huffman
+116,164,21313.0,"Lowenthal, Alan",1.0,6.0,100,2019-01-24 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES73,Natural Resources,71,47.0,CA,,,,,,Alan Lowenthal,Alan,Lowenthal
+116,164,21502.0,"Gallego, Ruben",1.0,7.0,100,2019-01-24 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES73,Natural Resources,61,7.0,AZ,,,,,,Ruben Gallego,Ruben,Gallego
+116,164,21909.0,"Cox, TJ",1.0,8.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES73,Natural Resources,71,21.0,CA,,,,,,TJ Cox,TJ,Cox
+116,164,21948.0,"Neguse, Joseph",1.0,9.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES73,Natural Resources,62,2.0,CO,,,,,,Joseph Neguse,Joseph,Neguse
+116,164,21939.0,"Levin, Mike",1.0,10.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES73,Natural Resources,71,49.0,CA,,,,,,Mike Levin,Mike,Levin
+116,164,21928.0,"Haaland, Debra",1.0,11.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES73,Natural Resources,66,1.0,NM,"Biden announced on December 17th, 2020 that Haaland would be secretary of the interior",,,,,Debra Haaland,Debra,Haaland
+116,164,21980.0,"Van Drew, Jefferson",1.0,12.0,100,2019-01-24 00:00:00,2020-01-07,0.0,1.0,2.0,2.0,2.0,HRES73,Natural Resources,12,2.0,NJ,"Changed party to Republican 1/7/2020, left this committtee",,,,,Jefferson Van Drew,Jefferson,Van Drew
+116,164,21913.0,"Cunningham, Joe",1.0,13.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES73,Natural Resources,48,1.0,SC,,,,,,Joe Cunningham,Joe,Cunningham
+116,164,29378.0,"Velazquez, Nydia M.",1.0,14.0,100,2019-01-24 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES73,Natural Resources,13,7.0,NY,,,,,,Nydia M. Velazquez,Nydia,Velazquez
+116,164,29710.0,"Degette, Diana",1.0,15.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,4.0,1.0,1.0,HRES73,Natural Resources,62,1.0,CO,,,,,,Diana Degette,Diana,Degette
+116,164,20147.0,"Clay, William L., Jr.",1.0,16.0,100,2019-01-24 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,0.0,HRES73,Natural Resources,34,1.0,MO,,,,,,William L. Clay Jr.,William,Clay
+116,164,21529.0,"Dingell, Debbie",1.0,17.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,4.0,1.0,1.0,HRES73,Natural Resources,23,12.0,MI,,,,,,Debbie Dingell,Debbie,Dingell
+116,164,21707.0,"Brown, Anthony G.",1.0,18.0,100,2019-01-24 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,2.0,HRES73,Natural Resources,52,4.0,MD,,,,,,Anthony G. Brown,Anthony,Brown
+116,164,21736.0,"McEachin, Aston D. (Donald)",1.0,19.0,100,2019-01-24 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES73,Natural Resources,40,4.0,VA,,,,,,Aston D. McEachin (Donald),Aston,McEachin
+116,164,21746.0,"Soto, Darren",1.0,20.0,100,2019-01-24 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES73,Natural Resources,43,9.0,FL,,,,,,Darren Soto,Darren,Soto
+116,164,20322.0,"Case, Ed",1.0,21.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES73,Natural Resources,82,1.0,HI,,,,,,Ed Case,Ed,Case
+116,164,21339.0,"Horsford, Steven",1.0,22.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES73,Natural Resources,65,4.0,NV,,,,,,Steven Horsford,Steven,Horsford
+116,164,70703.0,"San Nicolas, Michael F. Q. ",1.0,23.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES73,Natural Resources,91,79.0,GU,,,,,,Michael F. Q. San Nicolas,Michael,San Nicolas
+116,164,21358.0,"Cartwright, Matthew",1.0,24.0,100,2019-02-13 00:00:00,2021-01-03,0.0,1.0,4.0,1.0,2.0,HRES125,Natural Resources,14,8.0,PA,,,,,,Matthew Cartwright,Matthew,Cartwright
+116,164,20934.0,"Tonko, Paul",1.0,25.0,100,2019-02-26 00:00:00,2021-01-03,0.0,1.0,4.0,1.0,1.0,HRES148,Natural Resources,13,20.0,NY,,,,,,Paul Tonko,Paul,Tonko
+116,164,21921.0,"Garcia, Jesus",6.0,1.0,100,2020-01-14 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES793,Natural Resources,21,4.0,IL,,,,,,Jesus Garcia,Jesus,Garcia
+116,164,21703.0,"Barragán, Nanette D.",4.0,26.0,100,2020-09-22 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES1135,Natural Resources,71,44.0,CA,,,,,,Nanette D. Barragán,Nanette,Barragán
+116,164,20357.0,"Bishop, Rob",2.0,1.0,200,2019-01-04 00:00:00,2021-01-03,21.0,7.0,2.0,1.0,0.0,HRES25,Natural Resources,67,1.0,UT,,,,,,Rob Bishop,Rob,Bishop
+116,164,14066.0,"Young, Donald E.",2.0,2.0,200,2019-01-24 00:00:00,2021-01-03,0.0,24.0,2.0,1.0,1.0,HRES74,Natural Resources,81,1.0,AK,,,,,,Donald E. Young,Donald,Young
+116,164,20527.0,"Gohmert, Louie",2.0,3.0,200,2019-01-24 00:00:00,2021-01-03,0.0,8.0,2.0,1.0,1.0,HRES74,Natural Resources,49,1.0,TX,,,,,,Louie Gohmert,Louie,Gohmert
+116,164,20704.0,"Lamborn, Doug",2.0,4.0,200,2019-01-24 00:00:00,2021-01-03,0.0,7.0,2.0,1.0,1.0,HRES74,Natural Resources,62,5.0,CO,,,,,,Doug Lamborn,Doug,Lamborn
+116,164,20756.0,"Wittman, Robert J.",2.0,5.0,200,2019-01-24 00:00:00,2021-01-03,0.0,7.0,2.0,1.0,1.0,HRES74,Natural Resources,40,1.0,VA,,,,,,Robert J. Wittman,Robert,Wittman
+116,164,20903.0,"McClintock, Tom",2.0,6.0,200,2019-01-24 00:00:00,2021-01-03,0.0,6.0,2.0,1.0,1.0,HRES74,Natural Resources,71,4.0,CA,,,,,,Tom McClintock,Tom,McClintock
+116,164,21103.0,"Gosar, Paul R.",2.0,7.0,200,2019-01-24 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES74,Natural Resources,61,4.0,AZ,,,,,,Paul R. Gosar,Paul,Gosar
+116,164,21305.0,"Cook, Paul",2.0,8.0,200,2019-01-24 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,0.0,HRES74,Natural Resources,71,8.0,CA,,,,,,Paul Cook,Paul,Cook
+116,164,21563.0,"Westerman, Bruce",2.0,9.0,200,2019-01-24 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES74,Natural Resources,42,4.0,AR,,,,,,Bruce Westerman,Bruce,Westerman
+116,164,21523.0,"Graves, Garret",2.0,10.0,200,2019-01-24 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES74,Natural Resources,45,6.0,LA,,,,,,Garret Graves,Garret,Graves
+116,164,21514.0,"Hice, Jody",2.0,11.0,200,2019-01-24 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES74,Natural Resources,44,10.0,GA,,,,,,Jody Hice,Jody,Hice
+116,164,70901.0,"Radewagen, Amata",2.0,12.0,200,2019-01-24 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES74,Natural Resources,94,1.0,AS,,,,,,Amata Radewagen,Amata,Radewagen
+116,164,21116.0,"Webster, Daniel",2.0,13.0,200,2019-01-24 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES74,Natural Resources,43,11.0,FL,,,,,,Daniel Webster,Daniel,Webster
+116,164,21710.0,"Cheney, Elizabeth L. (Liz)",2.0,14.0,200,2019-01-24 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,2.0,HRES74,Natural Resources,68,1.0,WY,,,,,,Elizabeth L. Cheney (Liz),Elizabeth,Cheney
+116,164,21727.0,"Johnson, James M. (Mike)",2.0,15.0,200,2019-01-24 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,2.0,HRES74,Natural Resources,45,4.0,LA,,,,,,James M. Johnson (Mike),James,Johnson
+116,164,70807.0,"Gonzalez-Colon, Jenniffer",2.0,16.0,200,2019-01-24 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES74,Natural Resources,92,80.0,PR,,,,,,Jenniffer Gonzalez-Colon,Jenniffer,Gonzalez-Colon
+116,164,21755.0,"Curtis, John R.",2.0,17.0,200,2019-01-24 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,2.0,HRES74,Natural Resources,67,3.0,UT,,,,,,John R. Curtis,John,Curtis
+116,164,21760.0,"Hern, Kevin",2.0,18.0,200,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES74,Natural Resources,53,1.0,OK,,,,,,Kevin Hern,Kevin,Hern
+116,164,21920.0,"Fulcher, Russell",2.0,19.0,200,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES74,Natural Resources,63,1.0,ID,,,,,,Russell Fulcher,Russell,Fulcher
+116,164,21969.0,"Stauber, Peter",2.0,20.0,200,2020-07-30 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES1072,Natural Resources,33,8.0,MN,,,,,,Peter Stauber,Peter,Stauber
+116,138,29587.0,"Cummings, Elijah E.",1.0,1.0,100,2019-01-04 00:00:00,2019-10-17,11.0,13.0,2.0,5.0,0.0,HRES24,Oversight and Reform,52,7.0,MD,died 10/17/19,,,,,Elijah E. Cummings,Elijah,Cummings
+116,138,29379.0,"Maloney, Carolyn B.",1.0,1.0,100,2019-01-23 00:00:00,2021-01-03,11.0,14.0,2.0,1.0,1.0,HRES67,Oversight and Reform,13,12.0,NY,Elected as chair per H. Res. 725 on 11/21/2019,,,,,Carolyn B. Maloney,Carolyn,Maloney
+116,138,70303.0,"Norton, Eleanor Holmes",1.0,2.0,100,2019-01-23 00:00:00,2021-01-03,0.0,8.0,5.0,1.0,1.0,HRES67,Oversight and Reform,55,79.0,DC,,,,,,Eleanor Holmes Norton,Eleanor,Norton
+116,138,20147.0,"Clay, William L., Jr.",1.0,3.0,100,2019-01-23 00:00:00,2021-01-03,0.0,10.0,2.0,1.0,0.0,HRES67,Oversight and Reform,34,1.0,MO,,,,,,William L. Clay Jr.,William,Clay
+116,138,20119.0,"Lynch, Stephen F.",1.0,4.0,100,2019-01-23 00:00:00,2021-01-03,0.0,10.0,2.0,1.0,1.0,HRES67,Oversight and Reform,3,8.0,MA,,,,,,Stephen F. Lynch,Stephen,Lynch
+116,138,15019.0,"Cooper, Jim",1.0,5.0,100,2019-01-23 00:00:00,2021-01-03,0.0,7.0,4.0,1.0,1.0,HRES67,Oversight and Reform,54,5.0,TN,,,,,,Jim Cooper,Jim,Cooper
+116,138,20952.0,"Connolly, Gerald E.",1.0,6.0,100,2019-01-23 00:00:00,2021-01-03,0.0,6.0,2.0,1.0,1.0,HRES67,Oversight and Reform,40,11.0,VA,,,,,,Gerald E. Connolly,Gerald,Connolly
+116,138,21730.0,"Krishnamoorthi, Raja",1.0,7.0,100,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES67,Oversight and Reform,21,8.0,IL,,,,,,Raja Krishnamoorthi,Raja,Krishnamoorthi
+116,138,21741.0,"Raskin, Jamin B. (Jamie)",1.0,8.0,100,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES67,Oversight and Reform,52,8.0,MD,,,,,,Jamin B. Raskin (Jamie),Jamin,Raskin
+116,138,21960.0,"Rouda, Harley",1.0,9.0,100,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES67,Oversight and Reform,71,48.0,CA,,,,,,Harley Rouda,Harley,Rouda
+116,138,21932.0,"Hill, Katie",1.0,10.0,100,2019-01-23 00:00:00,2019-11-03,0.0,1.0,2.0,8.0,0.0,HRES67,Oversight and Reform,71,25.0,CA,Resigned because of allegations that she had relations with a staffer and because her husband released her nudes ,,,,,Katie Hill,Katie,Hill
+116,138,20504.0,"Wasserman Schultz, Debbie",1.0,11.0,100,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES67,Oversight and Reform,43,23.0,FL,,,,,,Debbie Wasserman Schultz,Debbie,Wasserman Schultz
+116,138,20724.0,"Sarbanes, John P.",1.0,12.0,100,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES67,Oversight and Reform,52,3.0,MD,,,,,,John P. Sarbanes,John,Sarbanes
+116,138,20750.0,"Welch, Peter",1.0,13.0,100,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES67,Oversight and Reform,6,1.0,VT,,,,,,Peter Welch,Peter,Welch
+116,138,20762.0,"Speier, Karen Lorraine Jacqueline (Jackie)",1.0,14.0,100,2019-01-23 00:00:00,2021-01-03,0.0,1.0,4.0,1.0,1.0,HRES67,Oversight and Reform,71,14.0,CA,,,,,,Karen Lorraine Jacqueline Speier (Jackie),Karen,Speier
+116,138,21371.0,"Kelly, Robin",1.0,15.0,100,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES67,Oversight and Reform,21,2.0,IL,,,,,,Robin Kelly,Robin,Kelly
+116,138,21504.0,"DeSaulnier, Mark",1.0,16.0,100,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES67,Oversight and Reform,23,14.0,MI,,,,,,Mark DeSaulnier,Mark,DeSaulnier
+116,138,21530.0,"Lawrence, Brenda",1.0,17.0,100,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES67,Oversight and Reform,71,11.0,CA,,,,,,Brenda Lawrence,Brenda,Lawrence
+116,138,70502.0,"Plaskett, Stacey",1.0,18.0,100,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,2.0,HRES67,Oversight and Reform,93,1.0,VI,,,,,,Stacey Plaskett,Stacey,Plaskett
+116,138,21728.0,"Khanna, Rohit (Ro)",1.0,19.0,100,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES67,Oversight and Reform,71,17.0,CA,Per HRES870 Mr. Khanna (to rank immediately after Mr. Rouda) 2/27/2020,,,,,Rohit Khanna (Ro),Rohit,Khanna
+116,138,21754.0,"Gomez, Jimmy",1.0,20.0,100,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES67,Oversight and Reform,71,34.0,CA,,,,,,Jimmy Gomez,Jimmy,Gomez
+116,138,21949.0,"Ocasio-Cortez, Alexandria",1.0,21.0,100,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES67,Oversight and Reform,13,14.0,NY,,,,,,Alexandria Ocasio-Cortez,Alexandria,Ocasio-Cortez
+116,138,21955.0,"Pressley, Ayanna",1.0,22.0,100,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES67,Oversight and Reform,3,7.0,MA,,,,,,Ayanna Pressley,Ayanna,Pressley
+116,138,21975.0,"Tlaib, Rashida",1.0,23.0,100,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES67,Oversight and Reform,23,13.0,MI,,,,,,Rashida Tlaib,Rashida,Tlaib
+116,138,21954.0,"Porter, Katie",6.0,1.0,100,2019-12-19 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES773,Oversight and Reform,71,45.0,CA,,,,,,Katie Porter,Katie,Porter
+116,138,15433.0,"Mfume, Kweisi",6.0,2.0,100,2020-06-08 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES995,Oversight and Reform,52,7.0,MD,"Elected in a special election 4/28/2020, (to rank immediately after Mr. Khanna)",,,,,Kweisi Mfume,Kweisi,Mfume
+116,138,20738.0,"Jordan, Jim",2.0,1.0,200,2019-01-04 00:00:00,2021-01-03,21.0,7.0,2.0,1.0,1.0,HRES25,Oversight and Reform,24,4.0,OH,,,,,,Jim Jordan,Jim,Jordan
+116,138,21103.0,"Gosar, Paul R.",2.0,3.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Oversight and Reform,61,4.0,AZ,,,,,,Paul R. Gosar,Paul,Gosar
+116,138,20521.0,"Foxx, Virginia",2.0,4.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,5.0,1.0,1.0,HRES68,Oversight and Reform,47,5.0,NC,,,,,,Virginia Foxx,Virginia,Foxx
+116,138,31102.0,"Massie, Thomas",2.0,5.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,2.0,HRES68,Oversight and Reform,51,4.0,KY,,,,,,Thomas Massie,Thomas,Massie
+116,138,21348.0,"Meadows, Mark",2.0,6.0,200,2019-01-23 00:00:00,2020-03-30,0.0,4.0,2.0,0.0,0.0,HRES68,Oversight and Reform,47,11.0,NC,"Resigned March 30, 2020 to become White House Chief of Staff",,,,,Mark Meadows,Mark,Meadows
+116,138,21514.0,"Hice, Jody",2.0,7.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Oversight and Reform,44,10.0,GA,,,,,,Jody Hice,Jody,Hice
+116,138,21559.0,"Grothman, Glenn",2.0,8.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,2.0,HRES68,Oversight and Reform,25,6.0,WI,,,,,,Glenn Grothman,Glenn,Grothman
+116,138,21565.0,"Comer, James",2.0,9.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Oversight and Reform,51,1.0,KY,"Per HRES1037 7/1/20 Mr. Comer, to rank before Mr. Jordan.",,,,,James Comer,James,Comer
+116,138,21758.0,"Cloud, Michael",2.0,10.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Oversight and Reform,49,27.0,TX,,,,,,Michael Cloud,Michael,Cloud
+116,138,21165.0,"Gibbs, Bob",2.0,11.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Oversight and Reform,24,7.0,OH,,,,,,Bob Gibbs,Bob,Gibbs
+116,138,21724.0,"Higgins, Glen C. (Clay)",2.0,12.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Oversight and Reform,45,3.0,LA,,,,,,Glen C. Higgins (Clay),Glen,Higgins
+116,138,21753.0,"Norman, Ralph",2.0,13.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Oversight and Reform,48,5.0,SC,,,,,,Ralph Norman,Ralph,Norman
+116,138,21961.0,"Roy, Charles",2.0,14.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES68,Oversight and Reform,49,21.0,TX,,,,,,Charles Roy,Charles,Roy
+116,138,21946.0,"Miller, Carol",2.0,15.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES68,Oversight and Reform,56,3.0,WV,,,,,,Carol Miller,Carol,Miller
+116,138,21926.0,"Green, Mark",2.0,16.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES68,Oversight and Reform,54,7.0,TN,,,,,,Mark Green,Mark,Green
+116,138,21901.0,"Armstrong, Kelly",2.0,17.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES68,Oversight and Reform,36,1.0,ND,,,,,,Kelly Armstrong,Kelly,Armstrong
+116,138,21971.0,"Steube, William",2.0,18.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES68,Oversight and Reform,43,17.0,FL,,,,,,William Steube,William,Steube
+116,138,21985.0,"Keller, Frederick",2.0,19.0,200,2019-07-10 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES481,Oversight and Reform,14,12.0,PA,Elected special election to replace Marino,,,,,Frederick Keller,Frederick,Keller
+116,138,21500.0,"Palmer, Gary James",7.0,1.0,200,2020-07-01 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES1037,Oversight and Reform,41,6.0,LA,to rank immediately before Mr. Cloud.,,,,,Gary James Palmer,Gary,Palmer
+116,176,29729.0,"McGovern, Jim",1.0,1.0,100,2019-01-03 00:00:00,2021-01-03,11.0,10.0,2.0,1.0,1.0,HRES7,Rules,3,2.0,MA,,,,,,Jim McGovern,Jim,McGovern
+116,176,29337.0,"Hastings, Alcee L.",1.0,2.0,100,2019-01-04 00:00:00,2021-01-03,0.0,10.0,2.0,1.0,1.0,HRES24,Rules,43,20.0,FL,,,,,,Alcee L. Hastings,Alcee,Hastings
+116,176,21508.0,"Torres, Norma",1.0,3.0,100,2019-01-04 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES24,Rules,71,35.0,CA,,,,,,Norma Torres,Norma,Torres
+116,176,20705.0,"Perlmutter, Ed",1.0,4.0,200,2019-01-08 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES26,Rules,62,7.0,CO,,,,,,Ed Perlmutter,Ed,Perlmutter
+116,176,21741.0,"Raskin, Jamin B. (Jamie)",1.0,5.0,100,2019-01-04 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES24,Rules,52,8.0,MD,,,,,,Jamin B. Raskin (Jamie),Jamin,Raskin
+116,176,21762.0,"Scanlon, Mary Gay",1.0,6.0,100,2019-01-04 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES24,Rules,14,7.0,PA,,,,,,Mary Gay Scanlon,Mary,Scanlon
+116,176,21761.0,"Morelle, Joseph",1.0,7.0,100,2019-01-04 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES24,Rules,13,25.0,NY,,,,,,Joseph Morelle,Joseph,Morelle
+116,176,21963.0,"Shalala, Donna",1.0,8.0,100,2019-01-04 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES24,Rules,43,27.0,FL,Defeated in the general election,,,,,Donna Shalala,Donna,Shalala
+116,176,21504.0,"DeSaulnier, Mark",1.0,9.0,100,2019-02-13 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES125,Rules,71,11.0,CA,,,,,,Mark DeSaulnier,Mark,DeSaulnier
+116,176,20538.0,"Matsui, Doris O.",6.0,1.0,100,2020-04-22 00:00:00,2021-01-03,0.0,1.0,4.0,,2.0,,Rules,71,6.0,CA,Temporary replacement for DeSaulnier while he recovers from Covid-19,,,,,Doris O. Matsui,Doris,Matsui
+116,176,20344.0,"Cole, Tom",2.0,1.0,200,2019-01-03 00:00:00,2021-01-03,21.0,4.0,2.0,1.0,1.0,HRES8,Rules,53,4.0,OK,,,,,,Tom Cole,Tom,Cole
+116,176,21122.0,"Woodall, Robert",2.0,2.0,200,2019-01-04 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,0.0,HRES25,Rules,44,7.0,GA,,,,,,Robert Woodall,Robert,Woodall
+116,176,20355.0,"Burgess, Michael",2.0,3.0,200,2019-01-04 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES25,Rules,49,26.0,TX,,,,,,Michael Burgess,Michael,Burgess
+116,176,21757.0,"Lesko, Debbie",2.0,4.0,200,2019-01-04 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES25,Rules,61,8.0,AZ,,,,,,Debbie Lesko,Debbie,Lesko
+116,182,39305.0,"Johnson, Eddie Bernice",1.0,1.0,100,2019-01-04 00:00:00,2021-01-03,11.0,14.0,2.0,1.0,1.0,HRES24,"Science, Space, and Technology",49,30.0,TX,,,,,,Eddie Bernice Johnson,Eddie,Johnson
+116,182,29504.0,"Lofgren, Zoe",1.0,2.0,100,2019-01-23 00:00:00,2021-01-03,0.0,5.0,4.0,1.0,1.0,HRES67,"Science, Space, and Technology",71,19.0,CA,,,,,,Zoe Lofgren,Zoe,Lofgren
+116,182,20508.0,"Lipinski, Daniel",1.0,3.0,100,2019-01-23 00:00:00,2021-01-03,0.0,8.0,2.0,1.0,0.0,HRES67,"Science, Space, and Technology",21,3.0,IL,,,,,,Daniel Lipinski,Daniel,Lipinski
+116,182,21198.0,"Bonamici, Suzanne",1.0,4.0,100,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES67,"Science, Space, and Technology",72,1.0,OR,,,,,,Suzanne Bonamici,Suzanne,Bonamici
+116,182,21304.0,"Bera, Ami",1.0,5.0,100,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES67,"Science, Space, and Technology",71,7.0,CA,,,,,,Ami Bera,Ami,Bera
+116,182,21756.0,"Lamb, Conor",1.0,6.0,100,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES67,"Science, Space, and Technology",14,18.0,PA,"Per HRES712, to rank immediately after Ms. Wexton",,,,,Conor Lamb,Conor,Lamb
+116,182,21919.0,"Fletcher, Elizabeth",1.0,7.0,100,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES67,"Science, Space, and Technology",49,7.0,TX,,,,,,Elizabeth Fletcher,Elizabeth,Fletcher
+116,182,21972.0,"Stevens, Haley",1.0,8.0,100,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES67,"Science, Space, and Technology",23,11.0,MI,,,,,,Haley Stevens,Haley,Stevens
+116,182,21933.0,"Horn, Kendra",1.0,9.0,100,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES67,"Science, Space, and Technology",53,5.0,OK,,,,,,Kendra Horn,Kendra,Horn
+116,182,21964.0,"Sherrill, Mikie",1.0,10.0,100,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES67,"Science, Space, and Technology",12,11.0,NJ,,,,,,Mikie Sherrill,Mikie,Sherrill
+116,182,29707.0,"Sherman, Brad",1.0,11.0,100,2019-01-23 00:00:00,2021-01-03,0.0,1.0,5.0,1.0,1.0,HRES67,"Science, Space, and Technology",71,30.0,CA,,,,,,Brad Sherman,Brad,Sherman
+116,182,20748.0,"Cohen, Steve",1.0,12.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES73,"Science, Space, and Technology",54,9.0,TN,,,,,,Steve Cohen,Steve,Cohen
+116,182,20702.0,"McNerney, Jerry",1.0,13.0,100,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES67,"Science, Space, and Technology",71,9.0,CA,,,,,,Jerry McNerney,Jerry,McNerney
+116,182,20705.0,"Perlmutter, Ed",1.0,14.0,100,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES67,"Science, Space, and Technology",62,7.0,CO,,,,,,Ed Perlmutter,Ed,Perlmutter
+116,182,20934.0,"Tonko, Paul",1.0,15.0,100,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES67,"Science, Space, and Technology",13,20.0,NY,,,,,,Paul Tonko,Paul,Tonko
+116,182,20749.0,"Foster, Bill",1.0,16.0,100,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES67,"Science, Space, and Technology",21,11.0,IL,,,,,,Bill Foster,Bill,Foster
+116,182,21554.0,"Beyer, Donald",1.0,17.0,100,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES67,"Science, Space, and Technology",40,8.0,VA,,,,,,Donald Beyer,Donald,Beyer
+116,182,21712.0,"Crist, Charles J. (Charlie)",1.0,18.0,100,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES67,"Science, Space, and Technology",43,13.0,FL,,,,,,Charles J. Crist (Charlie),Charles,Crist
+116,182,21906.0,"Casten, Sean",1.0,19.0,100,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES67,"Science, Space, and Technology",21,6.0,IL,,,,,,Sean Casten,Sean,Casten
+116,182,21932.0,"Hill, Katie",1.0,20.0,100,2019-01-23 00:00:00,2019-11-03,0.0,1.0,2.0,8.0,0.0,HRES67,"Science, Space, and Technology",71,25.0,CA,Resigned because of allegations that she had relations with a staffer and because her husband released her nudes ,,,,,Katie Hill,Katie,Hill
+116,182,21943.0,"Mcadams, Ben",1.0,21.0,100,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES67,"Science, Space, and Technology",67,4.0,UT,,,,,,Ben Mcadams,Ben,Mcadams
+116,182,21983.0,"Wexton, Jennifer",1.0,22.0,100,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES67,"Science, Space, and Technology",40,10.0,VA,,,,,,Jennifer Wexton,Jennifer,Wexton
+116,182,29393.0,"Lucas, Frank D.",2.0,1.0,200,2019-01-04 00:00:00,2021-01-03,21.0,11.0,2.0,1.0,1.0,HRES25,"Science, Space, and Technology",53,3.0,OK,,,,,,Frank D. Lucas,Frank,Lucas
+116,182,21193.0,"Brooks, Mo",2.0,2.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,"Science, Space, and Technology",41,5.0,AL,,,,,,Mo Brooks,Mo,Brooks
+116,182,20909.0,"Posey, Bill",2.0,3.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES68,"Science, Space, and Technology",43,8.0,FL,,,,,,Bill Posey,Bill,Posey
+116,182,21360.0,"Weber, Randy",2.0,4.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES68,"Science, Space, and Technology",49,14.0,TX,,,,,,Randy Weber,Randy,Weber
+116,182,21551.0,"Babin, Brian",2.0,5.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,"Science, Space, and Technology",49,36.0,TX,,,,,,Brian Babin,Brian,Babin
+116,182,21705.0,"Biggs, Andy",2.0,6.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,2.0,HRES68,"Science, Space, and Technology",61,5.0,AZ,,,,,,Andy Biggs,Andy,Biggs
+116,182,21734.0,"Marshall, Roger",2.0,7.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,0.0,HRES68,"Science, Space, and Technology",32,1.0,KS,Ran for senate,,,,,Roger Marshall,Roger,Marshall
+116,182,21714.0,"Dunn, Neal",2.0,8.0,200,2019-01-23 00:00:00,2019-07-12,0.0,2.0,2.0,3.0,2.0,HRES68,"Science, Space, and Technology",43,2.0,FL,leaves committee,,,,,Neal Dunn,Neal,Dunn
+116,182,21753.0,"Norman, Ralph",2.0,9.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,2.0,HRES68,"Science, Space, and Technology",48,5.0,SC,,,,,,Ralph Norman,Ralph,Norman
+116,182,21758.0,"Cloud, Michael",2.0,10.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,2.0,HRES68,"Science, Space, and Technology",49,27.0,TX,,,,,,Michael Cloud,Michael,Cloud
+116,182,21759.0,"Balderson, Troy",2.0,11.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,2.0,HRES68,"Science, Space, and Technology",24,12.0,OH,,,,,,Troy Balderson,Troy,Balderson
+116,182,20948.0,"Olson, Pete",2.0,12.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,4.0,3.0,0.0,HRES68,"Science, Space, and Technology",49,22.0,TX,Announced retirement at end of 116th congress 7/25/2019,,,,,Pete Olson,Pete,Olson
+116,182,21924.0,"Gonzalez, Anthony",2.0,13.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,"Science, Space, and Technology",24,16.0,OH,,,,,,Anthony Gonzalez,Anthony,Gonzalez
+116,182,21981.0,"Waltz, Michael",2.0,14.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,"Science, Space, and Technology",43,6.0,FL,,,,,,Michael Waltz,Michael,Waltz
+116,182,21903.0,"Baird, James",2.0,15.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,"Science, Space, and Technology",22,4.0,IN,,,,,,James Baird,James,Baird
+116,182,21187.0,"Herrera Beutler, Jaime",2.0,16.0,200,2019-03-28 00:00:00,2020-02-05,0.0,1.0,2.0,3.0,2.0,HRES264,"Science, Space, and Technology",73,3.0,WA,,,,,,Jaime Herrera Beutler,Jaime,Herrera Beutler
+116,182,70807.0,"Gonzalez-Colon, Jenniffer",2.0,17.0,200,2019-03-28 00:00:00,2019-12-31,0.0,1.0,2.0,1.0,2.0,HRES264,"Science, Space, and Technology",92,80.0,PR,,,,,,Jenniffer Gonzalez-Colon,Jenniffer,Gonzalez-Colon
+116,182,21742.0,"Rooney, Francis",2.0,18.0,200,2019-07-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES516,"Science, Space, and Technology",43,19.0,FL,"Retired, announced 10/19/19",,,,,Francis Rooney,Francis,Rooney
+116,182,21987.0,"Murphy, Greg",7.0,1.0,200,2019-09-26 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES596,"Science, Space, and Technology",47,3.0,NC,Replaced Dunn,,,,,Greg Murphy,Greg,Murphy
+116,182,21988.0,"Garcia, Mike",5.0,19.0,200,2020-07-01 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES1037,"Science, Space, and Technology",71,25.0,CA,"Special election held March 3, 2020, but no candidate won the majority, so there was a runoff May 12, 2020",,,,,Mike Garcia,Mike,Garcia
+116,182,21989.0,"Tiffany, Thomas ",5.0,20.0,200,2020-07-01 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES1037,"Science, Space, and Technology",25,7.0,WI,"Elected in a special election May 12, 2020",,,,,Thomas Tiffany,Thomas,Tiffany
+116,184,29378.0,"Velazquez, Nydia M.",1.0,1.0,100,2019-01-04 00:00:00,2021-01-03,11.0,14.0,2.0,1.0,1.0,HRES24,Small Business,13,7.0,NY,,,,,,Nydia M. Velazquez,Nydia,Velazquez
+116,184,21918.0,"Finkenauer, Abby",1.0,2.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES73,Small Business,31,1.0,IA,,,,,,Abby Finkenauer,Abby,Finkenauer
+116,184,21923.0,"Golden, Jared",1.0,3.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES73,Small Business,2,2.0,ME,,,,,,Jared Golden,Jared,Golden
+116,184,21937.0,"Kim, Andy",1.0,4.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES73,Small Business,12,3.0,NJ,,,,,,Andy Kim,Andy,Kim
+116,184,21912.0,"Crow, Jason",1.0,5.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES73,Small Business,62,6.0,CO,,,,,,Jason Crow,Jason,Crow
+116,184,21914.0,"Davids, Sharice",1.0,6.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES73,Small Business,32,3.0,KS,,,,,,Sharice Davids,Sharice,Davids
+116,184,20955.0,"Chu, Judy",1.0,7.0,100,2019-01-24 00:00:00,2021-01-03,0.0,6.0,2.0,1.0,1.0,HRES73,Small Business,71,27.0,CA,,,,,,Judy Chu,Judy,Chu
+116,184,21365.0,"Veasey, Marc",1.0,8.0,100,2019-01-24 00:00:00,2020-06-15,0.0,1.0,2.0,1.0,2.0,HRES73,Small Business,49,33.0,TX,Vacates seat to be filled by Mfume,,,,,Marc Veasey,Marc,Veasey
+116,184,21566.0,"Evans, Dwight E.",1.0,9.0,100,2019-01-24 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES73,Small Business,14,2.0,PA,,,,,,Dwight E. Evans,Dwight,Evans
+116,184,21326.0,"Schneider, Brad",1.0,10.0,100,2019-01-24 00:00:00,2021-01-03,0.0,2.0,4.0,1.0,2.0,HRES73,Small Business,21,10.0,IL,,,,,,Brad Schneider,Brad,Schneider
+116,184,21715.0,"Espaillat Cabral, Adriano",1.0,11.0,100,2019-01-24 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,2.0,HRES73,Small Business,13,13.0,NY,,,,,,Adriano Espaillat Cabral,Adriano,Espaillat Cabral
+116,184,21916.0,"Delgado, Antonio",1.0,12.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES73,Small Business,13,19.0,NY,,,,,,Antonio Delgado,Antonio,Delgado
+116,184,21934.0,"Houlahan, Christina",1.0,13.0,100,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES73,Small Business,14,6.0,PA,,,,,,Christina Houlahan,Christina,Houlahan
+116,184,21910.0,"Craig, Angela",1.0,14.0,100,2019-02-26 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES148,Small Business,33,2.0,MN,,,,,,Angela Craig,Angela,Craig
+116,184,15433.0,"Mfume, Kweisi",6.0,1.0,100,2020-05-08 00:00:00,2021-01-03,0.0,1.0,4.0,1.0,1.0,HRES954,Small Business,52,7.0,MD,Elected in a special election 4/28/2020 (to rank immediately after Ms. Davids of Kansas); replaces Mark Veasy,,,,,Kweisi Mfume,Kweisi,Mfume
+116,184,29550.0,"Chabot, Steven J.",2.0,1.0,200,2019-01-04 00:00:00,2021-01-03,21.0,5.0,2.0,1.0,2.0,HRES25,Small Business,24,1.0,OH,,,,,,Steven J. Chabot,Steven,Chabot
+116,184,70901.0,"Radewagen, Amata",2.0,2.0,200,2019-01-24 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,2.0,HRES74,Small Business,94,1.0,AS,,,,,,Amata Radewagen,Amata,Radewagen
+116,184,21561.0,"Kelly, Trent",2.0,3.0,200,2019-01-24 00:00:00,2019-10-12,0.0,3.0,2.0,3.0,2.0,HRES74,Small Business,46,1.0,MS,,,,,,Trent Kelly,Trent,Kelly
+116,184,21759.0,"Balderson, Troy",2.0,4.0,200,2019-01-24 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,2.0,HRES74,Small Business,12,24.0,OH,,,,,,Troy Balderson,Troy,Balderson
+116,184,21760.0,"Hern, Kevin",2.0,5.0,200,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES74,Small Business,53,1.0,OK,,,,,,Kevin Hern,Kevin,Hern
+116,184,21929.0,"Hagedorn, Jim",2.0,6.0,200,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES74,Small Business,33,1.0,MN,,,,,,Jim Hagedorn,Jim,Hagedorn
+116,184,21969.0,"Stauber, Peter",2.0,7.0,200,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES74,Small Business,33,8.0,MN,,,,,,Peter Stauber,Peter,Stauber
+116,184,21905.0,"Burchett, Timothy",2.0,8.0,200,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES74,Small Business,54,2.0,TN,,,,,,Timothy Burchett,Timothy,Burchett
+116,184,21967.0,"Spano, Ross",2.0,9.0,200,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES74,Small Business,43,15.0,FL,defeated for re-election in primary,,,,,Ross Spano,Ross,Spano
+116,184,21936.0,"Joyce, John",2.0,10.0,200,2019-01-24 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES74,Small Business,14,13.0,PA,,,,,,John Joyce,John,Joyce
+116,184,21986.0,"Bishop, Dan",7.0,1.0,200,2019-09-26 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES596,Small Business,47,9.0,NC,won special election on 09/10/2019,,,,,Dan Bishop,Dan,Bishop
+116,173,15410.0,"DeFazio, Peter A.",1.0,1.0,100,2019-01-04 00:00:00,2021-01-03,11.0,17.0,2.0,1.0,1.0,HRES24,Transportation and Infrastructure,72,4.0,OR,,,,,,Peter A. DeFazio,Peter,DeFazio
+116,173,70303.0,"Norton, Eleanor Holmes",1.0,2.0,100,2019-01-17 00:00:00,2021-01-03,0.0,15.0,2.0,1.0,1.0,HRES57,Transportation and Infrastructure,55,79.0,DC,,,,,,Eleanor Holmes Norton,Eleanor,Norton
+116,173,39305.0,"Johnson, Eddie Bernice",1.0,3.0,100,2019-01-17 00:00:00,2021-01-03,0.0,14.0,2.0,1.0,1.0,HRES57,Transportation and Infrastructure,49,30.0,TX,,,,,,Eddie Bernice Johnson,Eddie,Johnson
+116,173,29587.0,"Cummings, Elijah E.",1.0,4.0,100,2019-01-17 00:00:00,2019-10-17,0.0,13.0,2.0,5.0,0.0,HRES57,Transportation and Infrastructure,52,7.0,MD,Died,,,,,Elijah E. Cummings,Elijah,Cummings
+116,173,20145.0,"Larsen, Rick",1.0,5.0,100,2019-01-17 00:00:00,2021-01-03,0.0,10.0,2.0,1.0,1.0,HRES57,Transportation and Infrastructure,73,2.0,WA,,,,,,Rick Larsen,Rick,Larsen
+116,173,29903.0,"Napolitano, Grace F.",1.0,6.0,100,2019-01-17 00:00:00,2021-01-03,0.0,7.0,2.0,1.0,1.0,HRES57,Transportation and Infrastructure,71,32.0,CA,,,,,,Grace F. Napolitano,Grace,Napolitano
+116,173,20508.0,"Lipinski, Daniel",1.0,7.0,100,2019-01-17 00:00:00,2021-01-03,0.0,7.0,2.0,1.0,0.0,HRES57,Transportation and Infrastructure,21,3.0,IL,,,,,,Daniel Lipinski,Daniel,Lipinski
+116,173,20748.0,"Cohen, Steve",1.0,8.0,100,2019-01-17 00:00:00,2021-01-03,0.0,7.0,2.0,1.0,1.0,HRES57,Transportation and Infrastructure,54,9.0,TN,,,,,,Steve Cohen,Steve,Cohen
+116,173,20542.0,"Sires, Albio",1.0,9.0,100,2019-01-17 00:00:00,2021-01-03,0.0,7.0,2.0,1.0,1.0,HRES57,Transportation and Infrastructure,12,8.0,NJ,,,,,,Albio Sires,Albio,Sires
+116,173,20958.0,"Garamendi, John J.",1.0,10.0,100,2019-01-17 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES57,Transportation and Infrastructure,71,3.0,CA,,,,,,John J. Garamendi,John,Garamendi
+116,173,20712.0,"Johnson, Henry C. ""Hank"", Jr.",1.0,11.0,100,2019-01-17 00:00:00,2021-01-03,0.0,2.0,5.0,1.0,1.0,HRES57,Transportation and Infrastructure,44,4.0,GA,,,,,,Henry C. Johnson Jr. (Hank),Henry,Johnson
+116,173,20757.0,"Carson, Andre",1.0,12.0,100,2019-01-17 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES57,Transportation and Infrastructure,22,7.0,IN,,,,,,Andre Carson,Andre,Carson
+116,173,20927.0,"Titus, Dina",1.0,13.0,100,2019-01-17 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES57,Transportation and Infrastructure,65,1.0,NV,,,,,,Dina Titus,Dina,Titus
+116,173,21344.0,"Maloney, Sean Patrick",1.0,14.0,100,2019-01-17 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES57,Transportation and Infrastructure,13,18.0,NY,,,,,,Sean Patrick Maloney,Sean,Maloney
+116,173,21303.0,"Huffman, Jared",1.0,15.0,100,2019-01-17 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES57,Transportation and Infrastructure,71,2.0,CA,,,,,,Jared Huffman,Jared,Huffman
+116,173,21308.0,"Brownley, Julia",1.0,16.0,100,2019-01-17 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES57,Transportation and Infrastructure,71,26.0,CA,,,,,,Julia Brownley,Julia,Brownley
+116,173,21118.0,"Wilson, Frederica",1.0,17.0,100,2019-01-17 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES57,Transportation and Infrastructure,43,24.0,FL,,,,,,Frederica Wilson,Frederica,Wilson
+116,173,31103.0,"Payne, Donald, Jr.",1.0,18.0,100,2019-01-17 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES57,Transportation and Infrastructure,12,9.0,NJ,,,,,,Donald Payne Jr.,Donald,Payne
+116,173,21313.0,"Lowenthal, Alan",1.0,19.0,100,2019-01-17 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES57,Transportation and Infrastructure,71,47.0,CA,,,,,,Alan Lowenthal,Alan,Lowenthal
+116,173,21504.0,"DeSaulnier, Mark",1.0,20.0,100,2019-01-17 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES57,Transportation and Infrastructure,23,14.0,MI,,,,,,Mark DeSaulnier,Mark,DeSaulnier
+116,173,70502.0,"Plaskett, Stacey",1.0,21.0,100,2019-01-17 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,2.0,HRES57,Transportation and Infrastructure,93,1.0,VI,,,,,,Stacey Plaskett,Stacey,Plaskett
+116,173,20119.0,"Lynch, Stephen F.",1.0,22.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Transportation and Infrastructure,3,8.0,MA,,,,,,Stephen F. Lynch,Stephen,Lynch
+116,173,21709.0,"Carbajal, Salud",1.0,23.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Transportation and Infrastructure,71,24.0,CA,,,,,,Salud Carbajal,Salud,Carbajal
+116,173,21707.0,"Brown, Anthony G.",1.0,24.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Transportation and Infrastructure,52,4.0,MD,,,,,,Anthony G. Brown,Anthony,Brown
+116,173,21715.0,"Espaillat Cabral, Adriano",1.0,25.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES57,Transportation and Infrastructure,13,13.0,NY,,,,,,Adriano Espaillat Cabral,Adriano,Espaillat Cabral
+116,173,21942.0,"Malinowski, Tomaz",1.0,26.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Transportation and Infrastructure,12,7.0,NJ,,,,,,Tomaz Malinowski,Tomaz,Malinowski
+116,173,21968.0,"Stanton, Greg",1.0,27.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Transportation and Infrastructure,61,9.0,AZ,,,,,,Greg Stanton,Greg,Stanton
+116,173,21947.0,"Mucarsel-Powell, Debbie",1.0,28.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,1.0,1.0,0.0,HRES57,Transportation and Infrastructure,43,26.0,FL,,,,,,Debbie Mucarsel-Powell,Debbie,Mucarsel-Powell
+116,173,21919.0,"Fletcher, Elizabeth",1.0,29.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES57,Transportation and Infrastructure,49,7.0,TX,,,,,,Elizabeth Fletcher,Elizabeth,Fletcher
+116,173,21900.0,"Allred, Colin",1.0,30.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Transportation and Infrastructure,49,32.0,TX,,,,,,Colin Allred,Colin,Allred
+116,173,21914.0,"Davids, Sharice",1.0,31.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Transportation and Infrastructure,32,3.0,KS,,,,,,Sharice Davids,Sharice,Davids
+116,173,21918.0,"Finkenauer, Abby",1.0,32.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES57,Transportation and Infrastructure,31,1.0,IA,,,,,,Abby Finkenauer,Abby,Finkenauer
+116,173,21921.0,"Garcia, Jesus",1.0,33.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Transportation and Infrastructure,21,4.0,IL,,,,,,Jesus Garcia,Jesus,Garcia
+116,173,21916.0,"Delgado, Antonio",1.0,34.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Transportation and Infrastructure,13,19.0,NY,,,,,,Antonio Delgado,Antonio,Delgado
+116,173,21951.0,"Pappas, Chris",1.0,35.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Transportation and Infrastructure,4,1.0,NH,,,,,,Chris Pappas,Chris,Pappas
+116,173,21910.0,"Craig, Angela",1.0,36.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES57,Transportation and Infrastructure,33,2.0,MN,,,,,,Angela Craig,Angela,Craig
+116,173,21960.0,"Rouda, Harley",1.0,37.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES57,Transportation and Infrastructure,71,48.0,CA,,,,,,Harley Rouda,Harley,Rouda
+116,173,21756.0,"Lamb, Conor",6.0,1.0,100,2019-11-19 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES712,Transportation and Infrastructure,14,18.0,PA,Replaced Cummings,,,,,Conor Lamb,Conor,Lamb
+116,173,20124.0,"Graves, Samuel",2.0,1.0,200,2019-01-04 00:00:00,2021-01-03,21.0,10.0,2.0,1.0,1.0,HRES25,Transportation and Infrastructure,34,6.0,MO,,,,,,Samuel Graves,Samuel,Graves
+116,173,14066.0,"Young, Donald E.",2.0,2.0,200,2019-01-23 00:00:00,2021-01-03,0.0,13.0,2.0,1.0,1.0,HRES68,Transportation and Infrastructure,81,1.0,AK,,,,,,Donald E. Young,Donald,Young
+116,173,21106.0,"Crawford, Rick",2.0,3.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Transportation and Infrastructure,42,1.0,AR,,,,,,Rick Crawford,Rick,Crawford
+116,173,21165.0,"Gibbs, Bob",2.0,4.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Transportation and Infrastructure,24,7.0,OH,,,,,,Bob Gibbs,Bob,Gibbs
+116,173,21116.0,"Webster, Daniel",2.0,5.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES68,Transportation and Infrastructure,43,10.0,FL,,,,,,Daniel Webster,Daniel,Webster
+116,173,31102.0,"Massie, Thomas",2.0,6.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES68,Transportation and Infrastructure,51,4.0,KY,,,,,,Thomas Massie,Thomas,Massie
+116,173,21348.0,"Meadows, Mark",2.0,7.0,200,2019-01-23 00:00:00,2020-03-30,0.0,4.0,2.0,6.0,0.0,HRES68,Transportation and Infrastructure,47,11.0,NC,"Resigned March 30, 2020 to become White House Chief of Staff",,,,,Mark Meadows,Mark,Meadows
+116,173,21356.0,"Perry, Scott",2.0,8.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES68,Transportation and Infrastructure,14,4.0,PA,,,,,,Scott Perry,Scott,Perry
+116,173,21328.0,"Davis, Rodney",2.0,9.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES68,Transportation and Infrastructure,21,13.0,IL,,,,,,Rodney Davis,Rodney,Davis
+116,173,21122.0,"Woodall, Robert",2.0,10.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,0.0,HRES68,Transportation and Infrastructure,44,7.0,GA,,,,,,Robert Woodall,Robert,Woodall
+116,173,21542.0,"Katko, John",2.0,11.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Transportation and Infrastructure,13,24.0,NY,,,,,,John Katko,John,Katko
+116,173,21551.0,"Babin, Brian",2.0,12.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Transportation and Infrastructure,49,36.0,TX,,,,,,Brian Babin,Brian,Babin
+116,173,21523.0,"Graves, Garret",2.0,13.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Transportation and Infrastructure,45,6.0,LA,,,,,,Garret Graves,Garret,Graves
+116,173,21544.0,"Rouzer, David",2.0,14.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Transportation and Infrastructure,47,7.0,NC,,,,,,David Rouzer,David,Rouzer
+116,173,21519.0,"Bost, Mike",2.0,15.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Transportation and Infrastructure,21,12.0,IL,,,,,,Mike Bost,Mike,Bost
+116,173,21360.0,"Weber, Randy",2.0,16.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Transportation and Infrastructure,49,14.0,TX,,,,,,Randy Weber,Randy,Weber
+116,173,21302.0,"La Malfa, Doug",2.0,17.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Transportation and Infrastructure,71,1.0,CA,,,,,,Doug La Malfa,Doug,La Malfa
+116,173,21563.0,"Westerman, Bruce",2.0,18.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Transportation and Infrastructure,42,4.0,AR,,,,,,Bruce Westerman,Bruce,Westerman
+116,173,21745.0,"Smucker, Lloyd K.",2.0,19.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,2.0,HRES68,Transportation and Infrastructure,14,16.0,PA,,,,,,Lloyd K. Smucker,Lloyd,Smucker
+116,173,21737.0,"Mitchell, Paul",2.0,20.0,200,2019-01-23 00:00:00,2020-12-20,0.0,2.0,2.0,1.0,0.0,HRES68,Transportation and Infrastructure,23,10.0,MI,"Changed party to independent 12/20/2020 and left committees; Retired, announced 7/24/2019 ",,,,,Paul Mitchell,Paul,Mitchell
+116,173,21735.0,"Mast, Brian",2.0,21.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Transportation and Infrastructure,43,18.0,FL,,,,,,Brian Mast,Brian,Mast
+116,173,21720.0,"Gallagher, Michael (Mike)",2.0,22.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Transportation and Infrastructure,25,8.0,WI,,,,,,Michael Gallagher (Mike),Michael,Gallagher
+116,173,21500.0,"Palmer, Gary James",2.0,23.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES68,Transportation and Infrastructure,41,6.0,AL,,,,,,Gary James Palmer,Gary,Palmer
+116,173,21718.0,"Fitzpatrick, Brian K.",2.0,24.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Transportation and Infrastructure,14,8.0,PA,,,,,,Brian K. Fitzpatrick,Brian,Fitzpatrick
+116,173,70807.0,"Gonzalez-Colon, Jenniffer",2.0,25.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Transportation and Infrastructure,92,80.0,PR,,,,,,Jenniffer Gonzalez-Colon,Jenniffer,Gonzalez-Colon
+116,173,21759.0,"Balderson, Troy",2.0,26.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Transportation and Infrastructure,24,12.0,OH,,,,,,Troy Balderson,Troy,Balderson
+116,173,21967.0,"Spano, Ross",2.0,27.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES68,Transportation and Infrastructure,43,15.0,FL,defeated for re-election in primary,,,,,Ross Spano,Ross,Spano
+116,173,21969.0,"Stauber, Peter",2.0,28.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Transportation and Infrastructure,33,8.0,MN,,,,,,Peter Stauber,Peter,Stauber
+116,173,21946.0,"Miller, Carol",2.0,29.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES68,Transportation and Infrastructure,56,3.0,WV,,,,,,Carol Miller,Carol,Miller
+116,173,21952.0,"Pence, Gregory",2.0,30.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES68,Transportation and Infrastructure,22,6.0,IN,,,,,,Gregory Pence,Gregory,Pence
+116,173,21988.0,"Garcia, Mike",7.0,1.0,200,2020-07-01 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES1037,Transportation and Infrastructure,71,25.0,CA,Replaced Meadows,,,,,Mike Garcia,Mike,Garcia
+116,192,21312.0,"Takano, Mark",1.0,1.0,100,2019-01-04 00:00:00,2021-01-03,11.0,4.0,2.0,1.0,1.0,HRES24,Veterans Affairs,71,41.0,CA,,,,,,Mark Takano,Mark,Takano
+116,192,21308.0,"Brownley, Julia",1.0,2.0,100,2019-01-17 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES57,Veterans Affairs,71,26.0,CA,,,,,,Julia Brownley,Julia,Brownley
+116,192,21540.0,"Rice, Kathleen",1.0,3.0,100,2019-01-17 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,2.0,HRES57,Veterans Affairs,13,4.0,NY,,,,,,Kathleen Rice,Kathleen,Rice
+116,192,21756.0,"Lamb, Conor",1.0,4.0,100,2019-01-17 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES57,Veterans Affairs,14,18.0,PA,,,,,,Conor Lamb,Conor,Lamb
+116,192,21939.0,"Levin, Mike",1.0,5.0,100,2019-02-26 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES148,Veterans Affairs,71,49.0,CA,,,,,,Mike Levin,Mike,Levin
+116,192,21904.0,"Brindisi, Anthony",1.0,6.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES57,Veterans Affairs,13,22.0,NY,"Per HRES712, to rank immediately after Ms. Underwood",,,,,Anthony Brindisi,Anthony,Brindisi
+116,192,21958.0,"Rose, Max",1.0,7.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES57,Veterans Affairs,13,11.0,NY,,,,,,Max Rose,Max,Rose
+116,192,21951.0,"Pappas, Chris",1.0,8.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Veterans Affairs,4,1.0,NH,,,,,,Chris Pappas,Chris,Pappas
+116,192,21941.0,"Luria, Elaine",1.0,9.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Veterans Affairs,40,2.0,VA,,,,,,Elaine Luria,Elaine,Luria
+116,192,21938.0,"Lee, Susie",1.0,10.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES57,Veterans Affairs,65,3.0,NV,,,,,,Susie Lee,Susie,Lee
+116,192,21913.0,"Cunningham, Joe",1.0,11.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES57,Veterans Affairs,48,1.0,SC,,,,,,Joe Cunningham,Joe,Cunningham
+116,192,21907.0,"Cisneros, Gil",1.0,12.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES57,Veterans Affairs,71,39.0,CA,,,,,,Gil Cisneros,Gil,Cisneros
+116,192,29127.0,"Peterson, Collin C.",1.0,13.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,4.0,1.0,0.0,HRES57,Veterans Affairs,33,7.0,MN,,,,,,Collin C. Peterson,Collin,Peterson
+116,192,70810.0,"Sablan, Gregorio",1.0,14.0,100,2019-01-17 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES57,Veterans Affairs,95,1.0,MP,,,,,,Gregorio Sablan,Gregorio,Sablan
+116,192,21900.0,"Allred, Colin",1.0,15.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Veterans Affairs,49,32.0,TX,,,,,,Colin Allred,Colin,Allred
+116,192,21979.0,"Underwood, Lauren",1.0,16.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES57,Veterans Affairs,21,14.0,IL,,,,,,Lauren Underwood,Lauren,Underwood
+116,192,20947.0,"Roe, David P.",2.0,1.0,200,2019-01-04 00:00:00,2021-01-03,21.0,6.0,2.0,1.0,0.0,HRES25,Veterans Affairs,54,1.0,TN,Announced retirement at end of 116th congress 1/3/2020,,,,,David P. Roe,David,Roe
+116,192,20758.0,"Bilirakis, Gus",2.0,2.0,200,2019-01-23 00:00:00,2021-01-03,0.0,7.0,2.0,1.0,2.0,HRES68,Veterans Affairs,43,12.0,FL,,,,,,Gus Bilirakis,Gus,Bilirakis
+116,192,70901.0,"Radewagen, Amata",2.0,3.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Veterans Affairs,94,1.0,AS,,,,,,Amata Radewagen,Amata,Radewagen
+116,192,21519.0,"Bost, Mike",2.0,4.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Veterans Affairs,21,12.0,IL,,,,,,Mike Bost,Mike,Bost
+116,192,21714.0,"Dunn, Neal",2.0,5.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,2.0,HRES68,Veterans Affairs,43,2.0,FL,,,,,,Neal Dunn,Neal,Dunn
+116,192,21704.0,"Bergman, John W. (Jack)",2.0,6.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Veterans Affairs,23,1.0,MI,,,,,,John W. Bergman (Jack),John,Bergman
+116,192,21702.0,"Banks, James E. (Jim)",2.0,7.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Veterans Affairs,22,3.0,IN,,,,,,James E. Banks (Jim),James,Banks
+116,192,21333.0,"Barr, Andy",2.0,8.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES68,Veterans Affairs,51,6.0,KY,,,,,,Andy Barr,Andy,Barr
+116,192,21945.0,"Meuser, Dan",2.0,9.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES68,Veterans Affairs,14,9.0,PA,,,,,,Dan Meuser,Dan,Meuser
+116,192,21982.0,"Watkins, Steve",2.0,10.0,200,2019-01-23 00:00:00,2020-07-17,0.0,1.0,2.0,4.0,0.0,HRES68,Veterans Affairs,32,2.0,KS,Resigned from committee assignments 7/17/20 following felony charges for voter fraud in his home state.,,,,,Steve Watkins,Steve,Watkins
+116,192,21961.0,"Roy, Charles",2.0,11.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Veterans Affairs,49,21.0,TX,,,,,,Charles Roy,Charles,Roy
+116,192,21971.0,"Steube, William",2.0,12.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES68,Veterans Affairs,43,17.0,FL,,,,,,William Steube,William,Steube
+116,196,15616.0,"Neal, Richard E.",1.0,1.0,100,2019-01-03 00:00:00,2021-01-03,11.0,14.0,2.0,1.0,1.0,HRES7,Ways and Means,3,1.0,MA,,,,,,Richard E. Neal,Richard,Neal
+116,196,15431.0,"Lewis, John R.",1.0,2.0,100,2019-01-15 00:00:00,2021-01-03,0.0,14.0,2.0,8.0,0.0,HRES42,Ways and Means,44,5.0,GA,"Died July 17, 2020. ",,,,,John R. Lewis,John,Lewis
+116,196,29571.0,"Doggett, Lloyd",1.0,3.0,100,2019-01-15 00:00:00,2021-01-03,0.0,11.0,2.0,1.0,1.0,HRES42,Ways and Means,49,35.0,TX,,,,,,Lloyd Doggett,Lloyd,Doggett
+116,196,29901.0,"Thompson, Mike",1.0,4.0,100,2019-01-15 00:00:00,2021-01-03,0.0,8.0,2.0,1.0,1.0,HRES42,Ways and Means,71,5.0,CA,,,,,,Mike Thompson,Mike,Thompson
+116,196,29908.0,"Larson, John B.",1.0,5.0,100,2019-01-15 00:00:00,2021-01-03,0.0,8.0,2.0,1.0,1.0,HRES42,Ways and Means,1,1.0,CT,,,,,,John B. Larson,John,Larson
+116,196,29588.0,"Blumenauer, Earl",1.0,6.0,100,2019-01-15 00:00:00,2021-01-03,0.0,7.0,2.0,1.0,1.0,HRES42,Ways and Means,72,3.0,OR,,,,,,Earl Blumenauer,Earl,Blumenauer
+116,196,29769.0,"Kind, Ron",1.0,7.0,100,2019-01-15 00:00:00,2021-01-03,0.0,7.0,2.0,1.0,1.0,HRES42,Ways and Means,25,3.0,WI,,,,,,Ron Kind,Ron,Kind
+116,196,29741.0,"Pascrell, William J., Jr.",1.0,8.0,100,2019-01-15 00:00:00,2021-01-03,0.0,7.0,2.0,1.0,1.0,HRES42,Ways and Means,12,9.0,NJ,,,,,,William J. Pascrell Jr.,William,Pascrell
+116,196,29717.0,"Davis, Danny K.",1.0,9.0,100,2019-01-15 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES42,Ways and Means,21,7.0,IL,,,,,,Danny K. Davis,Danny,Davis
+116,196,20310.0,"Sanchez, Linda",1.0,10.0,100,2019-01-15 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES42,Ways and Means,71,38.0,CA,,,,,,Linda Sanchez,Linda,Sanchez
+116,196,20519.0,"Higgins, Brian",1.0,11.0,100,2019-01-15 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES42,Ways and Means,13,26.0,NY,,,,,,Brian Higgins,Brian,Higgins
+116,196,21102.0,"Sewell, Terri A.",1.0,12.0,100,2019-01-15 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES42,Ways and Means,41,7.0,AL,,,,,,Terri A. Sewell,Terri,Sewell
+116,196,31101.0,"Delbene, Suzan K.",1.0,13.0,100,2019-01-15 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES42,Ways and Means,73,1.0,WA,,,,,,Suzan K. Delbene,Suzan,Delbene
+116,196,20955.0,"Chu, Judy",1.0,14.0,100,2019-01-15 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES42,Ways and Means,71,27.0,CA,,,,,,Judy Chu,Judy,Chu
+116,196,20537.0,"Moore, Gwendolynne S. (Gwen)",1.0,15.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Ways and Means,25,4.0,WI,,,,,,Gwendolynne S. Moore (Gwen),Gwendolynne,Moore
+116,196,21372.0,"Kildee, Dan",1.0,16.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Ways and Means,23,5.0,MI,,,,,,Dan Kildee,Dan,Kildee
+116,196,21548.0,"Boyle, Brendan Francis",1.0,17.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Ways and Means,14,2.0,PA,,,,,,Brendan Francis Boyle,Brendan,Boyle
+116,196,21554.0,"Beyer, Donald Sternoff Jr.",1.0,18.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,HRES42,Ways and Means,40,8.0,VA,,,,,,Donald Sternoff Beyer Jr.,Donald,Beyer
+116,196,21566.0,"Evans, Dwight E.",1.0,19.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Ways and Means,14,3.0,PA,,,,,,Dwight E. Evans,Dwight,Evans
+116,196,21326.0,"Schneider, Brad",1.0,20.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Ways and Means,21,10.0,IL,,,,,,Brad Schneider,Brad,Schneider
+116,196,21747.0,"Suozzi, Thomas",1.0,21.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Ways and Means,13,3.0,NY,,,,,,Thomas Suozzi,Thomas,Suozzi
+116,196,21740.0,"Panetta, James V. (Jimmy)",1.0,22.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Ways and Means,71,20.0,CA,,,,,,James V. Panetta (Jimmy),James,Panetta
+116,196,21738.0,"Murphy, Stephanie",1.0,23.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Ways and Means,43,7.0,FL,,,,,,Stephanie Murphy,Stephanie,Murphy
+116,196,21754.0,"Gomez, Jimmy",1.0,24.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Ways and Means,71,34.0,CA,,,,,,Jimmy Gomez,Jimmy,Gomez
+116,196,21339.0,"Horsford, Steven",1.0,25.0,100,2019-01-15 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES42,Ways and Means,65,4.0,NV,,,,,,Steven Horsford,Steven,Horsford
+116,196,21137.0,"Richmond, Cedric",6.0,1.0,100,2020-09-22 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,HRES1135,Ways and Means,45,2.0,LA,"On November 17, 2020, he announced that he will join the Biden administration, Resignation offical January 15",,,,,Cedric Richmond,Cedric,Richmond
+116,196,29760.0,"Brady, Kevin",2.0,1.0,200,2019-01-03 00:00:00,2021-01-03,21.0,10.0,2.0,1.0,1.0,HRES8,Ways and Means,49,8.0,TX,,,,,,Kevin Brady,Kevin,Brady
+116,196,20307.0,"Nunes, Devin",2.0,2.0,200,2019-01-23 00:00:00,2021-01-03,0.0,8.0,2.0,1.0,1.0,HRES68,Ways and Means,71,22.0,CA,,,,,,Devin Nunes,Devin,Nunes
+116,196,20709.0,"Buchanan, Vernon G.",2.0,3.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Ways and Means,43,16.0,FL,,,,,,Vernon G. Buchanan,Vernon,Buchanan
+116,196,20729.0,"Smith, Adrian",2.0,4.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Ways and Means,35,3.0,NE,,,,,,Adrian Smith,Adrian,Smith
+116,196,20532.0,"Marchant, Kenny",2.0,5.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,0.0,HRES68,Ways and Means,49,24.0,TX,Announced retirement at the end of 116th congress 8/5/2019,,,,,Kenny Marchant,Kenny,Marchant
+116,196,21101.0,"Reed, Thomas W., II",2.0,6.0,200,2019-01-23 00:00:00,2021-01-03,0.0,5.0,2.0,1.0,1.0,HRES68,Ways and Means,13,23.0,NY,,,,,,Thomas W. Reed II,Thomas,Reed
+116,196,21167.0,"Kelly, Mike",2.0,7.0,200,2019-01-23 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,1.0,HRES68,Ways and Means,14,3.0,PA,,,,,,Mike Kelly,Mike,Kelly
+116,196,21349.0,"Holding, George E.B.",2.0,8.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,0.0,HRES68,Ways and Means,47,13.0,NC,"Retired, announced 12/6/2019",,,,,George E.B. Holding,George,Holding
+116,196,21373.0,"Smith, Jason",2.0,9.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Ways and Means,34,8.0,MO,,,,,,Jason Smith,Jason,Smith
+116,196,21359.0,"Rice, Tom",2.0,10.0,200,2019-01-23 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,HRES68,Ways and Means,48,7.0,SC,,,,,,Tom Rice,Tom,Rice
+116,196,21105.0,"Schweikert, David",2.0,11.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Ways and Means,61,6.0,AZ,,,,,,David Schweikert,David,Schweikert
+116,196,21330.0,"Walorski, Jackie",2.0,12.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Ways and Means,22,2.0,IN,,,,,,Jackie Walorski,Jackie,Walorski
+116,196,21562.0,"Lahood, Darin",2.0,13.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Ways and Means,21,18.0,IL,,,,,,Darin Lahood,Darin,Lahood
+116,196,21351.0,"Wenstrup, Brad",2.0,14.0,200,2019-01-23 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,HRES68,Ways and Means,24,2.0,OH,,,,,,Brad Wenstrup,Brad,Wenstrup
+116,196,21700.0,"Arrington, Jodey Cook",2.0,15.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Ways and Means,49,19.0,TX,,,,,,Jodey Cook Arrington,Jodey,Arrington
+116,196,21717.0,"Ferguson, Anderson Drew IV",2.0,16.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Ways and Means,44,3.0,GA,,,,,,Anderson Drew Ferguson IV,Anderson,Ferguson
+116,196,21750.0,"Estes, Ron",2.0,17.0,200,2019-01-23 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,HRES68,Ways and Means,32,2.0,KS,,,,,,Ron Estes,Ron,Estes
+116,242,20104.0,"Schiff, Adam",1.0,1.0,100,2019-01-16 00:00:00,2021-01-03,11.0,3.0,2.0,1.0,1.0,H198,Intelligence (Select),71,28.0,CA,,,,,,Adam Schiff,Adam,Schiff
+116,242,20907.0,"Himes, James A.",1.0,2.0,100,2019-01-16 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,,H665,Intelligence (Select),1,4.0,CT,,,,,,James A. Himes,James,Himes
+116,242,21102.0,"Sewell, Terri A.",1.0,3.0,100,2019-01-16 00:00:00,2021-01-03,0.0,4.0,2.0,1.0,,H665,Intelligence (Select),41,7.0,AL,,,,,,Terri A. Sewell,Terri,Sewell
+116,242,20757.0,"Carson, Andre",1.0,4.0,100,2019-01-16 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,H665,Intelligence (Select),22,7.0,IN,,,,,,Andre Carson,Andre,Carson
+116,242,20762.0,"Speier, Karen Lorraine Jacqueline (Jackie)",1.0,5.0,100,2019-01-16 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,,H665,Intelligence (Select),71,14.0,CA,,,,,,Karen Lorraine Jacqueline Speier (Jackie),Karen,Speier
+116,242,20954.0,"Quigley, Mike",1.0,6.0,100,2019-01-16 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,H665,Intelligence (Select),21,5.0,IL,,,,,,Mike Quigley,Mike,Quigley
+116,242,21306.0,"Swalwell, Eric",1.0,7.0,100,2019-01-16 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,H665,Intelligence (Select),71,15.0,CA,,,,,,Eric Swalwell,Eric,Swalwell
+116,242,21362.0,"Castro, Joaquin",1.0,8.0,100,2019-01-16 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,H665,Intelligence (Select),49,20.0,TX,,,,,,Joaquin Castro,Joaquin,Castro
+116,242,21369.0,"Heck, Denny",1.0,9.0,100,2019-01-16 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,0.0,H665,Intelligence (Select),73,10.0,WA,,,,,,Denny Heck,Denny,Heck
+116,242,21344.0,"Maloney, Sean Patrick",1.0,10.0,100,2019-01-16 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,,H665,Intelligence (Select),13,18.0,NY,,,,,,Sean Patrick Maloney,Sean,Maloney
+116,242,21713.0,"Demings, Valdez V. (Val)",1.0,11.0,100,2019-01-16 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,H665,Intelligence (Select),43,10.0,FL,,,,,,Valdez V. Demings (Val),Valdez,Demings
+116,242,21730.0,"Krishnamoorthi, Raja",1.0,12.0,100,2019-01-16 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,,H665,Intelligence (Select),21,8.0,IL,,,,,,Raja Krishnamoorthi,Raja,Krishnamoorthi
+116,242,20750.0,"Welch, Peter",1.0,13.0,100,2019-01-17 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,H687,Intelligence (Select),6,1.0,VT,To rank immediately after Mr. Heck,,,,,Peter Welch,Peter,Welch
+116,242,20307.0,"Nunes, Devin",2.0,1.0,200,2019-01-16 00:00:00,2021-01-03,21.0,5.0,2.0,1.0,1.0,H198,Intelligence (Select),71,22.0,CA,,,,,,Devin Nunes,Devin,Nunes
+116,242,20531.0,"Conaway, K. Michael",2.0,2.0,200,2019-01-16 00:00:00,2021-01-03,0.0,6.0,2.0,1.0,0.0,H1321,Intelligence (Select),49,11.0,TX,Announced retirement at the end of 116th congress 7/30/2019,,,,,K. Michael Conaway,K.,Conaway
+116,242,20342.0,"Turner, Mike",2.0,3.0,200,2019-01-16 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,,H1321,Intelligence (Select),24,3.0,OH,,,,,,Mike Turner,Mike,Turner
+116,242,21351.0,"Wenstrup, Brad",2.0,4.0,200,2019-01-16 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,H1321,Intelligence (Select),24,2.0,OH,,,,,,Brad Wenstrup,Brad,Wenstrup
+116,242,21367.0,"Stewart, Chris",2.0,5.0,200,2019-01-16 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,H1321,Intelligence (Select),67,2.0,UT,,,,,,Chris Stewart,Chris,Stewart
+116,242,21106.0,"Crawford, Rick",2.0,6.0,200,2019-01-16 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,H1321,Intelligence (Select),42,1.0,AR,,,,,,Rick Crawford,Rick,Crawford
+116,242,21541.0,"Stefanik, Elise",2.0,7.0,200,2019-01-16 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,H1321,Intelligence (Select),13,21.0,NY,,,,,,Elise Stefanik,Elise,Stefanik
+116,242,21550.0,"Hurd, Will",2.0,8.0,200,2019-01-16 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,0.0,H1321,Intelligence (Select),49,23.0,TX,Announced retirement at the end of 116th congress 8/1/2019,,,,,Will Hurd,Will,Hurd
+116,242,21549.0,"Ratcliffe, John",2.0,9.0,200,2019-01-16 00:00:00,2021-01-03,0.0,1.0,2.0,6.0,0.0,H1321,Intelligence (Select),49,4.0,TX,"Resigned May 22, 2020 to become the Director of National Intelligence",,,,,John Ratcliffe,John,Ratcliffe
+116,255,20708.0,"Castor, Kathy",1.0,1.0,100,2019-03-04 00:00:00,2021-01-03,11.0,1.0,2.0,1.0,1.0,H2319,Climate Crisis (select),43,14.0,FL,,,,,,Kathy Castor,Kathy,Castor
+116,255,20932.0,"Luján, Ben Ray",1.0,2.0,100,2019-03-04 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,H2319,Climate Crisis (select),66,3.0,NM,,,,,,Ben Ray Luján,Ben,Luján
+116,255,21198.0,"Bonamici, Suzanne",1.0,3.0,100,2019-03-04 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,H2319,Climate Crisis (select),72,1.0,OR,,,,,,Suzanne Bonamici,Suzanne,Bonamici
+116,255,21308.0,"Brownley, Julia",1.0,4.0,100,2019-03-04 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,H2319,Climate Crisis (select),71,26.0,CA,,,,,,Julia Brownley,Julia,Brownley
+116,255,21303.0,"Huffman, Jared",1.0,5.0,100,2019-03-04 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,H2319,Climate Crisis (select),71,2.0,CA,,,,,,Jared Huffman,Jared,Huffman
+116,255,21736.0,"McEachin, Aston D. (Donald)",1.0,6.0,100,2019-03-04 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,H2319,Climate Crisis (select),40,4.0,VA,,,,,,Aston D. McEachin (Donald),Aston,McEachin
+116,255,21939.0,"Levin, Mike",1.0,7.0,100,2019-03-04 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,H2319,Climate Crisis (select),71,49.0,CA,,,,,,Mike Levin,Mike,Levin
+116,255,21906.0,"Casten, Sean",1.0,8.0,100,2019-03-04 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,,H2319,Climate Crisis (select),21,6.0,IL,,,,,,Sean Casten,Sean,Casten
+116,255,21948.0,"Neguse, Joseph",1.0,9.0,100,2019-03-04 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,H2319,Climate Crisis (select),62,2.0,CO,,,,,,Joseph Neguse,Joseph,Neguse
+116,255,21523.0,"Graves, Garret",2.0,1.0,200,2019-03-04 00:00:00,2021-01-03,21.0,1.0,2.0,1.0,1.0,H2319,Climate Crisis (select),45,6.0,LA,,,,,,Garret Graves,Garret,Graves
+116,255,21191.0,"Griffith, Morgan",2.0,2.0,200,2019-03-04 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,,H2319,Climate Crisis (select),40,9.0,VA,,,,,,Morgan Griffith,Morgan,Griffith
+116,255,21500.0,"Palmer, Gary James",2.0,3.0,200,2019-03-04 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,H2319,Climate Crisis (select),41,6.0,AL,,,,,,Gary James Palmer,Gary,Palmer
+116,255,21513.0,"Carter, Buddy",2.0,4.0,200,2019-03-04 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,H2319,Climate Crisis (select),44,1.0,GA,,,,,,Buddy Carter,Buddy,Carter
+116,255,21946.0,"Miller, Carol",2.0,5.0,200,2019-03-04 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,H2319,Climate Crisis (select),56,3.0,WV,,,,,,Carol Miller,Carol,Miller
+116,255,21901.0,"Armstrong, Kelly",2.0,6.0,200,2019-03-04 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,,H2319,Climate Crisis (select),36,1.0,ND,,,,,,Kelly Armstrong,Kelly,Armstrong
+116,256,21368.0,"Kilmer, Derek",1.0,1.0,100,2019-01-29 00:00:00,2021-01-03,12.0,1.0,2.0,1.0,1.0,H1280,Modernization of Congress (select),73,6.0,WA,,,,,,Derek Kilmer,Derek,Kilmer
+116,256,20517.0,"Cleaver, Emanuel",1.0,2.0,100,2019-01-29 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,H1280,Modernization of Congress (select),34,5.0,MO,,,,,,Emanuel Cleaver,Emanuel,Cleaver
+116,256,31101.0,"Delbene, Suzan K.",1.0,3.0,100,2019-01-29 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,H1280,Modernization of Congress (select),73,1.0,WA,,,,,,Suzan K. Delbene,Suzan,Delbene
+116,256,29504.0,"Lofgren, Zoe",1.0,4.0,100,2019-01-29 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,H1280,Modernization of Congress (select),71,19.0,CA,,,,,,Zoe Lofgren,Zoe,Lofgren
+116,256,21370.0,"Pocan, Mark",1.0,5.0,100,2019-01-29 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,H1280,Modernization of Congress (select),25,2.0,WI,,,,,,Mark Pocan,Mark,Pocan
+116,256,21762.0,"Scanlon, Mary Gay",1.0,6.0,100,2019-01-29 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,H1280,Modernization of Congress (select),14,5.0,PA,,,,,,Mary Gay Scanlon,Mary,Scanlon
+116,256,20962.0,"Graves, Tom",2.0,1.0,200,2019-02-08 00:00:00,2020-10-04,13.0,1.0,2.0,8.0,0.0,H1490,Modernization of Congress (select),44,14.0,GA,"Announced retirement early, effective october 4th",,,,,Tom Graves,Tom,Graves
+116,256,21122.0,"Woodall, Robert",2.0,2.0,200,2019-02-08 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,H1490,Modernization of Congress (select),44,7.0,GA,,,,,,Robert Woodall,Robert,Woodall
+116,256,21331.0,"Brooks, Susan",2.0,3.0,200,2019-02-08 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,H1490,Modernization of Congress (select),22,5.0,IN,Announced retirement at end of 116th congress 6/14/2019,,,,,Susan Brooks,Susan,Brooks
+116,256,21328.0,"Davis, Rodney",2.0,4.0,200,2019-02-08 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,H1490,Modernization of Congress (select),21,13.0,IL,,,,,,Rodney Davis,Rodney,Davis
+116,256,21556.0,"Newhouse, Dan",2.0,5.0,200,2019-02-08 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,H1490,Modernization of Congress (select),73,4.0,WA,,,,,,Dan Newhouse,Dan,Newhouse
+116,256,21974.0,"Timmons, William",2.0,6.0,200,2019-02-08 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,H1490,Modernization of Congress (select),48,4.0,SC,,,,,,William Timmons,William,Timmons
+116,550,15616.0,"Neal, Richard Edmund",1.0,1.0,100,2018-02-23 00:00:00,,0.0,1.0,2.0,,,H1224,"Solvency of Multiemployer Pension Plans (Joint, Select)",3,1.0,MA,,,,,,Richard Edmund Neal,Richard,Neal
+116,550,39307.0,"Scott, Robert C.",1.0,2.0,100,2018-02-23 00:00:00,,0.0,1.0,2.0,,,H1224,"Solvency of Multiemployer Pension Plans (Joint, Select)",40,3.0,VA,,,,,,Robert C. Scott,Robert,Scott
+116,550,21536.0,"Norcross, Donald",1.0,3.0,100,2018-02-23 00:00:00,,0.0,1.0,2.0,,,H1224,"Solvency of Multiemployer Pension Plans (Joint, Select)",12,1.0,NJ,,,,,,Donald Norcross,Donald,Norcross
+116,550,21529.0,"Dingell, Debbie",1.0,4.0,100,2018-02-23 00:00:00,,0.0,1.0,2.0,,,H1224,"Solvency of Multiemployer Pension Plans (Joint, Select)",23,12.0,MI,,,,,,Debbie Dingell,Debbie,Dingell
+116,550,20521.0,"Foxx, Virginia Ann",2.0,1.0,200,2018-02-23 00:00:00,,0.0,1.0,2.0,,,H1224,"Solvency of Multiemployer Pension Plans (Joint, Select)",47,5.0,NC,,,,,,Virginia Ann Foxx,Virginia,Foxx
+116,550,20947.0,"Roe, David P. (Phil)",2.0,2.0,200,2018-02-23 00:00:00,,0.0,1.0,2.0,,,H1224,"Solvency of Multiemployer Pension Plans (Joint, Select)",54,1.0,TN,,,,,,David P. Roe (Phil),David,Roe
+116,550,20709.0,"Buchanan, Vernon G.",2.0,3.0,200,2018-02-23 00:00:00,,0.0,1.0,2.0,,,H1224,"Solvency of Multiemployer Pension Plans (Joint, Select)",43,16.0,FL,,,,,,Vernon G. Buchanan,Vernon,Buchanan
+116,550,21105.0,"Schweikert, David",2.0,4.0,200,2018-02-23 00:00:00,,0.0,1.0,2.0,,,H1224,"Solvency of Multiemployer Pension Plans (Joint, Select)",61,6.0,AZ,,,,,,David Schweikert,David,Schweikert
+116,507,29379.0,"Maloney, Carolyn B.",1.0,1.0,100,2019-01-10 00:00:00,2021-01-03,13.0,10.0,2.0,1.0,2.0,H440,Economic (Joint),13,12.0,NY,,,,,,Carolyn B. Maloney,Carolyn,Maloney
+116,507,21554.0,"Beyer, Donald Sternoff Jr.",1.0,2.0,100,2019-02-14 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,H2007,Economic (Joint),40,8.0,VA,,,,,,Donald Sternoff Beyer Jr.,Donald,Beyer
+116,507,21369.0,"Heck, Denny",1.0,3.0,100,2019-02-14 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,H2007,Economic (Joint),73,10.0,WA,,,,,,Denny Heck,Denny,Heck
+116,507,21978.0,"Trone, David",1.0,4.0,100,2019-02-14 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,H2007,Economic (Joint),52,6.0,MD,,,,,,David Trone,David,Trone
+116,507,21352.0,"Beatty, Joyce",1.0,5.0,100,2019-02-14 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,H2007,Economic (Joint),24,3.0,OH,,,,,,Joyce Beatty,Joyce,Beatty
+116,507,21321.0,"Frankel, Lois",1.0,6.0,100,2019-02-14 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,2.0,H2007,Economic (Joint),43,21.0,FL,,,,,,Lois Frankel,Lois,Frankel
+116,507,21105.0,"Schweikert, David",2.0,1.0,200,2019-03-18 00:00:00,2021-01-03,0.0,3.0,2.0,1.0,1.0,H2750,Economic (Joint),61,6.0,AZ,,,,,,David Schweikert,David,Schweikert
+116,507,21562.0,"Lahood, Darin",2.0,2.0,200,2019-03-18 00:00:00,2021-01-03,0.0,2.0,2.0,1.0,1.0,H2750,Economic (Joint),21,18.0,IL,,,,,,Darin Lahood,Darin,Lahood
+116,507,20532.0,"Marchant, Kenny",2.0,3.0,200,2019-03-18 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,0.0,H2750,Economic (Joint),49,24.0,TX,Announced retirement at end of 116th congress 8/5/2019,,,,,Kenny Marchant,Kenny,Marchant
+116,507,21187.0,"Herrera Beutler, Jaime",2.0,4.0,200,2019-03-18 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,1.0,H2750,Economic (Joint),73,3.0,WA,,,,,,Jaime Herrera Beutler,Jaime,Herrera Beutler
+116,500,29504.0,"Lofgren, Zoe",1.0,1.0,100,2019-04-09 00:00:00,2021-01-03,12.0,8.0,2.0,1.0,,H3169,Library (Joint),71,19.0,CA,,,,,,Zoe Lofgren,Zoe,Lofgren
+116,500,20340.0,"Butterfield, George Kenneth, Jr. (G.K.)",1.0,2.0,100,2019-04-09 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,,H3169,Library (Joint),47,1.0,NC,,,,,,George Kenneth Butterfield Jr. (G.K.),George,Butterfield
+116,500,20343.0,"Ryan, Timothy J.",1.0,3.0,100,Unknown,2021-01-03,0.0,1.0,2.0,1.0,,House Clerk,Library (Joint),24,13.0,OH,,,,,,Timothy J. Ryan,Timothy,Ryan
+116,500,21328.0,"Davis, Rodney",2.0,1.0,200,2019-04-09 00:00:00,2021-01-03,21.0,1.0,2.0,1.0,,H3169,Library (Joint),21,13.0,IL,,,,,,Rodney Davis,Rodney,Davis
+116,500,21543.0,"Walker, Mark",2.0,2.0,200,Unknown,2021-01-03,0.0,1.0,2.0,1.0,0.0,House Clerk,Library (Joint),47,6.0,NC,Announced retirement at end of 116th congress 12/16/2019,,,,,Mark Walker,Mark,Walker
+116,501,29504.0,"Lofgren, Zoe",1.0,1.0,100,2019-04-09 00:00:00,2021-01-03,12.0,1.0,2.0,1.0,,H3169,Printing (Joint),71,19.0,CA,,,,,,Zoe Lofgren,Zoe,Lofgren
+116,501,21741.0,"Raskin, Jamin B. (Jamie)",1.0,2.0,100,2019-04-09 00:00:00,2021-01-03,13.0,3.0,2.0,1.0,,H226,Printing (Joint),52,8.0,MD,,,,,,Jamin B. Raskin (Jamie),Jamin,Raskin
+116,501,20108.0,"Davis, Susan",1.0,3.0,100,2019-04-09 00:00:00,2021-01-03,0.0,1.0,4.0,1.0,0.0,H226,Printing (Joint),71,53.0,CA,Announced retirment at end of 116th congress,,,,,Susan Davis,Susan,Davis
+116,501,20340.0,"Butterfield, George Kenneth, Jr. (G.K.)",1.0,4.0,100,2019-04-09 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,,H3169,Printing (Joint),47,1.0,NC,,,,,,George Kenneth Butterfield Jr. (G.K.),George,Butterfield
+116,501,20941.0,"Fudge, Marcia",1.0,5.0,100,Unknown,2021-01-03,0.0,1.0,2.0,1.0,3.0,House Clerk,Printing (Joint),24,11.0,OH,"On December 10, 2020, President Biden announced his plan to nominate Fudge for Secretary of Housing and Urban Development",,,,,Marcia Fudge,Marcia,Fudge
+116,501,21506.0,"Aguilar, Peter Rey",1.0,6.0,100,Unknown,2021-01-03,0.0,1.0,2.0,1.0,,House Clerk,Printing (Joint),71,31.0,CA,,,,,,Peter Rey Aguilar,Peter,Aguilar
+116,501,21328.0,"Davis, Rodney",2.0,1.0,200,2019-04-09 00:00:00,2021-01-03,21.0,4.0,2.0,1.0,,H3169,Printing (Joint),21,13.0,IL,,,,,,Rodney Davis,Rodney,Davis
+116,501,21543.0,"Walker, Mark",2.0,2.0,200,Unknown,2021-01-03,0.0,3.0,2.0,1.0,0.0,House Clerk,Printing (Joint),47,6.0,NC,Announced retirement at end of 116th congress 12/16/2019,,,,,Mark Walker,Mark,Walker
+116,501,21515.0,"Loudermilk, Barry",2.0,3.0,200,2019-04-09 00:00:00,2021-01-03,0.0,1.0,2.0,1.0,,H3169,Printing (Joint),44,11.0,GA,,,,,,Barry Loudermilk,Barry,Loudermilk
+116,503,15616.0,"Neal, Richard E.",1.0,1.0,100,Unknown,2021-01-03,12.0,2.0,2.0,1.0,,House Clerk,Taxation (Joint),3,1.0,MA,,,,,,Richard E. Neal,Richard,Neal
+116,503,15431.0,"Lewis, John R.",1.0,2.0,100,Unknown,2021-01-03,0.0,2.0,2.0,8.0,0.0,House Clerk,Taxation (Joint),44,5.0,GA,"Died July 17, 2020. ",,,,,John R. Lewis,John,Lewis
+116,503,29571.0,"Doggett, Lloyd",1.0,3.0,100,Unknown,2021-01-03,0.0,1.0,2.0,1.0,,House Clerk,Taxation (Joint),49,35.0,TX,,,,,,Lloyd Doggett,Lloyd,Doggett
+116,503,29760.0,"Brady, Kevin",2.0,1.0,200,Unknown,2021-01-03,21.0,4.0,2.0,1.0,,House Clerk,Taxation (Joint),49,8.0,TX,,,,,,Kevin Brady,Kevin,Brady
+116,503,20307.0,"Nunes, Devin",2.0,2.0,200,Unknown,2021-01-03,0.0,3.0,2.0,1.0,,House Clerk,Taxation (Joint),71,22.0,CA,,,,,,Devin Nunes,Devin,Nunes

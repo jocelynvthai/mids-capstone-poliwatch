@@ -1,0 +1,564 @@
+ {
+    "data": [
+        {
+            "name": "disclosure_date", "data_type": "date", "description": "Date of disclosure (2020-01-02 to 2023-05-14"},
+        {
+            "name": "transaction_date", "data_type": "date", "description": "Date of transaction (2012-06-19 to 2023-05-03"},
+        {
+            "name": "owner", "data_type": "string", "description": "Financial transation ownership type: joint, self, dependent, blank, or --"},
+        {
+            "name": "ticker", "data_type": "string", "description": "Unique symbol representing particular stock/security of exchange"},
+        {
+            "name": "asset_description", "data_type": "string", "description": "Name of the stock or brief description of the company, sometimes describing the property location or type."},
+        {
+            "name": "type", "data_type": "string", "description": "Financial transation type: purchase, full sale, partial sale, exchange, or sale"},
+        {
+            "name": "amount", "data_type": "string", "description": "Financial transaction amount category: $1,001 - $15,000, $5,000,001 - $25,000,000, $15,001 - $50,000, $100,001 - $250,000, $50,001 - $100,000, $250,001 - $500,000, $1,000,001 - $5,000,000, $500,001 - $1,000,000, $1,000 - $15,000, $15,000 - $50,000, $1,000,000 - $5,000,000"},
+        {
+            "name": "member_x", "data_type": "string", "description": "Congressional member's full name (lowercase)"},
+        {
+            "name": "district", "data_type": "string", "description": "Congressional member's unique district (state abbreviation & district number)"},
+        {
+            "name": "state", "data_type": "string", "description": "Congressional member's state (2 letter abbreviation)"},
+        {
+            "name": "ptr_link", "data_type": "string", "description": "Congressional member's periodic transaction report link"},
+        {
+            "name": "cap_gains_over_200_usd", "data_type": "boolean", "description": "Indicates whether the capital gains from the financial transaction exceed $200"},
+        {
+            "name": "industry", "data_type": "string", "description": "Industry associated with the financial transaction"},
+        {
+            "name": "sector", "data_type": "string", "description": "Sector associated with the financial transaction (broader classification grouping industries together)"},
+        {
+            "name": "party_x", "data_type": "string", "description": "Congressional member's party affiliation: Democrat, Republican, Libertarian, Jackson, or blank"},
+        {
+            "name": "member_type", "data_type": "string", "description": "Congressional member's type: Representative or Senate"},
+        {
+            "name": "amount_formatted", "data_type": "float", "description": "Financial transaction formatted amount: 1.0e+03, 5.0e+06, 1.5e+04, 1.0e+05, 5.0e+04, 2.5e+05, 1.0e+06, 5.0e+05"},
+        {
+            "name": "parsed_name_x", "data_type": "NameParser object", "description": "Congressional member's full name"},
+        {
+            "name": "first_name_x", "data_type": "NameParser object", "description": "Congressional member's first name"},
+        {
+            "name": "last_name_x", "data_type": "NameParser object", "description": "Congressional member's last name"},
+        {
+            "name": "string_name", "data_type": "string", "description": "Congressional member's first & last name"},
+        {
+            "name": "short_title", "data_type": "string", "description": "Congressional member's title: Rep., Del., or blank"},
+        {
+            "name": "first_name_y", "data_type": "string", "description": "Congressional member's first name"},
+        {
+            "name": "middle_name", "data_type": "string", "description": "Congressional member's middle name"},
+        {
+            "name": "last_name_y", "data_type": "string", "description": "Congressional member's last name"},
+        {
+            "name": "party_y", "data_type": "string", "description": "Congressional member's party affiliation: D, R, I, or blank"},
+        {
+            "name": "id", "data_type": "string", "description": "Congressional member's unique id"},
+        {
+            "name": "member_y", "data_type": "string", "description": "Congressional member's first & last name"},
+        {
+            "name": "parsed_name_y", "data_type": "string", "description": "Congressional member's first & last name"},
+        {
+            "name": "member_id_x", "data_type": "string", "description": "Congressional member's unique id"},
+        {
+            "name": "member_id_y", "data_type": "string", "description": "Congressional member's unique id"},
+        {
+            "name": "HSAG", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "HSAP", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "HSAS", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "HSBA", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "HSBU", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "HSCN", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "HSED", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "HSFA", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "HSGO", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "HSHA", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "HSHM", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "HSIF", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "HSIG", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "HSII", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "HSJU", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "HSMH", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "HSPW", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "HSRU", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "HSSM", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "HSSO", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "HSSY", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "HSVR", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "HSWM", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "JCSE", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "JSEC", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "JSLC", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "JSPR", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "JSTX", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "SCNC", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "SLET", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "SLIA", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "SLIN", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "SPAG", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "SSAF", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "SSAP", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "SSAS", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "SSBK", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "SSBU", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "SSCM", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "SSEG", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "SSEV", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "SSFI", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "SSFR", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "SSGA", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "SSHR", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "SSJU", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "SSRA", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "SSSB", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "SSVA", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this committee"},
+        {
+            "name": "HSAG03", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSAG14", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSAG15", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSAG16", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSAG22", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSAG29", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSAP01", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSAP02", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSAP04", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSAP06", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSAP07", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSAP10", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSAP15", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSAP18", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSAP19", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSAP20", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSAP23", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSAP24", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSAS02", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSAS03", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSAS25", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSAS26", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSAS28", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSAS29", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSBA01", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSBA04", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSBA09", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSBA13", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSBA15", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSBA16", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSBA20", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSED02", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSED07", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSED10", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSED13", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSED14", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSFA05", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSFA07", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSFA13", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSFA14", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSFA16", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSFA17", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSGO02", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSGO05", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSGO06", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSGO24", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSGO28", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSHA01", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSHA08", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSHM05", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSHM07", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSHM08", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSHM09", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSHM11", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSHM12", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSIF02", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSIF03", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSIF14", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSIF16", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSIF17", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSIF18", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSIG05", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSIG06", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSIG08", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSIG10", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSII06", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSII10", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSII13", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSII15", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSII24", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSJU01", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSJU03", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSJU05", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSJU08", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSJU10", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSPW02", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSPW05", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSPW07", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSPW12", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSPW13", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSPW14", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSSM23", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSSM24", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSSM25", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSSM26", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSSM27", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSSY15", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSSY16", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSSY18", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSSY20", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSSY21", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSVR03", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSVR08", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSVR09", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSVR10", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSVR11", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSWM01", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSWM02", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSWM03", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSWM04", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSWM05", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSWM06", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSAF13", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSAF14", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSAF15", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSAF16", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSAF17", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSAP01", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSAP02", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSAP08", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSAP14", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSAP16", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSAP17", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSAP18", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSAP19", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSAP20", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSAP22", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSAP23", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSAP24", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSAS13", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSAS14", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSAS15", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSAS16", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSAS17", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSAS20", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSAS21", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSBK04", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSBK05", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSBK08", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSBK09", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSBK12", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSCM26", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSCM28", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSCM29", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSCM30", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSCM31", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSCM32", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSEG01", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSEG03", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSEG04", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSEG07", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSEV08", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSEV09", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSEV10", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSEV15", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSFI02", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSFI10", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSFI11", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSFI12", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSFI13", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSFI14", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSFR01", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSFR02", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSFR06", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSFR07", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSFR09", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSFR14", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSFR15", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSGA01", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSGA18", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSGA19", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSHR09", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSHR11", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSHR12", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSJU01", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSJU04", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSJU21", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSJU22", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSJU25", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSJU26", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSGA20", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSGA22", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSFD", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSVC", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSZS", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSAS35", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSBA21", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSFA06", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSGO12", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSGO27", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSHA06", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSHA27", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSIG01", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSIG02", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSIG04", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSIG09", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSJU13", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSRU02", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSRU04", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSSM21", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "HSSM22", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSCM33", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSCM34", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSCM35", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSCM36", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSCM37", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSCM38", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSCM39", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSJU27", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"},
+        {
+            "name": "SSJU28", "data_type": "boolean", "description": "Indicator whether Congressional member is assigned to this subcommittee"}
+    ]
+}

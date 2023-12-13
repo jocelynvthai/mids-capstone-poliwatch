@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../.idea/MIDS-Capstone.iml" filepath="$PROJECT_DIR$/../.idea/MIDS-Capstone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../Nestment/Analytics/AC_Analytics/automated_pulls/ac_auto/.idea/ac_auto.iml" filepath="$PROJECT_DIR$/../../../../Nestment/Analytics/AC_Analytics/automated_pulls/ac_auto/.idea/ac_auto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/app.iml" filepath="$PROJECT_DIR$/.idea/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../data engineering/.idea/data engineering.iml" filepath="$PROJECT_DIR$/../data engineering/.idea/data engineering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../llm/.idea/llm.iml" filepath="$PROJECT_DIR$/../llm/.idea/llm.iml" />
+    </modules>
+  </component>
+</project>
